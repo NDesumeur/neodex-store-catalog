@@ -1,13 +1,13 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-08T00:25:31Z",
+  "updated": "2026-11-08T12:20:47Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
       "id": "neodex.minuteur",
       "name": "Minuteur",
       "repo": "NDesumeur/neodex-plugin-minuteur",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -16,7 +16,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un minuteur simple : il retient ta dernière durée et te prévient à la fin.",
+      "description": "Plusieurs minuteurs en même temps : saisis une durée jusqu'à 99 heures ou choisis-en une toute prête (1 min à 1 h), donne un nom si tu veux, et chaque minuteur a sa carte avec un anneau qui se vide, pause, reprise, remise à zéro et suppression. À la fin : trois bips, une notification et la carte qui clignote. Le décompte continue même onglet fermé.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-minuteur/main/screenshots/1.jpg"
       ],
@@ -27,7 +27,7 @@
       "id": "neodex.calculatrice",
       "name": "Calculatrice",
       "repo": "NDesumeur/neodex-plugin-calculatrice",
-      "version": "1.2.4",
+      "version": "1.2.5",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -36,7 +36,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Calculatrice scientifique : opérations, fonctions et historique de tes calculs.",
+      "description": "Calculatrice scientifique : tape une expression entière au clavier ou clique les touches, le résultat s'affiche en direct. Priorités et parenthèses, puissances, factorielle, pourcentage, trigonométrie en degrés ou radians, logarithmes, racines, π, e, Ans et produit implicite (2π). Les 50 derniers calculs restent dans un historique ; un clic sur un résultat le réutilise.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-calculatrice/main/screenshots/1.jpg"
       ],
@@ -47,7 +47,7 @@
       "id": "neodex.unites",
       "name": "Unités",
       "repo": "NDesumeur/neodex-plugin-unites",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -57,18 +57,18 @@
         "storage",
         "network:api.frankfurter.dev"
       ],
-      "description": "Convertisseur d'unités : longueurs, masses, températures, monnaies et bien d'autres.",
+      "description": "Un convertisseur d'unités en 19 catégories : longueur, masse, volume, surface, temps, vitesse, température, pression, énergie, puissance, données, débit internet, consommation, cuisine, pointure, monnaies et plus. La valeur s'affiche dans l'unité choisie et dans toutes les autres à la fois ; 31 devises aux taux du jour de la Banque centrale européenne.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-unites/main/screenshots/1.jpg"
       ],
       "syncMode": "aucune",
-      "syncInfo": "Rien n'est synchronisé."
+      "syncInfo": "Rien : les taux de change sont demandés à l'ouverture."
     },
     {
       "id": "neodex.traducteur",
       "name": "Traducteur",
       "repo": "NDesumeur/neodex-plugin-traducteur",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Écriture et langues",
       "system": false,
       "type": "app",
@@ -78,18 +78,18 @@
         "storage",
         "network:api.mymemory.translated.net"
       ],
-      "description": "Traduit un texte entre de nombreuses langues (service MyMemory, sans compte).",
+      "description": "Traduit pendant que tu écris, entre 16 langues (français, anglais, espagnol, allemand, japonais, chinois, arabe…), avec la détection automatique de la langue de départ, un bouton pour inverser le sens et la copie en un clic. Les longs textes sont découpés aux fins de phrases. Service MyMemory, gratuit et sans compte (environ 5 000 caractères par jour) ; rien n'est enregistré.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-traducteur/main/screenshots/1.jpg"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Historique et favoris."
+      "syncInfo": "Rien : le texte et sa traduction restent seulement à l'écran."
     },
     {
       "id": "neodex.horloge",
       "name": "Horloge mondiale",
       "repo": "NDesumeur/neodex-plugin-horloge",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -99,7 +99,7 @@
         "storage",
         "network:geocoding-api.open-meteo.com"
       ],
-      "description": "L'heure dans plusieurs villes, avec un décalage pour comparer les fuseaux.",
+      "description": "L'heure en direct dans les villes de ton choix : heure à la seconde, date, décalage avec toi et jour ou nuit, changements d'heure compris. Ajoute une ville en tapant son nom, retire-la d'un clic, et décale toutes les horloges jusqu'à 24 heures pour savoir quelle heure il sera là-bas.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-horloge/main/screenshots/1.jpg"
       ],
@@ -110,7 +110,7 @@
       "id": "neodex.hasard",
       "name": "Hasard",
       "repo": "NDesumeur/neodex-plugin-hasard",
-      "version": "1.3.3",
+      "version": "1.3.4",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -119,7 +119,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Une roue avec tes choix, des dés, pile ou face et un tirage de nombre.",
+      "description": "Laisse le hasard décider : une roue à tourner avec tes propres choix (un par ligne), de 1 à 6 dés de 4 à 100 faces avec leur total, pile ou face, et un nombre entier tiré entre deux bornes. Tes choix de roue sont gardés et synchronisés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-hasard/main/screenshots/1.jpg"
       ],
@@ -130,7 +130,7 @@
       "id": "neodex.frappe",
       "name": "Test de frappe",
       "repo": "NDesumeur/neodex-plugin-frappe",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "category": "Jeux · Mots",
       "system": false,
       "type": "app",
@@ -139,7 +139,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Teste ta vitesse de frappe : modes au temps ou aux mots, ponctuation, historique de tes parties.",
+      "description": "Mesure ta vitesse de frappe : tape les mots affichés, le chrono démarre à la première lettre et les fautes s'allument en rouge. Modes au temps (15 s à 2 min) ou aux mots (25 ou 50), option ponctuation et majuscules, résultat en mots par minute avec vitesse brute et précision, record par mode et graphique de tes 20 dernières parties.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-frappe/main/screenshots/1.jpg"
       ],
@@ -150,7 +150,7 @@
       "id": "neodex.budget",
       "name": "Budget",
       "repo": "NDesumeur/neodex-plugin-budget",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Finance",
       "system": false,
       "type": "app",
@@ -159,18 +159,18 @@
       "permissions": [
         "storage"
       ],
-      "description": "Tes comptes, tes dépenses et un plan d'épargne : crée tes comptes avec plafond et intérêts (par an ou par mois) et vois ce que ça donne.",
+      "description": "Suis tes comptes et tes livrets : soldes à recopier depuis ta banque d'un clic, dépenses, rentrées et virements, abonnements prélevés tout seuls à leur date. La prévision d'épargne calcule mois par mois sur 12 mois les intérêts (par an ou par mois) et tes versements, déborde sur l'autre livret quand un plafond est atteint et donne la date de ton objectif. Rien n'est relié à ta banque.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-budget/main/screenshots/1.jpg"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Comptes, dépenses, catégories."
+      "syncInfo": "Comptes, opérations, abonnements et plan d'épargne."
     },
     {
       "id": "neodex.nba",
       "name": "NBA",
       "repo": "NDesumeur/neodex-plugin-nba",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "category": "Sport",
       "system": false,
       "type": "app",
@@ -185,7 +185,7 @@
         "network:site.web.api.espn.com",
         "notifications"
       ],
-      "description": "Scores et classements NBA de chaque nuit, page de chaque équipe (prochains matchs et résultats), feuilles de match, fiches joueurs et notifications des matchs de tes équipes (données ESPN).",
+      "description": "Les matchs NBA de chaque nuit aux heures de Paris avec scores en direct, feuilles de match (quart-temps, stats des équipes et des joueurs, stats avancées eFG %, TS %, rythme), classement Est et Ouest avec playoffs et play-in, page de chaque équipe et fiches joueurs. Étoile sur tes équipes : leurs matchs en premier, dans ton emploi du temps et notifiés (début et score final). Données ESPN.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-nba/main/screenshots/1.jpg"
       ],
@@ -206,7 +206,7 @@
       "id": "neodex.transports",
       "name": "Transports",
       "repo": "NDesumeur/neodex-plugin-transports",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Voyage",
       "system": false,
       "type": "app",
@@ -217,18 +217,18 @@
         "network",
         "system:main"
       ],
-      "description": "Les prochains passages des bus Tadao (Lens-Liévin-Hénin-Carvin), horaires et position des bus en direct.",
+      "description": "Les prochains passages des bus Tadao (Lens, Liévin, Hénin-Beaumont, Carvin) sur les 3 prochaines heures : recherche d'arrêt qui tolère les fautes, bus suivis en direct avec le nombre d'arrêts restants et le retard estimé, détail des arrêts de chaque trajet, mise à jour toutes les 30 secondes et arrêts favoris synchronisés. Données ouvertes de transport.data.gouv.fr.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-transports/main/screenshots/1.png"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Arrêts et trajets favoris."
+      "syncInfo": "Arrêts favoris."
     },
     {
       "id": "neodex.discord",
       "name": "Discord",
       "repo": "NDesumeur/neodex-plugin-discord",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "category": "Communication",
       "system": false,
       "type": "app",
@@ -237,7 +237,7 @@
       "permissions": [
         "full"
       ],
-      "description": "Discord dans NeoDex : l'application web officielle, aux couleurs de ton thème, avec les messages non lus sur l'onglet.",
+      "description": "Discord dans un onglet de NeoDex : l'application web officielle, avec serveurs, messages privés, appels et partage d'écran. Tu te connectes une fois, les messages non lus s'affichent sur l'onglet, les notifications passent par les autorisations des sites, et les couleurs suivent ton thème (désactivable dans Paramètres → Apparence). NeoDex ne lit rien de ton compte.",
       "syncMode": "aucune",
       "syncInfo": "Rien n'est synchronisé : la connexion reste sur chaque PC."
     },
@@ -245,7 +245,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -256,7 +256,7 @@
         "music",
         "system:main"
       ],
-      "description": "Ton lecteur de musique : playlists en ligne et hors ligne, thèmes, spectre, égaliseur, statistiques, succès et raccourcis globaux.",
+      "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-music/main/screenshots/1.jpg"
       ],
@@ -267,7 +267,7 @@
       "id": "neodex.sautstellaire",
       "name": "Saut stellaire",
       "repo": "NDesumeur/neodex-plugin-saut-stellaire",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -276,18 +276,18 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un coureur sans fin : maintiens pour sauter plus haut, évite cristaux et météores, ramasse les étoiles.",
+      "description": "Course sans fin sur une planète lointaine : saute par-dessus les cristaux (maintiens pour sauter plus haut, double saut en l'air), reste au sol sous les météores, attrape les étoiles à la suite pour un multiplicateur jusqu'à ×4 et un bouclier pour encaisser un choc. La vitesse monte jusqu'à plus du double ; score à la distance et aux étoiles, record gardé.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-saut-stellaire/main/screenshots/1.jpg"
       ],
       "syncMode": "progression",
-      "syncInfo": "Record, niveau, déblocages."
+      "syncInfo": "Record."
     },
     {
       "id": "neodex.memoire",
       "name": "Mémoire",
       "repo": "NDesumeur/neodex-plugin-memoire",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -296,7 +296,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Retrouve les paires de logos NeoDex, de 6 à 18 paires, et bats ton record de coups.",
+      "description": "Le jeu de mémoire avec les logos de NeoDex : retourne les cartes deux par deux et retrouve toutes les paires en un minimum de coups. De 6 à 24 paires, logos tirés au hasard à chaque partie, chrono, et record de coups pour chaque taille.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-memoire/main/screenshots/1.jpg"
       ],
@@ -307,7 +307,7 @@
       "id": "neodex.cascade",
       "name": "Cascade",
       "repo": "NDesumeur/neodex-plugin-cascade",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -316,7 +316,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Des éclats tombent dans un puits de 10 × 20 : complète des lignes pour les briser.",
+      "description": "Des pièces de 3 à 5 blocs tombent dans un puits de 10 × 20 : complète des lignes pour les casser, mais aussi des groupes de 9 blocs de la même couleur. Ce qui reste suspendu retombe et peut déclencher des chaînes qui multiplient les points ; bombes, cristaux et réserve. Marathon qui accélère toutes les 8 lignes, Zen sans accélération, et 24 défis à trois étoiles.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-cascade/main/screenshots/1.jpg"
       ],
@@ -327,7 +327,7 @@
       "id": "neodex.demineur",
       "name": "Démineur",
       "repo": "NDesumeur/neodex-plugin-demineur",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -336,7 +336,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Ouvre toutes les cases sans mine : drapeaux, niveaux, grilles sans hasard.",
+      "description": "Le démineur classique : ouvre toutes les cases sans mine en lisant les chiffres, pose des drapeaux au clic droit et ouvre les voisines d'un chiffre en un clic. Débutant, Intermédiaire, Expert ou plateau sur mesure, premier clic toujours sûr, mode « sans hasard » qui se résout entièrement par la logique, indices, et meilleurs temps et séries par niveau.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-demineur/main/screenshots/1.jpg"
       ],
@@ -347,7 +347,7 @@
       "id": "neodex.fusionstellaire",
       "name": "Fusion stellaire",
       "repo": "NDesumeur/neodex-plugin-fusion-stellaire",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -356,7 +356,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Fais glisser les tuiles : deux astres identiques fusionnent en un plus grand.",
+      "description": "Fais glisser toutes les tuiles d'un côté : deux astres identiques fusionnent en l'astre suivant, de la poussière jusqu'au trou noir. Des débris immobiles coupent les lignes et cassent près d'une fusion ; annulation et trou de ver pour échanger deux tuiles se rechargent en jouant. Modes Galaxie 5 × 5 et Nébuleuse 4 × 4, 15 défis à étoiles, partie en cours reprise sur ton autre PC.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-fusion-stellaire/main/screenshots/1.jpg"
       ],
@@ -367,7 +367,7 @@
       "id": "neodex.snuke",
       "name": "Snuke",
       "repo": "NDesumeur/neodex-plugin-snuke",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -376,18 +376,18 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un serpent sur 24 × 24 : classique, sans bords, labyrinthe, mue et chrono.",
+      "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques synchronisés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-snuke/main/screenshots/1.jpg"
       ],
       "syncMode": "progression",
-      "syncInfo": "Record, déblocages."
+      "syncInfo": "Records par mode et statistiques."
     },
     {
       "id": "neodex.meteores",
       "name": "Météores",
       "repo": "NDesumeur/neodex-plugin-meteores",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -396,7 +396,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un shoot them up vertical : météores qui se divisent, vaisseaux ennemis, boss.",
+      "description": "Jeu de tir spatial vertical : ton vaisseau tire tout seul, déplace-le au clavier ou à la souris pour détruire des météores qui se divisent, des drones en vagues et un vaisseau amiral toutes les 5 vagues. Seul le cockpit est vulnérable ; bombes, bouclier, aimant, vies et arme jusqu'au niveau 5, multiplicateur jusqu'à ×8, record de score et de vague.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-meteores/main/screenshots/1.jpg"
       ],
@@ -407,7 +407,7 @@
       "id": "neodex.motdujour",
       "name": "Mot du jour",
       "repo": "NDesumeur/neodex-plugin-mot-du-jour",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Jeux · Mots",
       "system": false,
       "type": "app",
@@ -416,7 +416,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Trouve un mot français en 6 essais : la première lettre est donnée, la longueur change chaque jour.",
+      "description": "Trouve un mot français en 6 essais : la première lettre est donnée et la longueur change chaque jour (5 à 8 lettres), le même mot pour tout le monde. Vert : bien placée, jaune : ailleurs dans le mot, gris : absente ; les accents ne comptent pas et le mot doit exister. Partie libre de 5 à 8 lettres, grille de couleurs à partager, séries et statistiques par mode.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-mot-du-jour/main/screenshots/1.jpg"
       ],
@@ -427,7 +427,7 @@
       "id": "neodex.astropole",
       "name": "Astropole",
       "repo": "NDesumeur/neodex-plugin-astropole",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -436,7 +436,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Une ville spatiale idle : les bâtiments produisent des crédits, même NeoDex fermé.",
+      "description": "Jeu de gestion incrémental : achète des bâtiments qui produisent des crédits chaque seconde, même NeoDex fermé, et réinvestis pour débloquer des constructions toujours plus grandes. Tous les 25 exemplaires, un bâtiment produit deux fois plus ; après 1 billion de crédits, une nouvelle colonie repart de zéro avec des Mémoires qui ajoutent 10 % de production pour toujours.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-astropole/main/screenshots/1.jpg"
       ],
@@ -447,7 +447,7 @@
       "id": "neodex.cassebriques",
       "name": "Casse-briques",
       "repo": "NDesumeur/neodex-plugin-casse-briques",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -456,7 +456,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "12 niveaux dessinés puis générés : briques à plusieurs vies, métal, explosives, bonus et capsules.",
+      "description": "Renvoie la balle avec ta raquette pour casser toutes les briques : 40 niveaux conçus un par un, puis des niveaux générés à l'infini, de plus en plus rapides. Briques à 1, 2 ou 3 coups, métal indestructible, explosives qui cassent leurs voisines, et huit capsules : raquette large, multi-balle, lasers, balle lente, colle, boule de feu, vie en plus… et un piège. Chaque niveau atteint devient un point de départ.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-casse-briques/main/screenshots/1.jpg"
       ],
@@ -467,7 +467,7 @@
       "id": "neodex.defensespatiale",
       "name": "Défense spatiale",
       "repo": "NDesumeur/neodex-plugin-defense-spatiale",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -476,7 +476,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Construis et améliore 5 types de tourelles le long de la route : 30 vagues, un boss toutes les 10.",
+      "description": "Défense de tourelles : place et améliore 9 tourelles (laser, plasma, givre, tesla, missiles, rail, acide, nova, relais) le long de la route pour arrêter des vagues d'ennemis qui éclatent, se blindent, se régénèrent ou ignorent le ralentissement, avec un vaisseau-mère toutes les 10 vagues. 30 cartes, 4 difficultés, une médaille à la vague 50, et des cristaux en bonus quand tu appelles la vague en avance.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-defense-spatiale/main/screenshots/1.jpg"
       ],
@@ -487,7 +487,7 @@
       "id": "neodex.rythme",
       "name": "Rythme",
       "repo": "NDesumeur/neodex-plugin-rythme",
-      "version": "1.6.3",
+      "version": "1.6.4",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -498,7 +498,7 @@
         "documents",
         "music"
       ],
-      "description": "200 morceaux chiptune composés par le jeu, ou ta propre musique : frappe les notes sur 4 voies, en rythme.",
+      "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
       "dependencies": {
         "neodex.music": ">=1.3.0"
       },
@@ -512,7 +512,7 @@
       "id": "neodex.pendu",
       "name": "Pendu",
       "repo": "NDesumeur/neodex-plugin-pendu",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Mots",
       "system": false,
       "type": "app",
@@ -521,7 +521,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Des mots français par thème, accents ignorés, une potence dessinée pixel par pixel.",
+      "description": "Le jeu du pendu avec des mots français : 17 thèmes ou tous mélangés, lettres au clic ou au clavier, accents ignorés (E trouve aussi É, È, Ê). Quatre niveaux, de 10 erreurs avec la première et la dernière lettre données jusqu'à 4 erreurs sur des mots longs ; indice contre une erreur, mot dévoilé en cas d'échec, séries de victoires gardées.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-pendu/main/screenshots/1.jpg"
       ],
@@ -532,7 +532,7 @@
       "id": "neodex.motsmeles",
       "name": "Mots mêlés",
       "repo": "NDesumeur/neodex-plugin-mots-meles",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Mots",
       "system": false,
       "type": "app",
@@ -541,7 +541,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Des mots d'un thème cachés dans la grille, dans 2, 4 ou 8 directions : glisse de la première à la dernière lettre.",
+      "description": "Mots mêlés en français : retrouve les mots cachés en glissant de la première à la dernière lettre. 17 thèmes (animaux, pays, villes, métiers, sports, mangas…) ou tous mélangés, grilles de 10 × 10 à 20 × 20 avec 8 à 30 mots, et trois niveaux : 2 sens, avec diagonales, ou 8 sens à l'envers compris. Chronomètre et record par taille et niveau.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-mots-meles/main/screenshots/1.jpg"
       ],
@@ -552,7 +552,7 @@
       "id": "neodex.sudoku",
       "name": "Sudoku",
       "repo": "NDesumeur/neodex-plugin-sudoku",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -561,18 +561,18 @@
       "permissions": [
         "storage"
       ],
-      "description": "Grilles à solution unique en 4 niveaux, notes au crayon, annulation, indices ; la partie en cours est gardée.",
+      "description": "Des grilles générées à la volée et toujours à solution unique, en cinq niveaux, de Facile (40 chiffres donnés) à Diabolique (21). Notes au crayon qui se nettoient toutes seules, surlignage des cases liées, annulation, indices, erreurs à montrer ou non, jeu complet au clavier ; meilleur temps par niveau et partie en cours gardée.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-sudoku/main/screenshots/1.jpg"
       ],
       "syncMode": "progression",
-      "syncInfo": "Meilleurs temps, grilles finies."
+      "syncInfo": "Meilleurs temps, grilles finies et partie en cours."
     },
     {
       "id": "neodex.taquin",
       "name": "Taquin",
       "repo": "NDesumeur/neodex-plugin-taquin",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -581,18 +581,18 @@
       "permissions": [
         "storage"
       ],
-      "description": "Remets les tuiles dans l'ordre : chiffres, ciel NeoDex ou ta propre image.",
+      "description": "Le jeu de pièces à faire glisser, de 3 × 3 à 8 × 8 : remets dans l'ordre des chiffres, ton fond d'écran NeoDex ou ta propre image, à la souris (une ligne entière glisse d'un clic) ou aux flèches. Grilles toujours solubles, modèle visible en maintenant un bouton, numéros sur l'image en option ; record de coups et de temps pour chaque taille.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-taquin/main/screenshots/1.jpg"
       ],
       "syncMode": "progression",
-      "syncInfo": "Meilleurs temps."
+      "syncInfo": "Records de coups et de temps, et ton image."
     },
     {
       "id": "neodex.echecs",
       "name": "Échecs",
       "repo": "NDesumeur/neodex-plugin-echecs",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -601,7 +601,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Une partie d'échecs contre l'ordinateur, plusieurs niveaux ; la partie en cours est gardée.",
+      "description": "Les échecs contre l'ordinateur, avec toutes les règles : roque, prise en passant, promotion au choix, pat, règle des 50 coups, triple répétition et matériel insuffisant. Sept niveaux du débutant au grand maître, pièces à cliquer ou à glisser, coup annulable, partie notée en notation française, statistiques par niveau, et la partie en cours reprise même sur un autre PC.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-echecs/main/screenshots/1.jpg"
       ],
@@ -612,7 +612,7 @@
       "id": "neodex.dames",
       "name": "Dames",
       "repo": "NDesumeur/neodex-plugin-dames",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -621,7 +621,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Des dames internationales (10 × 10) contre l'ordinateur ; la partie en cours est gardée.",
+      "description": "Le jeu de dames international (10 × 10) contre l'ordinateur, avec ses vraies règles : prise obligatoire en avant comme en arrière, rafle la plus longue, dames qui filent sur toute la diagonale, nulles par répétition. Sept niveaux du débutant au grand maître, coup annulable, notation officielle des coups, statistiques par niveau, et la partie en cours reprise même sur un autre PC.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-dames/main/screenshots/1.jpg"
       ],
@@ -632,7 +632,7 @@
       "id": "neodex.peche",
       "name": "Pêche",
       "repo": "NDesumeur/neodex-plugin-peche",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -641,7 +641,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Lance ta ligne de lieu en lieu : des dizaines d'espèces dessinées, appâts, cannes, météo et collection.",
+      "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 153 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; jour, nuit et météo changeante, 5 cannes, 7 appâts, coffres au trésor, collection, trois défis par jour et niveau de pêcheur.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-peche/main/screenshots/1.jpg"
       ],
@@ -652,7 +652,7 @@
       "id": "neodex.aquarium",
       "name": "Aquarium",
       "repo": "NDesumeur/neodex-plugin-aquarium",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -661,7 +661,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Garde en vie les poissons attrapés à la Pêche : bassins, nourriture, décors et visiteurs qui rapportent des pièces.",
+      "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau (douce, mer, tropicale, polaire, abysses), nourris-le et nettoie l'eau, même pendant ton absence. Les poissons heureux attirent des visiteurs dont les pièces paient bassins, filtres, distributeurs et décors.",
       "dependencies": {
         "neodex.peche": ">=1.0.0"
       },
@@ -675,7 +675,7 @@
       "id": "neodex.monodle",
       "name": "MonogatariDle",
       "repo": "NDesumeur/neodex-plugin-monodle",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Devinettes",
       "system": false,
       "type": "app",
@@ -685,7 +685,7 @@
         "storage",
         "files"
       ],
-      "description": "Devine un personnage de Monogatari : colonnes comparées, indices, emoji et portrait.",
+      "description": "Jeu de devinettes de la série Monogatari : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature, rôle et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-monodle/main/screenshots/1.png"
       ],
@@ -696,7 +696,7 @@
       "id": "neodex.apothecarydle",
       "name": "ApothecaryDle",
       "repo": "NDesumeur/neodex-plugin-apothecarydle",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Devinettes",
       "system": false,
       "type": "app",
@@ -706,7 +706,7 @@
         "storage",
         "files"
       ],
-      "description": "Devine un personnage des Carnets de l'apothicaire : colonnes comparées, indices, emoji et portrait.",
+      "description": "Jeu de devinettes des Carnets de l'apothicaire : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, clan, lieu (quartier des plaisirs, palais intérieur, palais extérieur…) et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-apothecarydle/main/screenshots/1.png"
       ],
@@ -717,7 +717,7 @@
       "id": "neodex.blackdle",
       "name": "BlackDle",
       "repo": "NDesumeur/neodex-plugin-blackdle",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Devinettes",
       "system": false,
       "type": "app",
@@ -727,7 +727,7 @@
         "storage",
         "files"
       ],
-      "description": "Devine un personnage de Black Clover : colonnes comparées, indices, emoji et portrait.",
+      "description": "Jeu de devinettes de Black Clover : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, espèce, magie et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-blackdle/main/screenshots/1.png"
       ],
@@ -738,7 +738,7 @@
       "id": "neodex.bleachdle",
       "name": "BleachDle",
       "repo": "NDesumeur/neodex-plugin-bleachdle",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Devinettes",
       "system": false,
       "type": "app",
@@ -748,7 +748,7 @@
         "storage",
         "files"
       ],
-      "description": "Devine un personnage de Bleach : colonnes comparées, indices, emoji et portrait.",
+      "description": "Jeu de devinettes de Bleach : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, race, affiliation et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-bleachdle/main/screenshots/1.png"
       ],
@@ -759,7 +759,7 @@
       "id": "neodex.durararadle",
       "name": "DurararaDle",
       "repo": "NDesumeur/neodex-plugin-durararadle",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Devinettes",
       "system": false,
       "type": "app",
@@ -769,7 +769,7 @@
         "storage",
         "files"
       ],
-      "description": "Devine un personnage de Durarara!! : colonnes comparées, indices, emoji et portrait.",
+      "description": "Jeu de devinettes de Durarara!! : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature (humain, dullahan…), nationalité et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-durararadle/main/screenshots/1.png"
       ],
@@ -780,7 +780,7 @@
       "id": "neodex.docs",
       "name": "NeoDocs",
       "repo": "NDesumeur/neodex-plugin-docs",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Bureautique",
       "system": true,
       "type": "app",
@@ -790,7 +790,7 @@
         "storage",
         "documents"
       ],
-      "description": "Un traitement de texte : styles, polices, listes, tableaux, images, recherche, correcteur FR/EN. Ouvre .docx, .html, .md, .txt ; exporte PDF, Word, HTML, Markdown.",
+      "description": "Un traitement de texte complet : titres et styles, polices, couleurs, listes à puces, numérotées ou de tâches, tableaux, images, liens et sauts de page, rechercher et remplacer, plan du document et correcteur d'orthographe français et anglais. Ouvre les fichiers Word, HTML, Markdown et texte, exporte en PDF, Word, HTML, texte ou Markdown ; tes documents sont enregistrés tout seuls et synchronisés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-docs/main/screenshots/1.png"
       ],
@@ -801,7 +801,7 @@
       "id": "neodex.sheets",
       "name": "NeoSheets",
       "repo": "NDesumeur/neodex-plugin-sheets",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Bureautique",
       "system": true,
       "type": "app",
@@ -812,7 +812,7 @@
         "clipboard",
         "documents"
       ],
-      "description": "Un tableur : formules, fonctions, mise en forme, graphiques. Ouvre et enregistre les fichiers Excel.",
+      "description": "Un tableur : formules avec près de 40 fonctions en français ou en anglais (SOMME, SI, RECHERCHEV, NB.SI…), recopie vers le bas, mise en forme et formats de nombres, tri, insertion de lignes et colonnes, plusieurs feuilles et graphiques en barres, courbes ou camembert. Ouvre et exporte Excel, OpenDocument, CSV et PDF ; classeurs enregistrés tout seuls et synchronisés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-sheets/main/screenshots/1.png"
       ],
@@ -823,7 +823,7 @@
       "id": "neodex.slides",
       "name": "NeoSlides",
       "repo": "NDesumeur/neodex-plugin-slides",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Bureautique",
       "system": true,
       "type": "app",
@@ -833,7 +833,7 @@
         "storage",
         "documents"
       ],
-      "description": "Des présentations : diapositives, objets, thèmes, mode diaporama. Ouvre et enregistre les fichiers PowerPoint.",
+      "description": "Des présentations : diapositives à partir de modèles (titre, deux colonnes, citation, chiffres clés…), textes, images et formes à placer à la souris, alignement et ordre des éléments, dix thèmes, transitions et notes de l'orateur. Mode présentation plein écran au clavier, export en PDF ; présentations enregistrées toutes seules et synchronisées entre tes PC.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-slides/main/screenshots/1.png"
       ],
@@ -844,7 +844,7 @@
       "id": "neodex.pdf",
       "name": "NeoPDF",
       "repo": "NDesumeur/neodex-plugin-pdf",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Bureautique",
       "system": true,
       "type": "app",
@@ -855,18 +855,18 @@
         "background",
         "documents"
       ],
-      "description": "Lit tes PDF et les annote : stylo, surligneur, notes, gomme ; enregistre une copie annotée.",
+      "description": "Lecteur de PDF avec annotations : ouvre un fichier, glisse-le ou lis un PDF venu d'un site, zoom, pleine largeur et recherche dans tout le texte. Stylo, surligneur, notes posées sur la page et gomme en six couleurs, avec annulation. Les annotations sont gardées pour chaque PDF et synchronisées ; enregistre une copie simple ou annotée sans toucher à l'original.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-pdf/main/screenshots/1.png"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Tes annotations et signatures."
+      "syncInfo": "Tes annotations (tracés et notes) et tes PDF récents."
     },
     {
       "id": "neodex.outilstexte",
       "name": "Outils texte",
       "repo": "NDesumeur/neodex-plugin-outils-texte",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Écriture et langues",
       "system": true,
       "type": "app",
@@ -875,18 +875,18 @@
       "permissions": [
         "storage"
       ],
-      "description": "Compare deux textes, compte les mots et corrige l'orthographe (français et anglais).",
+      "description": "Trois outils de texte : comparer deux versions ligne par ligne (ajouts, retraits, modifications, majuscules et espaces ignorables), compter en direct mots, caractères, phrases, temps de lecture, mots les plus utilisés et limites Tweet, SMS, SEO ou bio Instagram, et corriger orthographe et typographie en français ou en anglais avec suggestions au clic droit et dictionnaire personnel.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-outils-texte/main/screenshots/1.png"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Tes modèles de texte."
+      "syncInfo": "Mots ajoutés au dictionnaire et mots ignorés."
     },
     {
       "id": "neodex.couleurs",
       "name": "Couleurs",
       "repo": "NDesumeur/neodex-plugin-couleurs",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Création",
       "system": true,
       "type": "app",
@@ -897,7 +897,7 @@
         "documents",
         "screen"
       ],
-      "description": "Une pipette partout sur l'écran, formats, harmonies, contraste et palettes.",
+      "description": "L'outil des couleurs : une pipette qui prend une couleur n'importe où sur l'écran, ses codes HEX, RGB, HSL, CMJN et CSS à copier, les harmonies (complémentaire, analogues, triade, carré, nuances), le contraste WCAG d'un texte sur un fond, et des palettes à créer, tirer d'une image, copier en CSS ou exporter, synchronisées entre tes PC.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-couleurs/main/screenshots/1.jpg"
       ],
@@ -908,7 +908,7 @@
       "id": "neodex.gifstickers",
       "name": "GIF & stickers",
       "repo": "NDesumeur/neodex-plugin-gif-stickers",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Création",
       "system": true,
       "type": "app",
@@ -920,7 +920,7 @@
         "documents",
         "network"
       ],
-      "description": "Une bibliothèque de GIF animés et d'images à copier en un clic, plus les stickers pixel de NeoDex.",
+      "description": "Ta bibliothèque de GIF animés et d'images : ajoute-les depuis ton PC, un lien ou une page Giphy, ou colle-les, puis copie-les en un clic pour les coller dans Discord, WhatsApp ou un mail, toujours animés. Favoris, récents, collections par mots-clés, recherche et stickers NeoDex fournis, synchronisés entre tes PC.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-gif-stickers/main/screenshots/1.png"
       ],
@@ -931,7 +931,7 @@
       "id": "neodex.journal",
       "name": "Journal",
       "repo": "NDesumeur/neodex-plugin-journal",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Écriture et langues",
       "system": false,
       "type": "app",
@@ -940,7 +940,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Une page par jour : ce que tu as vécu, ton humeur de 1 à 5, et tes anciennes pages.",
+      "description": "Un journal intime, une page par jour enregistrée pendant que tu écris, avec ton humeur de 1 à 5. Un calendrier montre les jours écrits de la couleur de ton humeur ; clique un jour pour relire ou compléter sa page. Jours écrits ce mois-ci, total et série de jours d'affilée ; tout reste dans NeoDex et ta synchro.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-journal/main/screenshots/1.png"
       ],
@@ -951,7 +951,7 @@
       "id": "neodex.paint",
       "name": "Paint",
       "repo": "NDesumeur/neodex-plugin-paint",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Création",
       "system": true,
       "type": "app",
@@ -961,18 +961,18 @@
         "storage",
         "documents"
       ],
-      "description": "Dessine : pinceaux, formes, remplissage, sélection, annulation, enregistrement en image.",
+      "description": "Logiciel de dessin : pinceau, gomme, ligne, rectangle, ellipse (pleins ou non), remplissage, pipette, texte et sélection, chacun avec sa lettre au clavier. Annulation sur 40 étapes, zoom, rotation, miroir, recadrage, redimensionnement, 9 filtres et mode net sans lissage. Ouvre une image par glisser-déposer et enregistre en PNG, JPEG ou WebP.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-paint/main/screenshots/1.jpg"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Tes dessins enregistrés."
+      "syncInfo": "Rien : tes dessins sont des fichiers image sur ton PC."
     },
     {
       "id": "neodex.convertir",
       "name": "Convertir",
       "repo": "NDesumeur/neodex-plugin-convertir",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Utilitaires",
       "system": true,
       "type": "app",
@@ -982,7 +982,7 @@
         "storage",
         "documents"
       ],
-      "description": "Dépose un fichier : il devient un nouveau fichier dans un autre format, à côté de l'original.",
+      "description": "Change le format de tes fichiers : glisse-les, choisis le format de sortie, et le fichier converti est créé à côté de l'original, jamais écrasé. Images (PNG, JPG, WebP, ICO, AVIF…), sons (MP3, WAV, FLAC…), vidéos (MP4, WebM, GIF animé, son seul), tableaux (Excel, ODS, CSV, JSON) et documents (Word, Markdown, HTML vers PDF). Taille, qualité et recadrage en carré réglables ; ffmpeg requis pour les médias.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-convertir/main/screenshots/1.jpg"
       ],
@@ -993,7 +993,7 @@
       "id": "neodex.demarrage",
       "name": "Démarrage",
       "repo": "NDesumeur/neodex-plugin-demarrage",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Système",
       "system": true,
       "type": "app",
@@ -1004,7 +1004,7 @@
         "system:startup",
         "system:info"
       ],
-      "description": "Les programmes lancés avec Windows, que tu actives ou désactives comme dans le gestionnaire des tâches.",
+      "description": "Les programmes qui se lancent avec Windows, avec leur icône, leur origine et leur commande, et un interrupteur pour chacun : comme l'onglet Démarrage du Gestionnaire des tâches, avec les mêmes réglages. Désactiver ne désinstalle rien, le changement compte au prochain démarrage ; les programmes de tous les utilisateurs restent réservés à l'administrateur.",
       "syncMode": "aucune",
       "syncInfo": "Rien n'est synchronisé : les programmes au démarrage sont ceux de ce PC."
     },
@@ -1012,7 +1012,7 @@
       "id": "neodex.meteo",
       "name": "Météo",
       "repo": "NDesumeur/neodex-plugin-meteo",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Voyage",
       "system": false,
       "type": "app",
@@ -1024,7 +1024,7 @@
         "network:api.open-meteo.com",
         "network:geocoding-api.open-meteo.com"
       ],
-      "description": "Prévisions sur 10 jours, heure par heure, et qualité de l'air pour ta ville (Open-Meteo).",
+      "description": "La météo de ta ville ou d'une autre : temps actuel avec ressenti, vent, humidité, pression, UV, lever et coucher du soleil et qualité de l'air ; les 36 prochaines heures en courbe avec le risque de pluie ; les prévisions sur 10 jours avec températures, pluie et vent. Données Open-Meteo, sans compte.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-meteo/main/screenshots/1.png"
       ],
@@ -1035,7 +1035,7 @@
       "id": "neodex.processus",
       "name": "Processus",
       "repo": "NDesumeur/neodex-plugin-processus",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Système",
       "system": true,
       "type": "app",
@@ -1046,7 +1046,7 @@
         "system:info",
         "system:processes"
       ],
-      "description": "Les programmes regroupés par nom, avec processeur et mémoire, actualisés toutes les 2 secondes.",
+      "description": "Un gestionnaire des tâches simple : les programmes regroupés par nom avec leur processeur et leur mémoire, actualisés toutes les 2 secondes, filtre et tri, fermeture forcée comme « Fin de tâche » (programmes de Windows protégés). Pour chaque plugin de NeoDex : processeur, mémoire, données téléchargées, place sur le disque, et un bouton pour le décharger.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-processus/main/screenshots/1.jpg"
       ],
@@ -1057,7 +1057,7 @@
       "id": "neodex.terminal",
       "name": "Terminal",
       "repo": "NDesumeur/neodex-plugin-terminal",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Système",
       "system": true,
       "type": "app",
@@ -1067,15 +1067,15 @@
         "storage",
         "system:terminal"
       ],
-      "description": "PowerShell dans NeoDex, ligne par ligne, avec historique.",
+      "description": "Une console PowerShell dans un onglet de NeoDex : une commande par ligne, l'invite qui suit le dossier courant, les erreurs en rouge, l'historique des 100 dernières commandes aux flèches, et un bouton Redémarrer qui arrête aussi une commande bloquée. Les programmes plein écran comme vim ne fonctionnent pas ici ; rien n'est enregistré.",
       "syncMode": "aucune",
-      "syncInfo": "Rien n'est synchronisé : historique des commandes propre au PC."
+      "syncInfo": "Rien : l'historique des commandes ne dure que le temps de la session."
     },
     {
       "id": "neodex.systeme",
       "name": "Système",
       "repo": "NDesumeur/neodex-plugin-systeme",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Système",
       "system": true,
       "type": "app",
@@ -1085,18 +1085,18 @@
         "storage",
         "system:info"
       ],
-      "description": "Le processeur, la mémoire, la température, les disques et le réseau de ton PC, en direct sur 5 minutes.",
+      "description": "Le tableau de bord de ton PC, mesuré chaque seconde : processeur, mémoire, réseau et température, avec des courbes sur 5 minutes à survoler pour lire chaque instant. Charge de chaque cœur, programmes les plus gourmands en mémoire, espace libre des disques, durée d'allumage et batterie. Rien n'est enregistré, et les mesures s'arrêtent quand tu quittes l'onglet.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-systeme/main/screenshots/1.jpg"
       ],
       "syncMode": "aucune",
-      "syncInfo": "Rien n'est synchronisé."
+      "syncInfo": "Rien : tout est mesuré en direct."
     },
     {
       "id": "neodex.neome",
       "name": "NeoMe",
       "repo": "NDesumeur/neodex-plugin-neome",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Compagnon",
       "system": true,
       "type": "app",
@@ -1105,7 +1105,7 @@
       "permissions": [
         "full"
       ],
-      "description": "Ton compagnon : il vit sur l'accueil et dans la barre des tâches, a faim, joue, dort, danse sur ta musique, et monte de niveau quand tu t'occupes de lui.",
+      "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-neome/main/screenshots/1.png"
       ],
@@ -1116,7 +1116,7 @@
       "id": "neodex.sortiesanime",
       "name": "Sorties anime",
       "repo": "NDesumeur/neodex-plugin-sorties-anime",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "category": "Anime",
       "system": false,
       "type": "app",
@@ -1130,18 +1130,18 @@
         "network:graphql.anilist.co",
         "network:s4.anilist.co"
       ],
-      "description": "Toutes les sorties d'animes, jour par jour, pas seulement les tiennes : suis ceux que tu veux et ajoute leurs sorties à ton emploi du temps, remises à jour automatiquement.",
+      "description": "Le calendrier des sorties d'animes d'après AniList : tous les épisodes du jour, triés par heure ou par popularité, et tes animes suivis avec le compte à rebours jusqu'au prochain épisode. Leurs sorties des 45 prochains jours s'ajoutent à ton emploi du temps, un rappel arrive 10 minutes avant chaque épisode, et ta liste s'importe depuis FRAnime ou une liste de titres.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-sorties-anime/main/screenshots/1.jpg"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Animes suivis, couleur dans l'agenda."
+      "syncInfo": "Animes suivis et masqués, réglages de l'agenda et des rappels."
     },
     {
       "id": "neodex.miseajour",
       "name": "Mise à jour",
       "repo": "NDesumeur/neodex-plugin-miseajour",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Système",
       "system": true,
       "type": "app",
@@ -1151,7 +1151,7 @@
         "storage",
         "system:update"
       ],
-      "description": "La version de NeoDex, la recherche de mises à jour (téléchargement et redémarrage en un clic) et les plugins à mettre à jour.",
+      "description": "Plugin système : ta version de NeoDex et d'Electron, le type d'installation, la recherche de mises à jour à la demande, le téléchargement avec barre de progression puis le redémarrage en un clic (signature vérifiée avant l'installation), les notes de version, et la liste des plugins qui ont une nouvelle version au NeoStore.",
       "syncMode": "aucune",
       "syncInfo": "Rien n'est synchronisé."
     },
@@ -1159,7 +1159,7 @@
       "id": "neodex.lol",
       "name": "Invocateur",
       "repo": "NDesumeur/neodex-plugin-lol",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "category": "Jeux · Infos",
       "system": false,
       "type": "app",
@@ -1170,15 +1170,15 @@
         "network",
         "system:main"
       ],
-      "description": "Lis ton compte League of Legends : directement depuis le client ouvert (sans clé Riot) ou avec une clé d'API. Dernières parties, statistiques, champions, classement et courbes.",
+      "description": "Le tableau de bord de ton compte League of Legends, lu depuis le client ouvert (sans clé) ou avec une clé d'API Riot : classement, maîtrises, historique détaillé par file, analyse de ton jeu (séries, mental, écart face à ton adversaire de voie, résultats par rôle, heure et durée, conseils), statistiques par champion et courbes d'évolution. Aucun mot de passe demandé.",
       "syncMode": "progression",
-      "syncInfo": "Collection, invocations, niveau."
+      "syncInfo": "Ton compte lié et tes parties gardées."
     },
     {
       "id": "neodex.atelier",
       "name": "Atelier",
       "repo": "NDesumeur/neodex-plugin-atelier",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -1188,7 +1188,7 @@
         "storage",
         "system:main"
       ],
-      "description": "L'IDE de NeoDex : projets, éditeur coloré, aperçu web instantané, console, bac à sable JavaScript, Python, modèles et outils pour créer, tester et valider tes plugins.",
+      "description": "L'environnement de développement de NeoDex : projets et fichiers, éditeur avec coloration, recherche dans tout le projet et raccourcis, aperçu web mis à jour en tapant, console, scripts JavaScript dans un bac à sable et Python avec celui de ton PC. Modèles de plugins prêts à tester dans un cadre isolé, validation de plugin.json et export en .zip pour publier.",
       "syncMode": "fusion",
       "syncInfo": "Tes créations."
     },
@@ -1241,7 +1241,7 @@
       "id": "neodex.neotha",
       "name": "NeoTha",
       "repo": "NDesumeur/neodex-plugin-neotha",
-      "version": "1.4.4",
+      "version": "1.4.5",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1252,7 +1252,7 @@
         "documents",
         "music"
       ],
-      "description": "Un jeu de rythme Ã  la souris : les notes arrivent dans un tunnel sur une grille 3Ã—3, survole-les en rythme. Les 200 morceaux de Rythme, ou n'importe quelle musique de NeoMusic.",
+      "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables.",
       "dependencies": {
         "neodex.music": ">=1.3.0"
       },
@@ -1263,7 +1263,7 @@
       "id": "neodex.bestiarystudio",
       "name": "NeoBestiary Studio",
       "repo": "NDesumeur/neodex-plugin-bestiarystudio",
-      "version": "1.8.4",
+      "version": "1.8.5",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -1274,7 +1274,7 @@
         "system:main",
         "notifications"
       ],
-      "description": "Décris une créature en français, elle sort en sprite pixel art 64×64 dans les 4 directions avec une marche en 5 images, prête pour ton jeu. Crée aussi des objets, des attaques animées et des musiques. Tout par IA en local (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
+      "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques et des musiques. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-bestiarystudio/main/screenshots/1.jpg",
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-bestiarystudio/main/screenshots/2-directions.png",
@@ -1295,7 +1295,7 @@
       "id": "neodex.arene",
       "name": "NeoBestiary Arène",
       "repo": "NDesumeur/neodex-plugin-arene",
-      "version": "1.5.5",
+      "version": "1.5.6",
       "category": "Jeux · Aventure",
       "system": false,
       "type": "app",
@@ -1305,7 +1305,7 @@
         "storage",
         "system:main"
       ],
-      "description": "Les créatures de NeoBestiary Studio s'affrontent au tour par tour dans une arène en pixel art : 2 à 4 attaques animées, 204 techniques venues du Studio, 9 statuts (brûlure, poison, gel, paralysie, sommeil, confusion, saignement, éblouissement, peur), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, faiblesses, variantes, duel à deux et palmarès ; NeoMe, n° 0, avec ses attaques signature.",
+      "description": "Combats au tour par tour entre les créatures de NeoBestiary Studio, contre l'ordinateur ou à deux sur le même PC. Chaque créature a 2 à 4 attaques tirées de 204 techniques : statuts (brûlure, poison, gel, sommeil, paralysie…), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, avec une table des types de ×4 à ×¼. Garde, variantes de couleur, palmarès, et NeoMe avec ses attaques signature.",
       "dependencies": {
         "neodex.bestiarystudio": ">=1.0.7"
       },
@@ -1316,7 +1316,7 @@
       "id": "neodex.enigmes",
       "name": "Valcendre",
       "repo": "NDesumeur/neodex-plugin-enigmes",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "category": "Jeux · Aventure",
       "system": false,
       "type": "app",
@@ -1325,7 +1325,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "L'horloge aux énigmes : 180 énigmes dessinées en pixel art, dans huit quartiers, pour remettre en marche la grande horloge de Valcendre. Allumettes, rivières, vases, tuyaux, labyrinthes, picross, carrés latins, menteurs et devinettes, avec des indices et un brouillon.",
+      "description": "La grande horloge de Valcendre s'est arrêtée : retrouve ses 180 rouages en résolvant les énigmes illustrées des habitants de huit quartiers. Allumettes, rivières, vases, tuyaux, labyrinthes, picross, carrés latins, cadenas, menteurs et devinettes ; des bougies pour allumer les indices, un brouillon pour griffonner, une explication après chaque énigme et une histoire jusqu'au redémarrage de l'horloge.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-enigmes/main/screenshots/1.jpg",
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-enigmes/main/screenshots/2.jpg"
@@ -1337,7 +1337,7 @@
       "id": "neodex.pressepapiers",
       "name": "Presse-papiers",
       "repo": "NDesumeur/neodex-plugin-presse-papiers",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -1347,7 +1347,7 @@
         "system:main",
         "shortcuts"
       ],
-      "description": "L'historique de ce que tu copies : recherche, éléments épinglés, un clic pour recopier. Ctrl+Alt+H l'ouvre de n'importe où.",
+      "description": "L'historique de tout ce que tu copies dans Windows, même NeoDex en arrière-plan : recherche, éléments épinglés qui ne partent jamais, un clic pour recopier, doublons remontés en tête, pause et effacement. Ctrl+Alt+H l'ouvre de n'importe où. Les 200 derniers textes sont gardés sur ton PC, et les mots de passe copiés depuis un gestionnaire ne sont jamais enregistrés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-presse-papiers/main/screenshots/1.jpg"
       ],
@@ -1358,7 +1358,7 @@
       "id": "neodex.flux",
       "name": "Flux",
       "repo": "NDesumeur/neodex-plugin-flux",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "category": "Internet",
       "system": false,
       "type": "app",
@@ -1370,7 +1370,7 @@
         "network",
         "notifications"
       ],
-      "description": "Tes flux RSS et tes chaînes YouTube dans l'ordre de parution, sans algorithme ; les nouveautés s'affichent sur l'accueil.",
+      "description": "Un lecteur de flux sans algorithme : colle un flux RSS ou Atom, l'adresse d'un site ou une chaîne YouTube, et les articles arrivent dans l'ordre de parution, rangés par date avec extrait et image. Lecture dans un panneau, liste « plus tard », filtre par source, recherche, et mise à jour toutes les 30 minutes même onglet fermé, avec widget d'accueil et notification des nouveautés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-flux/main/screenshots/1.jpg"
       ],
@@ -1388,7 +1388,7 @@
       "id": "neodex.reseau",
       "name": "Réseau",
       "repo": "NDesumeur/neodex-plugin-reseau",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Système",
       "system": false,
       "type": "app",
@@ -1397,7 +1397,7 @@
       "permissions": [
         "system:main"
       ],
-      "description": "Teste ta connexion (box, Internet, DNS, ping LoL EUW) et retrouve les mots de passe des réseaux Wi-Fi enregistrés sur ton PC.",
+      "description": "Teste ta connexion en une quinzaine de secondes : ping, gigue et pertes vers ta box, vers Internet et vers les serveurs de League of Legends EUW, vitesse du DNS, et une phrase qui dit d'où vient le problème (box, opérateur, DNS, Wi-Fi lent). Liste aussi les réseaux Wi-Fi enregistrés sur ton PC, avec leur mot de passe à afficher ou copier.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-reseau/main/screenshots/1.jpg"
       ],
@@ -1408,7 +1408,7 @@
       "id": "neodex.puissance4",
       "name": "Puissance 4",
       "repo": "NDesumeur/neodex-plugin-puissance4",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -1417,7 +1417,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Aligne 4 jetons avant l'autre : contre l'ordinateur (3 niveaux) ou à deux sur le même écran, en pixel art.",
+      "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, ou à deux sur le même écran. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau.",
       "syncMode": "progression",
       "syncInfo": "Statistiques."
     },
@@ -1425,40 +1425,6 @@
       "id": "neodex.plumo",
       "name": "Plumo",
       "repo": "NDesumeur/neodex-plugin-plumo",
-      "version": "1.0.1",
-      "category": "Jeux · Arcade",
-      "system": false,
-      "type": "app",
-      "mobile": false,
-      "approved": true,
-      "permissions": [
-        "storage"
-      ],
-      "description": "Un petit oiseau à faire voler entre les colonnes : un battement à chaque clic. Le ciel change avec ton score, des médailles à gagner.",
-      "syncMode": "progression",
-      "syncInfo": "Record."
-    },
-    {
-      "id": "neodex.neonrush",
-      "name": "Néon Rush",
-      "repo": "NDesumeur/neodex-plugin-neonrush",
-      "version": "1.0.3",
-      "category": "Jeux · Arcade",
-      "system": false,
-      "type": "app",
-      "mobile": false,
-      "approved": true,
-      "permissions": [
-        "storage"
-      ],
-      "description": "Course sans fin sur trois voies dans une ville néon : saute les barrières, glisse sous les panneaux, change de voie avant le métro, ramasse les pièces.",
-      "syncMode": "progression",
-      "syncInfo": "Record, déblocages."
-    },
-    {
-      "id": "neodex.compote",
-      "name": "Compote",
-      "repo": "NDesumeur/neodex-plugin-compote",
       "version": "1.0.2",
       "category": "Jeux · Arcade",
       "system": false,
@@ -1468,15 +1434,15 @@
       "permissions": [
         "storage"
       ],
-      "description": "Lâche des fruits dans la caisse : deux fruits pareils qui se touchent fusionnent en un plus gros. De la cerise à la citrouille, sans dépasser la ligne.",
+      "description": "Jeu d'adresse à une touche : un petit oiseau retombe sans cesse, chaque clic ou appui sur Espace le fait remonter d'un battement d'ailes pour passer entre les colonnes. Les ouvertures se resserrent et la vitesse monte, le ciel passe du jour au soir, à la nuit puis à l'aube tous les 25 points. Médailles de bronze à 10 points jusqu'au platine à 100.",
       "syncMode": "progression",
-      "syncInfo": "Record, niveau."
+      "syncInfo": "Record, médailles et statistiques."
     },
     {
-      "id": "neodex.orbite",
-      "name": "Orbite",
-      "repo": "NDesumeur/neodex-plugin-orbite",
-      "version": "1.0.1",
+      "id": "neodex.neonrush",
+      "name": "Néon Rush",
+      "repo": "NDesumeur/neodex-plugin-neonrush",
+      "version": "1.0.4",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1485,14 +1451,14 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un petit vaisseau tourne autour d'un soleil sur trois orbites. Saute d'une orbite à l'autre pour éviter les astéroïdes, ramasse les cristaux, fuis les éruptions.",
+      "description": "Course sans fin sur trois voies dans une ville de nuit au néon : saute les barrières, glisse sous les panneaux, change de voie avant le métro (certains foncent vers toi). Des panneaux de couleur annoncent chaque obstacle, la vitesse double peu à peu. Score : distance plus 5 points par pièce ; clavier, souris ou glissé au doigt ; record et statistiques gardés.",
       "syncMode": "progression",
-      "syncInfo": "Record."
+      "syncInfo": "Record, déblocages."
     },
     {
-      "id": "neodex.lanterne",
-      "name": "Lanterne",
-      "repo": "NDesumeur/neodex-plugin-lanterne",
+      "id": "neodex.compote",
+      "name": "Compote",
+      "repo": "NDesumeur/neodex-plugin-compote",
       "version": "1.0.3",
       "category": "Jeux · Arcade",
       "system": false,
@@ -1502,7 +1468,41 @@
       "permissions": [
         "storage"
       ],
-      "description": "Une petite voyageuse traverse une grotte sans fin avec sa lanterne. La lumière baisse : ramasse les fioles d'huile, évite la roche et les chauves-souris.",
+      "description": "Jeu de fusion de fruits : vise à la souris et lâche des fruits dans la caisse ; deux fruits pareils qui se touchent fusionnent en un plus gros, parfois en cascade. Onze fruits de la cerise à la citrouille, des fruits qui roulent et se poussent, et deux citrouilles qui disparaissent avec un gros bonus. La partie s'arrête quand un fruit reste au-dessus de la ligne rouge.",
+      "syncMode": "progression",
+      "syncInfo": "Record, niveau."
+    },
+    {
+      "id": "neodex.orbite",
+      "name": "Orbite",
+      "repo": "NDesumeur/neodex-plugin-orbite",
+      "version": "1.0.2",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu d'adresse à une touche : ton vaisseau tourne seul autour d'un soleil sur trois orbites, tu choisis seulement laquelle. Évite les astéroïdes qui traversent l'écran, quitte l'orbite intérieure quand le soleil clignote avant l'éruption, ramasse les cristaux à la suite pour un multiplicateur jusqu'à ×5. La vitesse monte, record et statistiques gardés.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.lanterne",
+      "name": "Lanterne",
+      "repo": "NDesumeur/neodex-plugin-lanterne",
+      "version": "1.0.4",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Vol sans fin dans une grotte obscure : maintiens Espace ou le clic pour monter, relâche pour descendre. La flamme de la lanterne baisse sans arrêt ; ramasse les fioles d'huile, les cristaux et un feu de camp tous les 1000 m, évite la roche, les stalactites et les chauves-souris, que l'éclat de lumière fait fuir. Une nouvelle zone tous les 500 m.",
       "syncMode": "progression",
       "syncInfo": "Record, niveau."
     },
@@ -1510,7 +1510,7 @@
       "id": "neodex.funambule",
       "name": "Funambule",
       "repo": "NDesumeur/neodex-plugin-funambule",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1519,7 +1519,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un funambule avance sur un fil tendu très haut au-dessus de la ville. Garde-le en équilibre contre le vent, le plus loin possible.",
+      "description": "Jeu d'équilibre : un funambule avance tout seul sur un fil au-dessus de la ville, et tu le rattrapes en penchant sa perche avec ← et → ou à la souris. Plus il penche, plus il tombe vite ; le vent forcit avec la distance et des rafales, annoncées par des traits blancs, le bousculent. Va le plus loin possible : distance, poteaux franchis et record.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
@@ -1527,7 +1527,7 @@
       "id": "neodex.triexpress",
       "name": "Tri express",
       "repo": "NDesumeur/neodex-plugin-triexpress",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1536,15 +1536,15 @@
       "permissions": [
         "storage"
       ],
-      "description": "Centre de tri : les colis descendent le tapis, envoie chacun dans le bac de sa couleur. Les bacs changent de place, les bombes ne se trient pas.",
+      "description": "Un jeu de réflexes au centre de tri : envoie chaque colis du tapis dans le bac de sa couleur avec ← ↓ →, avant qu'il passe la ligne. Les bacs se mélangent tous les 15 colis, les bombes doivent passer sans être triées, le combo multiplie les points jusqu'à ×5 et le tapis accélère. Trois erreurs et la journée est finie ; record et statistiques synchronisés.",
       "syncMode": "progression",
-      "syncInfo": "Record."
+      "syncInfo": "Record et statistiques."
     },
     {
       "id": "neodex.grattciel",
       "name": "Gratte-ciel",
       "repo": "NDesumeur/neodex-plugin-grattciel",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1553,7 +1553,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Empile les étages d'un gratte-ciel : chaque étage glisse, lâche-le au bon moment. Ce qui dépasse tombe. Monte jusqu'aux étoiles.",
+      "description": "Jeu de rythme : chaque étage glisse au-dessus de la tour, lâche-le d'un clic ou à Espace pour qu'il tombe pile sur le précédent. Ce qui dépasse est coupé et la tour rétrécit ; un étage pile dessus garde sa largeur, et trois parfaits à la suite l'élargissent. Les étages vont de plus en plus vite et le ciel change jusqu'à l'espace : monte le plus haut possible.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
@@ -1561,7 +1561,7 @@
       "id": "neodex.football",
       "name": "Football",
       "repo": "NDesumeur/neodex-plugin-football",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Sport",
       "system": false,
       "type": "app",
@@ -1574,7 +1574,7 @@
         "network:site.api.espn.com",
         "network:a.espncdn.com"
       ],
-      "description": "Ton équipe de foot comme l'appli NBA : prochain match, forme, résultats et calendrier, les matchs du jour, les classements et les feuilles de match (données ESPN).",
+      "description": "Suis ton équipe de foot : prochain match, forme, derniers résultats et calendrier, coupes d'Europe comprises. Les matchs du jour en direct avec mise à jour automatique, les classements avec leurs zones, et des feuilles de match avec buts, cartons, remplacements et statistiques. Dix championnats dont la Ligue 1 et la Ligue des champions ; les matchs de ton équipe peuvent aller dans ton emploi du temps. Données ESPN.",
       "syncMode": "fusion",
       "syncInfo": "Équipes et compétitions suivies."
     },
@@ -1582,7 +1582,7 @@
       "id": "neodex.f1",
       "name": "Formule 1",
       "repo": "NDesumeur/neodex-plugin-f1",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Sport",
       "system": false,
       "type": "app",
@@ -1594,7 +1594,7 @@
         "background",
         "network:api.jolpi.ca"
       ],
-      "description": "La saison de F1 : calendrier avec les horaires de chaque séance, compte à rebours, résultats des courses, qualifications et sprints, classements pilotes et écuries.",
+      "description": "La saison de Formule 1 : calendrier avec l'horaire de chaque séance à l'heure de Paris et compte à rebours jusqu'au prochain Grand Prix, résultats complets des courses, qualifications et sprints de chaque manche, classements pilotes et écuries. Une étoile met ton pilote en avant, et les qualifications et courses peuvent aller dans ton emploi du temps. Données Jolpica.",
       "syncMode": "fusion",
       "syncInfo": "Tes préférences."
     },
@@ -1602,7 +1602,7 @@
       "id": "neodex.prixjeux",
       "name": "Prix des jeux",
       "repo": "NDesumeur/neodex-plugin-prixjeux",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Infos",
       "system": false,
       "type": "app",
@@ -1618,7 +1618,7 @@
         "network:*.epicgames.com",
         "network:cdn2.unrealengine.com"
       ],
-      "description": "Les jeux gratuits de la semaine sur l'Epic Games Store, les promos Steam du moment en euros, et ta liste de jeux à surveiller avec une alerte quand le prix descend sous ton seuil.",
+      "description": "Les jeux offerts sur l'Epic Games Store cette semaine et la suivante, les promos Steam du moment en euros classées par réduction, et ta liste de jeux Steam à surveiller avec un prix cible. La liste est vérifiée toutes les 3 heures, même onglet fermé : une notification arrive quand un jeu passe sous ton prix ou qu'un nouveau jeu gratuit sort.",
       "syncMode": "fusion",
       "syncInfo": "Ta liste de souhaits et tes alertes de prix."
     },
@@ -1626,7 +1626,7 @@
       "id": "neodex.studio",
       "name": "Studio de plugins",
       "repo": "NDesumeur/neodex-plugin-studio",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -1637,15 +1637,15 @@
         "background",
         "notifications"
       ],
-      "description": "Crée tes petites applis sans code : fiches de révision, routine du jour, minuteur d'étapes, suivi chiffré, tirage au sort, comptes à rebours, quiz… Widget sur l'accueil, rappels, partage par code.",
+      "description": "Crée tes petites applis sans code à partir de onze modèles : fiches de révision à répétition espacée, routine du jour, minuteur d'étapes, suivi chiffré avec courbe et objectif, tirage au sort, comptes à rebours, quiz, compteurs, habitudes, liste à cocher et page de liens. L'aperçu suit chaque frappe ; épingle une création en widget sur l'accueil, ajoute un rappel quotidien ou partage-la par un code.",
       "syncMode": "fusion",
-      "syncInfo": "Tes projets de plugins."
+      "syncInfo": "Tes créations, avec leurs scores, séries et valeurs."
     },
     {
       "id": "neodex.pulsar",
       "name": "Pulsar",
       "repo": "NDesumeur/neodex-plugin-pulsar",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1656,7 +1656,7 @@
         "documents",
         "music"
       ],
-      "description": "Un jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier pour les attraper et frappe les anneaux roses. Les 200 morceaux de Rythme, ou ta propre musique.",
+      "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages."
     },
@@ -1664,7 +1664,7 @@
       "id": "neodex.mosaique",
       "name": "Mosaïque",
       "repo": "NDesumeur/neodex-plugin-mosaique",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1673,7 +1673,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Des grilles à noircir d'après les nombres des lignes et des colonnes. Chaque grille finie révèle une image en pixel art.",
+      "description": "Grilles logiques de 10 × 10 : les nombres de chaque ligne et colonne donnent les blocs de cases noires, à toi de déduire lesquelles noircir. Clic pour noircir, clic droit pour une croix, glisser pour plusieurs cases ; les lignes justes se grisent. 12 grilles qui révèlent une image en couleur, des grilles au hasard sans fin, chronomètre et temps gardés.",
       "syncMode": "progression",
       "syncInfo": "Grilles résolues et temps."
     },
@@ -1681,7 +1681,7 @@
       "id": "neodex.code",
       "name": "Code secret",
       "repo": "NDesumeur/neodex-plugin-code",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1690,7 +1690,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Trouve le code de 4 couleurs en 10 essais. Les fiches noires disent les bonnes couleurs bien placées, les blanches les bonnes couleurs mal placées.",
+      "description": "Jeu de déduction : trouve le code de 4 couleurs (parmi 6) en 10 essais. Après chaque proposition, une fiche noire par couleur juste et bien placée, une blanche par couleur juste mais ailleurs. Couleurs en double possibles ou non, saisie à la souris ou aux touches 1 à 6, et statistiques : victoires, moyenne d'essais, meilleure partie.",
       "syncMode": "progression",
       "syncInfo": "Parties gagnées, essais."
     },
@@ -1698,7 +1698,7 @@
       "id": "neodex.echo",
       "name": "Écho",
       "repo": "NDesumeur/neodex-plugin-echo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1707,7 +1707,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Quatre cristaux s'allument dans un ordre de plus en plus long. Rejoue la suite sans te tromper.",
+      "description": "Jeu de mémoire : quatre cristaux s'allument dans un ordre précis, chacun avec sa note, et tu rejoues la suite à la souris, aux touches 1 à 4 ou aux flèches. Chaque tour ajoute un cristal et accélère un peu ; une erreur termine la partie et montre le bon cristal. Trois vitesses de départ et un record de plus longue suite.",
       "syncMode": "progression",
       "syncInfo": "Plus longue suite."
     },
@@ -1715,7 +1715,7 @@
       "id": "neodex.lucioles",
       "name": "Lucioles",
       "repo": "NDesumeur/neodex-plugin-lucioles",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1724,7 +1724,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un pré la nuit : toucher une luciole l'allume ou l'éteint, elle et ses quatre voisines. Allume-les toutes.",
+      "description": "Casse-tête de lumières : dans un pré de 5 × 5 lucioles, toucher une luciole l'allume ou l'éteint, elle et ses quatre voisines. Allume-les toutes en le moins de coups possible. Des prés toujours faisables, de 3 à 12 coups, qui s'ouvrent l'un après l'autre, et trois étoiles si tu fais aussi bien que le jeu.",
       "syncMode": "progression",
       "syncInfo": "Pré atteint, étoiles."
     },
@@ -1732,7 +1732,7 @@
       "id": "neodex.reussite",
       "name": "Réussite",
       "repo": "NDesumeur/neodex-plugin-reussite",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -1741,7 +1741,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Le solitaire classique : monter les quatre familles de l'As au Roi, avec des colonnes en ordre décroissant et des couleurs alternées.",
+      "description": "Le solitaire classique (Klondike) : range les 52 cartes dans les quatre familles de l'As au Roi en les déplaçant entre sept colonnes, par ordre décroissant et couleurs alternées. Glisse les cartes ou clique pour les envoyer à la meilleure place, pioche une ou trois cartes, annule sans limite ; fin automatique, temps, coups et meilleur temps gardés.",
       "syncMode": "progression",
       "syncInfo": "Réussites, meilleur temps."
     },
@@ -1749,7 +1749,7 @@
       "id": "neodex.entrepot",
       "name": "Entrepôt",
       "repo": "NDesumeur/neodex-plugin-entrepot",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1758,7 +1758,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Pousse les caisses sur les marques jaunes. On ne peut que pousser, jamais tirer : 12 entrepôts faits main.",
+      "description": "Casse-tête de caisses : pousse toutes les caisses sur les marques jaunes, une à la fois, sans jamais pouvoir les tirer. Déplacements aux flèches, à ZQSD ou à la souris, annulation pas à pas illimitée, 12 entrepôts conçus à la main qui s'ouvrent l'un après l'autre, et des entrepôts au hasard toujours solubles. Pas, poussées et record de pas par niveau.",
       "syncMode": "progression",
       "syncInfo": "Niveaux finis, records de pas."
     },
@@ -1766,7 +1766,7 @@
       "id": "neodex.tuyaux",
       "name": "Tuyaux",
       "repo": "NDesumeur/neodex-plugin-tuyaux",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1775,15 +1775,15 @@
       "permissions": [
         "storage"
       ],
-      "description": "Tourne les tuyaux pour amener l'eau du château d'eau jusqu'à toutes les maisons du quartier.",
+      "description": "Un jeu de réflexion : fais pivoter les tuyaux d'un clic pour amener l'eau du château d'eau, au centre, jusqu'à toutes les maisons. Réseaux sans boucle et toujours solubles, grilles de 5 × 5 à 8 × 8, jusqu'à 3 étoiles selon le nombre de coups comparé au minimum, et une option de réseaux au hasard ; progression synchronisée.",
       "syncMode": "progression",
-      "syncInfo": "Niveau atteint, étoiles."
+      "syncInfo": "Niveau atteint, étoiles et niveaux finis."
     },
     {
       "id": "neodex.reversi",
       "name": "Reversi",
       "repo": "NDesumeur/neodex-plugin-reversi",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -1792,7 +1792,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Encadre les pions de l'ordinateur pour les retourner à ta couleur. Celui qui a le plus de pions à la fin gagne.",
+      "description": "Le jeu de pions à retourner sur un plateau de 8 × 8 : pose un pion pour encadrer ceux de l'ordinateur en ligne, en colonne ou en diagonale, et ils passent à ta couleur. Les cases jouables sont marquées, on passe son tour sans coup possible, le plus de pions à la fin gagne. Trois niveaux, jusqu'à un adversaire qui prévoit 4 coups ; bilan par niveau.",
       "syncMode": "progression",
       "syncInfo": "Victoires par niveau."
     },
@@ -1800,7 +1800,7 @@
       "id": "neodex.bulles",
       "name": "Bulles",
       "repo": "NDesumeur/neodex-plugin-bulles",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1809,7 +1809,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Vise et tire des bulles : trois de la même couleur éclatent, et celles qui ne tiennent plus à rien tombent.",
+      "description": "Jeu de tir de bulles : vise à la souris (le pointillé montre les rebonds), tire, et regroupe au moins trois bulles de la même couleur pour les faire éclater ; tout ce qui ne tient plus au plafond tombe et rapporte gros. Le plafond descend tous les 7 tirs, X échange la bulle avec la suivante, et chaque plateau vidé en amène un nouveau avec une couleur de plus.",
       "syncMode": "progression",
       "syncInfo": "Meilleur score, bulles éclatées."
     },
@@ -1817,7 +1817,7 @@
       "id": "neodex.alunissage",
       "name": "Alunissage",
       "repo": "NDesumeur/neodex-plugin-alunissage",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1826,7 +1826,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Pose le module lunaire en douceur sur une plateforme, avec peu de carburant. Plus la plateforme est petite, plus elle rapporte.",
+      "description": "Jeu d'adresse : pilote un module lunaire avec le moteur principal (flèche du haut) et les propulseurs latéraux, et pose-le en douceur sur l'une des trois plateformes avant d'être à court de carburant. Le tableau de bord passe au vert quand ta vitesse est sûre ; la petite plateforme multiplie les points par 5 et le carburant restant s'ajoute au score. La gravité augmente à chaque mission.",
       "syncMode": "progression",
       "syncInfo": "Mission atteinte, meilleur score."
     },
@@ -1834,7 +1834,7 @@
       "id": "neodex.yams",
       "name": "Yams",
       "repo": "NDesumeur/neodex-plugin-yams",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -1843,15 +1843,15 @@
       "permissions": [
         "storage"
       ],
-      "description": "Cinq dés, trois lancers par tour et treize cases à remplir. 63 points en haut de la feuille donnent 35 de bonus.",
+      "description": "Le jeu de dés en solo : cinq dés, trois lancers par tour en gardant ceux que tu veux, et treize cases à remplir (chiffres, brelan, carré, full, suites, Yams, chance). La feuille montre ce que rapporterait chaque case, 63 points en haut donnent 35 de bonus, et une case peut être sacrifiée à 0. Au clavier ou à la souris ; meilleur total et Yams réussis synchronisés.",
       "syncMode": "progression",
-      "syncInfo": "Meilleur total, Yams réussis."
+      "syncInfo": "Meilleur total, parties et Yams réussis."
     },
     {
       "id": "neodex.labyrinthe",
       "name": "Labyrinthe",
       "repo": "NDesumeur/neodex-plugin-labyrinthe",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1860,7 +1860,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "À la lueur d'une lanterne, trouve la clé puis la porte de sortie. Le plan se dessine à mesure que tu avances.",
+      "description": "Explore un labyrinthe dans le noir à la lueur d'une lanterne : trouve la clé, cachée au plus loin du départ, puis la porte, au plus loin de la clé. Ce que la lanterne a éclairé reste sur le plan. Labyrinthes générés et toujours faisables, plus grands à chaque niveau, plan fixe par niveau ou au hasard, et record de temps par niveau.",
       "syncMode": "progression",
       "syncInfo": "Niveau atteint, records de temps."
     },
@@ -1868,7 +1868,7 @@
       "id": "neodex.minigolf",
       "name": "Minigolf",
       "repo": "NDesumeur/neodex-plugin-minigolf",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1877,7 +1877,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Neuf trous dessinés à la main, avec du sable, de l'eau et des bordures en bois. Tire en arrière pour viser, lâche pour frapper.",
+      "description": "Minigolf de neuf trous (par 31) : clique, tire en arrière pour viser et doser la force, lâche pour frapper. Le sable freine, l'eau ramène la balle avec un coup de pénalité, les bordures font rebondir. Option parcours au hasard avec neuf nouveaux trous à chaque partie ; résultat par trou (birdie, bogey…), meilleur parcours et trous en un.",
       "syncMode": "progression",
       "syncInfo": "Meilleur parcours, trous en un."
     },
@@ -1885,7 +1885,7 @@
       "id": "neodex.traversee",
       "name": "Traversée",
       "repo": "NDesumeur/neodex-plugin-traversee",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1894,15 +1894,15 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un poussin traverse routes et rivières, aussi loin que possible. Attention aux voitures, et ne tombe pas à l'eau !",
+      "description": "Un poussin avance le plus loin possible sur un chemin sans fin : prairies avec des arbres à contourner, routes pleines de voitures et de camions, rivières à franchir de tronc en tronc. L'écran avance tout seul et la difficulté monte jusqu'à la rangée 160. Au clavier ou à la souris ; record de rangées synchronisé.",
       "syncMode": "progression",
-      "syncInfo": "Record de rangées."
+      "syncInfo": "Record de rangées et nombre de parties."
     },
     {
       "id": "neodex.prisme",
       "name": "Prisme",
       "repo": "NDesumeur/neodex-plugin-prisme",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1913,7 +1913,7 @@
         "documents",
         "music"
       ],
-      "description": "Un jeu de rythme en étoile : les notes jaillissent d'un cristal et filent vers quatre socles. Frappe la bonne flèche quand elles s'y posent. Les 200 morceaux de Rythme, ou ta propre musique.",
+      "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages."
     },
@@ -1921,7 +1921,7 @@
       "id": "neodex.sillage",
       "name": "Sillage",
       "repo": "NDesumeur/neodex-plugin-sillage",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1932,7 +1932,7 @@
         "documents",
         "music"
       ],
-      "description": "Un jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Cueille les étoiles en rythme et passe les portes d'énergie au turbo.",
+      "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages."
     },
@@ -1940,7 +1940,7 @@
       "id": "neodex.inondation",
       "name": "Inondation",
       "repo": "NDesumeur/neodex-plugin-inondation",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -1949,7 +1949,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "La tache du coin prend la couleur que tu choisis et avale ses voisines de même couleur. Couvre toute la grille en un nombre de coups limité.",
+      "description": "Casse-tête de couleurs : ta tache part du coin, prend la couleur choisie et avale ses voisines de même couleur. Couvre les 196 cases de la grille dans le nombre de coups permis, de 30 au niveau 1 jusqu'à 22. Une grille fixe par niveau pour battre ton record, ou des grilles au hasard ; couleurs au clic ou aux touches 1 à 6, avec un motif par couleur.",
       "syncMode": "progression",
       "syncInfo": "Niveau atteint, records de coups."
     },
@@ -1957,7 +1957,7 @@
       "id": "neodex.alignements",
       "name": "Alignements",
       "repo": "NDesumeur/neodex-plugin-alignements",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1966,7 +1966,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Déplace une bille par un chemin libre pour aligner cinq billes de la même couleur. Sinon, trois nouvelles billes tombent sur le plateau.",
+      "description": "Jeu de réflexion sur un plateau de 9 × 9 : clique sur une bille puis sur une case libre pour la déplacer par un chemin dégagé, et forme des lignes de cinq billes de la même couleur, droites ou en diagonale. Chaque coup sans ligne fait tomber trois nouvelles billes ; plus la ligne est longue, plus elle rapporte. La partie se termine quand le plateau est plein.",
       "syncMode": "progression",
       "syncInfo": "Meilleur score, lignes faites."
     },
@@ -1974,7 +1974,7 @@
       "id": "neodex.joyaux",
       "name": "Joyaux",
       "repo": "NDesumeur/neodex-plugin-joyaux",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -1983,7 +1983,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Échange deux pierres voisines pour en aligner trois ou plus de la même sorte. Les chaînes en cascade multiplient les points ; 25 coups par partie.",
+      "description": "Jeu d'alignement : échange deux pierres voisines, au clic ou en glissant, pour en aligner trois ou plus de la même sorte. Elles disparaissent, les autres tombent, et chaque alignement en cascade multiplie les points. 25 coups par partie, un échange inutile ne coûte rien, le plateau se mélange s'il est bloqué, et chaque pierre a sa forme pour se passer des couleurs.",
       "syncMode": "progression",
       "syncInfo": "Meilleur score."
     },
@@ -1991,7 +1991,7 @@
       "id": "neodex.billes",
       "name": "Billes",
       "repo": "NDesumeur/neodex-plugin-billes",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -2000,7 +2000,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Le solitaire en croix : une bille saute par-dessus sa voisine dans un trou vide et la fait sortir. Finis avec une seule bille, au centre si tu peux.",
+      "description": "Le solitaire en croix : clique une bille, puis le trou allumé où elle peut arriver ; elle saute par-dessus sa voisine, qui sort du plateau. Finis avec une seule bille, au centre pour une partie parfaite. Quatre plateaux (croix anglaise, croix française, petite croix, pyramide), annulation sans limite, record et réussites par plateau.",
       "syncMode": "progression",
       "syncInfo": "Records par plateau, réussites."
     },
@@ -2008,7 +2008,7 @@
       "id": "neodex.binaire",
       "name": "Binaire",
       "repo": "NDesumeur/neodex-plugin-binaire",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -2017,7 +2017,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Remplis la grille de soleils et de lunes : jamais trois pareils à la suite, autant de chaque par ligne et par colonne, et deux lignes jamais identiques.",
+      "description": "Casse-tête de logique : remplis la grille de soleils et de lunes, jamais trois pareils à la suite, autant de chaque par ligne et par colonne, et deux lignes jamais identiques. Grilles de 6, 8 ou 10 cases générées avec une solution unique ; clic pour alterner, clic droit pour une lune, les erreurs et les compteurs s'allument au bord, et le chrono garde ton record par taille.",
       "syncMode": "progression",
       "syncInfo": "Records de temps par taille."
     },
@@ -2025,7 +2025,7 @@
       "id": "neodex.ponts",
       "name": "Ponts",
       "repo": "NDesumeur/neodex-plugin-ponts",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -2034,7 +2034,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Relie toutes les îles par des ponts droits, un ou deux entre deux îles, sans croisement. Le chiffre de chaque île dit combien de ponts en partent.",
+      "description": "Casse-tête logique : relie toutes les îles par des ponts droits, un ou deux entre deux îles voisines, sans croisement, pour former un seul archipel. Le chiffre de chaque île dit combien de ponts en partent ; elle devient verte quand c'est juste. Glisser pour poser un pont, retour arrière pour annuler, archipels au hasard de 7 × 7 ou 9 × 9 et record de temps.",
       "syncMode": "progression",
       "syncInfo": "Records de temps, archipels reliés."
     },
@@ -2042,7 +2042,7 @@
       "id": "neodex.flotte",
       "name": "Flotte",
       "repo": "NDesumeur/neodex-plugin-flotte",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -2051,7 +2051,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "La bataille navale contre l'ordinateur : cherche ses cinq navires et coule-les avant qu'il ne coule les tiens.",
+      "description": "La bataille navale contre l'ordinateur : deux grilles de 10 × 10, cinq navires de chaque côté placés au hasard sans se toucher, et un tir à tour de rôle ; qui touche rejoue, et l'eau autour d'un navire coulé est marquée d'office. Amiral facile qui tire au hasard ou normal qui quadrille puis achève, victoires et victoire la plus rapide par niveau.",
       "syncMode": "progression",
       "syncInfo": "Victoires, victoire la plus rapide."
     },
@@ -2059,7 +2059,7 @@
       "id": "neodex.archer",
       "name": "Archer",
       "repo": "NDesumeur/neodex-plugin-archer",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2068,7 +2068,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Dix flèches, une cible de plus en plus loin et un vent qui change. Tire en arrière pour bander l'arc, lâche pour tirer.",
+      "description": "Jeu de tir à l'arc : maintiens le clic et tire la souris en arrière pour viser et doser la force, puis lâche. Dix flèches par manche, 10 points au centre de la cible et 1 au bord ; la manche à air montre un vent qui change à chaque tir, et la cible recule toutes les trois flèches avant de se mettre à bouger.",
       "syncMode": "progression",
       "syncInfo": "Meilleure manche, dans le mille."
     },
@@ -2076,7 +2076,7 @@
       "id": "neodex.mineur",
       "name": "Mineur",
       "repo": "NDesumeur/neodex-plugin-mineur",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -2085,7 +2085,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Creuse toujours plus bas avec ta foreuse, remonte les minerais, vends-les à la surface et améliore ta machine. Gare au carburant et à la lave.",
+      "description": "Jeu de forage : creuse à gauche, à droite ou vers le bas dans une mine de 87 mètres tirée au hasard, ramasse cuivre, fer, argent, or, rubis et saphir, de plus en plus précieux en profondeur, et remonte les vendre à la surface où le plein se fait tout seul. Améliore réservoir, soute et foret pour la roche dure ; la lave et la panne sèche coûtent ta soute.",
       "syncMode": "progression",
       "syncInfo": "Profondeur record, plus riche."
     },
@@ -2093,7 +2093,7 @@
       "id": "neodex.raquettes",
       "name": "Raquettes",
       "repo": "NDesumeur/neodex-plugin-raquettes",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2102,7 +2102,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Un duel de raquettes contre l'ordinateur, sur un terrain de nuit. Le premier à 7 points gagne ; la balle accélère à chaque échange.",
+      "description": "Duel de raquettes contre l'ordinateur sur un terrain de nuit : déplace ta raquette à la souris ou aux flèches et renvoie la balle sans la laisser passer. Le bord de la raquette renvoie en biais, la balle accélère à chaque échange, le premier à 7 points gagne. Trois niveaux d'adversaire qui anticipe les rebonds, victoires et meilleur écart gardés.",
       "syncMode": "progression",
       "syncInfo": "Victoires par niveau."
     }
