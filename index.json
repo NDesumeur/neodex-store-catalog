@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-08T21:00:40Z",
+  "updated": "2026-11-08T21:14:28Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -844,7 +844,7 @@
       "id": "neodex.pdf",
       "name": "NeoPDF",
       "repo": "NDesumeur/neodex-plugin-pdf",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "category": "Bureautique",
       "system": true,
       "type": "app",
@@ -853,7 +853,8 @@
       "permissions": [
         "storage",
         "background",
-        "documents"
+        "documents",
+        "files"
       ],
       "description": "Lecteur de PDF avec annotations : ouvre un fichier, glisse-le ou lis un PDF venu d'un site, zoom, pleine largeur et recherche dans tout le texte. Stylo, surligneur, notes posées sur la page et gomme en six couleurs, avec annulation. Les annotations sont gardées pour chaque PDF et synchronisées ; enregistre une copie simple ou annotée sans toucher à l'original.",
       "screenshots": [
