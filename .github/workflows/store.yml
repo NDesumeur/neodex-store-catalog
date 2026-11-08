@@ -1,0 +1,31 @@
+name: NeoStore
+# every hour: store.json, the list NeoStore reads (plugins, approved or not, English version, downloads, stars, reviews)
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  issues:
+    types: [opened, edited, closed, reopened, labeled]
+permissions:
+  contents: write
+concurrency:
+  group: store
+  cancel-in-progress: false
+jobs:
+  store:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node tools/store.js test
+      - run: node tools/store.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publier store.json
+        run: |
+          git add store.json
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name=NDesumeur -c user.email=desumeur.nolan@gmail.com commit -q -m "NeoStore : liste mise à jour"
+          git pull -q --rebase && git push -q

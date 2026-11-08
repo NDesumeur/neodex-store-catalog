@@ -1,0 +1,2677 @@
+{
+ "storeVersion": 1,
+ "updated": "2026-11-08T12:21:24.047Z",
+ "plugins": [
+  {
+   "id": "neobase.claudecode",
+   "repo": "NDesumeur/neodex-plugin-claude-code",
+   "name": "Claude Code",
+   "description": "Claude Code installé sur ton PC dans une fenêtre type Claude Desktop : conversations, outils en cartes, dossier de projet.",
+   "version": "1.0.1",
+   "category": "Outils",
+   "approved": false,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-10-31T20:13:50Z",
+   "langs": [
+    "fr"
+   ],
+   "en": null,
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neobase.obs",
+   "repo": "NDesumeur/neodex-plugin-obs",
+   "name": "OBS",
+   "description": "Pilote OBS Studio (WebSocket) : scènes, audio, aperçu du programme, démarrage du direct.",
+   "version": "1.0.1",
+   "category": "Outils",
+   "approved": false,
+   "stars": 1,
+   "installs": 10,
+   "updated": "2026-10-31T19:29:13Z",
+   "langs": [
+    "fr"
+   ],
+   "en": null,
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.alignements",
+   "repo": "NDesumeur/neodex-plugin-alignements",
+   "name": "Alignements",
+   "description": "Jeu de réflexion sur un plateau de 9 × 9 : clique sur une bille puis sur une case libre pour la déplacer par un chemin dégagé, et forme des lignes de cinq billes de la même couleur, droites ou en diagonale. Chaque coup sans ligne fait tomber trois nouvelles billes ; plus la ligne est longue, plus elle rapporte. La partie se termine quand le plateau est plein.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:12:01Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Lineups",
+    "description": "A puzzle game on a 9 × 9 board: click a ball, then an empty square, to move it along a clear path, and make lines of five balls of the same colour, straight or diagonal. Every move without a line drops three new balls; the longer the line, the more it scores. The game ends when the board is full."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.alunissage",
+   "repo": "NDesumeur/neodex-plugin-alunissage",
+   "name": "Alunissage",
+   "description": "Jeu d'adresse : pilote un module lunaire avec le moteur principal (flèche du haut) et les propulseurs latéraux, et pose-le en douceur sur l'une des trois plateformes avant d'être à court de carburant. Le tableau de bord passe au vert quand ta vitesse est sûre ; la petite plateforme multiplie les points par 5 et le carburant restant s'ajoute au score. La gravité augmente à chaque mission.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:12:06Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Landing",
+    "description": "A skill game: fly a lunar module with the main engine (up arrow) and the side thrusters, and land it gently on one of three pads before the fuel runs out. The dashboard turns green when your speed is safe; the small pad multiplies the score by 5 and the fuel left adds to it. Gravity gets stronger with every mission."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.apothecarydle",
+   "repo": "NDesumeur/neodex-plugin-apothecarydle",
+   "name": "ApothecaryDle",
+   "description": "Jeu de devinettes des Carnets de l'apothicaire : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, clan, lieu (quartier des plaisirs, palais intérieur, palais extérieur…) et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
+   "version": "1.3.2",
+   "category": "NeoDle",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-08T12:12:11Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "ApothecaryDle",
+    "description": "A guessing game from The Apothecary Diaries: find the mystery character by typing names. In Classic mode, each guess compares gender, clan, place (pleasure district, inner palace, outer palace…) and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.aquarium",
+   "repo": "NDesumeur/neodex-plugin-aquarium",
+   "name": "Aquarium",
+   "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau (douce, mer, tropicale, polaire, abysses), nourris-le et nettoie l'eau, même pendant ton absence. Les poissons heureux attirent des visiteurs dont les pièces paient bassins, filtres, distributeurs et décors.",
+   "version": "1.2.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:12:16Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Aquarium",
+    "description": "A management game that extends Fishing: every fish you catch arrives alive in your holding pen. Put it in a tank with the right water (fresh, sea, tropical, polar, abyss), feed it and clean the water, even while you are away. Happy fish draw visitors whose coins pay for tanks, filters, feeders and decorations."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.archer",
+   "repo": "NDesumeur/neodex-plugin-archer",
+   "name": "Archer",
+   "description": "Jeu de tir à l'arc : maintiens le clic et tire la souris en arrière pour viser et doser la force, puis lâche. Dix flèches par manche, 10 points au centre de la cible et 1 au bord ; la manche à air montre un vent qui change à chaque tir, et la cible recule toutes les trois flèches avant de se mettre à bouger.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:12:21Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Archer",
+    "description": "An archery game: hold the mouse button and drag back to aim and set the power, then release. Ten arrows per round, 10 points in the centre of the target and 1 on the edge; the windsock shows a wind that changes with every shot, and the target moves back every three arrows before it starts moving."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.arene",
+   "repo": "NDesumeur/neodex-plugin-arene",
+   "name": "NeoBestiary Arène",
+   "description": "Combats au tour par tour entre les créatures de NeoBestiary Studio, contre l'ordinateur ou à deux sur le même PC. Chaque créature a 2 à 4 attaques tirées de 204 techniques : statuts (brûlure, poison, gel, sommeil, paralysie…), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, avec une table des types de ×4 à ×¼. Garde, variantes de couleur, palmarès, et NeoMe avec ses attaques signature.",
+   "version": "1.5.6",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 348,
+   "updated": "2026-11-08T12:12:26Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoBestiary Arena",
+    "description": "Turn-based fights between NeoBestiary Studio creatures, against the computer or two players on the same PC. Each creature has 2 to 4 moves drawn from 204 techniques: statuses (burn, poison, freeze, sleep, paralysis…), stat stages, accuracy, multi-hit moves, life steal, heals and boosts, with a type chart from ×4 to ×¼. Guard, colour variants, a win record, and NeoMe with its signature moves."
+   },
+   "rating": {
+    "average": 5,
+    "count": 1,
+    "list": [
+     {
+      "who": "NDesumeur",
+      "stars": 5,
+      "text": ":)",
+      "at": "2026-11-04T22:08:52Z",
+      "url": "https://github.com/NDesumeur/neodex-store-catalog/issues/1"
+     }
+    ]
+   }
+  },
+  {
+   "id": "neodex.astropole",
+   "repo": "NDesumeur/neodex-plugin-astropole",
+   "name": "Astropole",
+   "description": "Jeu de gestion incrémental : achète des bâtiments qui produisent des crédits chaque seconde, même NeoDex fermé, et réinvestis pour débloquer des constructions toujours plus grandes. Tous les 25 exemplaires, un bâtiment produit deux fois plus ; après 1 billion de crédits, une nouvelle colonie repart de zéro avec des Mémoires qui ajoutent 10 % de production pour toujours.",
+   "version": "1.3.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 24,
+   "updated": "2026-11-08T12:12:31Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Astropolis",
+    "description": "An incremental management game: buy buildings that produce credits every second, even with NeoDex closed, and reinvest to unlock ever bigger constructions. Every 25 copies, a building produces twice as much; after 1 trillion credits, a new colony starts over with Memories that add 10% production forever."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.atelier",
+   "repo": "NDesumeur/neodex-plugin-atelier",
+   "name": "Atelier",
+   "description": "L'environnement de développement de NeoDex : projets et fichiers, éditeur avec coloration, recherche dans tout le projet et raccourcis, aperçu web mis à jour en tapant, console, scripts JavaScript dans un bac à sable et Python avec celui de ton PC. Modèles de plugins prêts à tester dans un cadre isolé, validation de plugin.json et export en .zip pour publier.",
+   "version": "1.1.3",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 16,
+   "updated": "2026-11-08T12:12:36Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Workshop",
+    "description": "NeoDex's development environment: projects and files, an editor with highlighting, project-wide search and shortcuts, a web preview that updates as you type, a console, JavaScript scripts in a sandbox and Python with your PC's own. Plugin templates ready to test in an isolated frame, plugin.json validation and .zip export for publishing."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bestiaire",
+   "repo": "NDesumeur/neodex-plugin-bestiaire",
+   "name": "Bestiaire",
+   "description": "L'encyclopédie pixel des 1050 créatures de NeoDex (folklore japonais, mythes du monde, livres) : recherche, filtres par type et rareté, fiches détaillées, statistiques, capacités, comparateur et habitats.",
+   "version": "1.5.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 18,
+   "updated": "2026-11-06T21:21:10Z",
+   "langs": [
+    "fr"
+   ],
+   "en": null,
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bestiarystudio",
+   "repo": "NDesumeur/neodex-plugin-bestiarystudio",
+   "name": "NeoBestiary Studio",
+   "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques et des musiques. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
+   "version": "1.8.5",
+   "category": "Création",
+   "approved": true,
+   "stars": 1,
+   "installs": 437,
+   "updated": "2026-11-08T12:12:41Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoBestiary Studio",
+    "description": "Describe a creature in words: the AI draws 3 sketches, you pick one, and it comes out as a 64×64 game character in 4 directions with a 5-frame walk, a bestiary entry (types, rarity, stats, 2 to 4 animated attacks) and a combat portrait. Also create objects, attacks and music. Everything runs locally on your PC (ComfyUI, 8 GB NVIDIA card), with models installed automatically."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.billes",
+   "repo": "NDesumeur/neodex-plugin-billes",
+   "name": "Billes",
+   "description": "Le solitaire en croix : clique une bille, puis le trou allumé où elle peut arriver ; elle saute par-dessus sa voisine, qui sort du plateau. Finis avec une seule bille, au centre pour une partie parfaite. Quatre plateaux (croix anglaise, croix française, petite croix, pyramide), annulation sans limite, record et réussites par plateau.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:12:46Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Marbles",
+    "description": "Peg solitaire: click a marble, then the lit hole where it can land; it jumps over its neighbour, which leaves the board. Finish with a single marble, in the centre for a perfect game. Four boards (English cross, French cross, small cross, pyramid), unlimited undo, record and wins per board."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.binaire",
+   "repo": "NDesumeur/neodex-plugin-binaire",
+   "name": "Binaire",
+   "description": "Casse-tête de logique : remplis la grille de soleils et de lunes, jamais trois pareils à la suite, autant de chaque par ligne et par colonne, et deux lignes jamais identiques. Grilles de 6, 8 ou 10 cases générées avec une solution unique ; clic pour alterner, clic droit pour une lune, les erreurs et les compteurs s'allument au bord, et le chrono garde ton record par taille.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:12:50Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Binary",
+    "description": "A logic puzzle: fill the grid with suns and moons, never three alike in a row, as many of each per row and column, and no two rows identical. 6, 8 or 10-wide grids generated with a unique solution; click to cycle, right-click for a moon, mistakes and counters light up along the edge, and the timer keeps your record per size."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.blackdle",
+   "repo": "NDesumeur/neodex-plugin-blackdle",
+   "name": "BlackDle",
+   "description": "Jeu de devinettes de Black Clover : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, espèce, magie et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
+   "version": "1.3.2",
+   "category": "NeoDle",
+   "approved": true,
+   "stars": 1,
+   "installs": 26,
+   "updated": "2026-11-08T12:12:55Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "BlackDle",
+    "description": "A guessing game from Black Clover: find the mystery character by typing names. In Classic mode, each guess compares gender, species, magic and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bleachdle",
+   "repo": "NDesumeur/neodex-plugin-bleachdle",
+   "name": "BleachDle",
+   "description": "Jeu de devinettes de Bleach : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, race, affiliation et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
+   "version": "1.3.2",
+   "category": "NeoDle",
+   "approved": true,
+   "stars": 1,
+   "installs": 22,
+   "updated": "2026-11-08T12:13:00Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "BleachDle",
+    "description": "A guessing game from Bleach: find the mystery character by typing names. In Classic mode, each guess compares gender, race, affiliation and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.budget",
+   "repo": "NDesumeur/neodex-plugin-budget",
+   "name": "Budget",
+   "description": "Suis tes comptes et tes livrets : soldes à recopier depuis ta banque d'un clic, dépenses, rentrées et virements, abonnements prélevés tout seuls à leur date. La prévision d'épargne calcule mois par mois sur 12 mois les intérêts (par an ou par mois) et tes versements, déborde sur l'autre livret quand un plafond est atteint et donne la date de ton objectif. Rien n'est relié à ta banque.",
+   "version": "1.2.2",
+   "category": "Finance",
+   "approved": true,
+   "stars": 1,
+   "installs": 33,
+   "updated": "2026-11-08T12:13:05Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Budget",
+    "description": "Track your accounts and savings accounts: balances copied from your bank in one click, expenses, income and transfers, subscriptions debited by themselves on their date. The savings forecast works month by month over 12 months with interest (yearly or monthly) and your payments, overflows to the other account when a ceiling is reached and gives the date of your goal. Nothing is connected to your bank."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bulles",
+   "repo": "NDesumeur/neodex-plugin-bulles",
+   "name": "Bulles",
+   "description": "Jeu de tir de bulles : vise à la souris (le pointillé montre les rebonds), tire, et regroupe au moins trois bulles de la même couleur pour les faire éclater ; tout ce qui ne tient plus au plafond tombe et rapporte gros. Le plafond descend tous les 7 tirs, X échange la bulle avec la suivante, et chaque plateau vidé en amène un nouveau avec une couleur de plus.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:13:10Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Bubbles",
+    "description": "A bubble shooter: aim with the mouse (the dotted line shows the bounces), shoot, and group at least three bubbles of the same colour to pop them; everything no longer attached to the ceiling falls and scores big. The ceiling drops every 7 shots, X swaps the bubble with the next one, and each cleared board brings a new one with an extra colour."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.calculatrice",
+   "repo": "NDesumeur/neodex-plugin-calculatrice",
+   "name": "Calculatrice",
+   "description": "Calculatrice scientifique : tape une expression entière au clavier ou clique les touches, le résultat s'affiche en direct. Priorités et parenthèses, puissances, factorielle, pourcentage, trigonométrie en degrés ou radians, logarithmes, racines, π, e, Ans et produit implicite (2π). Les 50 derniers calculs restent dans un historique ; un clic sur un résultat le réutilise.",
+   "version": "1.2.5",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 38,
+   "updated": "2026-11-08T12:13:15Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Calculator",
+    "description": "A scientific calculator: type a whole expression on the keyboard or click the keys, and the result shows live. Precedence and parentheses, powers, factorial, percent, trigonometry in degrees or radians, logarithms, roots, π, e, Ans and implicit multiplication (2π). The last 50 calculations stay in a history; click a result to reuse it."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.cascade",
+   "repo": "NDesumeur/neodex-plugin-cascade",
+   "name": "Cascade",
+   "description": "Des pièces de 3 à 5 blocs tombent dans un puits de 10 × 20 : complète des lignes pour les casser, mais aussi des groupes de 9 blocs de la même couleur. Ce qui reste suspendu retombe et peut déclencher des chaînes qui multiplient les points ; bombes, cristaux et réserve. Marathon qui accélère toutes les 8 lignes, Zen sans accélération, et 24 défis à trois étoiles.",
+   "version": "1.1.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 248,
+   "updated": "2026-11-08T12:13:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cascade",
+    "description": "Pieces of 3 to 5 blocks fall into a 10 × 20 well: complete rows to break them, and also groups of 9 blocks of the same colour. Whatever is left hanging falls and can set off chains that multiply the points; bombs, crystals and a hold slot. Marathon that speeds up every 8 rows, Zen with no speed-up, and 24 three-star challenges."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.cassebriques",
+   "repo": "NDesumeur/neodex-plugin-casse-briques",
+   "name": "Casse-briques",
+   "description": "Renvoie la balle avec ta raquette pour casser toutes les briques : 40 niveaux conçus un par un, puis des niveaux générés à l'infini, de plus en plus rapides. Briques à 1, 2 ou 3 coups, métal indestructible, explosives qui cassent leurs voisines, et huit capsules : raquette large, multi-balle, lasers, balle lente, colle, boule de feu, vie en plus… et un piège. Chaque niveau atteint devient un point de départ.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 18,
+   "updated": "2026-11-08T12:13:25Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "brick breaker",
+    "description": "Bounce the ball back with your paddle to break every brick: 40 levels designed one by one, then endlessly generated levels that keep getting faster. Bricks that take 1, 2 or 3 hits, indestructible metal, explosives that break their neighbours, and eight capsules: wide paddle, multi-ball, lasers, slow ball, glue, fireball, extra life… and a trap. Every level you reach becomes a starting point."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.code",
+   "repo": "NDesumeur/neodex-plugin-code",
+   "name": "Code secret",
+   "description": "Jeu de déduction : trouve le code de 4 couleurs (parmi 6) en 10 essais. Après chaque proposition, une fiche noire par couleur juste et bien placée, une blanche par couleur juste mais ailleurs. Couleurs en double possibles ou non, saisie à la souris ou aux touches 1 à 6, et statistiques : victoires, moyenne d'essais, meilleure partie.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:13:29Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Secret code",
+    "description": "A deduction game: find the 4-colour code (out of 6) in 10 tries. After each guess, a black peg for each colour right and in place, a white one for each colour right but elsewhere. Duplicate colours on or off, input with the mouse or keys 1 to 6, and statistics: wins, average tries, best game."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.compote",
+   "repo": "NDesumeur/neodex-plugin-compote",
+   "name": "Compote",
+   "description": "Jeu de fusion de fruits : vise à la souris et lâche des fruits dans la caisse ; deux fruits pareils qui se touchent fusionnent en un plus gros, parfois en cascade. Onze fruits de la cerise à la citrouille, des fruits qui roulent et se poussent, et deux citrouilles qui disparaissent avec un gros bonus. La partie s'arrête quand un fruit reste au-dessus de la ligne rouge.",
+   "version": "1.0.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 8,
+   "updated": "2026-11-08T12:13:34Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Compote",
+    "description": "A fruit-merging game: aim with the mouse and drop fruit into the crate; two identical fruits that touch merge into a bigger one, sometimes in a cascade. Eleven fruits from cherry to pumpkin, fruit that rolls and pushes, and two pumpkins that vanish with a big bonus. The game ends when a fruit stays above the red line."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.convertir",
+   "repo": "NDesumeur/neodex-plugin-convertir",
+   "name": "Convertir",
+   "description": "Change le format de tes fichiers : glisse-les, choisis le format de sortie, et le fichier converti est créé à côté de l'original, jamais écrasé. Images (PNG, JPG, WebP, ICO, AVIF…), sons (MP3, WAV, FLAC…), vidéos (MP4, WebM, GIF animé, son seul), tableaux (Excel, ODS, CSV, JSON) et documents (Word, Markdown, HTML vers PDF). Taille, qualité et recadrage en carré réglables ; ffmpeg requis pour les médias.",
+   "version": "1.1.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:13:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Convert",
+    "description": "Change your files' format: drag them in, pick the output format, and the converted file is created next to the original, never overwritten. Images (PNG, JPG, WebP, ICO, AVIF…), sounds (MP3, WAV, FLAC…), videos (MP4, WebM, animated GIF, audio only), spreadsheets (Excel, ODS, CSV, JSON) and documents (Word, Markdown, HTML to PDF). Adjustable size, quality and square crop; ffmpeg required for media."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.couleurs",
+   "repo": "NDesumeur/neodex-plugin-couleurs",
+   "name": "Couleurs",
+   "description": "L'outil des couleurs : une pipette qui prend une couleur n'importe où sur l'écran, ses codes HEX, RGB, HSL, CMJN et CSS à copier, les harmonies (complémentaire, analogues, triade, carré, nuances), le contraste WCAG d'un texte sur un fond, et des palettes à créer, tirer d'une image, copier en CSS ou exporter, synchronisées entre tes PC.",
+   "version": "1.1.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:13:44Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Colors",
+    "description": "The colour tool: an eyedropper that picks a colour anywhere on the screen, its HEX, RGB, HSL, CMYK and CSS codes to copy, harmonies (complementary, analogous, triad, square, shades), the WCAG contrast of text on a background, and palettes to create, extract from an image, copy as CSS or export, synced between your PCs."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.dames",
+   "repo": "NDesumeur/neodex-plugin-dames",
+   "name": "Dames",
+   "description": "Le jeu de dames international (10 × 10) contre l'ordinateur, avec ses vraies règles : prise obligatoire en avant comme en arrière, rafle la plus longue, dames qui filent sur toute la diagonale, nulles par répétition. Sept niveaux du débutant au grand maître, coup annulable, notation officielle des coups, statistiques par niveau, et la partie en cours reprise même sur un autre PC.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:13:48Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Ladies",
+    "description": "International draughts (10 × 10) against the computer, with the real rules: compulsory capture forwards and backwards, longest capture sequence, kings that fly along the whole diagonal, draws by repetition. Seven levels from beginner to grandmaster, undo, official move notation, statistics per level, and the current game resumed even on another PC."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.defensespatiale",
+   "repo": "NDesumeur/neodex-plugin-defense-spatiale",
+   "name": "Défense spatiale",
+   "description": "Défense de tourelles : place et améliore 9 tourelles (laser, plasma, givre, tesla, missiles, rail, acide, nova, relais) le long de la route pour arrêter des vagues d'ennemis qui éclatent, se blindent, se régénèrent ou ignorent le ralentissement, avec un vaisseau-mère toutes les 10 vagues. 30 cartes, 4 difficultés, une médaille à la vague 50, et des cristaux en bonus quand tu appelles la vague en avance.",
+   "version": "1.2.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 252,
+   "updated": "2026-11-08T12:13:53Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Space defense",
+    "description": "Tower defence: place and upgrade 9 towers (laser, plasma, frost, tesla, missiles, rail, acid, nova, relay) along the route to stop waves of enemies that split, armour up, regenerate or ignore slowing, with a mothership every 10 waves. 30 maps, 4 difficulties, a medal at wave 50, and bonus crystals when you call the wave early."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.demarrage",
+   "repo": "NDesumeur/neodex-plugin-demarrage",
+   "name": "Démarrage",
+   "description": "Les programmes qui se lancent avec Windows, avec leur icône, leur origine et leur commande, et un interrupteur pour chacun : comme l'onglet Démarrage du Gestionnaire des tâches, avec les mêmes réglages. Désactiver ne désinstalle rien, le changement compte au prochain démarrage ; les programmes de tous les utilisateurs restent réservés à l'administrateur.",
+   "version": "1.1.2",
+   "category": "Système",
+   "approved": true,
+   "stars": 1,
+   "installs": 20,
+   "updated": "2026-11-08T12:13:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Startup",
+    "description": "The programs that launch with Windows, with their icon, origin and command, and a switch for each: like the Task Manager's Startup tab, using the same settings. Disabling uninstalls nothing, the change applies at the next startup; programs for all users stay reserved to the administrator."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.demineur",
+   "repo": "NDesumeur/neodex-plugin-demineur",
+   "name": "Démineur",
+   "description": "Le démineur classique : ouvre toutes les cases sans mine en lisant les chiffres, pose des drapeaux au clic droit et ouvre les voisines d'un chiffre en un clic. Débutant, Intermédiaire, Expert ou plateau sur mesure, premier clic toujours sûr, mode « sans hasard » qui se résout entièrement par la logique, indices, et meilleurs temps et séries par niveau.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:14:02Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Minesweeper",
+    "description": "Classic minesweeper: open every mine-free cell by reading the numbers, flag with a right-click and open a number's neighbours in one click. Beginner, Intermediate, Expert or a custom board, first click always safe, a \"no guessing\" mode solvable entirely by logic, hints, and best times and streaks per level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.discord",
+   "repo": "NDesumeur/neodex-plugin-discord",
+   "name": "Discord",
+   "description": "Discord dans un onglet de NeoDex : l'application web officielle, avec serveurs, messages privés, appels et partage d'écran. Tu te connectes une fois, les messages non lus s'affichent sur l'onglet, les notifications passent par les autorisations des sites, et les couleurs suivent ton thème (désactivable dans Paramètres → Apparence). NeoDex ne lit rien de ton compte.",
+   "version": "1.0.4",
+   "category": "Communication",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-08T12:14:07Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Discord",
+    "description": "Discord in a NeoDex tab: the official web app, with servers, direct messages, calls and screen sharing. You sign in once, unread messages show on the tab, notifications go through site permissions, and the colours follow your theme (can be turned off in Settings → Appearance). NeoDex reads nothing from your account."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.docs",
+   "repo": "NDesumeur/neodex-plugin-docs",
+   "name": "NeoDocs",
+   "description": "Un traitement de texte complet : titres et styles, polices, couleurs, listes à puces, numérotées ou de tâches, tableaux, images, liens et sauts de page, rechercher et remplacer, plan du document et correcteur d'orthographe français et anglais. Ouvre les fichiers Word, HTML, Markdown et texte, exporte en PDF, Word, HTML, texte ou Markdown ; tes documents sont enregistrés tout seuls et synchronisés.",
+   "version": "1.1.2",
+   "category": "Bureautique",
+   "approved": true,
+   "stars": 1,
+   "installs": 22,
+   "updated": "2026-11-08T12:14:11Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoDocs",
+    "description": "A complete word processor: headings and styles, fonts, colours, bulleted, numbered or task lists, tables, images, links and page breaks, find and replace, document outline and a French and English spell checker. Opens Word, HTML, Markdown and text files, exports to PDF, Word, HTML, text or Markdown; your documents are saved automatically and synced."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.durararadle",
+   "repo": "NDesumeur/neodex-plugin-durararadle",
+   "name": "DurararaDle",
+   "description": "Jeu de devinettes de Durarara!! : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature (humain, dullahan…), nationalité et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
+   "version": "1.3.2",
+   "category": "NeoDle",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-08T12:14:16Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "DurararaDle",
+    "description": "A guessing game from Durarara!!: find the mystery character by typing names. In Classic mode, each guess compares gender, nature (human, dullahan…), nationality and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.echecs",
+   "repo": "NDesumeur/neodex-plugin-echecs",
+   "name": "Échecs",
+   "description": "Les échecs contre l'ordinateur, avec toutes les règles : roque, prise en passant, promotion au choix, pat, règle des 50 coups, triple répétition et matériel insuffisant. Sept niveaux du débutant au grand maître, pièces à cliquer ou à glisser, coup annulable, partie notée en notation française, statistiques par niveau, et la partie en cours reprise même sur un autre PC.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:14:21Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Chess",
+    "description": "Chess against the computer, with every rule: castling, en passant, promotion of your choice, stalemate, 50-move rule, threefold repetition and insufficient material. Seven levels from beginner to grandmaster, click or drag pieces, undo, the game recorded in French notation, statistics per level, and the current game resumed even on another PC."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.echo",
+   "repo": "NDesumeur/neodex-plugin-echo",
+   "name": "Écho",
+   "description": "Jeu de mémoire : quatre cristaux s'allument dans un ordre précis, chacun avec sa note, et tu rejoues la suite à la souris, aux touches 1 à 4 ou aux flèches. Chaque tour ajoute un cristal et accélère un peu ; une erreur termine la partie et montre le bon cristal. Trois vitesses de départ et un record de plus longue suite.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:14:26Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Echo",
+    "description": "A memory game: four crystals light up in a precise order, each with its own note, and you play the sequence back with the mouse, keys 1 to 4 or the arrows. Each round adds a crystal and speeds up a little; a mistake ends the game and shows the right crystal. Three starting speeds and a longest-sequence record."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.enigmes",
+   "repo": "NDesumeur/neodex-plugin-enigmes",
+   "name": "Valcendre",
+   "description": "La grande horloge de Valcendre s'est arrêtée : retrouve ses 180 rouages en résolvant les énigmes illustrées des habitants de huit quartiers. Allumettes, rivières, vases, tuyaux, labyrinthes, picross, carrés latins, cadenas, menteurs et devinettes ; des bougies pour allumer les indices, un brouillon pour griffonner, une explication après chaque énigme et une histoire jusqu'au redémarrage de l'horloge.",
+   "version": "1.1.4",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 266,
+   "updated": "2026-11-08T12:14:31Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Valcendre",
+    "description": "The great clock of Valcendre has stopped: find its 180 cogs by solving the illustrated puzzles of the residents of eight districts. Matchsticks, river crossings, jugs, pipes, mazes, picross, Latin squares, locks, liars and riddles; candles to light the hints, a scratchpad to scribble on, an explanation after each puzzle and a story until the clock starts again. Puzzles in French."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.entrepot",
+   "repo": "NDesumeur/neodex-plugin-entrepot",
+   "name": "Entrepôt",
+   "description": "Casse-tête de caisses : pousse toutes les caisses sur les marques jaunes, une à la fois, sans jamais pouvoir les tirer. Déplacements aux flèches, à ZQSD ou à la souris, annulation pas à pas illimitée, 12 entrepôts conçus à la main qui s'ouvrent l'un après l'autre, et des entrepôts au hasard toujours solubles. Pas, poussées et record de pas par niveau.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:14:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Warehouse",
+    "description": "A crate puzzle: push every crate onto the yellow marks, one at a time, without ever being able to pull them. Move with the arrows, ZQSD or the mouse, unlimited step-by-step undo, 12 hand-designed warehouses that open one after another, and random warehouses that are always solvable. Steps, pushes and a step record per level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.f1",
+   "repo": "NDesumeur/neodex-plugin-f1",
+   "name": "Formule 1",
+   "description": "La saison de Formule 1 : calendrier avec l'horaire de chaque séance à l'heure de Paris et compte à rebours jusqu'au prochain Grand Prix, résultats complets des courses, qualifications et sprints de chaque manche, classements pilotes et écuries. Une étoile met ton pilote en avant, et les qualifications et courses peuvent aller dans ton emploi du temps. Données Jolpica.",
+   "version": "1.0.2",
+   "category": "Sport",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:14:40Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Formula 1",
+    "description": "The Formula 1 season: a calendar with every session's time in Paris time and a countdown to the next Grand Prix, full results of each round's races, qualifying and sprints, and the drivers' and constructors' standings. A star highlights your driver, and qualifying and races can go into your schedule. Jolpica data."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.flotte",
+   "repo": "NDesumeur/neodex-plugin-flotte",
+   "name": "Flotte",
+   "description": "La bataille navale contre l'ordinateur : deux grilles de 10 × 10, cinq navires de chaque côté placés au hasard sans se toucher, et un tir à tour de rôle ; qui touche rejoue, et l'eau autour d'un navire coulé est marquée d'office. Amiral facile qui tire au hasard ou normal qui quadrille puis achève, victoires et victoire la plus rapide par niveau.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:14:45Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Fleet",
+    "description": "Battleship against the computer: two 10 × 10 grids, five ships per side placed at random without touching, and alternating shots; a hit fires again, and the water around a sunk ship is marked automatically. An easy admiral that fires at random or a normal one that sweeps then finishes off, with wins and fastest win per level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.flux",
+   "repo": "NDesumeur/neodex-plugin-flux",
+   "name": "Flux",
+   "description": "Un lecteur de flux sans algorithme : colle un flux RSS ou Atom, l'adresse d'un site ou une chaîne YouTube, et les articles arrivent dans l'ordre de parution, rangés par date avec extrait et image. Lecture dans un panneau, liste « plus tard », filtre par source, recherche, et mise à jour toutes les 30 minutes même onglet fermé, avec widget d'accueil et notification des nouveautés.",
+   "version": "1.0.4",
+   "category": "Internet",
+   "approved": true,
+   "stars": 1,
+   "installs": 104,
+   "updated": "2026-11-08T12:14:50Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Flow",
+    "description": "A feed reader with no algorithm: paste an RSS or Atom feed, a website address or a YouTube channel, and articles arrive in order of publication, grouped by date with excerpt and image. Reading in a panel, a \"later\" list, filter by source, search, and updates every 30 minutes even with the tab closed, with a home widget and notifications for new items."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.football",
+   "repo": "NDesumeur/neodex-plugin-football",
+   "name": "Football",
+   "description": "Suis ton équipe de foot : prochain match, forme, derniers résultats et calendrier, coupes d'Europe comprises. Les matchs du jour en direct avec mise à jour automatique, les classements avec leurs zones, et des feuilles de match avec buts, cartons, remplacements et statistiques. Dix championnats dont la Ligue 1 et la Ligue des champions ; les matchs de ton équipe peuvent aller dans ton emploi du temps. Données ESPN.",
+   "version": "1.0.2",
+   "category": "Sport",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:14:55Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Soccer",
+    "description": "Follow your football team: next match, form, latest results and fixtures, European cups included. Today's matches live with automatic refresh, standings with their zones, and match reports with goals, cards, substitutions and statistics. Ten leagues including Ligue 1 and the Champions League; your team's matches can go into your schedule. ESPN data."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.frappe",
+   "repo": "NDesumeur/neodex-plugin-frappe",
+   "name": "Test de frappe",
+   "description": "Mesure ta vitesse de frappe : tape les mots affichés, le chrono démarre à la première lettre et les fautes s'allument en rouge. Modes au temps (15 s à 2 min) ou aux mots (25 ou 50), option ponctuation et majuscules, résultat en mots par minute avec vitesse brute et précision, record par mode et graphique de tes 20 dernières parties.",
+   "version": "1.3.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 261,
+   "updated": "2026-11-08T12:15:00Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Typing test",
+    "description": "Measure your typing speed: type the words shown, the timer starts at the first letter and mistakes light up in red. Timed modes (15 s to 2 min) or word modes (25 or 50), a punctuation and capitals option, results in words per minute with raw speed and accuracy, a record per mode and a chart of your last 20 games."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.funambule",
+   "repo": "NDesumeur/neodex-plugin-funambule",
+   "name": "Funambule",
+   "description": "Jeu d'équilibre : un funambule avance tout seul sur un fil au-dessus de la ville, et tu le rattrapes en penchant sa perche avec ← et → ou à la souris. Plus il penche, plus il tombe vite ; le vent forcit avec la distance et des rafales, annoncées par des traits blancs, le bousculent. Va le plus loin possible : distance, poteaux franchis et record.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:15:05Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Tightrope walker",
+    "description": "A balance game: a tightrope walker moves forward on their own along a wire above the city, and you catch them by tilting their pole with ← and → or the mouse. The more they lean, the faster they fall; the wind grows with distance and gusts, announced by white streaks, push them around. Go as far as you can: distance, poles passed and record."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.fusionstellaire",
+   "repo": "NDesumeur/neodex-plugin-fusion-stellaire",
+   "name": "Fusion stellaire",
+   "description": "Fais glisser toutes les tuiles d'un côté : deux astres identiques fusionnent en l'astre suivant, de la poussière jusqu'au trou noir. Des débris immobiles coupent les lignes et cassent près d'une fusion ; annulation et trou de ver pour échanger deux tuiles se rechargent en jouant. Modes Galaxie 5 × 5 et Nébuleuse 4 × 4, 15 défis à étoiles, partie en cours reprise sur ton autre PC.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 18,
+   "updated": "2026-11-08T12:15:09Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Stellar Fusion",
+    "description": "Slide every tile to one side: two identical bodies merge into the next one, from dust up to a black hole. Immobile debris cuts the rows and breaks next to a merge; undo and a wormhole to swap two tiles recharge as you play. Galaxy 5 × 5 and Nebula 4 × 4 modes, 15 starred challenges, and the current game resumed on your other PC."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.gifstickers",
+   "repo": "NDesumeur/neodex-plugin-gif-stickers",
+   "name": "GIF & stickers",
+   "description": "Ta bibliothèque de GIF animés et d'images : ajoute-les depuis ton PC, un lien ou une page Giphy, ou colle-les, puis copie-les en un clic pour les coller dans Discord, WhatsApp ou un mail, toujours animés. Favoris, récents, collections par mots-clés, recherche et stickers NeoDex fournis, synchronisés entre tes PC.",
+   "version": "1.1.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 22,
+   "updated": "2026-11-08T12:15:14Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "GIFs & stickers",
+    "description": "Your library of animated GIFs and images: add them from your PC, a link or a Giphy page, or paste them, then copy them in one click to paste into Discord, WhatsApp or an email, still animated. Favourites, recent, keyword collections, search and the bundled NeoDex stickers, synced between your PCs."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.grattciel",
+   "repo": "NDesumeur/neodex-plugin-grattciel",
+   "name": "Gratte-ciel",
+   "description": "Jeu de rythme : chaque étage glisse au-dessus de la tour, lâche-le d'un clic ou à Espace pour qu'il tombe pile sur le précédent. Ce qui dépasse est coupé et la tour rétrécit ; un étage pile dessus garde sa largeur, et trois parfaits à la suite l'élargissent. Les étages vont de plus en plus vite et le ciel change jusqu'à l'espace : monte le plus haut possible.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:15:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Skyscraper",
+    "description": "A timing game: each floor slides above the tower, drop it with a click or Space so it lands exactly on the one below. What overhangs is cut off and the tower narrows; a floor spot on keeps its width, and three perfects in a row widen it. Floors move faster and faster and the sky changes all the way to space: build as high as you can."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.hasard",
+   "repo": "NDesumeur/neodex-plugin-hasard",
+   "name": "Hasard",
+   "description": "Laisse le hasard décider : une roue à tourner avec tes propres choix (un par ligne), de 1 à 6 dés de 4 à 100 faces avec leur total, pile ou face, et un nombre entier tiré entre deux bornes. Tes choix de roue sont gardés et synchronisés.",
+   "version": "1.3.4",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 307,
+   "updated": "2026-11-08T12:15:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Chance",
+    "description": "Let chance decide: a wheel to spin with your own choices (one per line), 1 to 6 dice with 4 to 100 sides and their total, heads or tails, and a whole number drawn between two limits. Your wheel choices are kept and synced."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.horloge",
+   "repo": "NDesumeur/neodex-plugin-horloge",
+   "name": "Horloge mondiale",
+   "description": "L'heure en direct dans les villes de ton choix : heure à la seconde, date, décalage avec toi et jour ou nuit, changements d'heure compris. Ajoute une ville en tapant son nom, retire-la d'un clic, et décale toutes les horloges jusqu'à 24 heures pour savoir quelle heure il sera là-bas.",
+   "version": "1.3.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 32,
+   "updated": "2026-11-08T12:15:29Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "World clock",
+    "description": "The live time in the cities of your choice: time to the second, date, offset from you and day or night, daylight saving included. Add a city by typing its name, remove it in one click, and shift every clock by up to 24 hours to know what time it will be there."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.inondation",
+   "repo": "NDesumeur/neodex-plugin-inondation",
+   "name": "Inondation",
+   "description": "Casse-tête de couleurs : ta tache part du coin, prend la couleur choisie et avale ses voisines de même couleur. Couvre les 196 cases de la grille dans le nombre de coups permis, de 30 au niveau 1 jusqu'à 22. Une grille fixe par niveau pour battre ton record, ou des grilles au hasard ; couleurs au clic ou aux touches 1 à 6, avec un motif par couleur.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:15:34Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Flood",
+    "description": "A colour puzzle: your patch starts in the corner, takes the chosen colour and swallows its neighbours of the same colour. Cover all 196 cells of the grid within the allowed moves, from 30 at level 1 down to 22. A fixed grid per level to beat your record, or random grids; colours by click or keys 1 to 6, with a pattern for each colour."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.journal",
+   "repo": "NDesumeur/neodex-plugin-journal",
+   "name": "Journal",
+   "description": "Un journal intime, une page par jour enregistrée pendant que tu écris, avec ton humeur de 1 à 5. Un calendrier montre les jours écrits de la couleur de ton humeur ; clique un jour pour relire ou compléter sa page. Jours écrits ce mois-ci, total et série de jours d'affilée ; tout reste dans NeoDex et ta synchro.",
+   "version": "1.1.3",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 296,
+   "updated": "2026-11-08T12:15:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Newspaper",
+    "description": "A personal diary, one page per day saved as you write, with your mood from 1 to 5. A calendar shows written days in the colour of your mood; click a day to read or add to its page. Days written this month, total and streak of days in a row; everything stays in NeoDex and your sync."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.joyaux",
+   "repo": "NDesumeur/neodex-plugin-joyaux",
+   "name": "Joyaux",
+   "description": "Jeu d'alignement : échange deux pierres voisines, au clic ou en glissant, pour en aligner trois ou plus de la même sorte. Elles disparaissent, les autres tombent, et chaque alignement en cascade multiplie les points. 25 coups par partie, un échange inutile ne coûte rien, le plateau se mélange s'il est bloqué, et chaque pierre a sa forme pour se passer des couleurs.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:15:44Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Jewels",
+    "description": "A matching game: swap two neighbouring stones, by click or drag, to line up three or more of the same kind. They vanish, the others fall, and each cascading match multiplies the points. 25 moves per game, a useless swap costs nothing, the board shuffles when stuck, and each stone has its own shape so colour is not needed."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.labyrinthe",
+   "repo": "NDesumeur/neodex-plugin-labyrinthe",
+   "name": "Labyrinthe",
+   "description": "Explore un labyrinthe dans le noir à la lueur d'une lanterne : trouve la clé, cachée au plus loin du départ, puis la porte, au plus loin de la clé. Ce que la lanterne a éclairé reste sur le plan. Labyrinthes générés et toujours faisables, plus grands à chaque niveau, plan fixe par niveau ou au hasard, et record de temps par niveau.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:15:49Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Labyrinth",
+    "description": "Explore a maze in the dark by the light of a lantern: find the key, hidden furthest from the start, then the door, furthest from the key. What the lantern has lit stays on the map. Generated mazes that are always solvable, bigger at each level, a fixed or random layout per level, and a time record per level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.lanterne",
+   "repo": "NDesumeur/neodex-plugin-lanterne",
+   "name": "Lanterne",
+   "description": "Vol sans fin dans une grotte obscure : maintiens Espace ou le clic pour monter, relâche pour descendre. La flamme de la lanterne baisse sans arrêt ; ramasse les fioles d'huile, les cristaux et un feu de camp tous les 1000 m, évite la roche, les stalactites et les chauves-souris, que l'éclat de lumière fait fuir. Une nouvelle zone tous les 500 m.",
+   "version": "1.0.4",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 200,
+   "updated": "2026-11-08T12:15:54Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Lantern",
+    "description": "An endless flight through a dark cave: hold Space or the mouse button to rise, release to fall. The lantern's flame keeps dimming; collect oil flasks, crystals and a campfire every 1000 m, avoid rock, stalactites and bats, which a burst of light scares away. A new zone every 500 m."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.lol",
+   "repo": "NDesumeur/neodex-plugin-lol",
+   "name": "Invocateur",
+   "description": "Le tableau de bord de ton compte League of Legends, lu depuis le client ouvert (sans clé) ou avec une clé d'API Riot : classement, maîtrises, historique détaillé par file, analyse de ton jeu (séries, mental, écart face à ton adversaire de voie, résultats par rôle, heure et durée, conseils), statistiques par champion et courbes d'évolution. Aucun mot de passe demandé.",
+   "version": "1.4.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 28,
+   "updated": "2026-11-08T12:15:59Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Summoner",
+    "description": "The dashboard for your League of Legends account, read from the open client (no key) or with a Riot API key: rank, masteries, detailed history by queue, analysis of your play (streaks, mental game, gap against your lane opponent, results by role, hour and length, tips), stats per champion and progress charts. No password asked for."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.lucioles",
+   "repo": "NDesumeur/neodex-plugin-lucioles",
+   "name": "Lucioles",
+   "description": "Casse-tête de lumières : dans un pré de 5 × 5 lucioles, toucher une luciole l'allume ou l'éteint, elle et ses quatre voisines. Allume-les toutes en le moins de coups possible. Des prés toujours faisables, de 3 à 12 coups, qui s'ouvrent l'un après l'autre, et trois étoiles si tu fais aussi bien que le jeu.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:16:04Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Fireflies",
+    "description": "A lights puzzle: in a meadow of 5 × 5 fireflies, touching a firefly turns it on or off, along with its four neighbours. Light them all in as few moves as possible. Meadows that are always solvable, from 3 to 12 moves, opening one after another, and three stars if you do as well as the game."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.memoire",
+   "repo": "NDesumeur/neodex-plugin-memoire",
+   "name": "Mémoire",
+   "description": "Le jeu de mémoire avec les logos de NeoDex : retourne les cartes deux par deux et retrouve toutes les paires en un minimum de coups. De 6 à 24 paires, logos tirés au hasard à chaque partie, chrono, et record de coups pour chaque taille.",
+   "version": "1.1.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:16:09Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Memory",
+    "description": "The memory game with NeoDex's logos: turn the cards over two at a time and find every pair in as few moves as possible. From 6 to 24 pairs, logos drawn at random each game, a timer, and a move record for each size."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.meteo",
+   "repo": "NDesumeur/neodex-plugin-meteo",
+   "name": "Météo",
+   "description": "La météo de ta ville ou d'une autre : temps actuel avec ressenti, vent, humidité, pression, UV, lever et coucher du soleil et qualité de l'air ; les 36 prochaines heures en courbe avec le risque de pluie ; les prévisions sur 10 jours avec températures, pluie et vent. Données Open-Meteo, sans compte.",
+   "version": "1.1.2",
+   "category": "Voyage",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:16:14Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Weather report",
+    "description": "The weather for your city or another: current conditions with feels-like, wind, humidity, pressure, UV, sunrise and sunset and air quality; the next 36 hours as a chart with chance of rain; the 10-day forecast with temperatures, rain and wind. Open-Meteo data, no account needed."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.meteores",
+   "repo": "NDesumeur/neodex-plugin-meteores",
+   "name": "Météores",
+   "description": "Jeu de tir spatial vertical : ton vaisseau tire tout seul, déplace-le au clavier ou à la souris pour détruire des météores qui se divisent, des drones en vagues et un vaisseau amiral toutes les 5 vagues. Seul le cockpit est vulnérable ; bombes, bouclier, aimant, vies et arme jusqu'au niveau 5, multiplicateur jusqu'à ×8, record de score et de vague.",
+   "version": "1.3.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 258,
+   "updated": "2026-11-08T12:16:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Meteors",
+    "description": "A vertical space shooter: your ship fires on its own, move it with the keyboard or mouse to destroy meteors that split, drones in waves and a flagship every 5 waves. Only the cockpit can be hit; bombs, shield, magnet, lives and a weapon up to level 5, a multiplier up to ×8, and score and wave records."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.mineur",
+   "repo": "NDesumeur/neodex-plugin-mineur",
+   "name": "Mineur",
+   "description": "Jeu de forage : creuse à gauche, à droite ou vers le bas dans une mine de 87 mètres tirée au hasard, ramasse cuivre, fer, argent, or, rubis et saphir, de plus en plus précieux en profondeur, et remonte les vendre à la surface où le plein se fait tout seul. Améliore réservoir, soute et foret pour la roche dure ; la lave et la panne sèche coûtent ta soute.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:16:23Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Minor",
+    "description": "A drilling game: dig left, right or down through a randomly generated 87-metre mine, collect copper, iron, silver, gold, ruby and sapphire, more valuable the deeper you go, and climb back to sell them at the surface where the tank refills on its own. Upgrade the tank, hold and drill for hard rock; lava and running out of fuel cost you your hold."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.minigolf",
+   "repo": "NDesumeur/neodex-plugin-minigolf",
+   "name": "Minigolf",
+   "description": "Minigolf de neuf trous (par 31) : clique, tire en arrière pour viser et doser la force, lâche pour frapper. Le sable freine, l'eau ramène la balle avec un coup de pénalité, les bordures font rebondir. Option parcours au hasard avec neuf nouveaux trous à chaque partie ; résultat par trou (birdie, bogey…), meilleur parcours et trous en un.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:16:28Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Minigolf",
+    "description": "Nine-hole minigolf (par 31): click, pull back to aim and set the power, release to hit. Sand slows the ball, water brings it back with a one-stroke penalty, walls make it bounce. A random course option with nine new holes every game; a result per hole (birdie, bogey…), best round and holes in one."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.minuteur",
+   "repo": "NDesumeur/neodex-plugin-minuteur",
+   "name": "Minuteur",
+   "description": "Plusieurs minuteurs en même temps : saisis une durée jusqu'à 99 heures ou choisis-en une toute prête (1 min à 1 h), donne un nom si tu veux, et chaque minuteur a sa carte avec un anneau qui se vide, pause, reprise, remise à zéro et suppression. À la fin : trois bips, une notification et la carte qui clignote. Le décompte continue même onglet fermé.",
+   "version": "1.1.3",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 32,
+   "updated": "2026-11-08T12:16:33Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Timer",
+    "description": "Several timers at once: enter a duration up to 99 hours or pick a ready-made one (1 min to 1 h), add a name if you like, and each timer gets its own card with an emptying ring, pause, resume, reset and delete. When time is up: three beeps, a notification and a blinking card. The countdown goes on even with the tab closed."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.miseajour",
+   "repo": "NDesumeur/neodex-plugin-miseajour",
+   "name": "Mise à jour",
+   "description": "Plugin système : ta version de NeoDex et d'Electron, le type d'installation, la recherche de mises à jour à la demande, le téléchargement avec barre de progression puis le redémarrage en un clic (signature vérifiée avant l'installation), les notes de version, et la liste des plugins qui ont une nouvelle version au NeoStore.",
+   "version": "1.1.2",
+   "category": "Système",
+   "approved": true,
+   "stars": 1,
+   "installs": 15,
+   "updated": "2026-11-08T12:16:38Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Update",
+    "description": "System plugin: your NeoDex and Electron versions, the installation type, on-demand update checks, download with a progress bar then restart in one click (signature checked before installing), release notes, and the list of plugins with a new version in the NeoStore."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.monodle",
+   "repo": "NDesumeur/neodex-plugin-monodle",
+   "name": "MonogatariDle",
+   "description": "Jeu de devinettes de la série Monogatari : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature, rôle et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
+   "version": "1.3.2",
+   "category": "NeoDle",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-08T12:16:43Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Monogate",
+    "description": "A guessing game from the Monogatari series: find the mystery character by typing names. In Classic mode, each guess compares gender, nature, role and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.mosaique",
+   "repo": "NDesumeur/neodex-plugin-mosaique",
+   "name": "Mosaïque",
+   "description": "Grilles logiques de 10 × 10 : les nombres de chaque ligne et colonne donnent les blocs de cases noires, à toi de déduire lesquelles noircir. Clic pour noircir, clic droit pour une croix, glisser pour plusieurs cases ; les lignes justes se grisent. 12 grilles qui révèlent une image en couleur, des grilles au hasard sans fin, chronomètre et temps gardés.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:16:48Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Mosaic",
+    "description": "10 × 10 logic grids: the numbers on each row and column give the blocks of black cells, and you work out which ones to fill. Click to fill, right-click for a cross, drag for several cells; correct lines turn grey. 12 grids that reveal a colour picture, endless random grids, a timer and saved times."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.motdujour",
+   "repo": "NDesumeur/neodex-plugin-mot-du-jour",
+   "name": "Mot du jour",
+   "description": "Trouve un mot français en 6 essais : la première lettre est donnée et la longueur change chaque jour (5 à 8 lettres), le même mot pour tout le monde. Vert : bien placée, jaune : ailleurs dans le mot, gris : absente ; les accents ne comptent pas et le mot doit exister. Partie libre de 5 à 8 lettres, grille de couleurs à partager, séries et statistiques par mode.",
+   "version": "1.1.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 246,
+   "updated": "2026-11-08T12:16:53Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Word of the day",
+    "description": "Find a French word in 6 tries: the first letter is given and the length changes every day (5 to 8 letters), the same word for everyone. Green: right place, yellow: elsewhere in the word, grey: not in it; accents do not count and the word must exist. A free mode with 5 to 8 letters, a shareable colour grid, streaks and statistics per mode."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.motsmeles",
+   "repo": "NDesumeur/neodex-plugin-mots-meles",
+   "name": "Mots mêlés",
+   "description": "Mots mêlés en français : retrouve les mots cachés en glissant de la première à la dernière lettre. 17 thèmes (animaux, pays, villes, métiers, sports, mangas…) ou tous mélangés, grilles de 10 × 10 à 20 × 20 avec 8 à 30 mots, et trois niveaux : 2 sens, avec diagonales, ou 8 sens à l'envers compris. Chronomètre et record par taille et niveau.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 18,
+   "updated": "2026-11-08T12:16:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Word searches",
+    "description": "French word search: find the hidden words by dragging from the first to the last letter. 17 themes (animals, countries, cities, jobs, sports, manga…) or all mixed, grids from 10 × 10 to 20 × 20 with 8 to 30 words, and three levels: 2 directions, with diagonals, or all 8 including backwards. A timer and a record per size and level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.music",
+   "repo": "NDesumeur/neodex-plugin-music",
+   "name": "NeoMusic",
+   "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
+   "version": "2.0.1",
+   "category": "Musique",
+   "approved": true,
+   "stars": 1,
+   "installs": 481,
+   "updated": "2026-11-08T12:17:03Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoMusic",
+    "description": "A music player: streamed or downloaded playlists, adding from YouTube, SoundCloud, Deezer or a CSV file, favourites, a release radar and weekly discoveries. 10-band equaliser, limiter, ReplayGain, sleep mode, alarm, a floating mini player and global shortcuts. Detailed statistics, 34 achievements, levels that unlock themes, a visualiser and a vinyl turntable."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.nba",
+   "repo": "NDesumeur/neodex-plugin-nba",
+   "name": "NBA",
+   "description": "Les matchs NBA de chaque nuit aux heures de Paris avec scores en direct, feuilles de match (quart-temps, stats des équipes et des joueurs, stats avancées eFG %, TS %, rythme), classement Est et Ouest avec playoffs et play-in, page de chaque équipe et fiches joueurs. Étoile sur tes équipes : leurs matchs en premier, dans ton emploi du temps et notifiés (début et score final). Données ESPN.",
+   "version": "1.2.3",
+   "category": "Sport",
+   "approved": true,
+   "stars": 1,
+   "installs": 32,
+   "updated": "2026-11-08T12:17:08Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NBA",
+    "description": "Each night's NBA games in Paris time with live scores, box scores (quarters, team and player stats, advanced eFG %, TS %, pace), East and West standings with playoffs and play-in, a page for each team and player profiles. Star your teams: their games first, in your schedule and notified (tip-off and final score). ESPN data."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.neome",
+   "repo": "NDesumeur/neodex-plugin-neome",
+   "name": "NeoMe",
+   "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention.",
+   "version": "1.3.2",
+   "category": "Compagnon",
+   "approved": true,
+   "stars": 1,
+   "installs": 28,
+   "updated": "2026-11-08T12:17:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoMe",
+    "description": "Your companion: it lives on the home page and walks along the taskbar. Cuddles on click, tickles on double-click, a right-click menu to feed it, play ball (combo and record), put it to bed or rename it. Belly, joy and energy drop over time; it sleeps at night, dances to your music and levels up with every bit of attention."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.neonrush",
+   "repo": "NDesumeur/neodex-plugin-neonrush",
+   "name": "Néon Rush",
+   "description": "Course sans fin sur trois voies dans une ville de nuit au néon : saute les barrières, glisse sous les panneaux, change de voie avant le métro (certains foncent vers toi). Des panneaux de couleur annoncent chaque obstacle, la vitesse double peu à peu. Score : distance plus 5 points par pièce ; clavier, souris ou glissé au doigt ; record et statistiques gardés.",
+   "version": "1.0.4",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 46,
+   "updated": "2026-11-08T12:17:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Neon Rush",
+    "description": "An endless three-lane run through a neon city at night: jump barriers, slide under signs, switch lanes before the subway train (some rush towards you). Coloured signs announce each obstacle and the speed gradually doubles. Score: distance plus 5 points per coin; keyboard, mouse or swipe; record and statistics kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.neotha",
+   "repo": "NDesumeur/neodex-plugin-neotha",
+   "name": "NeoTha",
+   "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables.",
+   "version": "1.4.5",
+   "category": "Musique",
+   "approved": true,
+   "stars": 1,
+   "installs": 292,
+   "updated": "2026-11-08T12:17:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoTha",
+    "description": "A mouse rhythm game: notes come from the end of a tunnel towards a 3 × 3 grid; put your cursor on them as they land. The 200 Rythme tracks in 4 difficulties, or levels created from an audio file or your NeoMusic library (tempo detected). Combo up to double points, grades from S to D, adjustable audio offset and cursor."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.orbite",
+   "repo": "NDesumeur/neodex-plugin-orbite",
+   "name": "Orbite",
+   "description": "Jeu d'adresse à une touche : ton vaisseau tourne seul autour d'un soleil sur trois orbites, tu choisis seulement laquelle. Évite les astéroïdes qui traversent l'écran, quitte l'orbite intérieure quand le soleil clignote avant l'éruption, ramasse les cristaux à la suite pour un multiplicateur jusqu'à ×5. La vitesse monte, record et statistiques gardés.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:17:28Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Orbit",
+    "description": "A one-button skill game: your ship circles a sun on its own over three orbits, and you only choose which one. Dodge asteroids crossing the screen, leave the inner orbit when the sun blinks before a flare, and collect crystals in a row for a multiplier up to ×5. The speed rises; record and statistics are kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.outilstexte",
+   "repo": "NDesumeur/neodex-plugin-outils-texte",
+   "name": "Outils texte",
+   "description": "Trois outils de texte : comparer deux versions ligne par ligne (ajouts, retraits, modifications, majuscules et espaces ignorables), compter en direct mots, caractères, phrases, temps de lecture, mots les plus utilisés et limites Tweet, SMS, SEO ou bio Instagram, et corriger orthographe et typographie en français ou en anglais avec suggestions au clic droit et dictionnaire personnel.",
+   "version": "1.1.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 20,
+   "updated": "2026-11-08T12:17:33Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Text tools",
+    "description": "Three text tools: compare two versions line by line (additions, removals, changes, with case and spaces optionally ignored), count words, characters, sentences, reading time, most used words and Tweet, SMS, SEO or Instagram bio limits live, and check spelling and typography in French or English with right-click suggestions and a personal dictionary."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.paint",
+   "repo": "NDesumeur/neodex-plugin-paint",
+   "name": "Paint",
+   "description": "Logiciel de dessin : pinceau, gomme, ligne, rectangle, ellipse (pleins ou non), remplissage, pipette, texte et sélection, chacun avec sa lettre au clavier. Annulation sur 40 étapes, zoom, rotation, miroir, recadrage, redimensionnement, 9 filtres et mode net sans lissage. Ouvre une image par glisser-déposer et enregistre en PNG, JPEG ou WebP.",
+   "version": "1.1.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:17:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Paint",
+    "description": "A drawing program: brush, eraser, line, rectangle, ellipse (filled or not), fill, colour picker, text and selection, each with its own key. 40-step undo, zoom, rotation, mirror, crop, resize, 9 filters and a sharp mode without smoothing. Open an image by drag and drop and save as PNG, JPEG or WebP."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.pdf",
+   "repo": "NDesumeur/neodex-plugin-pdf",
+   "name": "NeoPDF",
+   "description": "Lecteur de PDF avec annotations : ouvre un fichier, glisse-le ou lis un PDF venu d'un site, zoom, pleine largeur et recherche dans tout le texte. Stylo, surligneur, notes posées sur la page et gomme en six couleurs, avec annulation. Les annotations sont gardées pour chaque PDF et synchronisées ; enregistre une copie simple ou annotée sans toucher à l'original.",
+   "version": "1.1.2",
+   "category": "Bureautique",
+   "approved": true,
+   "stars": 1,
+   "installs": 24,
+   "updated": "2026-11-08T12:17:44Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoPDF",
+    "description": "A PDF reader with annotations: open a file, drag it in or read a PDF from a website, with zoom, full width and search across all the text. Pen, highlighter, notes placed on the page and eraser in six colours, with undo. Annotations are kept for each PDF and synced; save a plain or annotated copy without touching the original."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.peche",
+   "repo": "NDesumeur/neodex-plugin-peche",
+   "name": "Pêche",
+   "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 153 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; jour, nuit et météo changeante, 5 cannes, 7 appâts, coffres au trésor, collection, trois défis par jour et niveau de pêcheur.",
+   "version": "1.2.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:17:48Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Fishing",
+    "description": "A fishing game: set your cast, wait for the real bite, strike fast, then tire the fish by managing the tension and its runs left or right. 153 species across 7 places, each with its own hours, weather and favourite baits; day, night and changing weather, 5 rods, 7 baits, treasure chests, a collection, three daily challenges and an angler level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.pendu",
+   "repo": "NDesumeur/neodex-plugin-pendu",
+   "name": "Pendu",
+   "description": "Le jeu du pendu avec des mots français : 17 thèmes ou tous mélangés, lettres au clic ou au clavier, accents ignorés (E trouve aussi É, È, Ê). Quatre niveaux, de 10 erreurs avec la première et la dernière lettre données jusqu'à 4 erreurs sur des mots longs ; indice contre une erreur, mot dévoilé en cas d'échec, séries de victoires gardées.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:17:53Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Hanged",
+    "description": "Hangman with French words: 17 themes or all mixed, letters by click or keyboard, accents ignored (E also finds É, È, Ê). Four levels, from 10 mistakes with the first and last letters given down to 4 mistakes on long words; a hint for one mistake, the word revealed on a loss, winning streaks kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.plumo",
+   "repo": "NDesumeur/neodex-plugin-plumo",
+   "name": "Plumo",
+   "description": "Jeu d'adresse à une touche : un petit oiseau retombe sans cesse, chaque clic ou appui sur Espace le fait remonter d'un battement d'ailes pour passer entre les colonnes. Les ouvertures se resserrent et la vitesse monte, le ciel passe du jour au soir, à la nuit puis à l'aube tous les 25 points. Médailles de bronze à 10 points jusqu'au platine à 100.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 7,
+   "updated": "2026-11-08T12:17:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Plumo",
+    "description": "A one-button skill game: a little bird keeps falling, and each click or Space press lifts it with a wing flap to get between the columns. Gaps narrow and speed rises, and the sky moves from day to evening, night and dawn every 25 points. Medals from bronze at 10 points up to platinum at 100."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.ponts",
+   "repo": "NDesumeur/neodex-plugin-ponts",
+   "name": "Ponts",
+   "description": "Casse-tête logique : relie toutes les îles par des ponts droits, un ou deux entre deux îles voisines, sans croisement, pour former un seul archipel. Le chiffre de chaque île dit combien de ponts en partent ; elle devient verte quand c'est juste. Glisser pour poser un pont, retour arrière pour annuler, archipels au hasard de 7 × 7 ou 9 × 9 et record de temps.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:18:03Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Bridges",
+    "description": "A logic puzzle: connect all the islands with straight bridges, one or two between neighbouring islands, with no crossings, to form a single archipelago. Each island's number says how many bridges leave it; it turns green when right. Drag to place a bridge, Backspace to undo, random 7 × 7 or 9 × 9 archipelagos and time records."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.pressepapiers",
+   "repo": "NDesumeur/neodex-plugin-presse-papiers",
+   "name": "Presse-papiers",
+   "description": "L'historique de tout ce que tu copies dans Windows, même NeoDex en arrière-plan : recherche, éléments épinglés qui ne partent jamais, un clic pour recopier, doublons remontés en tête, pause et effacement. Ctrl+Alt+H l'ouvre de n'importe où. Les 200 derniers textes sont gardés sur ton PC, et les mots de passe copiés depuis un gestionnaire ne sont jamais enregistrés.",
+   "version": "1.0.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 7,
+   "updated": "2026-11-08T12:18:07Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Clipboard",
+    "description": "The history of everything you copy in Windows, even with NeoDex in the background: search, pinned items that never go away, one click to copy again, duplicates moved to the top, pause and clear. Ctrl+Alt+H opens it from anywhere. The last 200 texts are kept on your PC, and passwords copied from a password manager are never recorded."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.prisme",
+   "repo": "NDesumeur/neodex-plugin-prisme",
+   "name": "Prisme",
+   "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 90,
+   "updated": "2026-11-08T12:18:12Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Prism",
+    "description": "A keyboard rhythm game: notes burst from a central crystal towards four pads; hit the right arrow (or WASD) as they land, with two-key chords and long notes to hold. The 200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.prixjeux",
+   "repo": "NDesumeur/neodex-plugin-prixjeux",
+   "name": "Prix des jeux",
+   "description": "Les jeux offerts sur l'Epic Games Store cette semaine et la suivante, les promos Steam du moment en euros classées par réduction, et ta liste de jeux Steam à surveiller avec un prix cible. La liste est vérifiée toutes les 3 heures, même onglet fermé : une notification arrive quand un jeu passe sous ton prix ou qu'un nouveau jeu gratuit sort.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:18:17Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Game prices",
+    "description": "The games given away on the Epic Games Store this week and next, the current Steam sales in euros sorted by discount, and your list of Steam games to watch with a target price. The list is checked every 3 hours, even with the tab closed: a notification arrives when a game drops below your price or a new free game comes out."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.processus",
+   "repo": "NDesumeur/neodex-plugin-processus",
+   "name": "Processus",
+   "description": "Un gestionnaire des tâches simple : les programmes regroupés par nom avec leur processeur et leur mémoire, actualisés toutes les 2 secondes, filtre et tri, fermeture forcée comme « Fin de tâche » (programmes de Windows protégés). Pour chaque plugin de NeoDex : processeur, mémoire, données téléchargées, place sur le disque, et un bouton pour le décharger.",
+   "version": "1.1.2",
+   "category": "Système",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:18:22Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Process",
+    "description": "A simple task manager: programs grouped by name with their processor and memory use, refreshed every 2 seconds, with filter and sort, and forced closing like \"End task\" (Windows programs protected). For each NeoDex plugin: processor, memory, data downloaded, size on disk, and a button to unload it."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.puissance4",
+   "repo": "NDesumeur/neodex-plugin-puissance4",
+   "name": "Puissance 4",
+   "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, ou à deux sur le même écran. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 7,
+   "updated": "2026-11-08T12:18:26Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Power 4",
+    "description": "Line up 4 discs of your colour before the other player on a 7 × 6 grid, horizontally, vertically or diagonally. Against the computer, which looks 2, 4 or 6 moves ahead depending on the level, or two players on the same screen. Click or arrows and Enter, undo the last move, and a record of wins and losses per level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.pulsar",
+   "repo": "NDesumeur/neodex-plugin-pulsar",
+   "name": "Pulsar",
+   "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 90,
+   "updated": "2026-11-08T12:18:31Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Pulsar",
+    "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.raquettes",
+   "repo": "NDesumeur/neodex-plugin-raquettes",
+   "name": "Raquettes",
+   "description": "Duel de raquettes contre l'ordinateur sur un terrain de nuit : déplace ta raquette à la souris ou aux flèches et renvoie la balle sans la laisser passer. Le bord de la raquette renvoie en biais, la balle accélère à chaque échange, le premier à 7 points gagne. Trois niveaux d'adversaire qui anticipe les rebonds, victoires et meilleur écart gardés.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:18:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Snowshoes",
+    "description": "A paddle duel against the computer on a night-time court: move your paddle with the mouse or arrows and return the ball without letting it past. The paddle's edge sends it at an angle, the ball speeds up with every exchange, and the first to 7 points wins. Three opponent levels that anticipate bounces, with wins and best margin kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.reseau",
+   "repo": "NDesumeur/neodex-plugin-reseau",
+   "name": "Réseau",
+   "description": "Teste ta connexion en une quinzaine de secondes : ping, gigue et pertes vers ta box, vers Internet et vers les serveurs de League of Legends EUW, vitesse du DNS, et une phrase qui dit d'où vient le problème (box, opérateur, DNS, Wi-Fi lent). Liste aussi les réseaux Wi-Fi enregistrés sur ton PC, avec leur mot de passe à afficher ou copier.",
+   "version": "1.0.2",
+   "category": "Système",
+   "approved": true,
+   "stars": 1,
+   "installs": 7,
+   "updated": "2026-11-08T12:18:40Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Network",
+    "description": "Tests your connection in about fifteen seconds: ping, jitter and loss to your router, to the internet and to the League of Legends EUW servers, DNS speed, and a sentence saying where the problem comes from (router, provider, DNS, slow Wi-Fi). Also lists the Wi-Fi networks saved on your PC, with their password to show or copy."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.reussite",
+   "repo": "NDesumeur/neodex-plugin-reussite",
+   "name": "Réussite",
+   "description": "Le solitaire classique (Klondike) : range les 52 cartes dans les quatre familles de l'As au Roi en les déplaçant entre sept colonnes, par ordre décroissant et couleurs alternées. Glisse les cartes ou clique pour les envoyer à la meilleure place, pioche une ou trois cartes, annule sans limite ; fin automatique, temps, coups et meilleur temps gardés.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 4,
+   "updated": "2026-11-08T12:18:45Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Success",
+    "description": "Classic solitaire (Klondike): sort the 52 cards into the four foundations from Ace to King by moving them between seven columns, in descending order and alternating colours. Drag cards or click to send them to the best place, draw one or three cards, undo without limit; automatic finish, time, moves and best time kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.reversi",
+   "repo": "NDesumeur/neodex-plugin-reversi",
+   "name": "Reversi",
+   "description": "Le jeu de pions à retourner sur un plateau de 8 × 8 : pose un pion pour encadrer ceux de l'ordinateur en ligne, en colonne ou en diagonale, et ils passent à ta couleur. Les cases jouables sont marquées, on passe son tour sans coup possible, le plus de pions à la fin gagne. Trois niveaux, jusqu'à un adversaire qui prévoit 4 coups ; bilan par niveau.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:18:50Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Reversi",
+    "description": "The disc-flipping game on an 8 × 8 board: place a disc to surround the computer's discs in a row, column or diagonal, and they turn to your colour. Playable squares are marked, you pass with no possible move, and the most discs at the end wins. Three levels, up to an opponent that looks 4 moves ahead; record per level."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.rythme",
+   "repo": "NDesumeur/neodex-plugin-rythme",
+   "name": "Rythme",
+   "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
+   "version": "1.6.4",
+   "category": "Musique",
+   "approved": true,
+   "stars": 1,
+   "installs": 311,
+   "updated": "2026-11-08T12:18:55Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Pace",
+    "description": "A 4-lane rhythm game: press D, F, J, K (or the arrows) when notes touch the line, and hold long notes. 200 tracks composed and played by the game, each in Easy, Normal, Hard and Expert, or levels created from an audio file or your NeoMusic library. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sautstellaire",
+   "repo": "NDesumeur/neodex-plugin-saut-stellaire",
+   "name": "Saut stellaire",
+   "description": "Course sans fin sur une planète lointaine : saute par-dessus les cristaux (maintiens pour sauter plus haut, double saut en l'air), reste au sol sous les météores, attrape les étoiles à la suite pour un multiplicateur jusqu'à ×4 et un bouclier pour encaisser un choc. La vitesse monte jusqu'à plus du double ; score à la distance et aux étoiles, record gardé.",
+   "version": "1.3.3",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 263,
+   "updated": "2026-11-08T12:19:00Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Stellar Leap",
+    "description": "An endless run on a distant planet: jump over crystals (hold to jump higher, double jump in the air), stay on the ground under meteors, catch stars in a row for a multiplier up to ×4 and a shield to take a hit. The speed rises to more than double; score by distance and stars, record kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sheets",
+   "repo": "NDesumeur/neodex-plugin-sheets",
+   "name": "NeoSheets",
+   "description": "Un tableur : formules avec près de 40 fonctions en français ou en anglais (SOMME, SI, RECHERCHEV, NB.SI…), recopie vers le bas, mise en forme et formats de nombres, tri, insertion de lignes et colonnes, plusieurs feuilles et graphiques en barres, courbes ou camembert. Ouvre et exporte Excel, OpenDocument, CSV et PDF ; classeurs enregistrés tout seuls et synchronisés.",
+   "version": "1.2.2",
+   "category": "Bureautique",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-08T12:19:05Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoSheets",
+    "description": "A spreadsheet: formulas with nearly 40 functions in French or English (SUM, IF, VLOOKUP, COUNTIF…), fill down, formatting and number formats, sorting, inserting rows and columns, several sheets and bar, line or pie charts. Opens and exports Excel, OpenDocument, CSV and PDF; workbooks saved automatically and synced."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sillage",
+   "repo": "NDesumeur/neodex-plugin-sillage",
+   "name": "Sillage",
+   "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 91,
+   "updated": "2026-11-08T12:19:09Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Wake",
+    "description": "A flying rhythm game: your ship speeds along four altitudes above a city at night. Climb and dive to pick up stars at the height of their sound, follow the ribbons of long notes and get through energy gates with a boost. The 200 Rythme tracks rated from 1 to 10 stars or your own music; combo and grades from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.slides",
+   "repo": "NDesumeur/neodex-plugin-slides",
+   "name": "NeoSlides",
+   "description": "Des présentations : diapositives à partir de modèles (titre, deux colonnes, citation, chiffres clés…), textes, images et formes à placer à la souris, alignement et ordre des éléments, dix thèmes, transitions et notes de l'orateur. Mode présentation plein écran au clavier, export en PDF ; présentations enregistrées toutes seules et synchronisées entre tes PC.",
+   "version": "1.2.2",
+   "category": "Bureautique",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-08T12:19:14Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NeoSlides",
+    "description": "Presentations: slides from templates (title, two columns, quote, key figures…), text, images and shapes placed with the mouse, element alignment and order, ten themes, transitions and speaker notes. A keyboard-driven full-screen presentation mode and PDF export; presentations saved automatically and synced between your PCs."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.snuke",
+   "repo": "NDesumeur/neodex-plugin-snuke",
+   "name": "Snuke",
+   "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques synchronisés.",
+   "version": "1.2.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:19:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Snuke",
+    "description": "The snake game on a 24 × 24 board, in six modes: classic (the edges kill), no walls, a four-board maze, moult (the tail turns to stone every 5 fruits), a 60-second time attack where nothing kills, and orchards, where ten fruits each set their own speed and points. Bonus stars, a record per mode and synced statistics."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sortiesanime",
+   "repo": "NDesumeur/neodex-plugin-sorties-anime",
+   "name": "Sorties anime",
+   "description": "Le calendrier des sorties d'animes d'après AniList : tous les épisodes du jour, triés par heure ou par popularité, et tes animes suivis avec le compte à rebours jusqu'au prochain épisode. Leurs sorties des 45 prochains jours s'ajoutent à ton emploi du temps, un rappel arrive 10 minutes avant chaque épisode, et ta liste s'importe depuis FRAnime ou une liste de titres.",
+   "version": "1.2.3",
+   "category": "Anime",
+   "approved": true,
+   "stars": 1,
+   "installs": 30,
+   "updated": "2026-11-08T12:19:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Anime releases",
+    "description": "The anime release calendar from AniList: every episode of the day, sorted by time or popularity, and the shows you follow with a countdown to the next episode. Their releases over the next 45 days go into your schedule, a reminder comes 10 minutes before each episode, and your list can be imported from FRAnime or a list of titles."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.studio",
+   "repo": "NDesumeur/neodex-plugin-studio",
+   "name": "Studio de plugins",
+   "description": "Crée tes petites applis sans code à partir de onze modèles : fiches de révision à répétition espacée, routine du jour, minuteur d'étapes, suivi chiffré avec courbe et objectif, tirage au sort, comptes à rebours, quiz, compteurs, habitudes, liste à cocher et page de liens. L'aperçu suit chaque frappe ; épingle une création en widget sur l'accueil, ajoute un rappel quotidien ou partage-la par un code.",
+   "version": "2.0.3",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 277,
+   "updated": "2026-11-08T12:19:28Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Plugin Studio",
+    "description": "Build small apps without code from eleven templates: spaced-repetition flashcards, a daily routine, a step timer, a number tracker with a chart and goal, a random draw, countdowns, a quiz, counters, habits, a checklist and a links page. The preview follows every keystroke; pin a creation as a widget on the home page, add a daily reminder or share it with a code."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sudoku",
+   "repo": "NDesumeur/neodex-plugin-sudoku",
+   "name": "Sudoku",
+   "description": "Des grilles générées à la volée et toujours à solution unique, en cinq niveaux, de Facile (40 chiffres donnés) à Diabolique (21). Notes au crayon qui se nettoient toutes seules, surlignage des cases liées, annulation, indices, erreurs à montrer ou non, jeu complet au clavier ; meilleur temps par niveau et partie en cours gardée.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:19:33Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Sudoku",
+    "description": "Grids generated on the fly and always with a single solution, in five levels, from Easy (40 digits given) to Diabolical (21). Pencil notes that clean themselves up, highlighting of related cells, undo, hints, mistakes shown or hidden, full keyboard play; best time per level and the game in progress kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.systeme",
+   "repo": "NDesumeur/neodex-plugin-systeme",
+   "name": "Système",
+   "description": "Le tableau de bord de ton PC, mesuré chaque seconde : processeur, mémoire, réseau et température, avec des courbes sur 5 minutes à survoler pour lire chaque instant. Charge de chaque cœur, programmes les plus gourmands en mémoire, espace libre des disques, durée d'allumage et batterie. Rien n'est enregistré, et les mesures s'arrêtent quand tu quittes l'onglet.",
+   "version": "1.1.2",
+   "category": "Système",
+   "approved": true,
+   "stars": 1,
+   "installs": 20,
+   "updated": "2026-11-08T12:19:38Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "System",
+    "description": "Your PC's dashboard, measured every second: processor, memory, network and temperature, with 5-minute charts you can hover to read any moment. Load per core, the programs using the most memory, free disk space, uptime and battery. Nothing is stored, and measurements stop when you leave the tab."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.taquin",
+   "repo": "NDesumeur/neodex-plugin-taquin",
+   "name": "Taquin",
+   "description": "Le jeu de pièces à faire glisser, de 3 × 3 à 8 × 8 : remets dans l'ordre des chiffres, ton fond d'écran NeoDex ou ta propre image, à la souris (une ligne entière glisse d'un clic) ou aux flèches. Grilles toujours solubles, modèle visible en maintenant un bouton, numéros sur l'image en option ; record de coups et de temps pour chaque taille.",
+   "version": "1.1.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 17,
+   "updated": "2026-11-08T12:19:43Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Tease",
+    "description": "The sliding tile game, from 3 × 3 to 8 × 8: put numbers, your NeoDex wallpaper or your own picture back in order, with the mouse (a whole row slides in one click) or the arrow keys. Grids that can always be solved, the model shown while you hold a button, optional numbers on the picture; a moves and time record for each size."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.terminal",
+   "repo": "NDesumeur/neodex-plugin-terminal",
+   "name": "Terminal",
+   "description": "Une console PowerShell dans un onglet de NeoDex : une commande par ligne, l'invite qui suit le dossier courant, les erreurs en rouge, l'historique des 100 dernières commandes aux flèches, et un bouton Redémarrer qui arrête aussi une commande bloquée. Les programmes plein écran comme vim ne fonctionnent pas ici ; rien n'est enregistré.",
+   "version": "1.1.2",
+   "category": "Système",
+   "approved": true,
+   "stars": 1,
+   "installs": 21,
+   "updated": "2026-11-08T12:19:47Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Terminal",
+    "description": "A PowerShell console in a NeoDex tab: one command per line, a prompt that follows the current folder, errors in red, the last 100 commands with the arrow keys, and a Restart button that also stops a stuck command. Full-screen programs such as vim do not work here; nothing is stored."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.traducteur",
+   "repo": "NDesumeur/neodex-plugin-traducteur",
+   "name": "Traducteur",
+   "description": "Traduit pendant que tu écris, entre 16 langues (français, anglais, espagnol, allemand, japonais, chinois, arabe…), avec la détection automatique de la langue de départ, un bouton pour inverser le sens et la copie en un clic. Les longs textes sont découpés aux fins de phrases. Service MyMemory, gratuit et sans compte (environ 5 000 caractères par jour) ; rien n'est enregistré.",
+   "version": "1.3.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 28,
+   "updated": "2026-11-08T12:19:52Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Translator",
+    "description": "Translates as you type, between 16 languages (French, English, Spanish, German, Japanese, Chinese, Arabic…), with automatic detection of the source language, a button to swap direction and one-click copy. Long texts are split at sentence ends. MyMemory service, free and with no account (about 5,000 characters a day); nothing is stored."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.transports",
+   "repo": "NDesumeur/neodex-plugin-transports",
+   "name": "Transports",
+   "description": "Les prochains passages des bus Tadao (Lens, Liévin, Hénin-Beaumont, Carvin) sur les 3 prochaines heures : recherche d'arrêt qui tolère les fautes, bus suivis en direct avec le nombre d'arrêts restants et le retard estimé, détail des arrêts de chaque trajet, mise à jour toutes les 30 secondes et arrêts favoris synchronisés. Données ouvertes de transport.data.gouv.fr.",
+   "version": "1.2.2",
+   "category": "Voyage",
+   "approved": true,
+   "stars": 1,
+   "installs": 33,
+   "updated": "2026-11-08T12:19:57Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Transportation",
+    "description": "The next Tadao buses (Lens, Liévin, Hénin-Beaumont, Carvin) over the next 3 hours: stop search that tolerates typos, buses tracked live with the stops left and the estimated delay, the stops of each trip, updates every 30 seconds and synced favourite stops. Open data from transport.data.gouv.fr."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.traversee",
+   "repo": "NDesumeur/neodex-plugin-traversee",
+   "name": "Traversée",
+   "description": "Un poussin avance le plus loin possible sur un chemin sans fin : prairies avec des arbres à contourner, routes pleines de voitures et de camions, rivières à franchir de tronc en tronc. L'écran avance tout seul et la difficulté monte jusqu'à la rangée 160. Au clavier ou à la souris ; record de rangées synchronisé.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:20:01Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Crossing",
+    "description": "A chick goes as far as it can along an endless path: meadows with trees to go around, roads full of cars and trucks, rivers to cross from log to log. The screen moves forward on its own and the difficulty rises up to row 160. Keyboard or mouse; a synced row record."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.triexpress",
+   "repo": "NDesumeur/neodex-plugin-triexpress",
+   "name": "Tri express",
+   "description": "Un jeu de réflexes au centre de tri : envoie chaque colis du tapis dans le bac de sa couleur avec ← ↓ →, avant qu'il passe la ligne. Les bacs se mélangent tous les 15 colis, les bombes doivent passer sans être triées, le combo multiplie les points jusqu'à ×5 et le tapis accélère. Trois erreurs et la journée est finie ; record et statistiques synchronisés.",
+   "version": "1.0.2",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 6,
+   "updated": "2026-11-08T12:20:06Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Express sorting",
+    "description": "A reflex game at the sorting centre: send each parcel on the belt to the bin of its colour with ← ↓ →, before it crosses the line. The bins shuffle every 15 parcels, bombs must go through unsorted, the combo multiplies points up to ×5 and the belt speeds up. Three mistakes and the day is over; synced record and statistics."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.tuyaux",
+   "repo": "NDesumeur/neodex-plugin-tuyaux",
+   "name": "Tuyaux",
+   "description": "Un jeu de réflexion : fais pivoter les tuyaux d'un clic pour amener l'eau du château d'eau, au centre, jusqu'à toutes les maisons. Réseaux sans boucle et toujours solubles, grilles de 5 × 5 à 8 × 8, jusqu'à 3 étoiles selon le nombre de coups comparé au minimum, et une option de réseaux au hasard ; progression synchronisée.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:20:11Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Pipes",
+    "description": "A puzzle game: rotate the pipes with a click to bring water from the water tower, in the centre, to every house. Loop-free networks that can always be solved, grids from 5 × 5 to 8 × 8, up to 3 stars depending on your moves compared with the minimum, and a random networks option; synced progress."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.unites",
+   "repo": "NDesumeur/neodex-plugin-unites",
+   "name": "Unités",
+   "description": "Un convertisseur d'unités en 19 catégories : longueur, masse, volume, surface, temps, vitesse, température, pression, énergie, puissance, données, débit internet, consommation, cuisine, pointure, monnaies et plus. La valeur s'affiche dans l'unité choisie et dans toutes les autres à la fois ; 31 devises aux taux du jour de la Banque centrale européenne.",
+   "version": "1.3.2",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 35,
+   "updated": "2026-11-08T12:20:16Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Units",
+    "description": "A unit converter in 19 categories: length, mass, volume, area, time, speed, temperature, pressure, energy, power, data, internet speed, fuel consumption, cooking, shoe size, currencies and more. The value is shown in the chosen unit and in all the others at once; 31 currencies at the European Central Bank's daily rates."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.yams",
+   "repo": "NDesumeur/neodex-plugin-yams",
+   "name": "Yams",
+   "description": "Le jeu de dés en solo : cinq dés, trois lancers par tour en gardant ceux que tu veux, et treize cases à remplir (chiffres, brelan, carré, full, suites, Yams, chance). La feuille montre ce que rapporterait chaque case, 63 points en haut donnent 35 de bonus, et une case peut être sacrifiée à 0. Au clavier ou à la souris ; meilleur total et Yams réussis synchronisés.",
+   "version": "1.0.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-08T12:20:21Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Yams",
+    "description": "The dice game, solo: five dice, three rolls per turn keeping the ones you want, and thirteen boxes to fill (numbers, three and four of a kind, full house, straights, Yams, chance). The sheet shows what each box would score, 63 points in the upper section give a 35 bonus, and a box can be sacrificed for 0. Keyboard or mouse; best total and Yams scored are synced."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  }
+ ]
+}
