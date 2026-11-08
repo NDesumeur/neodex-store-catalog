@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-08T18:21:58.261Z",
+ "updated": "2026-11-08T19:21:43.962Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -1728,12 +1728,12 @@
    "repo": "NDesumeur/neodex-plugin-neotha",
    "name": "NeoTha",
    "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables.",
-   "version": "1.4.7",
+   "version": "1.4.8",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 297,
-   "updated": "2026-11-08T17:49:15Z",
+   "installs": 300,
+   "updated": "2026-11-08T19:06:02Z",
    "langs": [
     "fr",
     "en"
@@ -1753,12 +1753,12 @@
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
    "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-08T18:21:46Z",
+   "installs": 6,
+   "updated": "2026-11-08T19:06:25Z",
    "langs": [
     "fr",
     "en"
@@ -2003,12 +2003,12 @@
    "repo": "NDesumeur/neodex-plugin-prisme",
    "name": "Prisme",
    "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.0.4",
+   "version": "1.0.5",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 97,
-   "updated": "2026-11-08T17:49:25Z",
+   "installs": 99,
+   "updated": "2026-11-08T19:06:11Z",
    "langs": [
     "fr",
     "en"
@@ -2103,12 +2103,12 @@
    "repo": "NDesumeur/neodex-plugin-pulsar",
    "name": "Pulsar",
    "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
-   "version": "1.0.4",
+   "version": "1.0.5",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 96,
-   "updated": "2026-11-08T17:49:30Z",
+   "installs": 98,
+   "updated": "2026-11-08T19:06:16Z",
    "langs": [
     "fr",
     "en"
@@ -2228,12 +2228,12 @@
    "repo": "NDesumeur/neodex-plugin-rythme",
    "name": "Rythme",
    "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.6.6",
+   "version": "1.6.7",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 317,
-   "updated": "2026-11-08T17:49:20Z",
+   "installs": 319,
+   "updated": "2026-11-08T19:06:06Z",
    "langs": [
     "fr",
     "en"
@@ -2303,12 +2303,12 @@
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
    "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D.",
-   "version": "1.0.4",
+   "version": "1.0.5",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 97,
-   "updated": "2026-11-08T17:49:35Z",
+   "installs": 99,
+   "updated": "2026-11-08T19:06:21Z",
    "langs": [
     "fr",
     "en"
