@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-08T19:06:29Z",
+  "updated": "2026-11-08T21:00:40Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -1902,7 +1902,7 @@
       "id": "neodex.prisme",
       "name": "Prisme",
       "repo": "NDesumeur/neodex-plugin-prisme",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1921,7 +1921,7 @@
       "id": "neodex.orbe",
       "name": "Orbe",
       "repo": "NDesumeur/neodex-plugin-orbe",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1940,7 +1940,7 @@
       "id": "neodex.sillage",
       "name": "Sillage",
       "repo": "NDesumeur/neodex-plugin-sillage",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
