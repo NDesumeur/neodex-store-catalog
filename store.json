@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-08T22:22:25.270Z",
+ "updated": "2026-11-09T11:22:12.382Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -53,7 +53,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:12:01Z",
    "langs": [
     "fr",
@@ -78,7 +78,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:12:06Z",
    "langs": [
     "fr",
@@ -103,7 +103,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T12:12:11Z",
    "langs": [
     "fr",
@@ -128,7 +128,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T14:46:19Z",
    "langs": [
     "fr",
@@ -153,7 +153,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:12:21Z",
    "langs": [
     "fr",
@@ -178,7 +178,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 350,
+   "installs": 352,
    "updated": "2026-11-08T12:12:26Z",
    "langs": [
     "fr",
@@ -211,7 +211,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T12:12:31Z",
    "langs": [
     "fr",
@@ -236,7 +236,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 20,
+   "installs": 22,
    "updated": "2026-11-08T14:46:24Z",
    "langs": [
     "fr",
@@ -282,7 +282,7 @@
    "category": "Création",
    "approved": true,
    "stars": 1,
-   "installs": 439,
+   "installs": 442,
    "updated": "2026-11-08T12:12:41Z",
    "langs": [
     "fr",
@@ -307,7 +307,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:12:46Z",
    "langs": [
     "fr",
@@ -332,7 +332,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:12:50Z",
    "langs": [
     "fr",
@@ -357,7 +357,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 28,
+   "installs": 30,
    "updated": "2026-11-08T12:12:55Z",
    "langs": [
     "fr",
@@ -382,7 +382,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 26,
+   "installs": 28,
    "updated": "2026-11-08T14:46:29Z",
    "langs": [
     "fr",
@@ -407,7 +407,7 @@
    "category": "Finance",
    "approved": true,
    "stars": 1,
-   "installs": 35,
+   "installs": 37,
    "updated": "2026-11-08T12:13:05Z",
    "langs": [
     "fr",
@@ -432,7 +432,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:13:10Z",
    "langs": [
     "fr",
@@ -457,7 +457,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 40,
+   "installs": 42,
    "updated": "2026-11-08T12:13:15Z",
    "langs": [
     "fr",
@@ -482,7 +482,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 252,
+   "installs": 254,
    "updated": "2026-11-08T14:46:34Z",
    "langs": [
     "fr",
@@ -507,7 +507,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 22,
+   "installs": 24,
    "updated": "2026-11-08T14:46:39Z",
    "langs": [
     "fr",
@@ -532,7 +532,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:13:29Z",
    "langs": [
     "fr",
@@ -557,7 +557,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 10,
+   "installs": 12,
    "updated": "2026-11-08T12:13:34Z",
    "langs": [
     "fr",
@@ -582,7 +582,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T14:46:44Z",
    "langs": [
     "fr",
@@ -607,7 +607,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T14:46:48Z",
    "langs": [
     "fr",
@@ -632,7 +632,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
+   "installs": 23,
    "updated": "2026-11-08T14:46:53Z",
    "langs": [
     "fr",
@@ -657,7 +657,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 254,
+   "installs": 256,
    "updated": "2026-11-08T12:13:53Z",
    "langs": [
     "fr",
@@ -682,7 +682,7 @@
    "category": "Système",
    "approved": true,
    "stars": 1,
-   "installs": 24,
+   "installs": 26,
    "updated": "2026-11-08T14:46:58Z",
    "langs": [
     "fr",
@@ -707,7 +707,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
+   "installs": 21,
    "updated": "2026-11-08T12:14:02Z",
    "langs": [
     "fr",
@@ -732,7 +732,7 @@
    "category": "Communication",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 28,
    "updated": "2026-11-08T12:14:07Z",
    "langs": [
     "fr",
@@ -757,7 +757,7 @@
    "category": "Bureautique",
    "approved": true,
    "stars": 1,
-   "installs": 24,
+   "installs": 26,
    "updated": "2026-11-08T12:14:11Z",
    "langs": [
     "fr",
@@ -782,7 +782,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 27,
+   "installs": 29,
    "updated": "2026-11-08T14:47:02Z",
    "langs": [
     "fr",
@@ -807,7 +807,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
+   "installs": 21,
    "updated": "2026-11-08T12:14:21Z",
    "langs": [
     "fr",
@@ -832,7 +832,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 6,
+   "installs": 7,
    "updated": "2026-11-08T12:14:26Z",
    "langs": [
     "fr",
@@ -857,7 +857,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 270,
+   "installs": 272,
    "updated": "2026-11-08T14:47:07Z",
    "langs": [
     "fr",
@@ -882,7 +882,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 4,
+   "installs": 5,
    "updated": "2026-11-08T12:14:35Z",
    "langs": [
     "fr",
@@ -907,7 +907,7 @@
    "category": "Sport",
    "approved": true,
    "stars": 1,
-   "installs": 11,
+   "installs": 14,
    "updated": "2026-11-08T14:47:12Z",
    "langs": [
     "fr",
@@ -932,7 +932,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:14:45Z",
    "langs": [
     "fr",
@@ -957,7 +957,7 @@
    "category": "Internet",
    "approved": true,
    "stars": 1,
-   "installs": 108,
+   "installs": 110,
    "updated": "2026-11-08T14:47:16Z",
    "langs": [
     "fr",
@@ -982,7 +982,7 @@
    "category": "Sport",
    "approved": true,
    "stars": 1,
-   "installs": 10,
+   "installs": 13,
    "updated": "2026-11-08T14:47:21Z",
    "langs": [
     "fr",
@@ -1007,7 +1007,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 265,
+   "installs": 267,
    "updated": "2026-11-08T14:47:26Z",
    "langs": [
     "fr",
@@ -1032,7 +1032,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 7,
+   "installs": 10,
    "updated": "2026-11-08T12:15:05Z",
    "langs": [
     "fr",
@@ -1057,7 +1057,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 22,
+   "installs": 24,
    "updated": "2026-11-08T14:47:30Z",
    "langs": [
     "fr",
@@ -1082,7 +1082,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 24,
+   "installs": 26,
    "updated": "2026-11-08T12:15:14Z",
    "langs": [
     "fr",
@@ -1107,7 +1107,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 8,
+   "installs": 11,
    "updated": "2026-11-08T12:15:19Z",
    "langs": [
     "fr",
@@ -1132,7 +1132,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 311,
+   "installs": 313,
    "updated": "2026-11-08T14:47:35Z",
    "langs": [
     "fr",
@@ -1157,7 +1157,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 36,
    "updated": "2026-11-08T12:15:29Z",
    "langs": [
     "fr",
@@ -1182,7 +1182,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:15:34Z",
    "langs": [
     "fr",
@@ -1207,7 +1207,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 300,
+   "installs": 302,
    "updated": "2026-11-08T14:47:40Z",
    "langs": [
     "fr",
@@ -1232,7 +1232,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:15:44Z",
    "langs": [
     "fr",
@@ -1257,7 +1257,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:15:49Z",
    "langs": [
     "fr",
@@ -1282,7 +1282,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 202,
+   "installs": 204,
    "updated": "2026-11-08T12:15:54Z",
    "langs": [
     "fr",
@@ -1307,7 +1307,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 32,
+   "installs": 34,
    "updated": "2026-11-08T14:47:45Z",
    "langs": [
     "fr",
@@ -1332,7 +1332,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:16:04Z",
    "langs": [
     "fr",
@@ -1357,7 +1357,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
+   "installs": 21,
    "updated": "2026-11-08T12:16:09Z",
    "langs": [
     "fr",
@@ -1382,7 +1382,7 @@
    "category": "Voyage",
    "approved": true,
    "stars": 1,
-   "installs": 22,
+   "installs": 24,
    "updated": "2026-11-08T14:47:50Z",
    "langs": [
     "fr",
@@ -1407,7 +1407,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 262,
+   "installs": 264,
    "updated": "2026-11-08T14:47:55Z",
    "langs": [
     "fr",
@@ -1432,7 +1432,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 7,
+   "installs": 8,
    "updated": "2026-11-08T14:48:00Z",
    "langs": [
     "fr",
@@ -1457,7 +1457,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:16:28Z",
    "langs": [
     "fr",
@@ -1482,7 +1482,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 36,
    "updated": "2026-11-08T12:16:33Z",
    "langs": [
     "fr",
@@ -1507,7 +1507,7 @@
    "category": "Système",
    "approved": true,
    "stars": 1,
-   "installs": 17,
+   "installs": 19,
    "updated": "2026-11-08T12:16:38Z",
    "langs": [
     "fr",
@@ -1532,7 +1532,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T12:16:43Z",
    "langs": [
     "fr",
@@ -1557,7 +1557,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:16:48Z",
    "langs": [
     "fr",
@@ -1582,7 +1582,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 248,
+   "installs": 250,
    "updated": "2026-11-08T12:16:53Z",
    "langs": [
     "fr",
@@ -1607,7 +1607,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 22,
+   "installs": 24,
    "updated": "2026-11-08T14:48:04Z",
    "langs": [
     "fr",
@@ -1632,7 +1632,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 486,
+   "installs": 488,
    "updated": "2026-11-08T14:48:09Z",
    "langs": [
     "fr",
@@ -1657,7 +1657,7 @@
    "category": "Sport",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 37,
    "updated": "2026-11-08T12:17:08Z",
    "langs": [
     "fr",
@@ -1682,7 +1682,7 @@
    "category": "Compagnon",
    "approved": true,
    "stars": 1,
-   "installs": 32,
+   "installs": 34,
    "updated": "2026-11-08T14:48:14Z",
    "langs": [
     "fr",
@@ -1707,7 +1707,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 48,
+   "installs": 51,
    "updated": "2026-11-08T12:17:19Z",
    "langs": [
     "fr",
@@ -1732,7 +1732,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 300,
+   "installs": 302,
    "updated": "2026-11-08T20:57:54Z",
    "langs": [
     "fr",
@@ -1757,7 +1757,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 8,
+   "installs": 9,
    "updated": "2026-11-08T21:00:27Z",
    "langs": [
     "fr",
@@ -1782,7 +1782,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 8,
+   "installs": 10,
    "updated": "2026-11-08T12:17:28Z",
    "langs": [
     "fr",
@@ -1807,7 +1807,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T14:48:24Z",
    "langs": [
     "fr",
@@ -1832,7 +1832,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 25,
    "updated": "2026-11-08T12:17:39Z",
    "langs": [
     "fr",
@@ -1857,7 +1857,7 @@
    "category": "Bureautique",
    "approved": true,
    "stars": 1,
-   "installs": 28,
+   "installs": 30,
    "updated": "2026-11-08T21:14:26Z",
    "langs": [
     "fr",
@@ -1882,7 +1882,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 25,
    "updated": "2026-11-08T12:17:48Z",
    "langs": [
     "fr",
@@ -1907,7 +1907,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
+   "installs": 23,
    "updated": "2026-11-08T14:48:28Z",
    "langs": [
     "fr",
@@ -1932,7 +1932,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 9,
+   "installs": 11,
    "updated": "2026-11-08T12:17:58Z",
    "langs": [
     "fr",
@@ -1957,7 +1957,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:18:03Z",
    "langs": [
     "fr",
@@ -1982,7 +1982,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 9,
+   "installs": 11,
    "updated": "2026-11-08T12:18:07Z",
    "langs": [
     "fr",
@@ -2007,7 +2007,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 101,
+   "installs": 102,
    "updated": "2026-11-08T21:00:32Z",
    "langs": [
     "fr",
@@ -2032,7 +2032,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 8,
+   "installs": 11,
    "updated": "2026-11-08T12:18:17Z",
    "langs": [
     "fr",
@@ -2057,7 +2057,7 @@
    "category": "Système",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 25,
    "updated": "2026-11-08T12:18:22Z",
    "langs": [
     "fr",
@@ -2082,7 +2082,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 9,
+   "installs": 12,
    "updated": "2026-11-08T12:18:26Z",
    "langs": [
     "fr",
@@ -2107,7 +2107,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 98,
+   "installs": 99,
    "updated": "2026-11-08T20:57:58Z",
    "langs": [
     "fr",
@@ -2132,7 +2132,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:18:35Z",
    "langs": [
     "fr",
@@ -2157,7 +2157,7 @@
    "category": "Système",
    "approved": true,
    "stars": 1,
-   "installs": 9,
+   "installs": 11,
    "updated": "2026-11-08T12:18:40Z",
    "langs": [
     "fr",
@@ -2182,7 +2182,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 6,
+   "installs": 7,
    "updated": "2026-11-08T12:18:45Z",
    "langs": [
     "fr",
@@ -2207,7 +2207,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:18:50Z",
    "langs": [
     "fr",
@@ -2232,7 +2232,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 319,
+   "installs": 321,
    "updated": "2026-11-08T20:57:56Z",
    "langs": [
     "fr",
@@ -2257,7 +2257,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 267,
+   "installs": 269,
    "updated": "2026-11-08T14:48:47Z",
    "langs": [
     "fr",
@@ -2282,7 +2282,7 @@
    "category": "Bureautique",
    "approved": true,
    "stars": 1,
-   "installs": 27,
+   "installs": 29,
    "updated": "2026-11-08T14:48:52Z",
    "langs": [
     "fr",
@@ -2307,7 +2307,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 101,
+   "installs": 102,
    "updated": "2026-11-08T21:00:37Z",
    "langs": [
     "fr",
@@ -2332,7 +2332,7 @@
    "category": "Bureautique",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-08T12:19:14Z",
    "langs": [
     "fr",
@@ -2357,7 +2357,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 25,
    "updated": "2026-11-08T12:19:19Z",
    "langs": [
     "fr",
@@ -2382,7 +2382,7 @@
    "category": "Anime",
    "approved": true,
    "stars": 1,
-   "installs": 32,
+   "installs": 34,
    "updated": "2026-11-08T12:19:24Z",
    "langs": [
     "fr",
@@ -2407,7 +2407,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 281,
+   "installs": 283,
    "updated": "2026-11-08T14:49:02Z",
    "langs": [
     "fr",
@@ -2432,7 +2432,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
+   "installs": 21,
    "updated": "2026-11-08T12:19:33Z",
    "langs": [
     "fr",
@@ -2457,7 +2457,7 @@
    "category": "Système",
    "approved": true,
    "stars": 1,
-   "installs": 22,
+   "installs": 24,
    "updated": "2026-11-08T12:19:38Z",
    "langs": [
     "fr",
@@ -2482,7 +2482,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
+   "installs": 22,
    "updated": "2026-11-08T12:19:43Z",
    "langs": [
     "fr",
@@ -2507,7 +2507,7 @@
    "category": "Système",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 25,
    "updated": "2026-11-08T12:19:47Z",
    "langs": [
     "fr",
@@ -2532,7 +2532,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 32,
+   "installs": 34,
    "updated": "2026-11-08T14:49:07Z",
    "langs": [
     "fr",
@@ -2557,7 +2557,7 @@
    "category": "Voyage",
    "approved": true,
    "stars": 1,
-   "installs": 35,
+   "installs": 37,
    "updated": "2026-11-08T12:19:57Z",
    "langs": [
     "fr",
@@ -2582,7 +2582,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:20:01Z",
    "langs": [
     "fr",
@@ -2607,7 +2607,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 8,
+   "installs": 10,
    "updated": "2026-11-08T12:20:06Z",
    "langs": [
     "fr",
@@ -2632,7 +2632,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-08T12:20:11Z",
    "langs": [
     "fr",
@@ -2657,7 +2657,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 37,
+   "installs": 39,
    "updated": "2026-11-08T12:20:16Z",
    "langs": [
     "fr",
@@ -2682,7 +2682,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 6,
+   "installs": 7,
    "updated": "2026-11-08T12:20:21Z",
    "langs": [
     "fr",
