@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-11T15:22:04.514Z",
+ "updated": "2026-11-11T17:22:04.286Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -1857,7 +1857,7 @@
    "category": "Bureautique",
    "approved": true,
    "stars": 1,
-   "installs": 31,
+   "installs": 32,
    "updated": "2026-11-08T21:14:26Z",
    "langs": [
     "fr",
