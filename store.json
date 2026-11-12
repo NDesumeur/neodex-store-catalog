@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-12T14:23:59.896Z",
+ "updated": "2026-11-12T17:22:35.368Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -52,7 +52,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:29Z",
    "langs": [
@@ -285,7 +285,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:32:27Z",
    "langs": [
@@ -403,12 +403,12 @@
    "repo": "NDesumeur/neodex-plugin-bistrot",
    "name": "Bistrot",
    "description": "Jeu de cuisine en pixel art vu de dessus : six cuisines, des commandes à préparer contre la montre (salades, burgers, cheeseburgers, soupes). On hache, on cuit, on dresse l'assiette et on l'envoie au passe avant la fin du ticket, sans laisser brûler la poêle ni la marmite. Trois étoiles par cuisine.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:32:53Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:04:00Z",
    "langs": [
     "fr",
     "en"
@@ -427,20 +427,20 @@
    "id": "neodex.bittune",
    "repo": "NDesumeur/neodex-plugin-bittune",
    "name": "BitTune",
-   "description": "Compose de la musique chiptune sur une grille, avec les 4 voies des vieilles consoles : deux ondes carrées (rapport cyclique 12,5, 25 ou 50 %), une triangle pour la basse et un bruit pour les percussions. 4 motifs de 32 pas enchaînés dans l'ordre que tu veux, notes tenues, tempo, volume par voie, lecture en boucle et export en WAV.",
-   "version": "1.0.0",
+   "description": "Compose de la musique chiptune : 5 voies (deux carrées, triangle, bruit à 6 percussions, dent de scie), 8 motifs de 32 pas sur 3 octaves, effets par note (vibrato, arpèges, glissés, piqué, volume), panoramique, écho, swing, gammes, muet et solo. Lecture avec oscilloscope, export WAV et MIDI, morceaux à enregistrer et 3 exemples.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T06:40:59Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:06Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "BitTune",
-    "description": "Compose chiptune music on a grid, with the 4 voices of old consoles: two square waves (12.5, 25 or 50 % duty cycle), a triangle for the bass and noise for the drums. 4 patterns of 32 steps chained in the order you want, held notes, tempo, volume per voice, looped playback and WAV export."
+    "description": "Compose chiptune music: 5 voices (two squares, triangle, noise with 6 drums, sawtooth), 8 patterns of 32 steps over 3 octaves, per-note effects (vibrato, arpeggios, slides, staccato, volume), panning, echo, swing, scales, mute and solo. Playback with an oscilloscope, WAV and MIDI export, songs to save and 3 examples."
    },
    "rating": {
     "average": 0,
@@ -456,7 +456,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:03Z",
    "langs": [
@@ -528,12 +528,12 @@
    "repo": "NDesumeur/neodex-plugin-bousculade",
    "name": "Bousculade",
    "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:33:42Z",
+   "stars": 1,
+   "installs": 4,
+   "updated": "2026-11-12T17:03:55Z",
    "langs": [
     "fr",
     "en"
@@ -628,12 +628,12 @@
    "repo": "NDesumeur/neodex-plugin-carrefour",
    "name": "Carrefour",
    "description": "Jeu de réflexe : règle les feux d'un croisement où des voitures et des bus arrivent des quatre côtés. Un clic (ou une flèche) passe un feu au vert ou au rouge. Évite l'accident au milieu et ne laisse personne attendre trop longtemps, sinon il klaxonne et tu perds une étoile. De plus en plus de voitures. Record et accidents comptés.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:32:33Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:33Z",
    "langs": [
     "fr",
     "en"
@@ -706,7 +706,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:03Z",
    "langs": [
@@ -728,12 +728,12 @@
    "repo": "NDesumeur/neodex-plugin-cavale",
    "name": "Cavale",
    "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:34:24Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:02:49Z",
    "langs": [
     "fr",
     "en"
@@ -756,7 +756,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:32:42Z",
    "langs": [
@@ -780,8 +780,8 @@
    "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps.",
    "version": "1.0.0",
    "category": "Outils",
-   "approved": true,
-   "stars": 0,
+   "approved": false,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:41:10Z",
    "langs": [
@@ -803,12 +803,12 @@
    "repo": "NDesumeur/neodex-plugin-cipher",
    "name": "Cipher",
    "description": "Essaie et comprends neuf méthodes de chiffrement, des plus anciennes aux vraies d'aujourd'hui : César, Vigenère, Atbash, substitution, clôture, Morse, XOR, AES-256 et SHA-256. Pour chacune : chiffrer et déchiffrer, ce qui arrive à chaque lettre, les fréquences comparées au français, son histoire et comment on la casse, avec le cassage automatique de César et de Vigenère.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T06:40:13Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:28Z",
    "langs": [
     "fr",
     "en"
@@ -827,20 +827,20 @@
    "id": "neodex.clipforge",
    "repo": "NDesumeur/neodex-plugin-clipforge",
    "name": "ClipForge",
-   "description": "Le monteur vidéo : importe des vidéos, des images et des sons, pose-les sur une timeline à 5 pistes (deux de vidéo, une de textes, deux de son), coupe, déplace et rogne à la souris. Transitions (fondu, glisse, zoom, volet), textes animés, effets de couleur, flou et pixels, vitesse de ×0,25 à ×4, volume et fondus du son. Format paysage, portrait ou carré, et export du montage en vidéo WebM.",
-   "version": "2.0.0",
+   "description": "Le monteur vidéo façon CapCut : timeline à 8 pistes (textes, effets, incrustation, vidéo, sons, musique) avec pellicule et formes d'onde, 13 transitions, mouvements, 14 filtres, 16 effets (VHS, glitch, grain, confettis…), textes stylés et animés, autocollants, fond flou, image figée, son détaché, vitesse ×0,1 à ×8. Export WebM ou MP4 jusqu'en 1080p et 60 images/s, en 16:9, 9:16, 1:1, 4:5, 4:3 ou 21:9.",
+   "version": "3.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
-   "installs": 4,
-   "updated": "2026-11-12T12:35:49Z",
+   "stars": 1,
+   "installs": 5,
+   "updated": "2026-11-12T17:03:17Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "ClipForge",
-    "description": "The video editor: import videos, images and sounds, place them on a 5-track timeline (two for video, one for texts, two for sound), cut, move and trim with the mouse. Transitions (fade, slide, zoom, wipe), animated texts, colour, blur and pixel effects, speed from ×0.25 to ×4, sound volume and fades. Landscape, portrait or square format, and export of the edit as a WebM video."
+    "description": "The CapCut-style video editor: 8-track timeline (texts, effects, overlay, video, sounds, music) with filmstrip and waveforms, 13 transitions, motions, 14 filters, 16 effects (VHS, glitch, grain, confetti…), styled and animated texts, stickers, blurred background, freeze frame, detached sound, speed ×0.1 to ×8. WebM or MP4 export up to 1080p and 60 fps, in 16:9, 9:16, 1:1, 4:5, 4:3 or 21:9."
    },
    "rating": {
     "average": 0,
@@ -953,12 +953,12 @@
    "repo": "NDesumeur/neodex-plugin-culbute",
    "name": "Culbute",
    "description": "Jeu d'adresse : une bouteille d'eau saute de meuble en meuble dans un salon, tables, tabourets, piles de livres, commodes et caisses. Maintiens pour charger le saut, lâche pour la lancer, et maintiens en l'air pour la faire tourner plus vite : elle doit retomber debout. Culbutes parfaites qui comptent double, sauts par-dessus un meuble et séries. Score et record.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
-   "updated": "2026-11-12T12:33:14Z",
+   "updated": "2026-11-12T17:03:49Z",
    "langs": [
     "fr",
     "en"
@@ -1006,7 +1006,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:41:05Z",
    "langs": [
@@ -1303,12 +1303,12 @@
    "repo": "NDesumeur/neodex-plugin-faisceaux",
    "name": "Faisceaux",
    "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, de plus en plus de rayons. Score, temps et record.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:32:37Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:38Z",
    "langs": [
     "fr",
     "en"
@@ -1481,7 +1481,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:32:47Z",
    "langs": [
@@ -1506,7 +1506,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:34Z",
    "langs": [
@@ -1556,7 +1556,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:19Z",
    "langs": [
@@ -1602,20 +1602,20 @@
    "id": "neodex.grimpette",
    "repo": "NDesumeur/neodex-plugin-grimpette",
    "name": "Grimpette",
-   "description": "Jeu de conduite : une petite voiture sur des collines sans fin, avec une vraie physique. Au garage, choisis le terrain (prairie, désert, neige, lune) et la voiture (Jeep, Monster, Bolide), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, penche-toi en l'air et attention au toit. Un record par terrain.",
-   "version": "1.0.0",
+   "description": "Jeu de conduite : un véhicule sur des collines sans fin, avec une vraie physique. Au garage, choisis parmi 13 mondes (prairie, désert, neige, lune, forêt, plage, jungle, marais, canyon, volcan, Mars, cristaux, ville la nuit) et 12 véhicules (Jeep, Monster, Bolide, Quad, Moto, Buggy, Tracteur, Van, Camion, Rallye, Rover, Hot-rod), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, penche-toi en l'air et attention au toit. Un record par monde.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:33:52Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:04:06Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Uphill",
-    "description": "Driving game: a little car on endless hills, with real physics. In the garage, pick the terrain (meadow, desert, snow, moon) and the car (Jeep, Monster, Racer), and upgrade engine, tyres and tank with your coins. On the road, speed up, brake, lean in the air and mind the roof. A best per terrain."
+    "description": "Driving game: a vehicle on endless hills, with real physics. In the garage, pick one of 13 worlds (meadow, desert, snow, moon, forest, beach, jungle, swamp, canyon, volcano, Mars, crystals, city at night) and 12 vehicles (Jeep, Monster, Racer, Quad, Motorbike, Buggy, Tractor, Van, Truck, Rally, Rover, Hot rod), and upgrade engine, tyres and tank with your coins. While racing, accelerate, brake, lean in the air and mind the roof. One best per world."
    },
    "rating": {
     "average": 0,
@@ -1852,20 +1852,20 @@
    "id": "neodex.lynx",
    "repo": "NDesumeur/neodex-plugin-lynx",
    "name": "Lynx",
-   "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage ou une ville la nuit, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques.",
-   "version": "1.0.0",
+   "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage, une ville la nuit, une forêt, les fonds marins, l'espace ou l'hiver, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:34:18Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:04:18Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Eagle Eye",
-    "description": "Pixel art spot-the-difference game: two almost identical pictures, a garden, a beach or a city at night, and 5 to 7 differences to find before time runs out. Every level draws a new scene, stars for the time left, hints if you get stuck."
+    "description": "Pixel art spot-the-difference game: two almost identical pictures, a garden, a beach, a city at night, a forest, the seabed, space or winter, and 5 to 7 differences to find before time runs out. Every level draws a new scene, stars for the time left, hints if you get stuck."
    },
    "rating": {
     "average": 0,
@@ -2127,20 +2127,20 @@
    "id": "neodex.motion",
    "repo": "NDesumeur/neodex-plugin-motion",
    "name": "Motion",
-   "description": "Règle tes courbes d'animation et vois-les bouger : courbe de Bézier à deux poignées (10 préréglages, et les tiens) ou ressort réglé par la masse, la raideur et l'amortissement. Compare 3 courbes côte à côte sur un déplacement, un agrandissement, une rotation et un fondu, puis copie le CSS prêt à l'emploi (cubic-bezier, linear() pour le ressort, @keyframes).",
-   "version": "1.0.0",
+   "description": "L'animateur : formes, textes et images animés par images clés sur une timeline (position, échelle, rotation, opacité, flou, couleur), 12 effets tout prêts, accélérations réglables, export en vidéo WebM, en HTML/CSS ou en PNG. Et l'éditeur de courbes : Bézier ou ressort, comparées côte à côte, CSS prêt à copier.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T06:40:39Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:00Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Motion",
-    "description": "Tune your animation curves and watch them move: a Bézier curve with two handles (10 presets, plus your own) or a spring set by mass, stiffness and damping. Compare 3 curves side by side on a move, a scale, a rotation and a fade, then copy the ready-to-use CSS (cubic-bezier, linear() for the spring, @keyframes)."
+    "description": "The animator: shapes, texts and images animated with keyframes on a timeline (position, scale, rotation, opacity, blur, color), 12 ready-made effects, adjustable easing, export as WebM video, HTML/CSS or PNG. And the curve editor: Bézier or spring, compared side by side, CSS ready to copy."
    },
    "rating": {
     "average": 0,
@@ -2228,12 +2228,12 @@
    "repo": "NDesumeur/neodex-plugin-neoman",
    "name": "Neo-Man",
    "description": "Jeu de labyrinthe en pixel art : NeoMe mange toutes les notes de musique pendant que quatre petits fantômes la poursuivent, chacun à sa façon (Prune la traque, Menthe lui coupe la route, Miel la prend à revers, Groseille rôde). Les disques les font fuir : c'est le moment de les attraper. Objets bonus du Studio, niveaux de plus en plus rapides, une vie de plus à 10 000 points. NeoMe a ses vrais sprites de NeoBestiary Studio.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:35:27Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:22Z",
    "langs": [
     "fr",
     "en"
@@ -2331,7 +2331,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:41:20Z",
    "langs": [
@@ -2353,12 +2353,12 @@
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
    "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.1.3",
+   "version": "1.1.4",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T12:34:55Z",
+   "updated": "2026-11-12T17:02:37Z",
    "langs": [
     "fr",
     "en"
@@ -2456,9 +2456,9 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
-   "updated": "2026-11-12T12:34:39Z",
+   "updated": "2026-11-12T17:02:07Z",
    "langs": [
     "fr",
     "en"
@@ -2481,7 +2481,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:08Z",
    "langs": [
@@ -2581,7 +2581,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:49Z",
    "langs": [
@@ -2606,7 +2606,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:54Z",
    "langs": [
@@ -2652,20 +2652,20 @@
    "id": "neodex.plusmoins",
    "repo": "NDesumeur/neodex-plugin-plusmoins",
    "name": "Plus ou Moins",
-   "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Huit catégories de vrais chiffres arrondis : population des pays, altitude des montagnes, longueur des fleuves, poids des animaux, hauteur des monuments, taille des astres, année des inventions et habitants des villes de France. Ou tout mélangé. Meilleure série par catégorie.",
-   "version": "1.0.0",
+   "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Quatorze catégories de vrais chiffres arrondis : population et superficie des pays, altitude des montagnes, longueur des fleuves, poids, vitesse et longévité des animaux, hauteur des monuments, taille des astres, année des inventions, habitants des villes de France, calories des aliments, naissance de personnages célèbres et sortie des jeux vidéo. Ou tout mélangé. Meilleure série par catégorie.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:34:08Z",
+   "stars": 1,
+   "installs": 4,
+   "updated": "2026-11-12T17:04:23Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Higher or Lower",
-    "description": "Trivia game: the left card shows its number, guess whether the right one is higher or lower. Eight categories of real rounded numbers: population of countries, height of mountains, length of rivers, weight of animals, height of monuments, size of celestial bodies, year of inventions and population of French cities. Or all mixed. Best streak per category."
+    "description": "Trivia game: the left card shows its number, guess whether the right one is higher or lower. Fourteen categories of real rounded numbers: population and area of countries, height of mountains, length of rivers, weight, speed and lifespan of animals, height of monuments, size of celestial bodies, year of inventions, population of French cities, calories in foods, birth year of famous people and release year of video games. Or all mixed. Best streak per category."
    },
    "rating": {
     "average": 0,
@@ -2706,7 +2706,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:47Z",
    "langs": [
@@ -2881,7 +2881,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:44Z",
    "langs": [
@@ -2902,20 +2902,20 @@
    "id": "neodex.quatuor",
    "repo": "NDesumeur/neodex-plugin-quatuor",
    "name": "Quatuor",
-   "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Vingt grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute.",
-   "version": "1.0.0",
+   "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Trente-quatre grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:34:13Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:04:12Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Quartet",
-    "description": "Word game in French: sixteen words hide four groups of four. Find what links them, from red fruits to words that follow « coup de » and countries hidden inside a word. Twenty handwritten grids, with traps: words that seem to fit two groups. Four mistakes allowed. Grids solved and perfect grids."
+    "description": "Word game in French: sixteen words hide four groups of four. Find what links them, from red fruits to words that follow « coup de » and countries hidden inside a word. Thirty-four handwritten grids, with traps: words that seem to fit two groups. Four mistakes allowed. Grids solved and perfect grids."
    },
    "rating": {
     "average": 0,
@@ -3028,12 +3028,12 @@
    "repo": "NDesumeur/neodex-plugin-ricochet",
    "name": "Ricochet",
    "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 3,
-   "updated": "2026-11-12T12:34:34Z",
+   "stars": 1,
+   "installs": 4,
+   "updated": "2026-11-12T17:02:32Z",
    "langs": [
     "fr",
     "en"
@@ -3053,12 +3053,12 @@
    "repo": "NDesumeur/neodex-plugin-rythme",
    "name": "Rythme",
    "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 1200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.6.8",
+   "version": "1.6.9",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 325,
-   "updated": "2026-11-12T12:34:44Z",
+   "installs": 326,
+   "updated": "2026-11-12T17:02:26Z",
    "langs": [
     "fr",
     "en"
@@ -3081,7 +3081,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:24Z",
    "langs": [
@@ -3131,9 +3131,9 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
-   "updated": "2026-11-12T12:34:03Z",
+   "updated": "2026-11-12T17:02:10Z",
    "langs": [
     "fr",
     "en"
@@ -3178,12 +3178,12 @@
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
    "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D.",
-   "version": "1.0.7",
+   "version": "1.0.8",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 104,
-   "updated": "2026-11-12T12:35:11Z",
+   "installs": 105,
+   "updated": "2026-11-12T17:02:44Z",
    "langs": [
     "fr",
     "en"
@@ -3277,20 +3277,20 @@
    "id": "neodex.sounddeck",
    "repo": "NDesumeur/neodex-plugin-sounddeck",
    "name": "SoundDeck",
-   "description": "Fabrique des bruitages rétro pour tes jeux : pièce, saut, laser, explosion, bonus, touché, clic ou porte, tirés au hasard d'un clic, puis réglés avec 5 formes d'onde et 14 curseurs (hauteur, glissando, enveloppe, punch, vibrato, arpège, filtre, écrasement). Une variante d'un clic, 12 pads à jouer au clavier, et l'export en WAV.",
-   "version": "1.0.0",
+   "description": "Fabrique des bruitages rétro pour tes jeux : 16 familles à tirer au hasard (pièce, saut, laser, explosion, tir, magie, moteur…), 6 formes d'onde et 23 réglages verrouillables (filtre résonant, écho, distorsion, trémolo…), historique, mélange de plusieurs sons et 5 jingles, 12 pads, clavier, export WAV 44/22/11 kHz en 16 ou 8 bits.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T06:41:15Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:12Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "SoundDeck",
-    "description": "Make retro sound effects for your games: coin, jump, laser, explosion, power-up, hit, click or door, rolled at random in one click, then tuned with 5 waveforms and 14 sliders (pitch, slide, envelope, punch, vibrato, arpeggio, filter, crush). A variation in one click, 12 pads to play from the keyboard, and WAV export."
+    "description": "Make retro sound effects for your games: 16 families to roll at random (coin, jump, laser, explosion, shot, magic, engine…), 6 waveforms and 23 lockable settings (resonant filter, echo, distortion, tremolo…), history, mixing several sounds and 5 jingles, 12 pads, keyboard, WAV export at 44/22/11 kHz in 16 or 8 bits."
    },
    "rating": {
     "average": 0,
@@ -3306,7 +3306,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:35Z",
    "langs": [
@@ -3403,12 +3403,12 @@
    "repo": "NDesumeur/neodex-plugin-tambour",
    "name": "Tambour",
    "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:32:58Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:02:54Z",
    "langs": [
     "fr",
     "en"
@@ -3456,7 +3456,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:30Z",
    "langs": [
@@ -3506,7 +3506,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:19Z",
    "langs": [
@@ -3681,7 +3681,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:34:29Z",
    "langs": [
@@ -3706,7 +3706,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T12:33:58Z",
    "langs": [
@@ -3731,7 +3731,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-12T06:40:24Z",
    "langs": [
@@ -3753,12 +3753,12 @@
    "repo": "NDesumeur/neodex-plugin-virage",
    "name": "Virage",
    "description": "Jeu de course en pixel art vu de dessus, contre la montre : six circuits (prairie, épingles, banquise, dunes, turbo, nœud), trois tours, des écarts à chaque point de passage, le fantôme de ton meilleur chrono et des médailles de bronze à auteur. Herbe, sable, glace et flèches turbo.",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-12T12:33:09Z",
+   "stars": 1,
+   "installs": 3,
+   "updated": "2026-11-12T17:03:44Z",
    "langs": [
     "fr",
     "en"
