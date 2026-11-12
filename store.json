@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-12T04:24:00.475Z",
+ "updated": "2026-11-12T06:32:04.714Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -2435,13 +2435,9 @@
    "installs": 22,
    "updated": "2026-11-08T12:19:33Z",
    "langs": [
-    "fr",
-    "en"
+    "fr"
    ],
-   "en": {
-    "name": "Sudoku",
-    "description": "Grids generated on the fly and always with a single solution, in five levels, from Easy (40 digits given) to Diabolical (21). Pencil notes that clean themselves up, highlighting of related cells, undo, hints, mistakes shown or hidden, full keyboard play; best time per level and the game in progress kept."
-   },
+   "en": null,
    "rating": {
     "average": 0,
     "count": 0,
