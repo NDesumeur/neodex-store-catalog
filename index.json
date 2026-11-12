@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-08T21:14:28Z",
+  "updated": "2026-11-12T06:41:33Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -245,7 +245,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "category": "Musique",
       "system": false,
       "type": "app",
