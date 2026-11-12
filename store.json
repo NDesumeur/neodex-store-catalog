@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-12T11:22:18.106Z",
+ "updated": "2026-11-12T12:29:17.814Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -278,6 +278,31 @@
    }
   },
   {
+   "id": "neodex.beffroi",
+   "repo": "NDesumeur/neodex-plugin-beffroi",
+   "name": "Beffroi",
+   "description": "Jeu de saut : monte les étages d'un clocher en courant et en sautant. Plus tu cours vite, plus tu sautes haut, et les murs te renvoient l'élan. Dès le 5e étage, le clocher défile de plus en plus vite : ne te laisse pas rattraper. Combos sur les sauts de plusieurs étages, poutres de bois, de pierre puis de cuivre. Score, étages et record.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:27:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Belfry",
+    "description": "Jumping game: climb the floors of a bell tower by running and jumping. The faster you run, the higher you jump, and the walls bounce your momentum back. From floor 5, the tower scrolls faster and faster: don't let it catch you. Combos on multi-floor jumps, wooden, stone then copper beams. Score, floors and best."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.bestiaire",
    "repo": "NDesumeur/neodex-plugin-bestiaire",
    "name": "Bestiaire",
@@ -366,6 +391,31 @@
    "en": {
     "name": "Binary",
     "description": "A logic puzzle: fill the grid with suns and moons, never three alike in a row, as many of each per row and column, and no two rows identical. 6, 8 or 10-wide grids generated with a unique solution; click to cycle, right-click for a moon, mistakes and counters light up along the edge, and the timer keeps your record per size."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bistrot",
+   "repo": "NDesumeur/neodex-plugin-bistrot",
+   "name": "Bistrot",
+   "description": "Jeu de cuisine en pixel art vu de dessus : six cuisines, des commandes à préparer contre la montre (salades, burgers, cheeseburgers, soupes). On hache, on cuit, on dresse l'assiette et on l'envoie au passe avant la fin du ticket, sans laisser brûler la poêle ni la marmite. Trois étoiles par cuisine.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Bistro",
+    "description": "Top-down pixel art cooking game: six kitchens, orders to prepare against the clock (salads, burgers, cheeseburgers, soups). Chop, cook, plate up and send it to the pass before the ticket runs out, without burning the pan or the pot. Three stars per kitchen."
    },
    "rating": {
     "average": 0,
@@ -549,6 +599,31 @@
    }
   },
   {
+   "id": "neodex.carrefour",
+   "repo": "NDesumeur/neodex-plugin-carrefour",
+   "name": "Carrefour",
+   "description": "Jeu de réflexe : règle les feux d'un croisement où des voitures et des bus arrivent des quatre côtés. Un clic (ou une flèche) passe un feu au vert ou au rouge. Évite l'accident au milieu et ne laisse personne attendre trop longtemps, sinon il klaxonne et tu perds une étoile. De plus en plus de voitures. Record et accidents comptés.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:27:47Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Crossroads",
+    "description": "Reflex game: run the traffic lights of a crossroads where cars and buses arrive from all four sides. A click (or an arrow) turns a light green or red. Avoid the crash in the middle and don't let anyone wait too long, or they honk and you lose a star. More and more cars. Best score and crashes counted."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.cascade",
    "repo": "NDesumeur/neodex-plugin-cascade",
    "name": "Cascade",
@@ -591,6 +666,56 @@
    "en": {
     "name": "brick breaker",
     "description": "Bounce the ball back with your paddle to break every brick: 40 levels designed one by one, then endlessly generated levels that keep getting faster. Bricks that take 1, 2 or 3 hits, indestructible metal, explosives that break their neighbours, and eight capsules: wide paddle, multi-ball, lasers, slow ball, glue, fireball, extra life… and a trap. Every level you reach becomes a starting point."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.cataclysme",
+   "repo": "NDesumeur/neodex-plugin-cataclysme",
+   "name": "Cataclysme",
+   "description": "Jeu de destruction de planètes en pixel art : chaque planète est faite de milliers de pixels (croûte, roche, magma, noyau) et chaque pixel arraché devient un débris soumis à la gravité. Astéroïdes, comètes qui traversent, bombes à retardement et trous noirs, en quantité limitée : sept planètes à détruire, trois étoiles chacune.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cataclysm",
+    "description": "Pixel art planet destruction game: each planet is made of thousands of pixels (crust, rock, magma, core) and every pixel torn off becomes debris pulled by gravity. Asteroids, comets that go right through, time bombs and black holes, in limited supply: seven planets to destroy, three stars each."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.cheminee",
+   "repo": "NDesumeur/neodex-plugin-cheminee",
+   "name": "Cheminée",
+   "description": "Jeu d'escalade : un mineur grimpe une cheminée de volcan en sautant d'une paroi à l'autre. Maintiens pour charger le saut (plus tu maintiens, plus il monte, la trajectoire s'affiche), lâche pour sauter. Évite les crocs plantés dans les parois et les scies qui vont et viennent, ramasse les gemmes, et monte plus vite que la lave. Hauteur, gemmes et record.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:03Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Chimney",
+    "description": "Climbing game: a miner climbs a volcano chimney by jumping from one wall to the other. Hold to charge the jump (the longer you hold, the higher it goes, and the path is shown), release to jump. Avoid the fangs stuck in the walls and the saws moving back and forth, pick up gems, and climb faster than the lava. Height, gems and record."
    },
    "rating": {
     "average": 0,
@@ -766,6 +891,31 @@
    "en": {
     "name": "Colors",
     "description": "The colour tool: an eyedropper that picks a colour anywhere on the screen, its HEX, RGB, HSL, CMYK and CSS codes to copy, harmonies (complementary, analogous, triad, square, shades), the WCAG contrast of text on a background, and palettes to create, extract from an image, copy as CSS or export, synced between your PCs."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.culbute",
+   "repo": "NDesumeur/neodex-plugin-culbute",
+   "name": "Culbute",
+   "description": "Jeu d'adresse : une bouteille d'eau saute de meuble en meuble dans un salon, tables, tabourets, piles de livres, commodes et caisses. Maintiens pour charger le saut, lâche pour la lancer, et maintiens en l'air pour la faire tourner plus vite : elle doit retomber debout. Culbutes parfaites qui comptent double, sauts par-dessus un meuble et séries. Score et record.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:51Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Tumble",
+    "description": "Skill game: a water bottle jumps from furniture to furniture in a living room, tables, stools, stacks of books, chests of drawers and crates. Hold to charge the jump, release to throw it, and hold in the air to make it spin faster: it must land upright. Perfect flips count double, jumps over a piece of furniture and streaks. Score and best."
    },
    "rating": {
     "average": 0,
@@ -1099,6 +1249,31 @@
    }
   },
   {
+   "id": "neodex.faisceaux",
+   "repo": "NDesumeur/neodex-plugin-faisceaux",
+   "name": "Faisceaux",
+   "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, de plus en plus de rayons. Score, temps et record.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:27:56Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Beams",
+    "description": "Dodging game: a little robot must survive in a test room where emitters fire beams. A blinking line warns before each shot: lines, grids with one gap, crosses aimed at you and sweeping beams. A dash to zip away, batteries to collect, more and more beams. Score, time and best."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.flotte",
    "repo": "NDesumeur/neodex-plugin-flotte",
    "name": "Flotte",
@@ -1241,6 +1416,31 @@
    "en": {
     "name": "Stellar Fusion",
     "description": "Slide every tile to one side: two identical bodies merge into the next one, from dust up to a black hole. Immobile debris cuts the rows and breaks next to a merge; undo and a wormhole to swap two tiles recharge as you play. Galaxy 5 × 5 and Nebula 4 × 4 modes, 15 starred challenges, and the current game resumed on your other PC."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.gabarit",
+   "repo": "NDesumeur/neodex-plugin-gabarit",
+   "name": "Gabarit",
+   "description": "Jeu de formes : dans une forge, une pièce de métal chaud tombe vers un moule creusé dans le sol. Tourne-la, retourne-la et place-la pour qu'elle le remplisse exactement avant qu'elle ne touche le sol. Des moules de plus en plus grands, des faux moules presque pareils pour te piéger et une chute de plus en plus rapide. Trois ratés permis. Score et record.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:11Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Gauge",
+    "description": "Shape game: in a forge, a piece of hot metal falls toward a mould dug into the floor. Turn it, flip it and place it so it fills the mould exactly before it hits the ground. Bigger and bigger moulds, fake moulds that look almost the same to trick you and a faster and faster fall. Three misses allowed. Score and best."
    },
    "rating": {
     "average": 0,
@@ -2874,6 +3074,31 @@
    }
   },
   {
+   "id": "neodex.tambour",
+   "repo": "NDesumeur/neodex-plugin-tambour",
+   "name": "Tambour",
+   "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:27Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Drumbeat",
+    "description": "Drum rhythm game: red notes (center hit, F or J) and blue notes (rim hit, D or K) scroll toward the circle, with big notes to hit with both hands and drumrolls, under the lanterns of a night festival. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.taquin",
    "repo": "NDesumeur/neodex-plugin-taquin",
    "name": "Taquin",
@@ -2916,6 +3141,31 @@
    "en": {
     "name": "Terminal",
     "description": "A PowerShell console in a NeoDex tab: one command per line, a prompt that follows the current folder, errors in red, the last 100 commands with the arrow keys, and a Restart button that also stops a stuck command. Full-screen programs such as vim do not work here; nothing is stored."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.toboggan",
+   "repo": "NDesumeur/neodex-plugin-toboggan",
+   "name": "Toboggan",
+   "description": "Jeu de construction de circuits à billes en pixel art : pose des rampes, des entonnoirs, des trampolines et des aiguillages pour mener les billes jusqu'aux pots, en passant par des tunnels et en évitant les pics. Une vraie physique (roulis, rebonds, chocs entre billes), dix niveaux, et trois étoiles pour qui trouve le circuit le plus court.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Marble Run",
+    "description": "Pixel art marble run building game: place ramps, funnels, trampolines and switches to guide the marbles to the jars, through tunnels and around spikes. Real physics (rolling, bouncing, marbles knocking into each other), ten levels, and three stars for whoever finds the shortest run."
    },
    "rating": {
     "average": 0,
@@ -3091,6 +3341,31 @@
    "en": {
     "name": "Game of Life",
     "description": "Conway's Game of Life and its cousins: draw cells with the mouse, run the simulation at the speed you want, place 12 famous patterns (glider, pulsar, Gosper glider gun, acorn…) and rotate them, change the rule (HighLife, Seeds, Day & Night, Maze or your own in B/S), follow the population on a graph and the cells' age in colours, and share your creations in RLE format."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.virage",
+   "repo": "NDesumeur/neodex-plugin-virage",
+   "name": "Virage",
+   "description": "Jeu de course en pixel art vu de dessus, contre la montre : six circuits (prairie, épingles, banquise, dunes, turbo, nœud), trois tours, des écarts à chaque point de passage, le fantôme de ton meilleur chrono et des médailles de bronze à auteur. Herbe, sable, glace et flèches turbo.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:28:43Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Hairpin",
+    "description": "Top-down pixel art time-trial racing game: six tracks (meadow, hairpins, ice field, dunes, turbo, knot), three laps, splits at every checkpoint, the ghost of your best time and medals from bronze to author. Grass, sand, ice and turbo arrows."
    },
    "rating": {
     "average": 0,
