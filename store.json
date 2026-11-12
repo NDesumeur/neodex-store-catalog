@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-12T13:22:45.406Z",
+ "updated": "2026-11-12T14:23:59.896Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -2182,7 +2182,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 495,
+   "installs": 496,
    "updated": "2026-11-12T12:35:43Z",
    "langs": [
     "fr",
@@ -3032,7 +3032,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-12T12:34:34Z",
    "langs": [
     "fr",
@@ -3057,7 +3057,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 324,
+   "installs": 325,
    "updated": "2026-11-12T12:34:44Z",
    "langs": [
     "fr",
