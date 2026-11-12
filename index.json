@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-12T06:41:33Z",
+  "updated": "2026-11-12T06:41:57Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -2125,6 +2125,380 @@
       "description": "Duel de raquettes contre l'ordinateur sur un terrain de nuit : déplace ta raquette à la souris ou aux flèches et renvoie la balle sans la laisser passer. Le bord de la raquette renvoie en biais, la balle accélère à chaque échange, le premier à 7 points gagne. Trois niveaux d'adversaire qui anticipe les rebonds, victoires et meilleur écart gardés.",
       "syncMode": "progression",
       "syncInfo": "Victoires par niveau."
+    },
+    {
+      "id": "neodex.bitwise",
+      "name": "Bitwise",
+      "repo": "NDesumeur/neodex-plugin-bitwise",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse.",
+      "syncMode": "fusion",
+      "syncInfo": "Les derniers nombres et le texte saisis."
+    },
+    {
+      "id": "neodex.pattern",
+      "name": "Pattern",
+      "repo": "NDesumeur/neodex-plugin-pattern",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Écris une expression régulière et vois-la trouver ses correspondances en direct dans ton texte : chaque morceau du motif expliqué en français, le détail des groupes, le remplacement avec $1 et $<nom>, les six drapeaux, un aide-mémoire cliquable, des exemples prêts (e-mail, date, téléphone, IP…) et tes motifs gardés. Un motif qui s'emballe est arrêté au bout d'une seconde au lieu de figer NeoDex.",
+      "syncMode": "fusion",
+      "syncInfo": "Le motif en cours et tes motifs gardés."
+    },
+    {
+      "id": "neodex.cipher",
+      "name": "Cipher",
+      "repo": "NDesumeur/neodex-plugin-cipher",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Essaie et comprends neuf méthodes de chiffrement, des plus anciennes aux vraies d'aujourd'hui : César, Vigenère, Atbash, substitution, clôture, Morse, XOR, AES-256 et SHA-256. Pour chacune : chiffrer et déchiffrer, ce qui arrive à chaque lettre, les fréquences comparées au français, son histoire et comment on la casse, avec le cassage automatique de César et de Vigenère.",
+      "syncMode": "fusion",
+      "syncInfo": "La méthode choisie, le texte et les clés (jamais le mot de passe AES)."
+    },
+    {
+      "id": "neodex.graphix",
+      "name": "Graphix",
+      "repo": "NDesumeur/neodex-plugin-graphix",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Trace jusqu'à 6 fonctions et change leurs paramètres en direct : curseurs a, b et c, temps t qui s'anime, écriture naturelle (2x, x², |x|, sin x, 2,5). Déplace-toi à la souris, zoome à la molette, lis les valeurs au survol, affiche les dérivées, et trouve les zéros, minimums, maximums et intersections dans la zone visible. Table de valeurs et export en PNG.",
+      "syncMode": "fusion",
+      "syncInfo": "Tes fonctions, les curseurs et la vue."
+    },
+    {
+      "id": "neodex.vie",
+      "name": "Jeu de la vie",
+      "repo": "NDesumeur/neodex-plugin-vie",
+      "version": "1.0.0",
+      "category": "Création",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Le jeu de la vie de Conway et ses cousins : dessine des cellules à la souris, lance la simulation à la vitesse voulue, pose 12 motifs célèbres (planeur, pulsar, canon à planeurs de Gosper, gland…) et tourne-les, change la règle (HighLife, Seeds, Jour et nuit, Labyrinthe ou la tienne en B/S), suis la population sur un graphique et l'âge des cellules en couleurs, et échange tes créations au format RLE.",
+      "syncMode": "fusion",
+      "syncInfo": "La grille, la règle et la vitesse."
+    },
+    {
+      "id": "neodex.algoflow",
+      "name": "AlgoFlow",
+      "repo": "NDesumeur/neodex-plugin-algoflow",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Regarde les algorithmes travailler, étape par étape : 8 tris (bulles, insertion, sélection, fusion, rapide, tas, Shell, comptage), 2 recherches (linéaire, dichotomique) et 4 parcours de graphe sur une grille que tu dessines (largeur, profondeur, Dijkstra, A*) avec murs, boue et labyrinthes. Le pseudo-code s'allume ligne par ligne, les comparaisons et écritures sont comptées, et tu avances, recules ou changes la vitesse à volonté.",
+      "syncMode": "fusion",
+      "syncInfo": "L'algorithme choisi, la vitesse et la grille dessinée."
+    },
+    {
+      "id": "neodex.gateworks",
+      "name": "Gateworks",
+      "repo": "NDesumeur/neodex-plugin-gateworks",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Construis des circuits logiques à la souris : interrupteurs, lampes, horloge et 7 portes (ET, OU, NON, OU exclusif, NON-ET, NON-OU, NON-OU exclusif), reliés par des fils qui s'allument quand le courant passe. La table de vérité se calcule toute seule, les bascules gardent leur mémoire, et 5 exemples montrent un demi-additionneur, un additionneur complet, une bascule RS, un multiplexeur et un clignotant.",
+      "syncMode": "fusion",
+      "syncInfo": "Le circuit dessiné et la vitesse de l'horloge."
+    },
+    {
+      "id": "neodex.motion",
+      "name": "Motion",
+      "repo": "NDesumeur/neodex-plugin-motion",
+      "version": "1.0.0",
+      "category": "Création",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Règle tes courbes d'animation et vois-les bouger : courbe de Bézier à deux poignées (10 préréglages, et les tiens) ou ressort réglé par la masse, la raideur et l'amortissement. Compare 3 courbes côte à côte sur un déplacement, un agrandissement, une rotation et un fondu, puis copie le CSS prêt à l'emploi (cubic-bezier, linear() pour le ressort, @keyframes).",
+      "syncMode": "fusion",
+      "syncInfo": "Les 3 courbes, la durée et tes préréglages gardés."
+    },
+    {
+      "id": "neodex.qraft",
+      "name": "Qraft",
+      "repo": "NDesumeur/neodex-plugin-qraft",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Fabrique des QR codes : texte, lien, Wi-Fi (le mot de passe n'est jamais enregistré), contact, e-mail, SMS ou position. Choisis le niveau de correction (L, M, Q, H), l'encre, le fond, la marge et la taille, vois la version et la place utilisée, et exporte en PNG ou SVG, ou copie l'image. Un avertissement prévient quand le contraste ou la marge rendent le code difficile à lire.",
+      "syncMode": "fusion",
+      "syncInfo": "Le contenu (sans mot de passe Wi-Fi), les réglages et les codes gardés."
+    },
+    {
+      "id": "neodex.pixelfont",
+      "name": "PixelFont",
+      "repo": "NDesumeur/neodex-plugin-pixelfont",
+      "version": "1.0.0",
+      "category": "Création",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Dessine ta police pixel art lettre par lettre (125 caractères, accents français et € compris) sur une grille jusqu'à 16 × 16, avec largeur propre à chaque lettre, ligne de base, miroir, décalage, copier-coller et annuler. Pars d'une police du système ou d'une page blanche, regarde l'aperçu en direct, et exporte une vraie police TrueType (.ttf) à installer dans Windows, ou une planche PNG + JSON pour tes jeux.",
+      "syncMode": "fusion",
+      "syncInfo": "Toutes les lettres dessinées, les réglages et le texte d'aperçu."
+    },
+    {
+      "id": "neodex.pixelstudio",
+      "name": "PixelStudio",
+      "repo": "NDesumeur/neodex-plugin-pixelstudio",
+      "version": "1.0.0",
+      "category": "Création",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Dessine et anime tes sprites pixel art, de 8 × 8 à 64 × 64 : crayon, gomme, pot de peinture, ligne, rectangles, pipette, déplacement et symétrie, palette de 32 couleurs modifiable, annuler et refaire. Ajoute des images d'animation avec la pelure d'oignon, regarde-les tourner à la vitesse voulue, et exporte en PNG, en planche de sprites ou en GIF animé transparent.",
+      "syncMode": "fusion",
+      "syncInfo": "Le dessin, toutes ses images, la palette et la vitesse."
+    },
+    {
+      "id": "neodex.bittune",
+      "name": "BitTune",
+      "repo": "NDesumeur/neodex-plugin-bittune",
+      "version": "1.0.0",
+      "category": "Création",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Compose de la musique chiptune sur une grille, avec les 4 voies des vieilles consoles : deux ondes carrées (rapport cyclique 12,5, 25 ou 50 %), une triangle pour la basse et un bruit pour les percussions. 4 motifs de 32 pas enchaînés dans l'ordre que tu veux, notes tenues, tempo, volume par voie, lecture en boucle et export en WAV.",
+      "syncMode": "fusion",
+      "syncInfo": "Les 4 motifs, l'ordre, le tempo et les réglages des voies."
+    },
+    {
+      "id": "neodex.dataforge",
+      "name": "DataForge",
+      "repo": "NDesumeur/neodex-plugin-dataforge",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Ouvre et transforme tes données en tableau : CSV (séparateur deviné, guillemets, nombres à la française), TSV copié d'un tableur ou JSON. Trie, filtre, regarde les statistiques et le graphique de chaque colonne, ajoute des colonnes calculées par formule, renomme, nettoie, enlève les doublons, annule, puis exporte en CSV, TSV, JSON, Markdown ou SQL.",
+      "syncMode": "fusion",
+      "syncInfo": "Le dernier tableau ouvert (s'il n'est pas trop gros)."
+    },
+    {
+      "id": "neodex.chronobox",
+      "name": "Chronobox",
+      "repo": "NDesumeur/neodex-plugin-chronobox",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps.",
+      "syncMode": "fusion",
+      "syncInfo": "Le chronomètre, les minuteurs, le Pomodoro et les comptes à rebours."
+    },
+    {
+      "id": "neodex.sounddeck",
+      "name": "SoundDeck",
+      "repo": "NDesumeur/neodex-plugin-sounddeck",
+      "version": "1.0.0",
+      "category": "Création",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Fabrique des bruitages rétro pour tes jeux : pièce, saut, laser, explosion, bonus, touché, clic ou porte, tirés au hasard d'un clic, puis réglés avec 5 formes d'onde et 14 curseurs (hauteur, glissando, enveloppe, punch, vibrato, arpège, filtre, écrasement). Une variante d'un clic, 12 pads à jouer au clavier, et l'export en WAV.",
+      "syncMode": "fusion",
+      "syncInfo": "Le son en cours et les 12 pads."
+    },
+    {
+      "id": "neodex.networld",
+      "name": "NetWorld",
+      "repo": "NDesumeur/neodex-plugin-networld",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "La boîte à outils réseau, sans rien envoyer sur le réseau : calculateur de sous-réseaux IPv4 (réseau, masque, diffusion, plage de machines, binaire, type d'adresse), découpage d'un réseau selon le nombre de machines de chaque service (VLSM), IPv6 développée, compressée et son réseau, décomposition d'une adresse web, et un aide-mémoire des ports et des codes HTTP avec recherche.",
+      "syncMode": "fusion",
+      "syncInfo": "Les dernières adresses et le découpage saisis."
+    },
+    {
+      "id": "neodex.clipforge",
+      "name": "ClipForge",
+      "repo": "NDesumeur/neodex-plugin-clipforge",
+      "version": "1.0.0",
+      "category": "Utilitaires",
+      "system": false,
+      "type": "app",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "android",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "L'atelier de texte : empile des étapes (majuscules, camelCase, sans accents, trier et dédoublonner les lignes, remplacer avec ou sans expression régulière, extraire, joindre, Base64, URL, HTML, JSON…) et le résultat se met à jour en direct pendant que tu tapes. Les recettes se gardent pour être rejouées. Et des modèles de texte à trous ({nom}, {date}…) à remplir puis copier.",
+      "syncMode": "fusion",
+      "syncInfo": "Le texte en cours, les recettes et les modèles."
     }
   ],
   "revoked": [
