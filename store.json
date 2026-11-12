@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-11T22:21:56.308Z",
+ "updated": "2026-11-12T00:42:19.576Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -1632,7 +1632,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 490,
+   "installs": 491,
    "updated": "2026-11-08T14:48:09Z",
    "langs": [
     "fr",
