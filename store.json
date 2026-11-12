@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-12T06:32:04.714Z",
+ "updated": "2026-11-12T07:22:51.545Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -38,6 +38,31 @@
     "fr"
    ],
    "en": null,
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.algoflow",
+   "repo": "NDesumeur/neodex-plugin-algoflow",
+   "name": "AlgoFlow",
+   "description": "Regarde les algorithmes travailler, étape par étape : 8 tris (bulles, insertion, sélection, fusion, rapide, tas, Shell, comptage), 2 recherches (linéaire, dichotomique) et 4 parcours de graphe sur une grille que tu dessines (largeur, profondeur, Dijkstra, A*) avec murs, boue et labyrinthes. Le pseudo-code s'allume ligne par ligne, les comparaisons et écritures sont comptées, et tu avances, recules ou changes la vitesse à volonté.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:29Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "AlgoFlow",
+    "description": "Watch algorithms work, step by step: 8 sorts (bubble, insertion, selection, merge, quick, heap, Shell, counting), 2 searches (linear, binary) and 4 graph traversals on a grid you draw (breadth-first, depth-first, Dijkstra, A*) with walls, mud and mazes. The pseudo-code lights up line by line, comparisons and writes are counted, and you step forward, back or change the speed at will."
+   },
    "rating": {
     "average": 0,
     "count": 0,
@@ -349,6 +374,56 @@
    }
   },
   {
+   "id": "neodex.bittune",
+   "repo": "NDesumeur/neodex-plugin-bittune",
+   "name": "BitTune",
+   "description": "Compose de la musique chiptune sur une grille, avec les 4 voies des vieilles consoles : deux ondes carrées (rapport cyclique 12,5, 25 ou 50 %), une triangle pour la basse et un bruit pour les percussions. 4 motifs de 32 pas enchaînés dans l'ordre que tu veux, notes tenues, tempo, volume par voie, lecture en boucle et export en WAV.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:59Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "BitTune",
+    "description": "Compose chiptune music on a grid, with the 4 voices of old consoles: two square waves (12.5, 25 or 50 % duty cycle), a triangle for the bass and noise for the drums. 4 patterns of 32 steps chained in the order you want, held notes, tempo, volume per voice, looped playback and WAV export."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bitwise",
+   "repo": "NDesumeur/neodex-plugin-bitwise",
+   "name": "Bitwise",
+   "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:03Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Bitwise",
+    "description": "Binary from every angle: one number in decimal, hexadecimal, binary, octal and characters at once, on 8 to 64 bits, signed or not, with every bit clickable. Bitwise operations (AND, OR, XOR, shifts, rotations…) laid out in columns and explained, text as UTF-8 bytes and back, the ASCII table, and a floating-point number broken down into sign, exponent and mantissa."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.blackdle",
    "repo": "NDesumeur/neodex-plugin-blackdle",
    "name": "BlackDle",
@@ -524,6 +599,81 @@
    }
   },
   {
+   "id": "neodex.chronobox",
+   "repo": "NDesumeur/neodex-plugin-chronobox",
+   "name": "Chronobox",
+   "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:41:10Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Chronobox",
+    "description": "Everything that counts time, in one place: a stopwatch to the hundredth with laps (best and worst in colour), as many timers as you like at once with an alarm, an adjustable Pomodoro (work, short and long breaks) and countdowns to your important dates. Times stay right even if you close NeoDex in between."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.cipher",
+   "repo": "NDesumeur/neodex-plugin-cipher",
+   "name": "Cipher",
+   "description": "Essaie et comprends neuf méthodes de chiffrement, des plus anciennes aux vraies d'aujourd'hui : César, Vigenère, Atbash, substitution, clôture, Morse, XOR, AES-256 et SHA-256. Pour chacune : chiffrer et déchiffrer, ce qui arrive à chaque lettre, les fréquences comparées au français, son histoire et comment on la casse, avec le cassage automatique de César et de Vigenère.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cipher",
+    "description": "Try and understand nine encryption methods, from the oldest to the real ones of today: Caesar, Vigenère, Atbash, substitution, rail fence, Morse, XOR, AES-256 and SHA-256. For each: encrypt and decrypt, what happens to every letter, letter frequencies compared with French, its history and how it is broken, with automatic breaking of Caesar and Vigenère."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.clipforge",
+   "repo": "NDesumeur/neodex-plugin-clipforge",
+   "name": "ClipForge",
+   "description": "L'atelier de texte : empile des étapes (majuscules, camelCase, sans accents, trier et dédoublonner les lignes, remplacer avec ou sans expression régulière, extraire, joindre, Base64, URL, HTML, JSON…) et le résultat se met à jour en direct pendant que tu tapes. Les recettes se gardent pour être rejouées. Et des modèles de texte à trous ({nom}, {date}…) à remplir puis copier.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 2,
+   "updated": "2026-11-12T06:41:25Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "ClipForge",
+    "description": "The text workshop: stack steps (uppercase, camelCase, no accents, sort and deduplicate lines, replace with or without a regular expression, extract, join, Base64, URL, HTML, JSON…) and the result updates live as you type. Recipes are kept to be replayed. Plus text templates with blanks ({nom}, {date}…) to fill in and copy."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.code",
    "repo": "NDesumeur/neodex-plugin-code",
    "name": "Code secret",
@@ -641,6 +791,31 @@
    "en": {
     "name": "Ladies",
     "description": "International draughts (10 × 10) against the computer, with the real rules: compulsory capture forwards and backwards, longest capture sequence, kings that fly along the whole diagonal, draws by repetition. Seven levels from beginner to grandmaster, undo, official move notation, statistics per level, and the current game resumed even on another PC."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.dataforge",
+   "repo": "NDesumeur/neodex-plugin-dataforge",
+   "name": "DataForge",
+   "description": "Ouvre et transforme tes données en tableau : CSV (séparateur deviné, guillemets, nombres à la française), TSV copié d'un tableur ou JSON. Trie, filtre, regarde les statistiques et le graphique de chaque colonne, ajoute des colonnes calculées par formule, renomme, nettoie, enlève les doublons, annule, puis exporte en CSV, TSV, JSON, Markdown ou SQL.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:41:05Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "DataForge",
+    "description": "Open and transform your table data: CSV (separator guessed, quotes, French-style numbers), TSV copied from a spreadsheet, or JSON. Sort, filter, see each column's statistics and chart, add columns computed by formula, rename, clean up, remove duplicates, undo, then export as CSV, TSV, JSON, Markdown or SQL."
    },
    "rating": {
     "average": 0,
@@ -1074,6 +1249,31 @@
    }
   },
   {
+   "id": "neodex.gateworks",
+   "repo": "NDesumeur/neodex-plugin-gateworks",
+   "name": "Gateworks",
+   "description": "Construis des circuits logiques à la souris : interrupteurs, lampes, horloge et 7 portes (ET, OU, NON, OU exclusif, NON-ET, NON-OU, NON-OU exclusif), reliés par des fils qui s'allument quand le courant passe. La table de vérité se calcule toute seule, les bascules gardent leur mémoire, et 5 exemples montrent un demi-additionneur, un additionneur complet, une bascule RS, un multiplexeur et un clignotant.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:34Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Gateworks",
+    "description": "Build logic circuits with the mouse: switches, lamps, a clock and 7 gates (AND, OR, NOT, XOR, NAND, NOR, XNOR), joined by wires that light up when current flows. The truth table computes itself, latches keep their memory, and 5 examples show a half adder, a full adder, an SR latch, a multiplexer and a blinker."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.gifstickers",
    "repo": "NDesumeur/neodex-plugin-gif-stickers",
    "name": "GIF & stickers",
@@ -1091,6 +1291,31 @@
    "en": {
     "name": "GIFs & stickers",
     "description": "Your library of animated GIFs and images: add them from your PC, a link or a Giphy page, or paste them, then copy them in one click to paste into Discord, WhatsApp or an email, still animated. Favourites, recent, keyword collections, search and the bundled NeoDex stickers, synced between your PCs."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.graphix",
+   "repo": "NDesumeur/neodex-plugin-graphix",
+   "name": "Graphix",
+   "description": "Trace jusqu'à 6 fonctions et change leurs paramètres en direct : curseurs a, b et c, temps t qui s'anime, écriture naturelle (2x, x², |x|, sin x, 2,5). Déplace-toi à la souris, zoome à la molette, lis les valeurs au survol, affiche les dérivées, et trouve les zéros, minimums, maximums et intersections dans la zone visible. Table de valeurs et export en PNG.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Graphix",
+    "description": "Plot up to 6 functions and change their parameters live: sliders a, b and c, animated time t, natural writing (2x, x², |x|, sin x, 2.5). Move around with the mouse, zoom with the wheel, read values on hover, show derivatives, and find zeros, minimums, maximums and intersections in the visible area. Table of values and PNG export."
    },
    "rating": {
     "average": 0,
@@ -1599,6 +1824,31 @@
    }
   },
   {
+   "id": "neodex.motion",
+   "repo": "NDesumeur/neodex-plugin-motion",
+   "name": "Motion",
+   "description": "Règle tes courbes d'animation et vois-les bouger : courbe de Bézier à deux poignées (10 préréglages, et les tiens) ou ressort réglé par la masse, la raideur et l'amortissement. Compare 3 courbes côte à côte sur un déplacement, un agrandissement, une rotation et un fondu, puis copie le CSS prêt à l'emploi (cubic-bezier, linear() pour le ressort, @keyframes).",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Motion",
+    "description": "Tune your animation curves and watch them move: a Bézier curve with two handles (10 presets, plus your own) or a spring set by mass, stiffness and damping. Compare 3 curves side by side on a move, a scale, a rotation and a fade, then copy the ready-to-use CSS (cubic-bezier, linear() for the spring, @keyframes)."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.motsmeles",
    "repo": "NDesumeur/neodex-plugin-mots-meles",
    "name": "Mots mêlés",
@@ -1628,12 +1878,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.0.2",
+   "version": "2.0.3",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 491,
-   "updated": "2026-11-08T14:48:09Z",
+   "installs": 493,
+   "updated": "2026-11-12T06:41:30Z",
    "langs": [
     "fr",
     "en"
@@ -1749,6 +1999,31 @@
    }
   },
   {
+   "id": "neodex.networld",
+   "repo": "NDesumeur/neodex-plugin-networld",
+   "name": "NetWorld",
+   "description": "La boîte à outils réseau, sans rien envoyer sur le réseau : calculateur de sous-réseaux IPv4 (réseau, masque, diffusion, plage de machines, binaire, type d'adresse), découpage d'un réseau selon le nombre de machines de chaque service (VLSM), IPv6 développée, compressée et son réseau, décomposition d'une adresse web, et un aide-mémoire des ports et des codes HTTP avec recherche.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:41:20Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "NetWorld",
+    "description": "The network toolbox that sends nothing over the network: IPv4 subnet calculator (network, mask, broadcast, host range, binary, address type), splitting a network by the number of hosts of each department (VLSM), IPv6 expanded, compressed and its network, web address breakdown, and a searchable cheat sheet of ports and HTTP codes."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.orbe",
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
@@ -1849,6 +2124,31 @@
    }
   },
   {
+   "id": "neodex.pattern",
+   "repo": "NDesumeur/neodex-plugin-pattern",
+   "name": "Pattern",
+   "description": "Écris une expression régulière et vois-la trouver ses correspondances en direct dans ton texte : chaque morceau du motif expliqué en français, le détail des groupes, le remplacement avec $1 et $<nom>, les six drapeaux, un aide-mémoire cliquable, des exemples prêts (e-mail, date, téléphone, IP…) et tes motifs gardés. Un motif qui s'emballe est arrêté au bout d'une seconde au lieu de figer NeoDex.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:08Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Pattern",
+    "description": "Write a regular expression and watch it find its matches live in your text: every part of the pattern explained in plain words, group details, replacement with $1 and $<name>, the six flags, a clickable cheat sheet, ready-made examples (e-mail, date, phone, IP…) and your saved patterns. A runaway pattern is stopped after one second instead of freezing NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.pdf",
    "repo": "NDesumeur/neodex-plugin-pdf",
    "name": "NeoPDF",
@@ -1916,6 +2216,56 @@
    "en": {
     "name": "Hanged",
     "description": "Hangman with French words: 17 themes or all mixed, letters by click or keyboard, accents ignored (E also finds É, È, Ê). Four levels, from 10 mistakes with the first and last letters given down to 4 mistakes on long words; a hint for one mistake, the word revealed on a loss, winning streaks kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.pixelfont",
+   "repo": "NDesumeur/neodex-plugin-pixelfont",
+   "name": "PixelFont",
+   "description": "Dessine ta police pixel art lettre par lettre (125 caractères, accents français et € compris) sur une grille jusqu'à 16 × 16, avec largeur propre à chaque lettre, ligne de base, miroir, décalage, copier-coller et annuler. Pars d'une police du système ou d'une page blanche, regarde l'aperçu en direct, et exporte une vraie police TrueType (.ttf) à installer dans Windows, ou une planche PNG + JSON pour tes jeux.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:49Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "PixelFont",
+    "description": "Draw your pixel art font letter by letter (125 characters, French accents and € included) on a grid up to 16 × 16, with a width for each letter, baseline, mirror, shift, copy-paste and undo. Start from a system font or a blank page, watch the live preview, and export a real TrueType font (.ttf) to install in Windows, or a PNG sheet + JSON for your games."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.pixelstudio",
+   "repo": "NDesumeur/neodex-plugin-pixelstudio",
+   "name": "PixelStudio",
+   "description": "Dessine et anime tes sprites pixel art, de 8 × 8 à 64 × 64 : crayon, gomme, pot de peinture, ligne, rectangles, pipette, déplacement et symétrie, palette de 32 couleurs modifiable, annuler et refaire. Ajoute des images d'animation avec la pelure d'oignon, regarde-les tourner à la vitesse voulue, et exporte en PNG, en planche de sprites ou en GIF animé transparent.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:54Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "PixelStudio",
+    "description": "Draw and animate your pixel art sprites, from 8 × 8 to 64 × 64: pencil, eraser, paint bucket, line, rectangles, eyedropper, move and mirror, an editable 32-colour palette, undo and redo. Add animation frames with onion skinning, watch them play at the speed you want, and export as PNG, a sprite sheet or a transparent animated GIF."
    },
    "rating": {
     "average": 0,
@@ -2116,6 +2466,31 @@
    "en": {
     "name": "Pulsar",
     "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.qraft",
+   "repo": "NDesumeur/neodex-plugin-qraft",
+   "name": "Qraft",
+   "description": "Fabrique des QR codes : texte, lien, Wi-Fi (le mot de passe n'est jamais enregistré), contact, e-mail, SMS ou position. Choisis le niveau de correction (L, M, Q, H), l'encre, le fond, la marge et la taille, vois la version et la place utilisée, et exporte en PNG ou SVG, ou copie l'image. Un avertissement prévient quand le contraste ou la marge rendent le code difficile à lire.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:44Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Qraft",
+    "description": "Make QR codes: text, link, Wi-Fi (the password is never saved), contact, e-mail, SMS or location. Choose the error correction level (L, M, Q, H), the ink, the background, the margin and the size, see the version and the space used, and export as PNG or SVG, or copy the image. A warning tells you when the contrast or the margin make the code hard to read."
    },
    "rating": {
     "average": 0,
@@ -2399,6 +2774,31 @@
    }
   },
   {
+   "id": "neodex.sounddeck",
+   "repo": "NDesumeur/neodex-plugin-sounddeck",
+   "name": "SoundDeck",
+   "description": "Fabrique des bruitages rétro pour tes jeux : pièce, saut, laser, explosion, bonus, touché, clic ou porte, tirés au hasard d'un clic, puis réglés avec 5 formes d'onde et 14 curseurs (hauteur, glissando, enveloppe, punch, vibrato, arpège, filtre, écrasement). Une variante d'un clic, 12 pads à jouer au clavier, et l'export en WAV.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:41:15Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "SoundDeck",
+    "description": "Make retro sound effects for your games: coin, jump, laser, explosion, power-up, hit, click or door, rolled at random in one click, then tuned with 5 waveforms and 14 sliders (pitch, slide, envelope, punch, vibrato, arpeggio, filter, crush). A variation in one click, 12 pads to play from the keyboard, and WAV export."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.studio",
    "repo": "NDesumeur/neodex-plugin-studio",
    "name": "Studio de plugins",
@@ -2435,9 +2835,13 @@
    "installs": 22,
    "updated": "2026-11-08T12:19:33Z",
    "langs": [
-    "fr"
+    "fr",
+    "en"
    ],
-   "en": null,
+   "en": {
+    "name": "Sudoku",
+    "description": "Grids generated on the fly and always with a single solution, in five levels, from Easy (40 digits given) to Diabolical (21). Pencil notes that clean themselves up, highlighting of related cells, undo, hints, mistakes shown or hidden, full keyboard play; best time per level and the game in progress kept."
+   },
    "rating": {
     "average": 0,
     "count": 0,
@@ -2662,6 +3066,31 @@
    "en": {
     "name": "Units",
     "description": "A unit converter in 19 categories: length, mass, volume, area, time, speed, temperature, pressure, energy, power, data, internet speed, fuel consumption, cooking, shoe size, currencies and more. The value is shown in the chosen unit and in all the others at once; 31 currencies at the European Central Bank's daily rates."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.vie",
+   "repo": "NDesumeur/neodex-plugin-vie",
+   "name": "Jeu de la vie",
+   "description": "Le jeu de la vie de Conway et ses cousins : dessine des cellules à la souris, lance la simulation à la vitesse voulue, pose 12 motifs célèbres (planeur, pulsar, canon à planeurs de Gosper, gland…) et tourne-les, change la règle (HighLife, Seeds, Jour et nuit, Labyrinthe ou la tienne en B/S), suis la population sur un graphique et l'âge des cellules en couleurs, et échange tes créations au format RLE.",
+   "version": "1.0.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-12T06:40:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Game of Life",
+    "description": "Conway's Game of Life and its cousins: draw cells with the mouse, run the simulation at the speed you want, place 12 famous patterns (glider, pulsar, Gosper glider gun, acorn…) and rotate them, change the rule (HighLife, Seeds, Day & Night, Maze or your own in B/S), follow the population on a graph and the cells' age in colours, and share your creations in RLE format."
    },
    "rating": {
     "average": 0,
