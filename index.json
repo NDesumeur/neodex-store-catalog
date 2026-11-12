@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-12T12:35:54Z",
+  "updated": "2026-11-12T12:37:03Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -2517,6 +2517,581 @@
       "description": "Le monteur vidéo : importe des vidéos, des images et des sons, pose-les sur une timeline à 5 pistes (deux de vidéo, une de textes, deux de son), coupe, déplace et rogne à la souris. Transitions (fondu, glisse, zoom, volet), textes animés, effets de couleur, flou et pixels, vitesse de ×0,25 à ×4, volume et fondus du son. Format paysage, portrait ou carré, et export du montage en vidéo WebM.",
       "syncMode": "fusion",
       "syncInfo": "Le montage (clips, réglages) et les médias de 15 Mo au plus."
+    },
+    {
+      "id": "neodex.beffroi",
+      "name": "Beffroi",
+      "repo": "NDesumeur/neodex-plugin-beffroi",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de saut : monte les étages d'un clocher en courant et en sautant. Plus tu cours vite, plus tu sautes haut, et les murs te renvoient l'élan. Dès le 5e étage, le clocher défile de plus en plus vite : ne te laisse pas rattraper. Combos sur les sauts de plusieurs étages, poutres de bois, de pierre puis de cuivre. Score, étages et record.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.carrefour",
+      "name": "Carrefour",
+      "repo": "NDesumeur/neodex-plugin-carrefour",
+      "version": "1.0.0",
+      "category": "Jeux · Réflexion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de réflexe : règle les feux d'un croisement où des voitures et des bus arrivent des quatre côtés. Un clic (ou une flèche) passe un feu au vert ou au rouge. Évite l'accident au milieu et ne laisse personne attendre trop longtemps, sinon il klaxonne et tu perds une étoile. De plus en plus de voitures. Record et accidents comptés.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.faisceaux",
+      "name": "Faisceaux",
+      "repo": "NDesumeur/neodex-plugin-faisceaux",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, de plus en plus de rayons. Score, temps et record.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.cheminee",
+      "name": "Cheminée",
+      "repo": "NDesumeur/neodex-plugin-cheminee",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu d'escalade : un mineur grimpe une cheminée de volcan en sautant d'une paroi à l'autre. Maintiens pour charger le saut (plus tu maintiens, plus il monte, la trajectoire s'affiche), lâche pour sauter. Évite les crocs plantés dans les parois et les scies qui vont et viennent, ramasse les gemmes, et monte plus vite que la lave. Hauteur, gemmes et record.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.gabarit",
+      "name": "Gabarit",
+      "repo": "NDesumeur/neodex-plugin-gabarit",
+      "version": "1.0.0",
+      "category": "Jeux · Réflexion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de formes : dans une forge, une pièce de métal chaud tombe vers un moule creusé dans le sol. Tourne-la, retourne-la et place-la pour qu'elle le remplisse exactement avant qu'elle ne touche le sol. Des moules de plus en plus grands, des faux moules presque pareils pour te piéger et une chute de plus en plus rapide. Trois ratés permis. Score et record.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.bistrot",
+      "name": "Bistrot",
+      "repo": "NDesumeur/neodex-plugin-bistrot",
+      "version": "1.0.0",
+      "category": "Jeux · Stratégie et gestion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de cuisine en pixel art vu de dessus : six cuisines, des commandes à préparer contre la montre (salades, burgers, cheeseburgers, soupes). On hache, on cuit, on dresse l'assiette et on l'envoie au passe avant la fin du ticket, sans laisser brûler la poêle ni la marmite. Trois étoiles par cuisine.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.tambour",
+      "name": "Tambour",
+      "repo": "NDesumeur/neodex-plugin-tambour",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages."
+    },
+    {
+      "id": "neodex.cataclysme",
+      "name": "Cataclysme",
+      "repo": "NDesumeur/neodex-plugin-cataclysme",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de destruction de planètes en pixel art : chaque planète est faite de milliers de pixels (croûte, roche, magma, noyau) et chaque pixel arraché devient un débris soumis à la gravité. Astéroïdes, comètes qui traversent, bombes à retardement et trous noirs, en quantité limitée : sept planètes à détruire, trois étoiles chacune.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.virage",
+      "name": "Virage",
+      "repo": "NDesumeur/neodex-plugin-virage",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de course en pixel art vu de dessus, contre la montre : six circuits (prairie, épingles, banquise, dunes, turbo, nœud), trois tours, des écarts à chaque point de passage, le fantôme de ton meilleur chrono et des médailles de bronze à auteur. Herbe, sable, glace et flèches turbo.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.culbute",
+      "name": "Culbute",
+      "repo": "NDesumeur/neodex-plugin-culbute",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu d'adresse : une bouteille d'eau saute de meuble en meuble dans un salon, tables, tabourets, piles de livres, commodes et caisses. Maintiens pour charger le saut, lâche pour la lancer, et maintiens en l'air pour la faire tourner plus vite : elle doit retomber debout. Culbutes parfaites qui comptent double, sauts par-dessus un meuble et séries. Score et record.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.toboggan",
+      "name": "Toboggan",
+      "repo": "NDesumeur/neodex-plugin-toboggan",
+      "version": "1.0.0",
+      "category": "Jeux · Réflexion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de construction de circuits à billes en pixel art : pose des rampes, des entonnoirs, des trampolines et des aiguillages pour mener les billes jusqu'aux pots, en passant par des tunnels et en évitant les pics. Une vraie physique (roulis, rebonds, chocs entre billes), dix niveaux, et trois étoiles pour qui trouve le circuit le plus court.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.sauterelle",
+      "name": "Sauterelle",
+      "repo": "NDesumeur/neodex-plugin-sauterelle",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de saut en pixel art : une sauterelle bondit de feuille en feuille, toujours plus haut, du jardin au ciel, au crépuscule, à la nuit puis aux étoiles. Feuilles qui glissent, feuilles sèches qui cassent, nuages d'un seul saut, champignons ressorts, ailes de libellule et guêpes à écraser. Un record en mètres.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.taupiniere",
+      "name": "Taupinière",
+      "repo": "NDesumeur/neodex-plugin-taupiniere",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de réflexe : pendant une minute, des taupes sortent de neuf trous dans un potager. Tape-les avant qu'elles ne rentrent, à la souris, au doigt ou au pavé numérique. Taupes dorées qui rapportent gros, taupes casquées qui demandent deux coups, hérissons à ne pas toucher, et un multiplicateur pour les séries. Score et record.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.spirale",
+      "name": "Spirale",
+      "repo": "NDesumeur/neodex-plugin-spirale",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu d'adresse : une balle rebondit sur les plateaux d'une tour en spirale dessinée en pixel art. Tourne la tour pour la faire tomber par les trous, évite les cases rouges, et enchaîne trois plateaux pour arriver lancée et tout casser. Des niveaux de plus en plus serrés, une arrivée dorée au fond. Meilleur niveau et meilleur score.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.bousculade",
+      "name": "Bousculade",
+      "repo": "NDesumeur/neodex-plugin-bousculade",
+      "version": "1.0.0",
+      "category": "Jeux · Cartes et plateau",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.potager",
+      "name": "Potager",
+      "repo": "NDesumeur/neodex-plugin-potager",
+      "version": "1.0.0",
+      "category": "Jeux · Stratégie et gestion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de défense en pixel art : sur 5 rangées de potager, plante trèfles, radis, choux, orties et piments pour arrêter limaces, escargots, corbeaux, taupes et sangliers avant qu'ils atteignent la maison. Des graines à ramasser, une grande vague à chaque niveau, un chat par rangée en dernier recours, 10 niveaux de plus en plus durs.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.grimpette",
+      "name": "Grimpette",
+      "repo": "NDesumeur/neodex-plugin-grimpette",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de conduite : une petite voiture sur des collines sans fin, avec une vraie physique. Au garage, choisis le terrain (prairie, désert, neige, lune) et la voiture (Jeep, Monster, Bolide), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, penche-toi en l'air et attention au toit. Un record par terrain.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.veillee",
+      "name": "Veillée",
+      "repo": "NDesumeur/neodex-plugin-veillee",
+      "version": "1.0.0",
+      "category": "Jeux · Aventure",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de survie en pixel art : seul dans un pré la nuit, lanterne à la main, tu fais face à des vagues de chauves-souris, d'ombres, de citrouilles et de golems. Tes armes tirent toutes seules, tu te déplaces et tu ramasses des cristaux pour monter de niveau et choisir tes améliorations. Tiens 10 minutes jusqu'à l'aube. Le noir autour de la lanterne, les yeux qui brillent, deux grands corbeaux.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.sesame",
+      "name": "Sésame",
+      "repo": "NDesumeur/neodex-plugin-sesame",
+      "version": "1.0.0",
+      "category": "Jeux · Réflexion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de logique : invente un mot de passe qui respecte seize règles de plus en plus tordues. Chaque règle respectée en dévoile une nouvelle et les anciennes doivent rester vraies : les chiffres doivent faire 20 alors qu'il faut aussi un calcul et l'heure qu'il est, un fromage mais pas plus de trois E, une capitale, une devinette, une longueur qui est un nombre premier… Meilleur temps.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.plusmoins",
+      "name": "Plus ou Moins",
+      "repo": "NDesumeur/neodex-plugin-plusmoins",
+      "version": "1.0.0",
+      "category": "Jeux · Devinettes",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Huit catégories de vrais chiffres arrondis : population des pays, altitude des montagnes, longueur des fleuves, poids des animaux, hauteur des monuments, taille des astres, année des inventions et habitants des villes de France. Ou tout mélangé. Meilleure série par catégorie.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.quatuor",
+      "name": "Quatuor",
+      "repo": "NDesumeur/neodex-plugin-quatuor",
+      "version": "1.0.0",
+      "category": "Jeux · Mots",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Vingt grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.lynx",
+      "name": "Lynx",
+      "repo": "NDesumeur/neodex-plugin-lynx",
+      "version": "1.0.0",
+      "category": "Jeux · Réflexion",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage ou une ville la nuit, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.cavale",
+      "name": "Cavale",
+      "repo": "NDesumeur/neodex-plugin-cavale",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages."
+    },
+    {
+      "id": "neodex.valse",
+      "name": "Valse",
+      "repo": "NDesumeur/neodex-plugin-valse",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages."
+    },
+    {
+      "id": "neodex.ricochet",
+      "name": "Ricochet",
+      "repo": "NDesumeur/neodex-plugin-ricochet",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages."
+    },
+    {
+      "id": "neodex.panier",
+      "name": "Panier",
+      "repo": "NDesumeur/neodex-plugin-panier",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu d'adresse : du basket en 60 secondes dans un gymnase en pixel art. Tire en arrière pour viser, le ballon rebondit vraiment sur le cercle et la planche. Paniers à 2 et 3 points, bonus sans toucher le cercle, séries EN FEU qui comptent double et un panier qui se met à bouger. Meilleur score et plus longue série.",
+      "syncMode": "progression",
+      "syncInfo": "Record."
+    },
+    {
+      "id": "neodex.neoman",
+      "name": "Neo-Man",
+      "repo": "NDesumeur/neodex-plugin-neoman",
+      "version": "1.0.0",
+      "category": "Jeux · Arcade",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Jeu de labyrinthe en pixel art : NeoMe mange toutes les notes de musique pendant que quatre petits fantômes la poursuivent, chacun à sa façon (Prune la traque, Menthe lui coupe la route, Miel la prend à revers, Groseille rôde). Les disques les font fuir : c'est le moment de les attraper. Objets bonus du Studio, niveaux de plus en plus rapides, une vie de plus à 10 000 points. NeoMe a ses vrais sprites de NeoBestiary Studio.",
+      "syncMode": "progression",
+      "syncInfo": "Records."
     }
   ],
   "revoked": [
