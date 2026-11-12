@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-12T12:37:03Z",
+  "updated": "2026-11-12T17:04:31Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -497,7 +497,7 @@
       "id": "neodex.rythme",
       "name": "Rythme",
       "repo": "NDesumeur/neodex-plugin-rythme",
-      "version": "1.6.8",
+      "version": "1.6.9",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1940,7 +1940,7 @@
       "id": "neodex.orbe",
       "name": "Orbe",
       "repo": "NDesumeur/neodex-plugin-orbe",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1959,7 +1959,7 @@
       "id": "neodex.sillage",
       "name": "Sillage",
       "repo": "NDesumeur/neodex-plugin-sillage",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2192,7 +2192,7 @@
       "id": "neodex.cipher",
       "name": "Cipher",
       "repo": "NDesumeur/neodex-plugin-cipher",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -2302,7 +2302,7 @@
       "id": "neodex.motion",
       "name": "Motion",
       "repo": "NDesumeur/neodex-plugin-motion",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -2316,7 +2316,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Règle tes courbes d'animation et vois-les bouger : courbe de Bézier à deux poignées (10 préréglages, et les tiens) ou ressort réglé par la masse, la raideur et l'amortissement. Compare 3 courbes côte à côte sur un déplacement, un agrandissement, une rotation et un fondu, puis copie le CSS prêt à l'emploi (cubic-bezier, linear() pour le ressort, @keyframes).",
+      "description": "L'animateur : formes, textes et images animés par images clés sur une timeline (position, échelle, rotation, opacité, flou, couleur), 12 effets tout prêts, accélérations réglables, export en vidéo WebM, en HTML/CSS ou en PNG. Et l'éditeur de courbes : Bézier ou ressort, comparées côte à côte, CSS prêt à copier.",
       "syncMode": "fusion",
       "syncInfo": "Les 3 courbes, la durée et tes préréglages gardés."
     },
@@ -2390,7 +2390,7 @@
       "id": "neodex.bittune",
       "name": "BitTune",
       "repo": "NDesumeur/neodex-plugin-bittune",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -2404,7 +2404,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Compose de la musique chiptune sur une grille, avec les 4 voies des vieilles consoles : deux ondes carrées (rapport cyclique 12,5, 25 ou 50 %), une triangle pour la basse et un bruit pour les percussions. 4 motifs de 32 pas enchaînés dans l'ordre que tu veux, notes tenues, tempo, volume par voie, lecture en boucle et export en WAV.",
+      "description": "Compose de la musique chiptune : 5 voies (deux carrées, triangle, bruit à 6 percussions, dent de scie), 8 motifs de 32 pas sur 3 octaves, effets par note (vibrato, arpèges, glissés, piqué, volume), panoramique, écho, swing, gammes, muet et solo. Lecture avec oscilloscope, export WAV et MIDI, morceaux à enregistrer et 3 exemples.",
       "syncMode": "fusion",
       "syncInfo": "Les 4 motifs, l'ordre, le tempo et les réglages des voies."
     },
@@ -2431,32 +2431,10 @@
       "syncInfo": "Le dernier tableau ouvert (s'il n'est pas trop gros)."
     },
     {
-      "id": "neodex.chronobox",
-      "name": "Chronobox",
-      "repo": "NDesumeur/neodex-plugin-chronobox",
-      "version": "1.0.0",
-      "category": "Utilitaires",
-      "system": false,
-      "type": "app",
-      "mobile": true,
-      "compatibility": [
-        "windows",
-        "android",
-        "linux"
-      ],
-      "approved": true,
-      "permissions": [
-        "storage"
-      ],
-      "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps.",
-      "syncMode": "fusion",
-      "syncInfo": "Le chronomètre, les minuteurs, le Pomodoro et les comptes à rebours."
-    },
-    {
       "id": "neodex.sounddeck",
       "name": "SoundDeck",
       "repo": "NDesumeur/neodex-plugin-sounddeck",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -2470,7 +2448,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Fabrique des bruitages rétro pour tes jeux : pièce, saut, laser, explosion, bonus, touché, clic ou porte, tirés au hasard d'un clic, puis réglés avec 5 formes d'onde et 14 curseurs (hauteur, glissando, enveloppe, punch, vibrato, arpège, filtre, écrasement). Une variante d'un clic, 12 pads à jouer au clavier, et l'export en WAV.",
+      "description": "Fabrique des bruitages rétro pour tes jeux : 16 familles à tirer au hasard (pièce, saut, laser, explosion, tir, magie, moteur…), 6 formes d'onde et 23 réglages verrouillables (filtre résonant, écho, distorsion, trémolo…), historique, mélange de plusieurs sons et 5 jingles, 12 pads, clavier, export WAV 44/22/11 kHz en 16 ou 8 bits.",
       "syncMode": "fusion",
       "syncInfo": "Le son en cours et les 12 pads."
     },
@@ -2500,7 +2478,7 @@
       "id": "neodex.clipforge",
       "name": "ClipForge",
       "repo": "NDesumeur/neodex-plugin-clipforge",
-      "version": "2.0.0",
+      "version": "3.0.0",
       "category": "Utilitaires",
       "system": false,
       "type": "app",
@@ -2514,7 +2492,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Le monteur vidéo : importe des vidéos, des images et des sons, pose-les sur une timeline à 5 pistes (deux de vidéo, une de textes, deux de son), coupe, déplace et rogne à la souris. Transitions (fondu, glisse, zoom, volet), textes animés, effets de couleur, flou et pixels, vitesse de ×0,25 à ×4, volume et fondus du son. Format paysage, portrait ou carré, et export du montage en vidéo WebM.",
+      "description": "Le monteur vidéo façon CapCut : timeline à 8 pistes (textes, effets, incrustation, vidéo, sons, musique) avec pellicule et formes d'onde, 13 transitions, mouvements, 14 filtres, 16 effets (VHS, glitch, grain, confettis…), textes stylés et animés, autocollants, fond flou, image figée, son détaché, vitesse ×0,1 à ×8. Export WebM ou MP4 jusqu'en 1080p et 60 images/s, en 16:9, 9:16, 1:1, 4:5, 4:3 ou 21:9.",
       "syncMode": "fusion",
       "syncInfo": "Le montage (clips, réglages) et les médias de 15 Mo au plus."
     },
@@ -2543,7 +2521,7 @@
       "id": "neodex.carrefour",
       "name": "Carrefour",
       "repo": "NDesumeur/neodex-plugin-carrefour",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -2564,7 +2542,7 @@
       "id": "neodex.faisceaux",
       "name": "Faisceaux",
       "repo": "NDesumeur/neodex-plugin-faisceaux",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2627,7 +2605,7 @@
       "id": "neodex.bistrot",
       "name": "Bistrot",
       "repo": "NDesumeur/neodex-plugin-bistrot",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -2648,7 +2626,7 @@
       "id": "neodex.tambour",
       "name": "Tambour",
       "repo": "NDesumeur/neodex-plugin-tambour",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2692,7 +2670,7 @@
       "id": "neodex.virage",
       "name": "Virage",
       "repo": "NDesumeur/neodex-plugin-virage",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2713,7 +2691,7 @@
       "id": "neodex.culbute",
       "name": "Culbute",
       "repo": "NDesumeur/neodex-plugin-culbute",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2818,7 +2796,7 @@
       "id": "neodex.bousculade",
       "name": "Bousculade",
       "repo": "NDesumeur/neodex-plugin-bousculade",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -2860,7 +2838,7 @@
       "id": "neodex.grimpette",
       "name": "Grimpette",
       "repo": "NDesumeur/neodex-plugin-grimpette",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2873,7 +2851,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu de conduite : une petite voiture sur des collines sans fin, avec une vraie physique. Au garage, choisis le terrain (prairie, désert, neige, lune) et la voiture (Jeep, Monster, Bolide), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, penche-toi en l'air et attention au toit. Un record par terrain.",
+      "description": "Jeu de conduite : un véhicule sur des collines sans fin, avec une vraie physique. Au garage, choisis parmi 13 mondes (prairie, désert, neige, lune, forêt, plage, jungle, marais, canyon, volcan, Mars, cristaux, ville la nuit) et 12 véhicules (Jeep, Monster, Bolide, Quad, Moto, Buggy, Tracteur, Van, Camion, Rallye, Rover, Hot-rod), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, penche-toi en l'air et attention au toit. Un record par monde.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
@@ -2923,7 +2901,7 @@
       "id": "neodex.plusmoins",
       "name": "Plus ou Moins",
       "repo": "NDesumeur/neodex-plugin-plusmoins",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Jeux · Devinettes",
       "system": false,
       "type": "app",
@@ -2936,7 +2914,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Huit catégories de vrais chiffres arrondis : population des pays, altitude des montagnes, longueur des fleuves, poids des animaux, hauteur des monuments, taille des astres, année des inventions et habitants des villes de France. Ou tout mélangé. Meilleure série par catégorie.",
+      "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Quatorze catégories de vrais chiffres arrondis : population et superficie des pays, altitude des montagnes, longueur des fleuves, poids, vitesse et longévité des animaux, hauteur des monuments, taille des astres, année des inventions, habitants des villes de France, calories des aliments, naissance de personnages célèbres et sortie des jeux vidéo. Ou tout mélangé. Meilleure série par catégorie.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
@@ -2944,7 +2922,7 @@
       "id": "neodex.quatuor",
       "name": "Quatuor",
       "repo": "NDesumeur/neodex-plugin-quatuor",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Jeux · Mots",
       "system": false,
       "type": "app",
@@ -2957,7 +2935,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Vingt grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute.",
+      "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Trente-quatre grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
@@ -2965,7 +2943,7 @@
       "id": "neodex.lynx",
       "name": "Lynx",
       "repo": "NDesumeur/neodex-plugin-lynx",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -2978,7 +2956,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage ou une ville la nuit, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques.",
+      "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage, une ville la nuit, une forêt, les fonds marins, l'espace ou l'hiver, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
@@ -2986,7 +2964,7 @@
       "id": "neodex.cavale",
       "name": "Cavale",
       "repo": "NDesumeur/neodex-plugin-cavale",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3032,7 +3010,7 @@
       "id": "neodex.ricochet",
       "name": "Ricochet",
       "repo": "NDesumeur/neodex-plugin-ricochet",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3076,7 +3054,7 @@
       "id": "neodex.neoman",
       "name": "Neo-Man",
       "repo": "NDesumeur/neodex-plugin-neoman",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
