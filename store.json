@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-12T12:29:17.814Z",
+ "updated": "2026-11-12T12:38:03.574Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -256,20 +256,20 @@
    "id": "neodex.atelier",
    "repo": "NDesumeur/neodex-plugin-atelier",
    "name": "Atelier",
-   "description": "L'environnement de développement de NeoDex : projets et fichiers, éditeur avec coloration, recherche dans tout le projet et raccourcis, aperçu web mis à jour en tapant, console, scripts JavaScript dans un bac à sable et Python avec celui de ton PC. Modèles de plugins prêts à tester dans un cadre isolé, validation de plugin.json et export en .zip pour publier.",
-   "version": "1.1.4",
+   "description": "L'environnement de développement de NeoDex : ouvre un dossier de ton PC ou un projet de l'Atelier. Éditeur avec coloration, autocomplétion (mots-clés, extraits, API de NeoDex) et problèmes signalés pendant que tu tapes, plan du fichier, recherche dans tout le projet, historique de chaque fichier, Git (fichiers modifiés, comparaison, commit) et terminal. Aperçu web et Markdown mis à jour en tapant, console, scripts JavaScript dans un bac à sable et Python avec celui de ton PC. Modèles de plugins prêts à tester dans un cadre isolé, validation de plugin.json et export en .zip pour publier.",
+   "version": "1.2.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 23,
-   "updated": "2026-11-08T14:46:24Z",
+   "updated": "2026-11-12T12:35:16Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Workshop",
-    "description": "NeoDex's development environment: projects and files, an editor with highlighting, project-wide search and shortcuts, a web preview that updates as you type, a console, JavaScript scripts in a sandbox and Python with your PC's own. Plugin templates ready to test in an isolated frame, plugin.json validation and .zip export for publishing."
+    "description": "NeoDex's development environment: open a folder of your PC or a Workshop project. Editor with highlighting, autocomplete (keywords, snippets, NeoDex API) and problems reported as you type, file outline, search across the project, history of each file, Git (changed files, comparison, commit) and terminal. Web and Markdown previews updated as you type, console, JavaScript scripts in a sandbox and Python with your PC's own. Plugin templates ready to test in an isolated frame, plugin.json validation and .zip export to publish."
    },
    "rating": {
     "average": 0,
@@ -284,10 +284,10 @@
    "description": "Jeu de saut : monte les étages d'un clocher en courant et en sautant. Plus tu cours vite, plus tu sautes haut, et les murs te renvoient l'élan. Dès le 5e étage, le clocher défile de plus en plus vite : ne te laisse pas rattraper. Combos sur les sauts de plusieurs étages, poutres de bois, de pierre puis de cuivre. Score, étages et record.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:27:39Z",
+   "updated": "2026-11-12T12:32:27Z",
    "langs": [
     "fr",
     "en"
@@ -327,20 +327,20 @@
    "id": "neodex.bestiarystudio",
    "repo": "NDesumeur/neodex-plugin-bestiarystudio",
    "name": "NeoBestiary Studio",
-   "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques et des musiques. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
-   "version": "1.8.5",
+   "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques, des musiques et des mondes entiers (continents, rivières, villes, factions) où vivent tes créatures. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
+   "version": "1.9.0",
    "category": "Création",
    "approved": true,
    "stars": 1,
    "installs": 443,
-   "updated": "2026-11-08T12:12:41Z",
+   "updated": "2026-11-12T12:35:22Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoBestiary Studio",
-    "description": "Describe a creature in words: the AI draws 3 sketches, you pick one, and it comes out as a 64×64 game character in 4 directions with a 5-frame walk, a bestiary entry (types, rarity, stats, 2 to 4 animated attacks) and a combat portrait. Also create objects, attacks and music. Everything runs locally on your PC (ComfyUI, 8 GB NVIDIA card), with models installed automatically."
+    "description": "Describe a creature in words: the AI draws 3 sketches, you pick one, and it comes out as a 64×64 game character in 4 directions with a 5-frame walk, a bestiary entry (types, rarity, stats, 2 to 4 animated attacks) and a combat portrait. Also create objects, attacks, music and whole worlds (continents, rivers, cities, factions) where your creatures live. Everything runs locally on your PC (ComfyUI, 8 GB NVIDIA card), with models installed automatically."
    },
    "rating": {
     "average": 0,
@@ -405,10 +405,10 @@
    "description": "Jeu de cuisine en pixel art vu de dessus : six cuisines, des commandes à préparer contre la montre (salades, burgers, cheeseburgers, soupes). On hache, on cuit, on dresse l'assiette et on l'envoie au passe avant la fin du ticket, sans laisser brûler la poêle ni la marmite. Trois étoiles par cuisine.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:19Z",
+   "updated": "2026-11-12T12:32:53Z",
    "langs": [
     "fr",
     "en"
@@ -524,6 +524,31 @@
    }
   },
   {
+   "id": "neodex.bousculade",
+   "repo": "NDesumeur/neodex-plugin-bousculade",
+   "name": "Bousculade",
+   "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:42Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Jostle",
+    "description": "Pixel art board game: elephants against rhinos on a 5 × 5 board, racing to be the first to push a rock off the board. Enter, move, turn, leave or push: the strength of each push depends on which way the lined-up animals face. Against the computer (easy, normal, hard) or two players on the same PC."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.budget",
    "repo": "NDesumeur/neodex-plugin-budget",
    "name": "Budget",
@@ -605,10 +630,10 @@
    "description": "Jeu de réflexe : règle les feux d'un croisement où des voitures et des bus arrivent des quatre côtés. Un clic (ou une flèche) passe un feu au vert ou au rouge. Évite l'accident au milieu et ne laisse personne attendre trop longtemps, sinon il klaxonne et tu perds une étoile. De plus en plus de voitures. Record et accidents comptés.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:27:47Z",
+   "updated": "2026-11-12T12:32:33Z",
    "langs": [
     "fr",
     "en"
@@ -680,10 +705,10 @@
    "description": "Jeu de destruction de planètes en pixel art : chaque planète est faite de milliers de pixels (croûte, roche, magma, noyau) et chaque pixel arraché devient un débris soumis à la gravité. Astéroïdes, comètes qui traversent, bombes à retardement et trous noirs, en quantité limitée : sept planètes à détruire, trois étoiles chacune.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:35Z",
+   "updated": "2026-11-12T12:33:03Z",
    "langs": [
     "fr",
     "en"
@@ -699,16 +724,41 @@
    }
   },
   {
+   "id": "neodex.cavale",
+   "repo": "NDesumeur/neodex-plugin-cavale",
+   "name": "Cavale",
+   "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Gallop",
+    "description": "A running rhythm game: bats come in the air (J or K), slimes on the ground (F or D), two monsters at once and golden ribbons to hold, on a path at sunset. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.cheminee",
    "repo": "NDesumeur/neodex-plugin-cheminee",
    "name": "Cheminée",
    "description": "Jeu d'escalade : un mineur grimpe une cheminée de volcan en sautant d'une paroi à l'autre. Maintiens pour charger le saut (plus tu maintiens, plus il monte, la trajectoire s'affiche), lâche pour sauter. Évite les crocs plantés dans les parois et les scies qui vont et viennent, ramasse les gemmes, et monte plus vite que la lave. Hauteur, gemmes et record.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:03Z",
+   "updated": "2026-11-12T12:32:42Z",
    "langs": [
     "fr",
     "en"
@@ -777,20 +827,20 @@
    "id": "neodex.clipforge",
    "repo": "NDesumeur/neodex-plugin-clipforge",
    "name": "ClipForge",
-   "description": "L'atelier de texte : empile des étapes (majuscules, camelCase, sans accents, trier et dédoublonner les lignes, remplacer avec ou sans expression régulière, extraire, joindre, Base64, URL, HTML, JSON…) et le résultat se met à jour en direct pendant que tu tapes. Les recettes se gardent pour être rejouées. Et des modèles de texte à trous ({nom}, {date}…) à remplir puis copier.",
-   "version": "1.0.0",
+   "description": "Le monteur vidéo : importe des vidéos, des images et des sons, pose-les sur une timeline à 5 pistes (deux de vidéo, une de textes, deux de son), coupe, déplace et rogne à la souris. Transitions (fondu, glisse, zoom, volet), textes animés, effets de couleur, flou et pixels, vitesse de ×0,25 à ×4, volume et fondus du son. Format paysage, portrait ou carré, et export du montage en vidéo WebM.",
+   "version": "2.0.0",
    "category": "Outils",
    "approved": true,
    "stars": 0,
    "installs": 2,
-   "updated": "2026-11-12T06:41:25Z",
+   "updated": "2026-11-12T12:35:49Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "ClipForge",
-    "description": "The text workshop: stack steps (uppercase, camelCase, no accents, sort and deduplicate lines, replace with or without a regular expression, extract, join, Base64, URL, HTML, JSON…) and the result updates live as you type. Recipes are kept to be replayed. Plus text templates with blanks ({nom}, {date}…) to fill in and copy."
+    "description": "The video editor: import videos, images and sounds, place them on a 5-track timeline (two for video, one for texts, two for sound), cut, move and trim with the mouse. Transitions (fade, slide, zoom, wipe), animated texts, colour, blur and pixel effects, speed from ×0.25 to ×4, sound volume and fades. Landscape, portrait or square format, and export of the edit as a WebM video."
    },
    "rating": {
     "average": 0,
@@ -905,10 +955,10 @@
    "description": "Jeu d'adresse : une bouteille d'eau saute de meuble en meuble dans un salon, tables, tabourets, piles de livres, commodes et caisses. Maintiens pour charger le saut, lâche pour la lancer, et maintiens en l'air pour la faire tourner plus vite : elle doit retomber debout. Culbutes parfaites qui comptent double, sauts par-dessus un meuble et séries. Score et record.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:51Z",
+   "updated": "2026-11-12T12:33:14Z",
    "langs": [
     "fr",
     "en"
@@ -1255,10 +1305,10 @@
    "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, de plus en plus de rayons. Score, temps et record.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:27:56Z",
+   "updated": "2026-11-12T12:32:37Z",
    "langs": [
     "fr",
     "en"
@@ -1430,10 +1480,10 @@
    "description": "Jeu de formes : dans une forge, une pièce de métal chaud tombe vers un moule creusé dans le sol. Tourne-la, retourne-la et place-la pour qu'elle le remplisse exactement avant qu'elle ne touche le sol. Des moules de plus en plus grands, des faux moules presque pareils pour te piéger et une chute de plus en plus rapide. Trois ratés permis. Score et record.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:11Z",
+   "updated": "2026-11-12T12:32:47Z",
    "langs": [
     "fr",
     "en"
@@ -1541,6 +1591,31 @@
    "en": {
     "name": "Skyscraper",
     "description": "A timing game: each floor slides above the tower, drop it with a click or Space so it lands exactly on the one below. What overhangs is cut off and the tower narrows; a floor spot on keeps its width, and three perfects in a row widen it. Floors move faster and faster and the sky changes all the way to space: build as high as you can."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.grimpette",
+   "repo": "NDesumeur/neodex-plugin-grimpette",
+   "name": "Grimpette",
+   "description": "Jeu de conduite : une petite voiture sur des collines sans fin, avec une vraie physique. Au garage, choisis le terrain (prairie, désert, neige, lune) et la voiture (Jeep, Monster, Bolide), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, penche-toi en l'air et attention au toit. Un record par terrain.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:52Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Uphill",
+    "description": "Driving game: a little car on endless hills, with real physics. In the garage, pick the terrain (meadow, desert, snow, moon) and the car (Jeep, Monster, Racer), and upgrade engine, tyres and tank with your coins. On the road, speed up, brake, lean in the air and mind the roof. A best per terrain."
    },
    "rating": {
     "average": 0,
@@ -1766,6 +1841,31 @@
    "en": {
     "name": "Fireflies",
     "description": "A lights puzzle: in a meadow of 5 × 5 fireflies, touching a firefly turns it on or off, along with its four neighbours. Light them all in as few moves as possible. Meadows that are always solvable, from 3 to 12 moves, opening one after another, and three stars if you do as well as the game."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.lynx",
+   "repo": "NDesumeur/neodex-plugin-lynx",
+   "name": "Lynx",
+   "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage ou une ville la nuit, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:18Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Eagle Eye",
+    "description": "Pixel art spot-the-difference game: two almost identical pictures, a garden, a beach or a city at night, and 5 to 7 differences to find before time runs out. Every level draws a new scene, stars for the time left, hints if you get stuck."
    },
    "rating": {
     "average": 0,
@@ -2078,12 +2178,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.0.3",
+   "version": "2.0.4",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 493,
-   "updated": "2026-11-12T06:41:30Z",
+   "updated": "2026-11-12T12:35:43Z",
    "langs": [
     "fr",
     "en"
@@ -2116,6 +2216,31 @@
    "en": {
     "name": "NBA",
     "description": "Each night's NBA games in Paris time with live scores, box scores (quarters, team and player stats, advanced eFG %, TS %, pace), East and West standings with playoffs and play-in, a page for each team and player profiles. Star your teams: their games first, in your schedule and notified (tip-off and final score). ESPN data."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.neoman",
+   "repo": "NDesumeur/neodex-plugin-neoman",
+   "name": "Neo-Man",
+   "description": "Jeu de labyrinthe en pixel art : NeoMe mange toutes les notes de musique pendant que quatre petits fantômes la poursuivent, chacun à sa façon (Prune la traque, Menthe lui coupe la route, Miel la prend à revers, Groseille rôde). Les disques les font fuir : c'est le moment de les attraper. Objets bonus du Studio, niveaux de plus en plus rapides, une vie de plus à 10 000 points. NeoMe a ses vrais sprites de NeoBestiary Studio.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:35:27Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Neo-Man",
+    "description": "Pixel art maze game: NeoMe eats every music note while four little ghosts chase her, each in its own way (Prune hunts her, Menthe cuts her off, Miel catches her from behind, Groseille prowls). Records make them flee: that's the time to catch them. Bonus items from the Studio, faster and faster levels, an extra life at 10,000 points. NeoMe has her real sprites from NeoBestiary Studio."
    },
    "rating": {
     "average": 0,
@@ -2177,20 +2302,20 @@
    "id": "neodex.neotha",
    "repo": "NDesumeur/neodex-plugin-neotha",
    "name": "NeoTha",
-   "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables.",
-   "version": "1.4.8",
+   "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables.",
+   "version": "1.4.9",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 303,
-   "updated": "2026-11-08T20:57:54Z",
+   "updated": "2026-11-12T12:34:50Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoTha",
-    "description": "A mouse rhythm game: notes come from the end of a tunnel towards a 3 × 3 grid; put your cursor on them as they land. The 200 Rythme tracks in 4 difficulties, or levels created from an audio file or your NeoMusic library (tempo detected). Combo up to double points, grades from S to D, adjustable audio offset and cursor."
+    "description": "A mouse rhythm game: notes come from the end of a tunnel towards a 3 × 3 grid; put your cursor on them as they land. The 1200 Rythme tracks in 4 difficulties, or levels created from an audio file or your NeoMusic library (tempo detected). Combo up to double points, grades from S to D, adjustable audio offset and cursor."
    },
    "rating": {
     "average": 0,
@@ -2227,20 +2352,20 @@
    "id": "neodex.orbe",
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
-   "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.1.2",
+   "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
+   "version": "1.1.3",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
    "installs": 9,
-   "updated": "2026-11-08T21:00:27Z",
+   "updated": "2026-11-12T12:34:55Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Orbe",
-    "description": "Mouse rhythm game: numbered orbs appear on the field and a circle closes in on each one; aim and click (or W / X) when it touches, follow the sliders with the button held and spin the spinners. The 200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music or NeoMusic. Full screen, countdown, Perfect, Good or OK, combo, grade from S to D and an offset that adjusts itself."
+    "description": "Mouse rhythm game: numbered orbs appear on the field and a circle closes in on each one; aim and click (or W / X) when it touches, follow the sliders with the button held and spin the spinners. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music or NeoMusic. Full screen, countdown, Perfect, Good or OK, combo, grade from S to D and an offset that adjusts itself."
    },
    "rating": {
     "average": 0,
@@ -2316,6 +2441,31 @@
    "en": {
     "name": "Paint",
     "description": "A drawing program: brush, eraser, line, rectangle, ellipse (filled or not), fill, colour picker, text and selection, each with its own key. 40-step undo, zoom, rotation, mirror, crop, resize, 9 filters and a sharp mode without smoothing. Open an image by drag and drop and save as PNG, JPEG or WebP."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.panier",
+   "repo": "NDesumeur/neodex-plugin-panier",
+   "name": "Panier",
+   "description": "Jeu d'adresse : du basket en 60 secondes dans un gymnase en pixel art. Tire en arrière pour viser, le ballon rebondit vraiment sur le cercle et la planche. Paniers à 2 et 3 points, bonus sans toucher le cercle, séries EN FEU qui comptent double et un panier qui se met à bouger. Meilleur score et plus longue série.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Hoop",
+    "description": "Skill game: basketball in 60 seconds in a pixel art gym. Pull back to aim, the ball really bounces off the rim and the backboard. 2 and 3 point shots, a bonus for nothing but net, ON FIRE streaks that count double and a hoop that starts moving. Best score and longest streak."
    },
    "rating": {
     "average": 0,
@@ -2499,6 +2649,31 @@
    }
   },
   {
+   "id": "neodex.plusmoins",
+   "repo": "NDesumeur/neodex-plugin-plusmoins",
+   "name": "Plus ou Moins",
+   "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Huit catégories de vrais chiffres arrondis : population des pays, altitude des montagnes, longueur des fleuves, poids des animaux, hauteur des monuments, taille des astres, année des inventions et habitants des villes de France. Ou tout mélangé. Meilleure série par catégorie.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:08Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Higher or Lower",
+    "description": "Trivia game: the left card shows its number, guess whether the right one is higher or lower. Eight categories of real rounded numbers: population of countries, height of mountains, length of rivers, weight of animals, height of monuments, size of celestial bodies, year of inventions and population of French cities. Or all mixed. Best streak per category."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.ponts",
    "repo": "NDesumeur/neodex-plugin-ponts",
    "name": "Ponts",
@@ -2524,16 +2699,41 @@
    }
   },
   {
+   "id": "neodex.potager",
+   "repo": "NDesumeur/neodex-plugin-potager",
+   "name": "Potager",
+   "description": "Jeu de défense en pixel art : sur 5 rangées de potager, plante trèfles, radis, choux, orties et piments pour arrêter limaces, escargots, corbeaux, taupes et sangliers avant qu'ils atteignent la maison. Des graines à ramasser, une grande vague à chaque niveau, un chat par rangée en dernier recours, 10 niveaux de plus en plus durs.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:47Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Veggie Patch",
+    "description": "Pixel art defense game: on 5 rows of vegetable patch, plant clovers, radishes, cabbages, nettles and chilis to stop slugs, snails, crows, moles and boars before they reach the house. Seeds to pick up, a big wave in every level, one cat per row as a last resort, 10 levels, each harder than the last."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.pressepapiers",
    "repo": "NDesumeur/neodex-plugin-presse-papiers",
    "name": "Presse-papiers",
    "description": "L'historique de tout ce que tu copies dans Windows, même NeoDex en arrière-plan : recherche, éléments épinglés qui ne partent jamais, un clic pour recopier, doublons remontés en tête, pause et effacement. Ctrl+Alt+H l'ouvre de n'importe où. Les 200 derniers textes sont gardés sur ton PC, et les mots de passe copiés depuis un gestionnaire ne sont jamais enregistrés.",
-   "version": "1.0.2",
+   "version": "1.0.3",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 12,
-   "updated": "2026-11-08T12:18:07Z",
+   "updated": "2026-11-12T12:35:38Z",
    "langs": [
     "fr",
     "en"
@@ -2552,20 +2752,20 @@
    "id": "neodex.prisme",
    "repo": "NDesumeur/neodex-plugin-prisme",
    "name": "Prisme",
-   "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.0.6",
+   "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
+   "version": "1.0.7",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 102,
-   "updated": "2026-11-08T21:00:32Z",
+   "updated": "2026-11-12T12:35:00Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Prism",
-    "description": "A keyboard rhythm game: notes burst from a central crystal towards four pads; hit the right arrow (or WASD) as they land, with two-key chords and long notes to hold. The 200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset."
+    "description": "A keyboard rhythm game: notes burst from a central crystal towards four pads; hit the right arrow (or WASD) as they land, with two-key chords and long notes to hold. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset."
    },
    "rating": {
     "average": 0,
@@ -2652,20 +2852,20 @@
    "id": "neodex.pulsar",
    "repo": "NDesumeur/neodex-plugin-pulsar",
    "name": "Pulsar",
-   "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
-   "version": "1.0.5",
+   "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.6",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 99,
-   "updated": "2026-11-08T20:57:58Z",
+   "updated": "2026-11-12T12:35:06Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Pulsar",
-    "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D."
+    "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D."
    },
    "rating": {
     "average": 0,
@@ -2691,6 +2891,31 @@
    "en": {
     "name": "Qraft",
     "description": "Make QR codes: text, link, Wi-Fi (the password is never saved), contact, e-mail, SMS or location. Choose the error correction level (L, M, Q, H), the ink, the background, the margin and the size, see the version and the space used, and export as PNG or SVG, or copy the image. A warning tells you when the contrast or the margin make the code hard to read."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.quatuor",
+   "repo": "NDesumeur/neodex-plugin-quatuor",
+   "name": "Quatuor",
+   "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Vingt grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Quartet",
+    "description": "Word game in French: sixteen words hide four groups of four. Find what links them, from red fruits to words that follow « coup de » and countries hidden inside a word. Twenty handwritten grids, with traps: words that seem to fit two groups. Four mistakes allowed. Grids solved and perfect grids."
    },
    "rating": {
     "average": 0,
@@ -2799,23 +3024,73 @@
    }
   },
   {
+   "id": "neodex.ricochet",
+   "repo": "NDesumeur/neodex-plugin-ricochet",
+   "name": "Ricochet",
+   "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:34Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Ricochet",
+    "description": "Bouncing rhythm game: a spark flies between the four walls of a stone courtyard; hit the arrow of the wall it is about to touch when it rings the gong, and hold the key on golden slides. The rhythm is read in its path. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.rythme",
    "repo": "NDesumeur/neodex-plugin-rythme",
    "name": "Rythme",
-   "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
-   "version": "1.6.7",
+   "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 1200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul.",
+   "version": "1.6.8",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 322,
-   "updated": "2026-11-08T20:57:56Z",
+   "updated": "2026-11-12T12:34:44Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Pace",
-    "description": "A 4-lane rhythm game: press D, F, J, K (or the arrows) when notes touch the line, and hold long notes. 200 tracks composed and played by the game, each in Easy, Normal, Hard and Expert, or levels created from an audio file or your NeoMusic library. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset."
+    "description": "A 4-lane rhythm game: press D, F, J, K (or the arrows) when notes touch the line, and hold long notes. 1200 tracks composed and played by the game, each in Easy, Normal, Hard and Expert, or levels created from an audio file or your NeoMusic library. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sauterelle",
+   "repo": "NDesumeur/neodex-plugin-sauterelle",
+   "name": "Sauterelle",
+   "description": "Jeu de saut en pixel art : une sauterelle bondit de feuille en feuille, toujours plus haut, du jardin au ciel, au crépuscule, à la nuit puis aux étoiles. Feuilles qui glissent, feuilles sèches qui cassent, nuages d'un seul saut, champignons ressorts, ailes de libellule et guêpes à écraser. Un record en mètres.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Hopper",
+    "description": "Pixel art jumping game: a grasshopper hops from leaf to leaf, ever higher, from the garden to the sky, dusk, night and then the stars. Sliding leaves, dry leaves that snap, one-jump clouds, springy mushrooms, dragonfly wings and wasps to squash. A best in metres."
    },
    "rating": {
     "average": 0,
@@ -2841,6 +3116,31 @@
    "en": {
     "name": "Stellar Leap",
     "description": "An endless run on a distant planet: jump over crystals (hold to jump higher, double jump in the air), stay on the ground under meteors, catch stars in a row for a multiplier up to ×4 and a shield to take a hit. The speed rises to more than double; score by distance and stars, record kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.sesame",
+   "repo": "NDesumeur/neodex-plugin-sesame",
+   "name": "Sésame",
+   "description": "Jeu de logique : invente un mot de passe qui respecte seize règles de plus en plus tordues. Chaque règle respectée en dévoile une nouvelle et les anciennes doivent rester vraies : les chiffres doivent faire 20 alors qu'il faut aussi un calcul et l'heure qu'il est, un fromage mais pas plus de trois E, une capitale, une devinette, une longueur qui est un nombre premier… Meilleur temps.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:03Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Open Sesame",
+    "description": "Logic game: make up a password that follows sixteen more and more twisted rules. Each rule you meet reveals a new one and the old ones must stay true: the digits must add up to 20 while you also need a sum and the current time, a cheese but no more than three E's, a capital city, a riddle, a length that is a prime number… Answers are in French. Best time."
    },
    "rating": {
     "average": 0,
@@ -2877,20 +3177,20 @@
    "id": "neodex.sillage",
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
-   "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D.",
-   "version": "1.0.6",
+   "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D.",
+   "version": "1.0.7",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 102,
-   "updated": "2026-11-08T21:00:37Z",
+   "updated": "2026-11-12T12:35:11Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Wake",
-    "description": "A flying rhythm game: your ship speeds along four altitudes above a city at night. Climb and dive to pick up stars at the height of their sound, follow the ribbons of long notes and get through energy gates with a boost. The 200 Rythme tracks rated from 1 to 10 stars or your own music; combo and grades from S to D."
+    "description": "A flying rhythm game: your ship speeds along four altitudes above a city at night. Climb and dive to pick up stars at the height of their sound, follow the ribbons of long notes and get through energy gates with a boost. The 1200 Rythme tracks rated from 1 to 10 stars or your own music; combo and grades from S to D."
    },
    "rating": {
     "average": 0,
@@ -2999,6 +3299,31 @@
    }
   },
   {
+   "id": "neodex.spirale",
+   "repo": "NDesumeur/neodex-plugin-spirale",
+   "name": "Spirale",
+   "description": "Jeu d'adresse : une balle rebondit sur les plateaux d'une tour en spirale dessinée en pixel art. Tourne la tour pour la faire tomber par les trous, évite les cases rouges, et enchaîne trois plateaux pour arriver lancée et tout casser. Des niveaux de plus en plus serrés, une arrivée dorée au fond. Meilleur niveau et meilleur score.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Spiral",
+    "description": "Skill game: a ball bounces on the platforms of a spiral tower drawn in pixel art. Turn the tower to make it drop through the holes, avoid the red tiles, and chain three platforms to come in fast and smash through. Tighter and tighter levels, a golden finish at the bottom. Best level and best score."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.studio",
    "repo": "NDesumeur/neodex-plugin-studio",
    "name": "Studio de plugins",
@@ -3080,10 +3405,10 @@
    "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:27Z",
+   "updated": "2026-11-12T12:32:58Z",
    "langs": [
     "fr",
     "en"
@@ -3124,6 +3449,31 @@
    }
   },
   {
+   "id": "neodex.taupiniere",
+   "repo": "NDesumeur/neodex-plugin-taupiniere",
+   "name": "Taupinière",
+   "description": "Jeu de réflexe : pendant une minute, des taupes sortent de neuf trous dans un potager. Tape-les avant qu'elles ne rentrent, à la souris, au doigt ou au pavé numérique. Taupes dorées qui rapportent gros, taupes casquées qui demandent deux coups, hérissons à ne pas toucher, et un multiplicateur pour les séries. Score et record.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:30Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Molehill",
+    "description": "Reflex game: for one minute, moles pop out of nine holes in a vegetable garden. Whack them before they go back in, with the mouse, a finger or the numeric keypad. Golden moles worth a lot, helmeted moles that take two hits, hedgehogs you must not touch, and a multiplier for streaks. Score and best."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.terminal",
    "repo": "NDesumeur/neodex-plugin-terminal",
    "name": "Terminal",
@@ -3155,10 +3505,10 @@
    "description": "Jeu de construction de circuits à billes en pixel art : pose des rampes, des entonnoirs, des trampolines et des aiguillages pour mener les billes jusqu'aux pots, en passant par des tunnels et en évitant les pics. Une vraie physique (roulis, rebonds, chocs entre billes), dix niveaux, et trois étoiles pour qui trouve le circuit le plus court.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:58Z",
+   "updated": "2026-11-12T12:33:19Z",
    "langs": [
     "fr",
     "en"
@@ -3203,12 +3553,12 @@
    "repo": "NDesumeur/neodex-plugin-transports",
    "name": "Transports",
    "description": "Les prochains passages des bus Tadao (Lens, Liévin, Hénin-Beaumont, Carvin) sur les 3 prochaines heures : recherche d'arrêt qui tolère les fautes, bus suivis en direct avec le nombre d'arrêts restants et le retard estimé, détail des arrêts de chaque trajet, mise à jour toutes les 30 secondes et arrêts favoris synchronisés. Données ouvertes de transport.data.gouv.fr.",
-   "version": "1.2.2",
+   "version": "1.2.3",
    "category": "Voyage",
    "approved": true,
    "stars": 1,
    "installs": 39,
-   "updated": "2026-11-08T12:19:57Z",
+   "updated": "2026-11-12T12:35:32Z",
    "langs": [
     "fr",
     "en"
@@ -3324,6 +3674,56 @@
    }
   },
   {
+   "id": "neodex.valse",
+   "repo": "NDesumeur/neodex-plugin-valse",
+   "name": "Valse",
+   "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:34:29Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Waltz",
+    "description": "One-key rhythm game: the sun and the moon spin around each other on a path of tiles drawn by the music; tap when the spinning one touches the next tile. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.veillee",
+   "repo": "NDesumeur/neodex-plugin-veillee",
+   "name": "Veillée",
+   "description": "Jeu de survie en pixel art : seul dans un pré la nuit, lanterne à la main, tu fais face à des vagues de chauves-souris, d'ombres, de citrouilles et de golems. Tes armes tirent toutes seules, tu te déplaces et tu ramasses des cristaux pour monter de niveau et choisir tes améliorations. Tiens 10 minutes jusqu'à l'aube. Le noir autour de la lanterne, les yeux qui brillent, deux grands corbeaux.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-12T12:33:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Nightwatch",
+    "description": "Pixel art survival game: alone in a meadow at night, lantern in hand, you face waves of bats, shades, pumpkins and golems. Your weapons fire by themselves; you move around and pick up crystals to level up and choose your upgrades. Hold out 10 minutes until dawn. The darkness around the lantern, glowing eyes, two great crows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.vie",
    "repo": "NDesumeur/neodex-plugin-vie",
    "name": "Jeu de la vie",
@@ -3355,10 +3755,10 @@
    "description": "Jeu de course en pixel art vu de dessus, contre la montre : six circuits (prairie, épingles, banquise, dunes, turbo, nœud), trois tours, des écarts à chaque point de passage, le fantôme de ton meilleur chrono et des médailles de bronze à auteur. Herbe, sable, glace et flèches turbo.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-12T12:28:43Z",
+   "updated": "2026-11-12T12:33:09Z",
    "langs": [
     "fr",
     "en"
