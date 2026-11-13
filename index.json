@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-13T13:24:25Z",
+  "updated": "2026-11-13T23:18:13Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3094,6 +3094,297 @@
       "description": "Jeu de labyrinthe en pixel art : NeoMe mange toutes les notes de musique pendant que quatre petits fantômes la poursuivent, chacun à sa façon (Prune la traque, Menthe lui coupe la route, Miel la prend à revers, Groseille rôde). Les disques les font fuir : c'est le moment de les attraper. Objets bonus du Studio, niveaux de plus en plus rapides, une vie de plus à 10 000 points. NeoMe a ses vrais sprites de NeoBestiary Studio.",
       "syncMode": "progression",
       "syncInfo": "Records."
+    },
+    {
+      "id": "neodex.anagrammes",
+      "name": "Anagrammes",
+      "repo": "NDesumeur/neodex-plugin-anagrammes",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Anagrammes en pixel art : les lettres d'un mot sont mélangées, remets-les dans l'ordre avant la fin du temps. 5 mots par niveau, de 4 à 9 lettres, plus de 350 mots courants. Un autre mot avec les mêmes lettres compte aussi. Clavier, souris ou manette, indices et records.",
+      "syncMode": "progression",
+      "syncInfo": "Niveau atteint et records.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.calcul",
+      "name": "Calcul mental",
+      "repo": "NDesumeur/neodex-plugin-calcul",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Calcul mental en pixel art : des séries de 10 calculs contre la montre, par paliers. Additions, soustractions, tables, divisions, puis deux opérations, carrés et pourcentages. Tape le résultat ou choisis parmi 4 réponses, au clavier, à la souris ou à la manette. 8 sur 10 ouvrent le palier suivant.",
+      "syncMode": "progression",
+      "syncInfo": "Paliers, étoiles et records.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.capsule",
+      "name": "Capsule temporelle",
+      "repo": "NDesumeur/neodex-plugin-capsule",
+      "version": "1.0.0",
+      "category": "Outils",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "notifications",
+        "background"
+      ],
+      "description": "Écris un message à toi-même et scelle-le : il ne s'ouvre qu'à la date choisie, dans un mois, un an ou dix ans. NeoDex te prévient le jour venu. Les capsules sont enterrées dans un petit jardin en pixel art, et celles qui sont prêtes brillent.",
+      "syncMode": "fusion",
+      "syncInfo": "Tes capsules (scellées ou ouvertes) suivent ton compte."
+    },
+    {
+      "id": "neodex.ciel",
+      "name": "Ciel ce soir",
+      "repo": "NDesumeur/neodex-plugin-ciel",
+      "version": "1.0.0",
+      "category": "Outils",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "network:celestrak.org",
+        "network:geocoding-api.open-meteo.com"
+      ],
+      "description": "Les planètes visibles cette nuit depuis ta ville, avec l'heure où elles sont au plus haut et leur direction ; la carte du ciel heure par heure en pixel art (étoiles brillantes, constellations, Lune et sa phase) ; et les prochains passages visibles de la Station spatiale internationale. Calculé sur ton PC, seule l'orbite de l'ISS vient d'Internet (CelesTrak).",
+      "syncMode": "fusion",
+      "syncInfo": "Ta ville suit ton compte."
+    },
+    {
+      "id": "neodex.geo",
+      "name": "Géo",
+      "repo": "NDesumeur/neodex-plugin-geo",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "network:flagcdn.com"
+      ],
+      "description": "Quiz de géographie en pixel art : reconnais les drapeaux, trouve les capitales ou le pays d'une capitale. 194 pays, par continent ou le monde entier, séries de 10 questions à 4 réponses, les pays ratés reviennent plus souvent. Clavier, souris ou manette. Drapeaux fournis par flagcdn.com.",
+      "syncMode": "progression",
+      "syncInfo": "Records, bonnes réponses et pays à revoir.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.glace",
+      "name": "Glace",
+      "repo": "NDesumeur/neodex-plugin-glace",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Glace, un casse-tête en pixel art : sur la glace, le pingouin glisse jusqu'au prochain rocher. Trouve le chemin jusqu'au drapeau en le moins de coups possible. 60 niveaux tous vérifiés faisables, de la neige qui arrête net, des étoiles pour le plus court chemin, un indice si tu bloques. Clavier, souris ou manette.",
+      "syncMode": "progression",
+      "syncInfo": "Niveaux et étoiles.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.metronome",
+      "name": "Métronome",
+      "repo": "NDesumeur/neodex-plugin-metronome",
+      "version": "1.0.0",
+      "category": "Musique",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Un métronome visuel en pixel art : balancier qui bat la mesure, de 30 à 260 battements par minute, mesures de 2/4 à 12/8, accents réglables temps par temps (fort, normal, muet), croches, triolets et doubles croches, quatre sons et le tempo tapé. Les clics sont réglés à l'échantillon près et continuent si tu changes d'onglet.",
+      "syncMode": "fusion",
+      "syncInfo": "Tempo, mesure, sons et accents."
+    },
+    {
+      "id": "neodex.miroirs",
+      "name": "Miroirs",
+      "repo": "NDesumeur/neodex-plugin-miroirs",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Miroirs, un casse-tête en pixel art : tourne les miroirs pour guider le laser jusqu'à tous les cristaux. 60 niveaux construits à partir du trajet du laser, donc toujours faisables, avec des murs et des miroirs pièges. Étoiles pour les niveaux faits en peu de coups, indices si tu bloques. Souris, clavier ou manette.",
+      "syncMode": "progression",
+      "syncInfo": "Niveaux et étoiles.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.periodique",
+      "name": "Périodique",
+      "repo": "NDesumeur/neodex-plugin-periodique",
+      "version": "1.0.0",
+      "category": "Outils",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Le tableau périodique des 118 éléments en pixel art : fiche de chaque élément (masse, famille, état à 20 °C, période, groupe, radioactivité), familles à isoler d'un clic, recherche par nom, symbole ou numéro, et un quiz « où est… ? » de 10 questions avec ta meilleure série.",
+      "syncMode": "progression",
+      "syncInfo": "Records du quiz et dernier élément vu.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.radio",
+      "name": "Radio",
+      "repo": "NDesumeur/neodex-plugin-radio",
+      "version": "1.0.0",
+      "category": "Musique",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "network:icecast.radiofrance.fr",
+        "network:*.ice.infomaniak.ch",
+        "network:icecast.skyrock.net"
+      ],
+      "description": "Les radios web françaises en direct dans un vieux poste en pixel art : France Inter, franceinfo, France Culture, FIP et ses webradios, Mouv', France Musique, RFI, Nova, TSF Jazz, Radio Classique, Oui FM, Skyrock… 26 stations par genre, favoris, volume et minuterie d'arrêt. Le son continue si tu changes d'onglet.",
+      "syncMode": "fusion",
+      "syncInfo": "Station, volume et favoris."
+    },
+    {
+      "id": "neodex.soldes",
+      "name": "Soldes",
+      "repo": "NDesumeur/neodex-plugin-soldes",
+      "version": "1.0.0",
+      "category": "Outils",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "network",
+        "notifications",
+        "background"
+      ],
+      "description": "Colle le lien d'un produit en ligne : NeoDex surveille son prix toutes les 6 heures, trace sa courbe et te prévient quand il baisse ou passe sous ton prix cible. Pour un site qui bloque, tu notes le prix à la main et la courbe continue.",
+      "syncMode": "fusion",
+      "syncInfo": "Tes produits suivis et leur historique de prix suivent ton compte."
+    },
+    {
+      "id": "neodex.tilemap",
+      "name": "Tilemap",
+      "repo": "NDesumeur/neodex-plugin-tilemap",
+      "version": "1.0.0",
+      "category": "Outils",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Dessine des cartes en tuiles 16×16 pour tes jeux 2D : 32 tuiles en pixel art (sol, eau, murs, arbres, coffres, portes…), deux calques, crayon, remplissage, rectangle, gomme, pipette et annulation. Exporte en PNG ou au format Tiled (.tmj et sa planche de tuiles), lisible par Tiled, Godot, Phaser ou LDtk.",
+      "syncMode": "fusion",
+      "syncInfo": "Tes cartes suivent ton compte."
+    },
+    {
+      "id": "neodex.ramaltman",
+      "name": "Ram Altman",
+      "repo": "NDesumeur/neodex-plugin-ramaltman",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage"
+      ],
+      "description": "Ram Altman, un jeu d'horreur et de survie : veilleur de nuit chez Brockman & Fils, tu gardes la Barrette, 64 Go de mémoire, de minuit à 6 h, face au robot qui se fait appeler Ram Altman. Caméras, portes, lumières, trappe et un courant qui s'épuise. 6 nuits, une histoire à reconstituer, deux fins, une nuit cachée. Textes en français ou en anglais, voix en anglais, toujours sous-titrées. Dessiné au pinceau, pas en pixels.",
+      "syncMode": "progression",
+      "syncInfo": "Nuit atteinte, étoiles, documents trouvés, records et réglages.",
+      "gamepad": false
     }
   ],
   "revoked": [
