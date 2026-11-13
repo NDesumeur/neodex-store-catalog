@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-13T19:21:37.625Z",
+ "updated": "2026-11-13T23:21:53.539Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -79,7 +79,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:12:01Z",
+   "updated": "2026-11-13T23:02:39Z",
    "langs": [
     "fr",
     "en"
@@ -104,7 +104,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:12:06Z",
+   "updated": "2026-11-13T23:02:41Z",
    "langs": [
     "fr",
     "en"
@@ -126,17 +126,17 @@
    "description": "Anagrammes en pixel art : les lettres d'un mot sont mélangées, remets-les dans l'ordre avant la fin du temps. 5 mots par niveau, de 4 à 9 lettres, plus de 350 mots courants. Un autre mot avec les mêmes lettres compte aussi. Clavier, souris ou manette, indices et records.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:03:30Z",
+   "updated": "2026-11-13T23:17:10Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Anagrams",
-    "description": "Anagrammes en pixel art : les lettres d'un mot sont mélangées, remets-les dans l'ordre avant la fin du temps. 5 mots par niveau, de 4 à 9 lettres, plus de 350 mots courants. Un autre mot avec les mêmes lettres compte aussi. Clavier, souris ou manette, indices et records."
+    "description": "Pixel art anagrams: the letters of a word are shuffled, put them back in order before time runs out. 5 words per level, 4 to 9 letters, over 350 common words. Another word with the same letters counts too. Keyboard, mouse or gamepad, hints and records."
    },
    "rating": {
     "average": 0,
@@ -154,7 +154,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T12:12:11Z",
+   "updated": "2026-11-13T23:02:45Z",
    "langs": [
     "fr",
     "en"
@@ -179,7 +179,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T14:46:19Z",
+   "updated": "2026-11-13T23:02:47Z",
    "langs": [
     "fr",
     "en"
@@ -204,7 +204,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:12:21Z",
+   "updated": "2026-11-13T23:02:49Z",
    "langs": [
     "fr",
     "en"
@@ -229,7 +229,7 @@
    "approved": true,
    "stars": 1,
    "installs": 359,
-   "updated": "2026-11-08T12:12:26Z",
+   "updated": "2026-11-13T23:02:51Z",
    "langs": [
     "fr",
     "en"
@@ -262,7 +262,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T12:12:31Z",
+   "updated": "2026-11-13T23:02:53Z",
    "langs": [
     "fr",
     "en"
@@ -312,7 +312,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:32:27Z",
+   "updated": "2026-11-13T23:02:56Z",
    "langs": [
     "fr",
     "en"
@@ -358,7 +358,7 @@
    "approved": true,
    "stars": 1,
    "installs": 453,
-   "updated": "2026-11-12T12:35:22Z",
+   "updated": "2026-11-13T23:02:59Z",
    "langs": [
     "fr",
     "en"
@@ -383,7 +383,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:12:46Z",
+   "updated": "2026-11-13T23:03:01Z",
    "langs": [
     "fr",
     "en"
@@ -408,7 +408,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:12:50Z",
+   "updated": "2026-11-13T23:03:03Z",
    "langs": [
     "fr",
     "en"
@@ -433,7 +433,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:04:00Z",
+   "updated": "2026-11-13T23:03:06Z",
    "langs": [
     "fr",
     "en"
@@ -508,7 +508,7 @@
    "approved": true,
    "stars": 1,
    "installs": 40,
-   "updated": "2026-11-08T12:12:55Z",
+   "updated": "2026-11-13T23:03:10Z",
    "langs": [
     "fr",
     "en"
@@ -533,7 +533,7 @@
    "approved": true,
    "stars": 1,
    "installs": 36,
-   "updated": "2026-11-08T14:46:29Z",
+   "updated": "2026-11-13T23:03:12Z",
    "langs": [
     "fr",
     "en"
@@ -558,7 +558,7 @@
    "approved": true,
    "stars": 1,
    "installs": 12,
-   "updated": "2026-11-12T17:03:55Z",
+   "updated": "2026-11-13T23:03:14Z",
    "langs": [
     "fr",
     "en"
@@ -583,7 +583,7 @@
    "approved": true,
    "stars": 1,
    "installs": 45,
-   "updated": "2026-11-08T12:13:05Z",
+   "updated": "2026-11-13T23:03:16Z",
    "langs": [
     "fr",
     "en"
@@ -608,7 +608,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:13:10Z",
+   "updated": "2026-11-13T23:03:18Z",
    "langs": [
     "fr",
     "en"
@@ -630,17 +630,17 @@
    "description": "Calcul mental en pixel art : des séries de 10 calculs contre la montre, par paliers. Additions, soustractions, tables, divisions, puis deux opérations, carrés et pourcentages. Tape le résultat ou choisis parmi 4 réponses, au clavier, à la souris ou à la manette. 8 sur 10 ouvrent le palier suivant.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:03:38Z",
+   "updated": "2026-11-13T23:17:15Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Mental Maths",
-    "description": "Calcul mental en pixel art : des séries de 10 calculs contre la montre, par paliers. Additions, soustractions, tables, divisions, puis deux opérations, carrés et pourcentages. Tape le résultat ou choisis parmi 4 réponses, au clavier, à la souris ou à la manette. 8 sur 10 ouvrent le palier suivant."
+    "description": "Pixel art mental math: rounds of 10 sums against the clock, step by step. Addition, subtraction, times tables, division, then two operations, squares and percentages. Type the answer or pick one of 4, with keyboard, mouse or gamepad. 8 out of 10 unlocks the next step."
    },
    "rating": {
     "average": 0,
@@ -658,7 +658,7 @@
    "approved": true,
    "stars": 1,
    "installs": 51,
-   "updated": "2026-11-08T12:13:15Z",
+   "updated": "2026-11-13T23:03:21Z",
    "langs": [
     "fr",
     "en"
@@ -680,17 +680,17 @@
    "description": "Écris un message à toi-même et scelle-le : il ne s'ouvre qu'à la date choisie, dans un mois, un an ou dix ans. NeoDex te prévient le jour venu. Les capsules sont enterrées dans un petit jardin en pixel art, et celles qui sont prêtes brillent.",
    "version": "1.0.0",
    "category": "Outils",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:03:45Z",
+   "updated": "2026-11-13T23:17:19Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Time Capsule",
-    "description": "Écris un message à toi-même et scelle-le : il ne s'ouvre qu'à la date choisie, dans un mois, un an ou dix ans. NeoDex te prévient le jour venu. Les capsules sont enterrées dans un petit jardin en pixel art, et celles qui sont prêtes brillent."
+    "description": "Write a message to yourself and seal it: it only opens on the date you pick, in a month, a year or ten years. NeoDex lets you know when the day comes. Capsules are buried in a little pixel art garden, and the ready ones glow."
    },
    "rating": {
     "average": 0,
@@ -708,7 +708,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:03:33Z",
+   "updated": "2026-11-13T23:03:24Z",
    "langs": [
     "fr",
     "en"
@@ -733,7 +733,7 @@
    "approved": true,
    "stars": 1,
    "installs": 262,
-   "updated": "2026-11-08T14:46:34Z",
+   "updated": "2026-11-13T23:03:25Z",
    "langs": [
     "fr",
     "en"
@@ -758,7 +758,7 @@
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-08T14:46:39Z",
+   "updated": "2026-11-13T23:03:28Z",
    "langs": [
     "fr",
     "en"
@@ -783,7 +783,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:03Z",
+   "updated": "2026-11-13T23:03:30Z",
    "langs": [
     "fr",
     "en"
@@ -833,7 +833,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:32:42Z",
+   "updated": "2026-11-13T23:03:33Z",
    "langs": [
     "fr",
     "en"
@@ -880,17 +880,17 @@
    "description": "Les planètes visibles cette nuit depuis ta ville, avec l'heure où elles sont au plus haut et leur direction ; la carte du ciel heure par heure en pixel art (étoiles brillantes, constellations, Lune et sa phase) ; et les prochains passages visibles de la Station spatiale internationale. Calculé sur ton PC, seule l'orbite de l'ISS vient d'Internet (CelesTrak).",
    "version": "1.0.0",
    "category": "Outils",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:03:52Z",
+   "updated": "2026-11-13T23:17:24Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Tonight’s Sky",
-    "description": "Les planètes visibles cette nuit depuis ta ville, avec l'heure où elles sont au plus haut et leur direction ; la carte du ciel heure par heure en pixel art (étoiles brillantes, constellations, Lune et sa phase) ; et les prochains passages visibles de la Station spatiale internationale. Calculé sur ton PC, seule l'orbite de l'ISS vient d'Internet (CelesTrak)."
+    "description": "The planets visible tonight from your town, with when they are highest and their direction; an hour-by-hour pixel art sky map (bright stars, constellations, the Moon and its phase); and the next visible passes of the International Space Station. Computed on your PC, only the ISS orbit comes from the Internet (CelesTrak)."
    },
    "rating": {
     "average": 0,
@@ -958,7 +958,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:13:29Z",
+   "updated": "2026-11-13T23:03:38Z",
    "langs": [
     "fr",
     "en"
@@ -983,7 +983,7 @@
    "approved": true,
    "stars": 1,
    "installs": 20,
-   "updated": "2026-11-08T12:13:34Z",
+   "updated": "2026-11-13T23:03:40Z",
    "langs": [
     "fr",
     "en"
@@ -1008,7 +1008,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T14:46:44Z",
+   "updated": "2026-11-13T23:03:42Z",
    "langs": [
     "fr",
     "en"
@@ -1033,7 +1033,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T14:46:48Z",
+   "updated": "2026-11-13T23:03:45Z",
    "langs": [
     "fr",
     "en"
@@ -1058,7 +1058,7 @@
    "approved": true,
    "stars": 1,
    "installs": 10,
-   "updated": "2026-11-12T17:03:49Z",
+   "updated": "2026-11-13T23:03:46Z",
    "langs": [
     "fr",
     "en"
@@ -1083,7 +1083,7 @@
    "approved": true,
    "stars": 1,
    "installs": 31,
-   "updated": "2026-11-08T14:46:53Z",
+   "updated": "2026-11-13T23:03:48Z",
    "langs": [
     "fr",
     "en"
@@ -1133,7 +1133,7 @@
    "approved": true,
    "stars": 1,
    "installs": 264,
-   "updated": "2026-11-08T12:13:53Z",
+   "updated": "2026-11-13T23:03:51Z",
    "langs": [
     "fr",
     "en"
@@ -1158,7 +1158,7 @@
    "approved": true,
    "stars": 1,
    "installs": 34,
-   "updated": "2026-11-08T14:46:58Z",
+   "updated": "2026-11-13T23:03:54Z",
    "langs": [
     "fr",
     "en"
@@ -1183,7 +1183,7 @@
    "approved": true,
    "stars": 1,
    "installs": 29,
-   "updated": "2026-11-08T12:14:02Z",
+   "updated": "2026-11-13T23:03:56Z",
    "langs": [
     "fr",
     "en"
@@ -1208,7 +1208,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T12:14:07Z",
+   "updated": "2026-11-13T23:03:58Z",
    "langs": [
     "fr",
     "en"
@@ -1233,7 +1233,7 @@
    "approved": true,
    "stars": 1,
    "installs": 34,
-   "updated": "2026-11-08T12:14:11Z",
+   "updated": "2026-11-13T23:04:00Z",
    "langs": [
     "fr",
     "en"
@@ -1258,7 +1258,7 @@
    "approved": true,
    "stars": 1,
    "installs": 37,
-   "updated": "2026-11-08T14:47:02Z",
+   "updated": "2026-11-13T23:04:02Z",
    "langs": [
     "fr",
     "en"
@@ -1283,7 +1283,7 @@
    "approved": true,
    "stars": 1,
    "installs": 29,
-   "updated": "2026-11-08T12:14:21Z",
+   "updated": "2026-11-13T23:04:04Z",
    "langs": [
     "fr",
     "en"
@@ -1308,7 +1308,7 @@
    "approved": true,
    "stars": 1,
    "installs": 14,
-   "updated": "2026-11-08T12:14:26Z",
+   "updated": "2026-11-13T23:04:09Z",
    "langs": [
     "fr",
     "en"
@@ -1333,7 +1333,7 @@
    "approved": true,
    "stars": 1,
    "installs": 280,
-   "updated": "2026-11-08T14:47:07Z",
+   "updated": "2026-11-13T23:04:11Z",
    "langs": [
     "fr",
     "en"
@@ -1358,7 +1358,7 @@
    "approved": true,
    "stars": 1,
    "installs": 12,
-   "updated": "2026-11-08T12:14:35Z",
+   "updated": "2026-11-13T23:04:13Z",
    "langs": [
     "fr",
     "en"
@@ -1383,7 +1383,7 @@
    "approved": true,
    "stars": 1,
    "installs": 22,
-   "updated": "2026-11-08T14:47:12Z",
+   "updated": "2026-11-13T23:04:15Z",
    "langs": [
     "fr",
     "en"
@@ -1408,7 +1408,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:03:38Z",
+   "updated": "2026-11-13T23:04:17Z",
    "langs": [
     "fr",
     "en"
@@ -1433,7 +1433,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:14:45Z",
+   "updated": "2026-11-13T23:04:19Z",
    "langs": [
     "fr",
     "en"
@@ -1458,7 +1458,7 @@
    "approved": true,
    "stars": 1,
    "installs": 118,
-   "updated": "2026-11-08T14:47:16Z",
+   "updated": "2026-11-13T23:04:21Z",
    "langs": [
     "fr",
     "en"
@@ -1483,7 +1483,7 @@
    "approved": true,
    "stars": 1,
    "installs": 21,
-   "updated": "2026-11-08T14:47:21Z",
+   "updated": "2026-11-13T23:04:23Z",
    "langs": [
     "fr",
     "en"
@@ -1508,7 +1508,7 @@
    "approved": true,
    "stars": 1,
    "installs": 275,
-   "updated": "2026-11-08T14:47:26Z",
+   "updated": "2026-11-13T23:04:25Z",
    "langs": [
     "fr",
     "en"
@@ -1533,7 +1533,7 @@
    "approved": true,
    "stars": 1,
    "installs": 18,
-   "updated": "2026-11-08T12:15:05Z",
+   "updated": "2026-11-13T23:04:27Z",
    "langs": [
     "fr",
     "en"
@@ -1558,7 +1558,7 @@
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-08T14:47:30Z",
+   "updated": "2026-11-13T23:04:29Z",
    "langs": [
     "fr",
     "en"
@@ -1583,7 +1583,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:32:47Z",
+   "updated": "2026-11-13T23:04:31Z",
    "langs": [
     "fr",
     "en"
@@ -1630,17 +1630,17 @@
    "description": "Quiz de géographie en pixel art : reconnais les drapeaux, trouve les capitales ou le pays d'une capitale. 194 pays, par continent ou le monde entier, séries de 10 questions à 4 réponses, les pays ratés reviennent plus souvent. Clavier, souris ou manette. Drapeaux fournis par flagcdn.com.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:03:59Z",
+   "updated": "2026-11-13T23:17:29Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Geo",
-    "description": "Quiz de géographie en pixel art : reconnais les drapeaux, trouve les capitales ou le pays d'une capitale. 194 pays, par continent ou le monde entier, séries de 10 questions à 4 réponses, les pays ratés reviennent plus souvent. Clavier, souris ou manette. Drapeaux fournis par flagcdn.com."
+    "description": "Pixel art geography quiz: recognise flags, find capitals or the country of a capital. 194 countries, by continent or the whole world, rounds of 10 questions with 4 answers, missed countries come back more often. Keyboard, mouse or gamepad. Flags from flagcdn.com."
    },
    "rating": {
     "average": 0,
@@ -1658,7 +1658,7 @@
    "approved": true,
    "stars": 1,
    "installs": 34,
-   "updated": "2026-11-08T12:15:14Z",
+   "updated": "2026-11-13T23:04:36Z",
    "langs": [
     "fr",
     "en"
@@ -1680,17 +1680,17 @@
    "description": "Glace, un casse-tête en pixel art : sur la glace, le pingouin glisse jusqu'au prochain rocher. Trouve le chemin jusqu'au drapeau en le moins de coups possible. 60 niveaux tous vérifiés faisables, de la neige qui arrête net, des étoiles pour le plus court chemin, un indice si tu bloques. Clavier, souris ou manette.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:06Z",
+   "updated": "2026-11-13T23:17:34Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Ice",
-    "description": "Glace, un casse-tête en pixel art : sur la glace, le pingouin glisse jusqu'au prochain rocher. Trouve le chemin jusqu'au drapeau en le moins de coups possible. 60 niveaux tous vérifiés faisables, de la neige qui arrête net, des étoiles pour le plus court chemin, un indice si tu bloques. Clavier, souris ou manette."
+    "description": "Ice, a pixel art puzzle: on the ice, the penguin slides to the next rock. Find the way to the flag in as few moves as possible. 60 levels all checked solvable, snow that stops you dead, stars for the shortest path, a hint if you are stuck. Keyboard, mouse or gamepad."
    },
    "rating": {
     "average": 0,
@@ -1733,7 +1733,7 @@
    "approved": true,
    "stars": 1,
    "installs": 19,
-   "updated": "2026-11-08T12:15:19Z",
+   "updated": "2026-11-13T23:04:40Z",
    "langs": [
     "fr",
     "en"
@@ -1783,7 +1783,7 @@
    "approved": true,
    "stars": 1,
    "installs": 321,
-   "updated": "2026-11-08T14:47:35Z",
+   "updated": "2026-11-13T23:04:43Z",
    "langs": [
     "fr",
     "en"
@@ -1808,7 +1808,7 @@
    "approved": true,
    "stars": 1,
    "installs": 45,
-   "updated": "2026-11-08T12:15:29Z",
+   "updated": "2026-11-13T23:04:45Z",
    "langs": [
     "fr",
     "en"
@@ -1833,7 +1833,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:15:34Z",
+   "updated": "2026-11-13T23:04:47Z",
    "langs": [
     "fr",
     "en"
@@ -1858,7 +1858,7 @@
    "approved": true,
    "stars": 1,
    "installs": 310,
-   "updated": "2026-11-08T14:47:40Z",
+   "updated": "2026-11-13T23:04:49Z",
    "langs": [
     "fr",
     "en"
@@ -1883,7 +1883,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:15:44Z",
+   "updated": "2026-11-13T23:04:51Z",
    "langs": [
     "fr",
     "en"
@@ -1908,7 +1908,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:15:49Z",
+   "updated": "2026-11-13T23:04:53Z",
    "langs": [
     "fr",
     "en"
@@ -1933,7 +1933,7 @@
    "approved": true,
    "stars": 1,
    "installs": 212,
-   "updated": "2026-11-08T12:15:54Z",
+   "updated": "2026-11-13T23:04:56Z",
    "langs": [
     "fr",
     "en"
@@ -1958,7 +1958,7 @@
    "approved": true,
    "stars": 1,
    "installs": 42,
-   "updated": "2026-11-08T14:47:45Z",
+   "updated": "2026-11-13T23:04:58Z",
    "langs": [
     "fr",
     "en"
@@ -1983,7 +1983,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:16:04Z",
+   "updated": "2026-11-13T23:05:00Z",
    "langs": [
     "fr",
     "en"
@@ -2008,7 +2008,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:04:18Z",
+   "updated": "2026-11-13T23:05:02Z",
    "langs": [
     "fr",
     "en"
@@ -2033,7 +2033,7 @@
    "approved": true,
    "stars": 1,
    "installs": 29,
-   "updated": "2026-11-08T12:16:09Z",
+   "updated": "2026-11-13T23:05:04Z",
    "langs": [
     "fr",
     "en"
@@ -2058,7 +2058,7 @@
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-08T14:47:50Z",
+   "updated": "2026-11-13T23:05:06Z",
    "langs": [
     "fr",
     "en"
@@ -2083,7 +2083,7 @@
    "approved": true,
    "stars": 1,
    "installs": 272,
-   "updated": "2026-11-08T14:47:55Z",
+   "updated": "2026-11-13T23:05:08Z",
    "langs": [
     "fr",
     "en"
@@ -2105,17 +2105,17 @@
    "description": "Un métronome visuel en pixel art : balancier qui bat la mesure, de 30 à 260 battements par minute, mesures de 2/4 à 12/8, accents réglables temps par temps (fort, normal, muet), croches, triolets et doubles croches, quatre sons et le tempo tapé. Les clics sont réglés à l'échantillon près et continuent si tu changes d'onglet.",
    "version": "1.0.0",
    "category": "Musique",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:15Z",
+   "updated": "2026-11-13T23:17:39Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Metronome",
-    "description": "Un métronome visuel en pixel art : balancier qui bat la mesure, de 30 à 260 battements par minute, mesures de 2/4 à 12/8, accents réglables temps par temps (fort, normal, muet), croches, triolets et doubles croches, quatre sons et le tempo tapé. Les clics sont réglés à l'échantillon près et continuent si tu changes d'onglet."
+    "description": "A visual pixel art metronome: a pendulum keeping time, 30 to 260 beats per minute, time signatures from 2/4 to 12/8, per-beat accents (strong, normal, muted), eighths, triplets and sixteenths, four sounds and tap tempo. Clicks are sample-accurate and keep going if you switch tabs."
    },
    "rating": {
     "average": 0,
@@ -2133,7 +2133,7 @@
    "approved": true,
    "stars": 1,
    "installs": 15,
-   "updated": "2026-11-08T14:48:00Z",
+   "updated": "2026-11-13T23:05:11Z",
    "langs": [
     "fr",
     "en"
@@ -2158,7 +2158,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:16:28Z",
+   "updated": "2026-11-13T23:05:13Z",
    "langs": [
     "fr",
     "en"
@@ -2183,7 +2183,7 @@
    "approved": true,
    "stars": 1,
    "installs": 44,
-   "updated": "2026-11-08T12:16:33Z",
+   "updated": "2026-11-13T23:05:15Z",
    "langs": [
     "fr",
     "en"
@@ -2205,17 +2205,17 @@
    "description": "Miroirs, un casse-tête en pixel art : tourne les miroirs pour guider le laser jusqu'à tous les cristaux. 60 niveaux construits à partir du trajet du laser, donc toujours faisables, avec des murs et des miroirs pièges. Étoiles pour les niveaux faits en peu de coups, indices si tu bloques. Souris, clavier ou manette.",
    "version": "1.0.0",
    "category": "Jeux",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:21Z",
+   "updated": "2026-11-13T23:17:44Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Mirrors",
-    "description": "Miroirs, un casse-tête en pixel art : tourne les miroirs pour guider le laser jusqu'à tous les cristaux. 60 niveaux construits à partir du trajet du laser, donc toujours faisables, avec des murs et des miroirs pièges. Étoiles pour les niveaux faits en peu de coups, indices si tu bloques. Souris, clavier ou manette."
+    "description": "Mirrors, a pixel art puzzle: turn the mirrors to guide the laser to every crystal. 60 levels built from the laser's path, so always solvable, with walls and trap mirrors. Stars for levels done in few moves, hints if you are stuck. Mouse, keyboard or gamepad."
    },
    "rating": {
     "average": 0,
@@ -2233,7 +2233,7 @@
    "approved": true,
    "stars": 1,
    "installs": 27,
-   "updated": "2026-11-08T12:16:38Z",
+   "updated": "2026-11-13T23:05:18Z",
    "langs": [
     "fr",
     "en"
@@ -2258,7 +2258,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T12:16:43Z",
+   "updated": "2026-11-13T23:05:20Z",
    "langs": [
     "fr",
     "en"
@@ -2283,7 +2283,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:16:48Z",
+   "updated": "2026-11-13T23:05:22Z",
    "langs": [
     "fr",
     "en"
@@ -2308,7 +2308,7 @@
    "approved": true,
    "stars": 1,
    "installs": 258,
-   "updated": "2026-11-08T12:16:53Z",
+   "updated": "2026-11-13T23:05:24Z",
    "langs": [
     "fr",
     "en"
@@ -2358,7 +2358,7 @@
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-08T14:48:04Z",
+   "updated": "2026-11-13T23:05:27Z",
    "langs": [
     "fr",
     "en"
@@ -2408,7 +2408,7 @@
    "approved": true,
    "stars": 1,
    "installs": 46,
-   "updated": "2026-11-08T12:17:08Z",
+   "updated": "2026-11-13T23:05:32Z",
    "langs": [
     "fr",
     "en"
@@ -2433,7 +2433,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:03:22Z",
+   "updated": "2026-11-13T23:05:34Z",
    "langs": [
     "fr",
     "en"
@@ -2458,7 +2458,7 @@
    "approved": true,
    "stars": 1,
    "installs": 42,
-   "updated": "2026-11-08T14:48:14Z",
+   "updated": "2026-11-13T23:05:36Z",
    "langs": [
     "fr",
     "en"
@@ -2483,7 +2483,7 @@
    "approved": true,
    "stars": 1,
    "installs": 60,
-   "updated": "2026-11-08T12:17:19Z",
+   "updated": "2026-11-13T23:05:38Z",
    "langs": [
     "fr",
     "en"
@@ -2583,7 +2583,7 @@
    "approved": true,
    "stars": 1,
    "installs": 18,
-   "updated": "2026-11-08T12:17:28Z",
+   "updated": "2026-11-13T23:05:43Z",
    "langs": [
     "fr",
     "en"
@@ -2608,7 +2608,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T14:48:24Z",
+   "updated": "2026-11-13T23:05:45Z",
    "langs": [
     "fr",
     "en"
@@ -2633,7 +2633,7 @@
    "approved": true,
    "stars": 1,
    "installs": 33,
-   "updated": "2026-11-08T12:17:39Z",
+   "updated": "2026-11-13T23:05:47Z",
    "langs": [
     "fr",
     "en"
@@ -2658,7 +2658,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T17:02:07Z",
+   "updated": "2026-11-13T23:05:49Z",
    "langs": [
     "fr",
     "en"
@@ -2708,7 +2708,7 @@
    "approved": true,
    "stars": 1,
    "installs": 39,
-   "updated": "2026-11-08T21:14:26Z",
+   "updated": "2026-11-13T23:05:52Z",
    "langs": [
     "fr",
     "en"
@@ -2733,7 +2733,7 @@
    "approved": true,
    "stars": 1,
    "installs": 33,
-   "updated": "2026-11-08T12:17:48Z",
+   "updated": "2026-11-13T23:05:54Z",
    "langs": [
     "fr",
     "en"
@@ -2758,7 +2758,7 @@
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-08T14:48:28Z",
+   "updated": "2026-11-13T23:05:56Z",
    "langs": [
     "fr",
     "en"
@@ -2780,17 +2780,17 @@
    "description": "Le tableau périodique des 118 éléments en pixel art : fiche de chaque élément (masse, famille, état à 20 °C, période, groupe, radioactivité), familles à isoler d'un clic, recherche par nom, symbole ou numéro, et un quiz « où est… ? » de 10 questions avec ta meilleure série.",
    "version": "1.0.0",
    "category": "Outils",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:29Z",
+   "updated": "2026-11-13T23:17:49Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Periodic",
-    "description": "Le tableau périodique des 118 éléments en pixel art : fiche de chaque élément (masse, famille, état à 20 °C, période, groupe, radioactivité), familles à isoler d'un clic, recherche par nom, symbole ou numéro, et un quiz « où est… ? » de 10 questions avec ta meilleure série."
+    "description": "The periodic table of the 118 elements in pixel art: a card for each element (mass, family, state at 20 °C, period, group, radioactivity), families to highlight in one click, search by name, symbol or number, and a 10-question « where is…? » quiz with your best score."
    },
    "rating": {
     "average": 0,
@@ -2858,7 +2858,7 @@
    "approved": true,
    "stars": 1,
    "installs": 19,
-   "updated": "2026-11-08T12:17:58Z",
+   "updated": "2026-11-13T23:06:01Z",
    "langs": [
     "fr",
     "en"
@@ -2883,7 +2883,7 @@
    "approved": true,
    "stars": 1,
    "installs": 12,
-   "updated": "2026-11-12T17:04:23Z",
+   "updated": "2026-11-13T23:06:04Z",
    "langs": [
     "fr",
     "en"
@@ -2908,7 +2908,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:18:03Z",
+   "updated": "2026-11-13T23:06:06Z",
    "langs": [
     "fr",
     "en"
@@ -2933,7 +2933,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:47Z",
+   "updated": "2026-11-13T23:06:08Z",
    "langs": [
     "fr",
     "en"
@@ -3008,7 +3008,7 @@
    "approved": true,
    "stars": 1,
    "installs": 19,
-   "updated": "2026-11-08T12:18:17Z",
+   "updated": "2026-11-13T23:06:12Z",
    "langs": [
     "fr",
     "en"
@@ -3033,7 +3033,7 @@
    "approved": true,
    "stars": 1,
    "installs": 33,
-   "updated": "2026-11-08T12:18:22Z",
+   "updated": "2026-11-13T23:06:14Z",
    "langs": [
     "fr",
     "en"
@@ -3058,7 +3058,7 @@
    "approved": true,
    "stars": 1,
    "installs": 20,
-   "updated": "2026-11-08T12:18:26Z",
+   "updated": "2026-11-13T23:06:18Z",
    "langs": [
     "fr",
     "en"
@@ -3133,7 +3133,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:04:12Z",
+   "updated": "2026-11-13T23:06:22Z",
    "langs": [
     "fr",
     "en"
@@ -3155,17 +3155,42 @@
    "description": "Les radios web françaises en direct dans un vieux poste en pixel art : France Inter, franceinfo, France Culture, FIP et ses webradios, Mouv', France Musique, RFI, Nova, TSF Jazz, Radio Classique, Oui FM, Skyrock… 26 stations par genre, favoris, volume et minuterie d'arrêt. Le son continue si tu changes d'onglet.",
    "version": "1.0.0",
    "category": "Musique",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:36Z",
+   "updated": "2026-11-13T23:17:54Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Radio",
-    "description": "Les radios web françaises en direct dans un vieux poste en pixel art : France Inter, franceinfo, France Culture, FIP et ses webradios, Mouv', France Musique, RFI, Nova, TSF Jazz, Radio Classique, Oui FM, Skyrock… 26 stations par genre, favoris, volume et minuterie d'arrêt. Le son continue si tu changes d'onglet."
+    "description": "French web radio live in an old pixel art set: France Inter, franceinfo, France Culture, FIP and its webradios, Mouv', France Musique, RFI, Nova, TSF Jazz, Radio Classique, Oui FM, Skyrock… 26 stations by genre, favourites, volume and sleep timer. Sound keeps playing if you switch tabs."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.ramaltman",
+   "repo": "NDesumeur/neodex-plugin-ramaltman",
+   "name": "Ram Altman",
+   "description": "Ram Altman, un jeu d'horreur et de survie : veilleur de nuit chez Brockman & Fils, tu gardes la Barrette, 64 Go de mémoire, de minuit à 6 h, face au robot qui se fait appeler Ram Altman. Caméras, portes, lumières, trappe et un courant qui s'épuise. 6 nuits, une histoire à reconstituer, deux fins, une nuit cachée. Textes en français ou en anglais, voix en anglais, toujours sous-titrées. Dessiné au pinceau, pas en pixels.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-13T23:18:08Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Ram Altman",
+    "description": "Ram Altman, a survival horror game: night watchman at Brockman & Sons, you guard the Stick, 64 GB of memory, from midnight to 6 AM, against the robot that calls itself Ram Altman. Cameras, doors, lights, a hatch and power that runs out. 6 nights, a story to piece together, two endings, a hidden night. Text in English or French, voices in English, always subtitled. Hand-painted, not pixel art."
    },
    "rating": {
     "average": 0,
@@ -3183,7 +3208,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:18:35Z",
+   "updated": "2026-11-13T23:06:26Z",
    "langs": [
     "fr",
     "en"
@@ -3208,7 +3233,7 @@
    "approved": true,
    "stars": 1,
    "installs": 19,
-   "updated": "2026-11-08T12:18:40Z",
+   "updated": "2026-11-13T23:06:29Z",
    "langs": [
     "fr",
     "en"
@@ -3233,7 +3258,7 @@
    "approved": true,
    "stars": 1,
    "installs": 14,
-   "updated": "2026-11-08T12:18:45Z",
+   "updated": "2026-11-13T23:06:31Z",
    "langs": [
     "fr",
     "en"
@@ -3258,7 +3283,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:18:50Z",
+   "updated": "2026-11-13T23:06:34Z",
    "langs": [
     "fr",
     "en"
@@ -3333,7 +3358,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:24Z",
+   "updated": "2026-11-13T23:06:41Z",
    "langs": [
     "fr",
     "en"
@@ -3358,7 +3383,7 @@
    "approved": true,
    "stars": 1,
    "installs": 277,
-   "updated": "2026-11-08T14:48:47Z",
+   "updated": "2026-11-13T23:06:39Z",
    "langs": [
     "fr",
     "en"
@@ -3383,7 +3408,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T17:02:10Z",
+   "updated": "2026-11-13T23:06:43Z",
    "langs": [
     "fr",
     "en"
@@ -3408,7 +3433,7 @@
    "approved": true,
    "stars": 1,
    "installs": 37,
-   "updated": "2026-11-08T14:48:52Z",
+   "updated": "2026-11-13T23:06:45Z",
    "langs": [
     "fr",
     "en"
@@ -3458,7 +3483,7 @@
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-08T12:19:14Z",
+   "updated": "2026-11-13T23:06:48Z",
    "langs": [
     "fr",
     "en"
@@ -3483,7 +3508,7 @@
    "approved": true,
    "stars": 1,
    "installs": 33,
-   "updated": "2026-11-08T12:19:19Z",
+   "updated": "2026-11-13T23:06:52Z",
    "langs": [
     "fr",
     "en"
@@ -3505,17 +3530,17 @@
    "description": "Colle le lien d'un produit en ligne : NeoDex surveille son prix toutes les 6 heures, trace sa courbe et te prévient quand il baisse ou passe sous ton prix cible. Pour un site qui bloque, tu notes le prix à la main et la courbe continue.",
    "version": "1.0.0",
    "category": "Outils",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:44Z",
+   "updated": "2026-11-13T23:17:59Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Sales",
-    "description": "Colle le lien d'un produit en ligne : NeoDex surveille son prix toutes les 6 heures, trace sa courbe et te prévient quand il baisse ou passe sous ton prix cible. Pour un site qui bloque, tu notes le prix à la main et la courbe continue."
+    "description": "Paste the link of an online product: NeoDex checks its price every 6 hours, draws its curve and lets you know when it drops or goes under your target price. For a site that blocks it, you note the price by hand and the curve goes on."
    },
    "rating": {
     "average": 0,
@@ -3533,7 +3558,7 @@
    "approved": true,
    "stars": 1,
    "installs": 42,
-   "updated": "2026-11-08T12:19:24Z",
+   "updated": "2026-11-13T23:06:57Z",
    "langs": [
     "fr",
     "en"
@@ -3583,7 +3608,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:35Z",
+   "updated": "2026-11-13T23:07:00Z",
    "langs": [
     "fr",
     "en"
@@ -3608,7 +3633,7 @@
    "approved": true,
    "stars": 1,
    "installs": 290,
-   "updated": "2026-11-08T14:49:02Z",
+   "updated": "2026-11-13T23:07:02Z",
    "langs": [
     "fr",
     "en"
@@ -3633,7 +3658,7 @@
    "approved": true,
    "stars": 1,
    "installs": 29,
-   "updated": "2026-11-08T12:19:33Z",
+   "updated": "2026-11-13T23:07:04Z",
    "langs": [
     "fr",
     "en"
@@ -3658,7 +3683,7 @@
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-08T12:19:38Z",
+   "updated": "2026-11-13T23:07:06Z",
    "langs": [
     "fr",
     "en"
@@ -3708,7 +3733,7 @@
    "approved": true,
    "stars": 1,
    "installs": 30,
-   "updated": "2026-11-08T12:19:43Z",
+   "updated": "2026-11-13T23:07:10Z",
    "langs": [
     "fr",
     "en"
@@ -3733,7 +3758,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:30Z",
+   "updated": "2026-11-13T23:07:13Z",
    "langs": [
     "fr",
     "en"
@@ -3758,7 +3783,7 @@
    "approved": true,
    "stars": 1,
    "installs": 33,
-   "updated": "2026-11-08T12:19:47Z",
+   "updated": "2026-11-13T23:07:15Z",
    "langs": [
     "fr",
     "en"
@@ -3780,17 +3805,17 @@
    "description": "Dessine des cartes en tuiles 16×16 pour tes jeux 2D : 32 tuiles en pixel art (sol, eau, murs, arbres, coffres, portes…), deux calques, crayon, remplissage, rectangle, gomme, pipette et annulation. Exporte en PNG ou au format Tiled (.tmj et sa planche de tuiles), lisible par Tiled, Godot, Phaser ou LDtk.",
    "version": "1.0.0",
    "category": "Outils",
-   "approved": false,
+   "approved": true,
    "stars": 0,
    "installs": 0,
-   "updated": "2026-11-13T14:04:51Z",
+   "updated": "2026-11-13T23:18:03Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Tilemap",
-    "description": "Dessine des cartes en tuiles 16×16 pour tes jeux 2D : 32 tuiles en pixel art (sol, eau, murs, arbres, coffres, portes…), deux calques, crayon, remplissage, rectangle, gomme, pipette et annulation. Exporte en PNG ou au format Tiled (.tmj et sa planche de tuiles), lisible par Tiled, Godot, Phaser ou LDtk."
+    "description": "Draw 16×16 tile maps for your 2D games: 32 pixel art tiles (ground, water, walls, trees, chests, doors…), two layers, pencil, fill, rectangle, eraser, picker and undo. Export to PNG or Tiled format (.tmj and its tileset), readable by Tiled, Godot, Phaser or LDtk."
    },
    "rating": {
     "average": 0,
@@ -3808,7 +3833,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:19Z",
+   "updated": "2026-11-13T23:07:18Z",
    "langs": [
     "fr",
     "en"
@@ -3833,7 +3858,7 @@
    "approved": true,
    "stars": 1,
    "installs": 42,
-   "updated": "2026-11-08T14:49:07Z",
+   "updated": "2026-11-13T23:07:20Z",
    "langs": [
     "fr",
     "en"
@@ -3883,7 +3908,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:20:01Z",
+   "updated": "2026-11-13T23:07:23Z",
    "langs": [
     "fr",
     "en"
@@ -3908,7 +3933,7 @@
    "approved": true,
    "stars": 1,
    "installs": 18,
-   "updated": "2026-11-08T12:20:06Z",
+   "updated": "2026-11-13T23:07:25Z",
    "langs": [
     "fr",
     "en"
@@ -3933,7 +3958,7 @@
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-08T12:20:11Z",
+   "updated": "2026-11-13T23:07:27Z",
    "langs": [
     "fr",
     "en"
@@ -3958,7 +3983,7 @@
    "approved": true,
    "stars": 1,
    "installs": 48,
-   "updated": "2026-11-08T12:20:16Z",
+   "updated": "2026-11-13T23:07:29Z",
    "langs": [
     "fr",
     "en"
@@ -4008,7 +4033,7 @@
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T12:33:58Z",
+   "updated": "2026-11-13T23:07:32Z",
    "langs": [
     "fr",
     "en"
@@ -4058,7 +4083,7 @@
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:03:44Z",
+   "updated": "2026-11-13T23:07:36Z",
    "langs": [
     "fr",
     "en"
@@ -4083,7 +4108,7 @@
    "approved": true,
    "stars": 1,
    "installs": 14,
-   "updated": "2026-11-08T12:20:21Z",
+   "updated": "2026-11-13T23:07:38Z",
    "langs": [
     "fr",
     "en"
