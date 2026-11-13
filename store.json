@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-13T08:25:10.993Z",
+ "updated": "2026-11-13T10:22:22.536Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -482,7 +482,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 36,
+   "installs": 37,
    "updated": "2026-11-08T12:12:55Z",
    "langs": [
     "fr",
