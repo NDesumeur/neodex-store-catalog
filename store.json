@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-13T16:23:03.456Z",
+ "updated": "2026-11-13T18:22:31.926Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -807,7 +807,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 13,
+   "installs": 14,
    "updated": "2026-11-13T13:24:13Z",
    "langs": [
     "fr",
@@ -2507,7 +2507,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 315,
+   "installs": 316,
    "updated": "2026-11-13T13:23:27Z",
    "langs": [
     "fr",
@@ -2557,7 +2557,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
+   "installs": 22,
    "updated": "2026-11-13T13:23:36Z",
    "langs": [
     "fr",
@@ -2982,7 +2982,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 112,
+   "installs": 113,
    "updated": "2026-11-13T13:23:42Z",
    "langs": [
     "fr",
@@ -3082,7 +3082,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 111,
+   "installs": 112,
    "updated": "2026-11-13T13:23:48Z",
    "langs": [
     "fr",
@@ -3282,7 +3282,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 13,
+   "installs": 14,
    "updated": "2026-11-13T13:24:01Z",
    "langs": [
     "fr",
@@ -3307,7 +3307,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 335,
+   "installs": 336,
    "updated": "2026-11-13T13:23:20Z",
    "langs": [
     "fr",
@@ -3432,7 +3432,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 114,
+   "installs": 115,
    "updated": "2026-11-13T13:23:54Z",
    "langs": [
     "fr",
@@ -3682,7 +3682,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 12,
+   "installs": 13,
    "updated": "2026-11-13T13:24:20Z",
    "langs": [
     "fr",
@@ -3982,7 +3982,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 10,
+   "installs": 11,
    "updated": "2026-11-13T13:24:07Z",
    "langs": [
     "fr",
