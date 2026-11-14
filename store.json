@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-14T02:24:44.265Z",
+ "updated": "2026-11-14T04:22:59.724Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -62,31 +62,6 @@
    "en": {
     "name": "AlgoFlow",
     "description": "Watch algorithms work, step by step: 8 sorts (bubble, insertion, selection, merge, quick, heap, Shell, counting), 2 searches (linear, binary) and 4 graph traversals on a grid you draw (breadth-first, depth-first, Dijkstra, A*) with walls, mud and mazes. The pseudo-code lights up line by line, comparisons and writes are counted, and you step forward, back or change the speed at will."
-   },
-   "rating": {
-    "average": 0,
-    "count": 0,
-    "list": []
-   }
-  },
-  {
-   "id": "neodex.alignements",
-   "repo": "NDesumeur/neodex-plugin-alignements",
-   "name": "Alignements",
-   "description": "Jeu de réflexion sur un plateau de 9 × 9 : clique sur une bille puis sur une case libre pour la déplacer par un chemin dégagé, et forme des lignes de cinq billes de la même couleur, droites ou en diagonale. Chaque coup sans ligne fait tomber trois nouvelles billes ; plus la ligne est longue, plus elle rapporte. La partie se termine quand le plateau est plein.",
-   "version": "1.0.1",
-   "category": "Jeux",
-   "approved": true,
-   "stars": 1,
-   "installs": 13,
-   "updated": "2026-11-13T23:02:39Z",
-   "langs": [
-    "fr",
-    "en"
-   ],
-   "en": {
-    "name": "Lineups",
-    "description": "A puzzle game on a 9 × 9 board: click a ball, then an empty square, to move it along a clear path, and make lines of five balls of the same colour, straight or diagonal. Every move without a line drops three new balls; the longer the line, the more it scores. The game ends when the board is full."
    },
    "rating": {
     "average": 0,
