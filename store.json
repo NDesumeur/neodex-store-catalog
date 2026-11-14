@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-14T00:39:14.792Z",
+ "updated": "2026-11-14T01:21:39.872Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -2732,7 +2732,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 33,
+   "installs": 34,
    "updated": "2026-11-13T23:05:54Z",
    "langs": [
     "fr",
