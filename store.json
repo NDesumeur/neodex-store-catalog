@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-14T05:22:24.678Z",
+ "updated": "2026-11-14T13:22:20.362Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -4107,7 +4107,7 @@
    "category": "Système",
    "approved": false,
    "stars": 0,
-   "installs": 1,
+   "installs": 2,
    "updated": "2026-11-13T23:34:20Z",
    "langs": [
     "fr",
