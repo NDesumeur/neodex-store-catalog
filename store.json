@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-13T23:21:53.539Z",
+ "updated": "2026-11-14T00:39:14.792Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -128,7 +128,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:10Z",
    "langs": [
     "fr",
@@ -632,7 +632,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:15Z",
    "langs": [
     "fr",
@@ -682,7 +682,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:19Z",
    "langs": [
     "fr",
@@ -882,7 +882,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:24Z",
    "langs": [
     "fr",
@@ -1632,7 +1632,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:29Z",
    "langs": [
     "fr",
@@ -1682,7 +1682,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:34Z",
    "langs": [
     "fr",
@@ -2107,7 +2107,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:39Z",
    "langs": [
     "fr",
@@ -2207,7 +2207,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:44Z",
    "langs": [
     "fr",
@@ -2782,7 +2782,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:49Z",
    "langs": [
     "fr",
@@ -3157,7 +3157,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:54Z",
    "langs": [
     "fr",
@@ -3182,7 +3182,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:18:08Z",
    "langs": [
     "fr",
@@ -3532,7 +3532,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:17:59Z",
    "langs": [
     "fr",
@@ -3807,7 +3807,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 0,
-   "installs": 0,
+   "installs": 2,
    "updated": "2026-11-13T23:18:03Z",
    "langs": [
     "fr",
@@ -4091,6 +4091,31 @@
    "en": {
     "name": "Hairpin",
     "description": "Top-down pixel art time-trial racing game: six tracks (meadow, hairpins, ice field, dunes, turbo, knot), three laps, splits at every checkpoint, the ghost of your best time and medals from bronze to author. Grass, sand, ice and turbo arrows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.vpn",
+   "repo": "NDesumeur/neodex-plugin-vpn",
+   "name": "VPN",
+   "description": "Le VPN des sites ouverts dans NeoDex, et seulement eux : le bouton VPN de la barre d'adresse. Par Tor (gratuit, sans compte) avec une sortie dans le pays choisi ou partout sauf en France, ou par Cloudflare WARP (rapide, dans ton pays). Tor est téléchargé une fois depuis torproject.org et n'est lancé que si sa signature officielle est bonne.",
+   "version": "1.0.0",
+   "category": "Système",
+   "approved": false,
+   "stars": 0,
+   "installs": 1,
+   "updated": "2026-11-13T23:34:20Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "VPN",
+    "description": "A VPN for the sites opened in NeoDex, and only them: the VPN button in the address bar. Through Tor (free, no account) with an exit in the country you pick or anywhere but France, or through Cloudflare WARP (fast, in your country). Tor is downloaded once from torproject.org and only runs if its official signature is valid."
    },
    "rating": {
     "average": 0,
