@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-14T13:22:20.362Z",
+ "updated": "2026-11-15T17:21:59.858Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -127,7 +127,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:10Z",
    "langs": [
@@ -631,7 +631,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:15Z",
    "langs": [
@@ -681,7 +681,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:19Z",
    "langs": [
@@ -881,7 +881,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:24Z",
    "langs": [
@@ -1631,7 +1631,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:29Z",
    "langs": [
@@ -1681,7 +1681,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:34Z",
    "langs": [
@@ -2106,7 +2106,7 @@
    "version": "1.0.0",
    "category": "Musique",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:39Z",
    "langs": [
@@ -2206,7 +2206,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:44Z",
    "langs": [
@@ -2781,7 +2781,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:49Z",
    "langs": [
@@ -3156,7 +3156,7 @@
    "version": "1.0.0",
    "category": "Musique",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:54Z",
    "langs": [
@@ -3181,7 +3181,7 @@
    "version": "1.0.0",
    "category": "Jeux",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:18:08Z",
    "langs": [
@@ -3531,7 +3531,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:17:59Z",
    "langs": [
@@ -3806,7 +3806,7 @@
    "version": "1.0.0",
    "category": "Outils",
    "approved": true,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:18:03Z",
    "langs": [
@@ -4106,7 +4106,7 @@
    "version": "1.0.0",
    "category": "Système",
    "approved": false,
-   "stars": 0,
+   "stars": 1,
    "installs": 2,
    "updated": "2026-11-13T23:34:20Z",
    "langs": [
