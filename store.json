@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-15T17:21:59.858Z",
+ "updated": "2026-11-16T04:29:54.649Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -48,20 +48,20 @@
    "id": "neodex.algoflow",
    "repo": "NDesumeur/neodex-plugin-algoflow",
    "name": "AlgoFlow",
-   "description": "Regarde les algorithmes travailler, étape par étape : 8 tris (bulles, insertion, sélection, fusion, rapide, tas, Shell, comptage), 2 recherches (linéaire, dichotomique) et 4 parcours de graphe sur une grille que tu dessines (largeur, profondeur, Dijkstra, A*) avec murs, boue et labyrinthes. Le pseudo-code s'allume ligne par ligne, les comparaisons et écritures sont comptées, et tu avances, recules ou changes la vitesse à volonté.",
-   "version": "1.0.0",
+   "description": "Regarde les algorithmes travailler, étape par étape : 8 tris (bulles, insertion, sélection, fusion, rapide, tas, Shell, comptage), 2 recherches (linéaire, dichotomique) et 4 parcours de graphe sur une grille que tu dessines (largeur, profondeur, Dijkstra, A*) avec murs, boue et labyrinthes. Le pseudo-code s'allume ligne par ligne, les comparaisons et écritures sont comptées, et tu avances, recules ou changes la vitesse à volonté. Nouveau : la course entre deux tris sur le même tableau.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T06:40:29Z",
+   "updated": "2026-11-16T04:15:24Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "AlgoFlow",
-    "description": "Watch algorithms work, step by step: 8 sorts (bubble, insertion, selection, merge, quick, heap, Shell, counting), 2 searches (linear, binary) and 4 graph traversals on a grid you draw (breadth-first, depth-first, Dijkstra, A*) with walls, mud and mazes. The pseudo-code lights up line by line, comparisons and writes are counted, and you step forward, back or change the speed at will."
+    "description": "Watch algorithms work, step by step: 8 sorts (bubble, insertion, selection, merge, quick, heap, Shell, counting), 2 searches (linear, binary) and 4 graph traversals on a grid you draw (breadth-first, depth-first, Dijkstra, A*) with walls, mud and mazes. The pseudo-code lights up line by line, comparisons and writes are counted, and you step forward, back or change the speed at will. New: a race between two sorts on the same array."
    },
    "rating": {
     "average": 0,
@@ -74,12 +74,12 @@
    "repo": "NDesumeur/neodex-plugin-alignements",
    "name": "Alignements",
    "description": "Jeu de réflexion sur un plateau de 9 × 9 : clique sur une bille puis sur une case libre pour la déplacer par un chemin dégagé, et forme des lignes de cinq billes de la même couleur, droites ou en diagonale. Chaque coup sans ligne fait tomber trois nouvelles billes ; plus la ligne est longue, plus elle rapporte. La partie se termine quand le plateau est plein.",
-   "version": "1.0.1",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-13T23:02:39Z",
+   "updated": "2026-11-16T04:15:29Z",
    "langs": [
     "fr",
     "en"
@@ -98,20 +98,20 @@
    "id": "neodex.alunissage",
    "repo": "NDesumeur/neodex-plugin-alunissage",
    "name": "Alunissage",
-   "description": "Jeu d'adresse : pilote un module lunaire avec le moteur principal (flèche du haut) et les propulseurs latéraux, et pose-le en douceur sur l'une des trois plateformes avant d'être à court de carburant. Le tableau de bord passe au vert quand ta vitesse est sûre ; la petite plateforme multiplie les points par 5 et le carburant restant s'ajoute au score. La gravité augmente à chaque mission.",
-   "version": "1.0.1",
+   "description": "Jeu d'adresse : pilote un module spatial et pose-le en douceur sur l'une des trois plateformes avant d'être à court de carburant. Une partie, c'est 3 vies et un score qui s'additionne, à travers quatre mondes : la Lune, Mars et son vent, Europe et sa glace qui fait glisser, un astéroïde sous les météores, avec des canyons et des plateformes qui bougent. Clavier, souris ou manette, plein écran.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-13T23:02:41Z",
+   "updated": "2026-11-16T04:18:52Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Landing",
-    "description": "A skill game: fly a lunar module with the main engine (up arrow) and the side thrusters, and land it gently on one of three pads before the fuel runs out. The dashboard turns green when your speed is safe; the small pad multiplies the score by 5 and the fuel left adds to it. Gravity gets stronger with every mission."
+    "description": "A skill game: fly a space module and land it gently on one of three pads before the fuel runs out. A game is 3 lives and a score that adds up, across four worlds: the Moon, windy Mars, icy Europa where you slide, an asteroid under a meteor shower, with canyons and moving pads. Keyboard, mouse or gamepad, full screen."
    },
    "rating": {
     "average": 0,
@@ -123,20 +123,20 @@
    "id": "neodex.anagrammes",
    "repo": "NDesumeur/neodex-plugin-anagrammes",
    "name": "Anagrammes",
-   "description": "Anagrammes en pixel art : les lettres d'un mot sont mélangées, remets-les dans l'ordre avant la fin du temps. 5 mots par niveau, de 4 à 9 lettres, plus de 350 mots courants. Un autre mot avec les mêmes lettres compte aussi. Clavier, souris ou manette, indices et records.",
-   "version": "1.0.0",
+   "description": "Anagrammes en pixel art : les lettres d'un mot sont mélangées, remets-les dans l'ordre avant la fin du temps. Près de 1700 mots courants de 4 à 9 lettres, chacun avec sa définition. Combo pour les mots trouvés vite, bonus pour un autre mot, bilan à étoiles. Clavier, souris ou manette, plein écran.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 2,
-   "updated": "2026-11-13T23:17:10Z",
+   "updated": "2026-11-16T04:19:08Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Anagrams",
-    "description": "Pixel art anagrams: the letters of a word are shuffled, put them back in order before time runs out. 5 words per level, 4 to 9 letters, over 350 common words. Another word with the same letters counts too. Keyboard, mouse or gamepad, hints and records."
+    "description": "Pixel art anagrams: the letters of a word are shuffled, put them back in order before time runs out. Nearly 1700 common French words of 4 to 9 letters, each with its definition. Combo for words found fast, bonus for another word, star recap. Keyboard, mouse or gamepad, fullscreen."
    },
    "rating": {
     "average": 0,
@@ -148,20 +148,20 @@
    "id": "neodex.apothecarydle",
    "repo": "NDesumeur/neodex-plugin-apothecarydle",
    "name": "ApothecaryDle",
-   "description": "Jeu de devinettes des Carnets de l'apothicaire : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, clan, lieu (quartier des plaisirs, palais intérieur, palais extérieur…) et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
-   "version": "1.3.2",
+   "description": "Jeu de devinettes des Carnets de l'apothicaire : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, clan, lieu (quartier des plaisirs, palais intérieur, palais extérieur…) et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée. Version 1.4.0 : bandeau illustré en pixel art (le palais intérieur la nuit, ses toits recourbés et ses lanternes, avec les portraits des personnages principaux), textes et zone de saisie plus grands, cases du tableau assez larges pour leur texte.",
+   "version": "1.4.0",
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-13T23:02:45Z",
+   "updated": "2026-11-16T04:19:38Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "ApothecaryDle",
-    "description": "A guessing game from The Apothecary Diaries: find the mystery character by typing names. In Classic mode, each guess compares gender, clan, place (pleasure district, inner palace, outer palace…) and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+    "description": "A guessing game from The Apothecary Diaries: find the mystery character by typing names. In Classic mode, each guess compares gender, clan, place (pleasure district, inner palace, outer palace…) and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept. Version 1.4.0: an illustrated pixel art banner (the inner palace at night, its curved roofs and lanterns, with the portraits of the main characters), bigger texts and input, table cells wide enough for their text."
    },
    "rating": {
     "average": 0,
@@ -173,20 +173,20 @@
    "id": "neodex.aquarium",
    "repo": "NDesumeur/neodex-plugin-aquarium",
    "name": "Aquarium",
-   "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau (douce, mer, tropicale, polaire, abysses), nourris-le et nettoie l'eau, même pendant ton absence. Les poissons heureux attirent des visiteurs dont les pièces paient bassins, filtres, distributeurs et décors.",
-   "version": "1.2.3",
+   "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau (douce, mer, tropicale, polaire, abysses), nourris-le, nettoie l'eau et décore. Les poissons heureux grandissent, ont des petits (parfois d'une couleur rare) et attirent des visiteurs qui laissent des pourboires. Carnet des espèces, défis et bassins notés jusqu'à 3 étoiles.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-13T23:02:47Z",
+   "updated": "2026-11-16T04:19:50Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Aquarium",
-    "description": "A management game that extends Fishing: every fish you catch arrives alive in your holding pen. Put it in a tank with the right water (fresh, sea, tropical, polar, abyss), feed it and clean the water, even while you are away. Happy fish draw visitors whose coins pay for tanks, filters, feeders and decorations."
+    "description": "A management game that extends Fishing: every fish you catch arrives alive in your holding tank. Put it in a tank of the right water (fresh, sea, tropical, polar, abyss), feed it, clean the water and decorate. Happy fish grow, have young (sometimes of a rare colour) and draw visitors who leave tips. A species log, challenges and tanks rated up to 3 stars."
    },
    "rating": {
     "average": 0,
@@ -198,20 +198,20 @@
    "id": "neodex.archer",
    "repo": "NDesumeur/neodex-plugin-archer",
    "name": "Archer",
-   "description": "Jeu de tir à l'arc : maintiens le clic et tire la souris en arrière pour viser et doser la force, puis lâche. Dix flèches par manche, 10 points au centre de la cible et 1 au bord ; la manche à air montre un vent qui change à chaque tir, et la cible recule toutes les trois flèches avant de se mettre à bouger.",
-   "version": "1.0.1",
+   "description": "Jeu de tir à l'arc en pixel art : maintiens le clic et tire la souris en arrière pour viser et doser la force, puis lâche. Un tournoi de 12 épreuves dans des lieux différents (pré, verger, forêt, château, plage, nuit, falaises), avec cibles, ballons et plateaux, du vent, et 1 à 3 étoiles par épreuve. La caméra suit la flèche, une loupe montre l'impact. Et un tir rapide de 60 secondes.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-13T23:02:49Z",
+   "updated": "2026-11-16T04:20:09Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Archer",
-    "description": "An archery game: hold the mouse button and drag back to aim and set the power, then release. Ten arrows per round, 10 points in the centre of the target and 1 on the edge; the windsock shows a wind that changes with every shot, and the target moves back every three arrows before it starts moving."
+    "description": "A pixel art archery game: hold the click and pull the mouse back to aim and set the power, then let go. A tournament of 12 events in different places (meadow, orchard, forest, castle, beach, night, cliffs), with targets, balloons and clay discs, wind, and 1 to 3 stars per event. The camera follows the arrow, a magnifier shows the hit. Plus a 60-second rapid fire."
    },
    "rating": {
     "average": 0,
@@ -256,20 +256,20 @@
    "id": "neodex.astropole",
    "repo": "NDesumeur/neodex-plugin-astropole",
    "name": "Astropole",
-   "description": "Jeu de gestion incrémental : achète des bâtiments qui produisent des crédits chaque seconde, même NeoDex fermé, et réinvestis pour débloquer des constructions toujours plus grandes. Tous les 25 exemplaires, un bâtiment produit deux fois plus ; après 1 billion de crédits, une nouvelle colonie repart de zéro avec des Mémoires qui ajoutent 10 % de production pour toujours.",
-   "version": "1.3.2",
+   "description": "Jeu de gestion incrémental en pixel art : bâtis une ville spatiale dont les bâtiments produisent des crédits chaque seconde, même NeoDex fermé. Chaque sorte de bâtiment a son quartier et la ville se remplit, de jour comme de nuit. Recherches, succès qui ajoutent de la production pour toujours, pluies de météores, marchand, et des colonies sur six planètes avec des Mémoires à dépenser en avantages.",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 35,
-   "updated": "2026-11-13T23:02:53Z",
+   "updated": "2026-11-16T04:20:53Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Astropolis",
-    "description": "An incremental management game: buy buildings that produce credits every second, even with NeoDex closed, and reinvest to unlock ever bigger constructions. Every 25 copies, a building produces twice as much; after 1 trillion credits, a new colony starts over with Memories that add 10% production forever."
+    "description": "A pixel art idle game: build a space city whose buildings make credits every second, even with NeoDex closed. Each kind of building has its own district and the city fills up, by day and by night. Research, achievements that add production for good, meteor showers, a merchant, and colonies on six planets with Memories to spend on perks."
    },
    "rating": {
     "average": 0,
@@ -282,12 +282,12 @@
    "repo": "NDesumeur/neodex-plugin-atelier",
    "name": "Atelier",
    "description": "L'environnement de développement de NeoDex : ouvre un dossier de ton PC ou un projet de l'Atelier. Éditeur avec coloration, autocomplétion (mots-clés, extraits, API de NeoDex) et problèmes signalés pendant que tu tapes, plan du fichier, recherche dans tout le projet, historique de chaque fichier, Git (fichiers modifiés, comparaison, commit) et terminal. Aperçu web et Markdown mis à jour en tapant, console, scripts JavaScript dans un bac à sable et Python avec celui de ton PC. Modèles de plugins prêts à tester dans un cadre isolé, validation de plugin.json et export en .zip pour publier.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-12T12:35:16Z",
+   "updated": "2026-11-16T04:21:25Z",
    "langs": [
     "fr",
     "en"
@@ -306,20 +306,20 @@
    "id": "neodex.beffroi",
    "repo": "NDesumeur/neodex-plugin-beffroi",
    "name": "Beffroi",
-   "description": "Jeu de saut : monte les étages d'un clocher en courant et en sautant. Plus tu cours vite, plus tu sautes haut, et les murs te renvoient l'élan. Dès le 5e étage, le clocher défile de plus en plus vite : ne te laisse pas rattraper. Combos sur les sauts de plusieurs étages, poutres de bois, de pierre puis de cuivre. Score, étages et record.",
-   "version": "1.0.0",
+   "description": "Jeu de saut en pixel art : monte les étages d'un clocher en courant et en sautant. Plus tu cours vite et plus tu gardes la touche, plus tu sautes haut, et les murs te renvoient l'élan. Le clocher change en montant (caves, charpente, salle des cloches, horloge, vitraux, sommet sous les étoiles) ; des cloches pour rebondir, des notes à ramasser, des oiseaux qui gênent, des poutres qui bougent, cassent ou glissent. Dès le 5e étage, il défile de plus en plus vite. Combos, record, manette et plein écran.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-13T23:02:56Z",
+   "updated": "2026-11-16T04:21:42Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Belfry",
-    "description": "Jumping game: climb the floors of a bell tower by running and jumping. The faster you run, the higher you jump, and the walls bounce your momentum back. From floor 5, the tower scrolls faster and faster: don't let it catch you. Combos on multi-floor jumps, wooden, stone then copper beams. Score, floors and best."
+    "description": "A pixel art jumping game: climb the floors of a bell tower by running and jumping. The faster you run and the longer you hold the key, the higher you jump, and the walls send your momentum back. The tower changes as you climb (cellars, timber frame, bell room, clock, stained glass, the top under the stars); bells to bounce on, notes to collect, birds in the way, beams that move, break or slide. From the 5th floor, it scrolls faster and faster. Combos, record, gamepad and fullscreen."
    },
    "rating": {
     "average": 0,
@@ -377,20 +377,20 @@
    "id": "neodex.billes",
    "repo": "NDesumeur/neodex-plugin-billes",
    "name": "Billes",
-   "description": "Le solitaire en croix : clique une bille, puis le trou allumé où elle peut arriver ; elle saute par-dessus sa voisine, qui sort du plateau. Finis avec une seule bille, au centre pour une partie parfaite. Quatre plateaux (croix anglaise, croix française, petite croix, pyramide), annulation sans limite, record et réussites par plateau.",
-   "version": "1.0.1",
+   "description": "Le solitaire : clique une bille, puis le trou allumé ; elle saute en arc par-dessus sa voisine, qui roule dans la rigole du plateau en bois. Chaque plateau part d'un trou d'où l'on peut finir avec une seule bille, et un indicateur dit en direct si c'est encore possible. Cinq plateaux (croix anglaise, croix française, petite croix, pyramide, asymétrique), 30 énigmes à étoiles sur sept plateaux, annulation sans limite.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-13T23:03:01Z",
+   "updated": "2026-11-16T04:22:02Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Marbles",
-    "description": "Peg solitaire: click a marble, then the lit hole where it can land; it jumps over its neighbour, which leaves the board. Finish with a single marble, in the centre for a perfect game. Four boards (English cross, French cross, small cross, pyramid), unlimited undo, record and wins per board."
+    "description": "Peg solitaire: click a marble, then the lit hole; it hops in an arc over its neighbour, which rolls into the gutter of the wooden board. Every board starts from a hole from which you can end with a single marble, and a live indicator tells you whether that is still possible. Five boards (English cross, French cross, small cross, pyramid, asymmetric), 30 star-rated puzzles on seven boards, unlimited undo."
    },
    "rating": {
     "average": 0,
@@ -402,20 +402,20 @@
    "id": "neodex.binaire",
    "repo": "NDesumeur/neodex-plugin-binaire",
    "name": "Binaire",
-   "description": "Casse-tête de logique : remplis la grille de soleils et de lunes, jamais trois pareils à la suite, autant de chaque par ligne et par colonne, et deux lignes jamais identiques. Grilles de 6, 8 ou 10 cases générées avec une solution unique ; clic pour alterner, clic droit pour une lune, les erreurs et les compteurs s'allument au bord, et le chrono garde ton record par taille.",
-   "version": "1.0.1",
+   "description": "Casse-tête de logique : remplis la grille de soleils et de lunes, jamais trois pareils à la suite, autant de chaque par ligne et par colonne, et deux lignes jamais identiques. Grilles de 6, 8 ou 10 cases générées avec une solution unique, grands soleils et lunes dessinés, ciel qui passe du jour à la nuit, vague dorée à la victoire ; clic pour alterner, clic droit pour une lune, compteurs au bord, chrono en pause quand tu quittes l'onglet, plein écran, et l'affichage s'adapte à la taille de la fenêtre.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-13T23:03:03Z",
+   "updated": "2026-11-16T04:22:53Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Binary",
-    "description": "A logic puzzle: fill the grid with suns and moons, never three alike in a row, as many of each per row and column, and no two rows identical. 6, 8 or 10-wide grids generated with a unique solution; click to cycle, right-click for a moon, mistakes and counters light up along the edge, and the timer keeps your record per size."
+    "description": "Logic puzzle: fill the grid with suns and moons, never three alike in a row, as many of each per row and column, and no two rows the same. 6, 8 or 10-cell grids generated with a unique solution, big hand-drawn suns and moons, a sky that turns from day to night, a golden wave when you win; click to cycle, right-click for a moon, counters along the edge, the timer pauses when you leave the tab, fullscreen, and the display adapts to the window size."
    },
    "rating": {
     "average": 0,
@@ -427,20 +427,20 @@
    "id": "neodex.bistrot",
    "repo": "NDesumeur/neodex-plugin-bistrot",
    "name": "Bistrot",
-   "description": "Jeu de cuisine en pixel art vu de dessus : six cuisines, des commandes à préparer contre la montre (salades, burgers, cheeseburgers, soupes). On hache, on cuit, on dresse l'assiette et on l'envoie au passe avant la fin du ticket, sans laisser brûler la poêle ni la marmite. Trois étoiles par cuisine.",
-   "version": "1.0.1",
+   "description": "Jeu de cuisine en pixel art vu de dessus, avec la salle et ses clients à côté : neuf cuisines, des commandes à préparer contre la montre (salades, burgers, soupes, frites, pizzas, coupes de fraises). On hache, on cuit à la poêle, à la friteuse, au four ou à la marmite, on dresse l'assiette et on l'envoie au passe ; des jauges montrent la cuisson et préviennent avant que ça brûle. Portes battantes, coups de feu, clients pressés, pourboires et combos. Trois étoiles par cuisine.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-13T23:03:06Z",
+   "updated": "2026-11-16T04:22:58Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Bistro",
-    "description": "Top-down pixel art cooking game: six kitchens, orders to prepare against the clock (salads, burgers, cheeseburgers, soups). Chop, cook, plate up and send it to the pass before the ticket runs out, without burning the pan or the pot. Three stars per kitchen."
+    "description": "Top-down pixel-art cooking game, with the dining room and its guests alongside: nine kitchens, orders to prepare against the clock (salads, burgers, soups, fries, pizzas, strawberry cups). Chop, cook in the pan, fryer, oven or pot, plate up and send it to the pass; gauges show the cooking and warn you before it burns. Swinging doors, rush hours, hurried guests, tips and combos. Three stars per kitchen."
    },
    "rating": {
     "average": 0,
@@ -453,12 +453,12 @@
    "repo": "NDesumeur/neodex-plugin-bittune",
    "name": "BitTune",
    "description": "Compose de la musique chiptune : 5 voies (deux carrées, triangle, bruit à 6 percussions, dent de scie), 8 motifs de 32 pas sur 3 octaves, effets par note (vibrato, arpèges, glissés, piqué, volume), panoramique, écho, swing, gammes, muet et solo. Lecture avec oscilloscope, export WAV et MIDI, morceaux à enregistrer et 3 exemples.",
-   "version": "1.1.0",
+   "version": "1.2.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-12T17:03:06Z",
+   "updated": "2026-11-16T04:23:29Z",
    "langs": [
     "fr",
     "en"
@@ -477,20 +477,20 @@
    "id": "neodex.bitwise",
    "repo": "NDesumeur/neodex-plugin-bitwise",
    "name": "Bitwise",
-   "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse.",
-   "version": "1.0.0",
+   "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse. Masques prêts à l'emploi expliqués et décalage animé.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-12T06:40:03Z",
+   "updated": "2026-11-16T04:24:00Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Bitwise",
-    "description": "Binary from every angle: one number in decimal, hexadecimal, binary, octal and characters at once, on 8 to 64 bits, signed or not, with every bit clickable. Bitwise operations (AND, OR, XOR, shifts, rotations…) laid out in columns and explained, text as UTF-8 bytes and back, the ASCII table, and a floating-point number broken down into sign, exponent and mantissa."
+    "description": "Binary from every angle: one number in decimal, hexadecimal, binary, octal and characters at once, on 8 to 64 bits, signed or not, with every bit clickable. Bitwise operations (AND, OR, XOR, shifts, rotations…) laid out in columns and explained, text as UTF-8 bytes and back, the ASCII table, and a floating-point number broken down into sign, exponent and mantissa. Ready-made masks with explanations and an animated shift."
    },
    "rating": {
     "average": 0,
@@ -502,20 +502,20 @@
    "id": "neodex.blackdle",
    "repo": "NDesumeur/neodex-plugin-blackdle",
    "name": "BlackDle",
-   "description": "Jeu de devinettes de Black Clover : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, espèce, magie et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
-   "version": "1.3.2",
+   "description": "Jeu de devinettes de Black Clover : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, espèce, magie et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée. Version 1.4.0 : bandeau illustré en pixel art (le ciel du royaume du Trèfle et ses grimoires qui volent, avec les portraits des personnages principaux), textes et zone de saisie plus grands, cases du tableau assez larges pour leur texte.",
+   "version": "1.4.0",
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
    "installs": 40,
-   "updated": "2026-11-13T23:03:10Z",
+   "updated": "2026-11-16T04:24:32Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "BlackDle",
-    "description": "A guessing game from Black Clover: find the mystery character by typing names. In Classic mode, each guess compares gender, species, magic and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+    "description": "A guessing game from Black Clover: find the mystery character by typing names. In Classic mode, each guess compares gender, species, magic and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept. Version 1.4.0: an illustrated pixel art banner (the sky of the Clover Kingdom and its flying grimoires, with the portraits of the main characters), bigger texts and input, table cells wide enough for their text."
    },
    "rating": {
     "average": 0,
@@ -527,20 +527,20 @@
    "id": "neodex.bleachdle",
    "repo": "NDesumeur/neodex-plugin-bleachdle",
    "name": "BleachDle",
-   "description": "Jeu de devinettes de Bleach : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, race, affiliation et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée.",
-   "version": "1.3.3",
+   "description": "Jeu de devinettes de Bleach : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, race, affiliation et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée. Version 1.4.0 : bandeau illustré en pixel art (les murs blancs du Seireitei, à la Soul Society, avec les portraits des personnages principaux), textes et zone de saisie plus grands, cases du tableau assez larges pour leur texte.",
+   "version": "1.4.0",
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
    "installs": 36,
-   "updated": "2026-11-13T23:03:12Z",
+   "updated": "2026-11-16T04:25:16Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "BleachDle",
-    "description": "A guessing game from Bleach: find the mystery character by typing names. In Classic mode, each guess compares gender, race, affiliation and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept."
+    "description": "A guessing game from Bleach: find the mystery character by typing names. In Classic mode, each guess compares gender, race, affiliation and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept. Version 1.4.0: an illustrated pixel art banner (the white walls of the Seireitei, in the Soul Society, with the portraits of the main characters), bigger texts and input, table cells wide enough for their text."
    },
    "rating": {
     "average": 0,
@@ -552,20 +552,20 @@
    "id": "neodex.bousculade",
    "repo": "NDesumeur/neodex-plugin-bousculade",
    "name": "Bousculade",
-   "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC.",
-   "version": "1.0.1",
+   "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC. Avant de pousser, la force s'affiche sur chaque animal de la file ; l'éléphant barrit et le rhinocéros souffle quand ils poussent ; plein écran, et le plateau s'adapte à la taille de la fenêtre.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 12,
-   "updated": "2026-11-13T23:03:14Z",
+   "updated": "2026-11-16T04:25:30Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Jostle",
-    "description": "Pixel art board game: elephants against rhinos on a 5 × 5 board, racing to be the first to push a rock off the board. Enter, move, turn, leave or push: the strength of each push depends on which way the lined-up animals face. Against the computer (easy, normal, hard) or two players on the same PC."
+    "description": "Pixel art board game: elephants against rhinos on a 5 × 5 board, racing to be the first to push a rock off the board. Enter, move, turn, leave or push: the strength of each push depends on which way the lined-up animals face. Against the computer (easy, normal, hard) or two players on the same PC. Before pushing, the strength shows on each animal of the line; the elephant trumpets and the rhino snorts when they push; full screen, and the board fits the size of the window."
    },
    "rating": {
     "average": 0,
@@ -577,20 +577,20 @@
    "id": "neodex.budget",
    "repo": "NDesumeur/neodex-plugin-budget",
    "name": "Budget",
-   "description": "Suis tes comptes et tes livrets : soldes à recopier depuis ta banque d'un clic, dépenses, rentrées et virements, abonnements prélevés tout seuls à leur date. La prévision d'épargne calcule mois par mois sur 12 mois les intérêts (par an ou par mois) et tes versements, déborde sur l'autre livret quand un plafond est atteint et donne la date de ton objectif. Rien n'est relié à ta banque.",
-   "version": "1.2.2",
+   "description": "Suis tes comptes et tes livrets : soldes à recopier depuis ta banque d'un clic, dépenses, rentrées et virements, abonnements prélevés tout seuls à leur date. La prévision d'épargne calcule mois par mois sur 12 mois les intérêts (par an ou par mois) et tes versements, déborde sur l'autre livret quand un plafond est atteint et donne la date de ton objectif. Rien n'est relié à ta banque. S'adapte à la taille de l'écran ; chaque dépense a une catégorie (les anciennes sont devinées d'après leur libellé) et un graphique montre les dépenses du mois par catégorie, mois par mois.",
+   "version": "1.3.0",
    "category": "Finance",
    "approved": true,
    "stars": 1,
    "installs": 45,
-   "updated": "2026-11-13T23:03:16Z",
+   "updated": "2026-11-16T04:25:35Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Budget",
-    "description": "Track your accounts and savings accounts: balances copied from your bank in one click, expenses, income and transfers, subscriptions debited by themselves on their date. The savings forecast works month by month over 12 months with interest (yearly or monthly) and your payments, overflows to the other account when a ceiling is reached and gives the date of your goal. Nothing is connected to your bank."
+    "description": "Track your accounts and savings accounts: balances copied from your bank in one click, expenses, income and transfers, subscriptions debited by themselves on their date. The savings forecast works month by month over 12 months with interest (yearly or monthly) and your payments, overflows to the other account when a ceiling is reached and gives the date of your goal. Nothing is connected to your bank. Fits the screen size; every expense has a category (older ones are guessed from their label) and a chart shows the month's spending by category, month by month."
    },
    "rating": {
     "average": 0,
@@ -602,20 +602,20 @@
    "id": "neodex.bulles",
    "repo": "NDesumeur/neodex-plugin-bulles",
    "name": "Bulles",
-   "description": "Jeu de tir de bulles : vise à la souris (le pointillé montre les rebonds), tire, et regroupe au moins trois bulles de la même couleur pour les faire éclater ; tout ce qui ne tient plus au plafond tombe et rapporte gros. Le plafond descend tous les 7 tirs, X échange la bulle avec la suivante, et chaque plateau vidé en amène un nouveau avec une couleur de plus.",
-   "version": "1.0.1",
+   "description": "Jeu de tir de bulles en pixel art : vise à la souris, au clavier ou à la manette (le pointillé montre les rebonds), tire, et regroupe au moins trois bulles de la même couleur pour les faire éclater en gouttes ; tout ce qui ne tient plus au plafond tombe, et plusieurs grappes d'un coup font un combo. Bombe, bulle arc-en-ciel et pierres qui ne cassent jamais ; le plafond descend tous les 7 tirs, X échange la bulle avec la suivante, chaque plateau vidé en amène un nouveau avec une couleur de plus. Plein écran, et l'aquarium s'adapte à la taille de la fenêtre.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 13,
-   "updated": "2026-11-13T23:03:18Z",
+   "updated": "2026-11-16T04:26:05Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Bubbles",
-    "description": "A bubble shooter: aim with the mouse (the dotted line shows the bounces), shoot, and group at least three bubbles of the same colour to pop them; everything no longer attached to the ceiling falls and scores big. The ceiling drops every 7 shots, X swaps the bubble with the next one, and each cleared board brings a new one with an extra colour."
+    "description": "Pixel art bubble shooter: aim with the mouse, keyboard or gamepad (the dotted line shows the bounces), shoot, and group at least three bubbles of the same colour to pop them into drops; everything no longer held by the ceiling falls, and several clusters at once make a combo. Bomb, rainbow bubble and stones that never break; the ceiling comes down every 7 shots, X swaps the bubble with the next one, each cleared board brings a new one with one more colour. Full screen, and the aquarium fits the size of the window."
    },
    "rating": {
     "average": 0,
@@ -627,20 +627,20 @@
    "id": "neodex.calcul",
    "repo": "NDesumeur/neodex-plugin-calcul",
    "name": "Calcul mental",
-   "description": "Calcul mental en pixel art : des séries de 10 calculs contre la montre, par paliers. Additions, soustractions, tables, divisions, puis deux opérations, carrés et pourcentages. Tape le résultat ou choisis parmi 4 réponses, au clavier, à la souris ou à la manette. 8 sur 10 ouvrent le palier suivant.",
-   "version": "1.0.0",
+   "description": "Calcul mental en pixel art : des séries de 10 calculs contre la montre, par paliers. Additions, soustractions, tables, divisions, puis deux opérations, carrés et pourcentages. Tape le résultat ou choisis parmi 4 réponses, au clavier, à la souris ou à la manette. 8 sur 10 ouvrent le palier suivant ; plein écran, et l'ardoise s'adapte à la taille de la fenêtre.",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 2,
-   "updated": "2026-11-13T23:17:15Z",
+   "updated": "2026-11-16T04:26:16Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Mental Maths",
-    "description": "Pixel art mental math: rounds of 10 sums against the clock, step by step. Addition, subtraction, times tables, division, then two operations, squares and percentages. Type the answer or pick one of 4, with keyboard, mouse or gamepad. 8 out of 10 unlocks the next step."
+    "description": "Pixel art mental math: rounds of 10 sums against the clock, step by step. Addition, subtraction, times tables, division, then two operations, squares and percentages. Type the answer or pick one of 4, with keyboard, mouse or gamepad. 8 out of 10 unlocks the next step; full screen, and the slate fits the size of the window."
    },
    "rating": {
     "average": 0,
@@ -653,12 +653,12 @@
    "repo": "NDesumeur/neodex-plugin-calculatrice",
    "name": "Calculatrice",
    "description": "Calculatrice scientifique : tape une expression entière au clavier ou clique les touches, le résultat s'affiche en direct. Priorités et parenthèses, puissances, factorielle, pourcentage, trigonométrie en degrés ou radians, logarithmes, racines, π, e, Ans et produit implicite (2π). Les 50 derniers calculs restent dans un historique ; un clic sur un résultat le réutilise.",
-   "version": "1.2.5",
+   "version": "1.3.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 51,
-   "updated": "2026-11-13T23:03:21Z",
+   "updated": "2026-11-16T04:26:28Z",
    "langs": [
     "fr",
     "en"
@@ -677,20 +677,20 @@
    "id": "neodex.capsule",
    "repo": "NDesumeur/neodex-plugin-capsule",
    "name": "Capsule temporelle",
-   "description": "Écris un message à toi-même et scelle-le : il ne s'ouvre qu'à la date choisie, dans un mois, un an ou dix ans. NeoDex te prévient le jour venu. Les capsules sont enterrées dans un petit jardin en pixel art, et celles qui sont prêtes brillent.",
-   "version": "1.0.0",
+   "description": "Écris un message à toi-même et scelle-le : il ne s'ouvre qu'à la date choisie, dans un mois, un an ou dix ans. NeoDex te prévient le jour venu. Les capsules sont enterrées dans un petit jardin en pixel art, et celles qui sont prêtes brillent. Tu peux y joindre une photo ou un son, et le jardin change avec les saisons.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 2,
-   "updated": "2026-11-13T23:17:19Z",
+   "updated": "2026-11-16T04:26:40Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Time Capsule",
-    "description": "Write a message to yourself and seal it: it only opens on the date you pick, in a month, a year or ten years. NeoDex lets you know when the day comes. Capsules are buried in a little pixel art garden, and the ready ones glow."
+    "description": "Write a message to yourself and seal it: it only opens on the date you pick, in a month, a year or ten years. NeoDex lets you know when the day comes. Capsules are buried in a little pixel art garden, and the ready ones glow. You can attach a photo or a sound, and the garden changes with the seasons."
    },
    "rating": {
     "average": 0,
@@ -702,20 +702,20 @@
    "id": "neodex.carrefour",
    "repo": "NDesumeur/neodex-plugin-carrefour",
    "name": "Carrefour",
-   "description": "Jeu de réflexe : règle les feux d'un croisement où des voitures et des bus arrivent des quatre côtés. Un clic (ou une flèche) passe un feu au vert ou au rouge. Évite l'accident au milieu et ne laisse personne attendre trop longtemps, sinon il klaxonne et tu perds une étoile. De plus en plus de voitures. Record et accidents comptés.",
-   "version": "1.0.1",
+   "description": "Jeu de réflexe : règle les feux d'un carrefour où voitures, bus, tracteurs, vélos et ambulances prioritaires arrivent de tous les côtés. Un clic (ou une touche) passe un feu au vert ou au rouge. Évite l'accident et ne laisse personne attendre trop longtemps. Quatre carrefours à débloquer : croisement, passage à niveau avec son train, rond-point, étoile à six voies. Plein écran, record par carrefour.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 11,
-   "updated": "2026-11-13T23:03:24Z",
+   "updated": "2026-11-16T04:26:52Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Crossroads",
-    "description": "Reflex game: run the traffic lights of a crossroads where cars and buses arrive from all four sides. A click (or an arrow) turns a light green or red. Avoid the crash in the middle and don't let anyone wait too long, or they honk and you lose a star. More and more cars. Best score and crashes counted."
+    "description": "Reflex game: run the lights of a crossroads where cars, buses, tractors, bikes and priority ambulances arrive from every side. A click (or a key) switches a light to green or red. Avoid crashes and don't keep anyone waiting too long. Four crossroads to unlock: crossing, level crossing with its train, roundabout, six-way star. Fullscreen, best score per crossroads."
    },
    "rating": {
     "average": 0,
@@ -727,20 +727,20 @@
    "id": "neodex.cascade",
    "repo": "NDesumeur/neodex-plugin-cascade",
    "name": "Cascade",
-   "description": "Des pièces de 3 à 5 blocs tombent dans un puits de 10 × 20 : complète des lignes pour les casser, mais aussi des groupes de 9 blocs de la même couleur. Ce qui reste suspendu retombe et peut déclencher des chaînes qui multiplient les points ; bombes, cristaux et réserve. Marathon qui accélère toutes les 8 lignes, Zen sans accélération, et 24 défis à trois étoiles.",
-   "version": "1.1.4",
+   "description": "Des pièces de 3 à 5 blocs tombent dans un puits de 10 × 20 : complète des lignes pour les casser, mais aussi des groupes de 9 blocs de la même couleur. Ce qui reste suspendu retombe et peut déclencher des chaînes qui multiplient les points ; bombes, cristaux et réserve. Marathon qui accélère toutes les 8 lignes, Zen sans accélération, et 24 défis à trois étoiles. Jouable à la manette, en plein écran, avec ses sons et une petite musique qui accélère avec le niveau ; les chaînes font flasher et trembler le puits.",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 262,
-   "updated": "2026-11-13T23:03:25Z",
+   "updated": "2026-11-16T04:27:03Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Cascade",
-    "description": "Pieces of 3 to 5 blocks fall into a 10 × 20 well: complete rows to break them, and also groups of 9 blocks of the same colour. Whatever is left hanging falls and can set off chains that multiply the points; bombs, crystals and a hold slot. Marathon that speeds up every 8 rows, Zen with no speed-up, and 24 three-star challenges."
+    "description": "Pieces of 3 to 5 blocks fall into a 10 × 20 well: complete rows to break them, and also groups of 9 blocks of the same colour. Whatever is left hanging falls and can set off chains that multiply the points; bombs, crystals and a hold slot. Marathon that speeds up every 8 rows, Zen with no speed-up, and 24 three-star challenges. Playable with a gamepad, in fullscreen, with its own sounds and a little tune that speeds up with the level; chains flash and shake the well."
    },
    "rating": {
     "average": 0,
@@ -752,20 +752,20 @@
    "id": "neodex.cassebriques",
    "repo": "NDesumeur/neodex-plugin-casse-briques",
    "name": "Casse-briques",
-   "description": "Renvoie la balle avec ta raquette pour casser toutes les briques : 40 niveaux conçus un par un, puis des niveaux générés à l'infini, de plus en plus rapides. Briques à 1, 2 ou 3 coups, métal indestructible, explosives qui cassent leurs voisines, et huit capsules : raquette large, multi-balle, lasers, balle lente, colle, boule de feu, vie en plus… et un piège. Chaque niveau atteint devient un point de départ.",
-   "version": "1.1.3",
+   "description": "Renvoie la balle avec ta raquette pour casser toutes les briques : 40 niveaux conçus un par un, puis des niveaux générés à l'infini, de plus en plus rapides. Briques à 1, 2 ou 3 coups, métal indestructible, explosives qui cassent leurs voisines, et huit capsules : raquette large, multi-balle, lasers, balle lente, colle, boule de feu, vie en plus… et un piège. Chaque niveau atteint devient un point de départ. Jouable à la manette et en plein écran, avec ses sons et une petite musique ; briques en léger relief qui partent en éclats.",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 32,
-   "updated": "2026-11-13T23:03:28Z",
+   "updated": "2026-11-16T04:27:19Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "brick breaker",
-    "description": "Bounce the ball back with your paddle to break every brick: 40 levels designed one by one, then endlessly generated levels that keep getting faster. Bricks that take 1, 2 or 3 hits, indestructible metal, explosives that break their neighbours, and eight capsules: wide paddle, multi-ball, lasers, slow ball, glue, fireball, extra life… and a trap. Every level you reach becomes a starting point."
+    "description": "Bounce the ball back with your paddle to break every brick: 40 levels designed one by one, then endlessly generated levels that keep getting faster. Bricks that take 1, 2 or 3 hits, indestructible metal, explosives that break their neighbours, and eight capsules: wide paddle, multi-ball, lasers, slow ball, glue, fireball, extra life… and a trap. Every level you reach becomes a starting point. Playable with a gamepad and in fullscreen, with its own sounds and a little tune; bricks in light relief that break into shards."
    },
    "rating": {
     "average": 0,
@@ -777,20 +777,20 @@
    "id": "neodex.cataclysme",
    "repo": "NDesumeur/neodex-plugin-cataclysme",
    "name": "Cataclysme",
-   "description": "Jeu de destruction de planètes en pixel art : chaque planète est faite de milliers de pixels (croûte, roche, magma, noyau) et chaque pixel arraché devient un débris soumis à la gravité. Astéroïdes, comètes qui traversent, bombes à retardement et trous noirs, en quantité limitée : sept planètes à détruire, trois étoiles chacune.",
-   "version": "1.0.0",
+   "description": "Jeu de destruction de planètes en pixel art : chaque planète est faite de milliers de pixels (croûte, roche, magma, noyau) et chaque pixel arraché devient un débris soumis à la gravité. Astéroïdes, comètes qui traversent, bombes à retardement et trous noirs, en quantité limitée : sept planètes à détruire, trois étoiles chacune. Plein écran, manette, mode bac à sable (toutes les armes à volonté), ralenti quand la planète éclate.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-13T23:03:30Z",
+   "updated": "2026-11-16T04:28:51Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Cataclysm",
-    "description": "Pixel art planet destruction game: each planet is made of thousands of pixels (crust, rock, magma, core) and every pixel torn off becomes debris pulled by gravity. Asteroids, comets that go right through, time bombs and black holes, in limited supply: seven planets to destroy, three stars each."
+    "description": "Pixel art planet destruction game: each planet is made of thousands of pixels (crust, rock, magma, core) and every pixel torn off becomes debris pulled by gravity. Asteroids, comets that go right through, time bombs and black holes, in limited supply: seven planets to destroy, three stars each. Fullscreen, gamepad, sandbox mode (every weapon at will), slow motion when the planet bursts."
    },
    "rating": {
     "average": 0,
@@ -802,20 +802,20 @@
    "id": "neodex.cavale",
    "repo": "NDesumeur/neodex-plugin-cavale",
    "name": "Cavale",
-   "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
-   "version": "1.0.3",
+   "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 14,
-   "updated": "2026-11-13T13:24:13Z",
+   "updated": "2026-11-16T04:28:58Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Gallop",
-    "description": "A running rhythm game: bats come in the air (J or K), slimes on the ground (F or D), two monsters at once and golden ribbons to hold, on a path at sunset. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D."
+    "description": "A running rhythm game: bats come in the air (J or K), slimes on the ground (F or D), two monsters at once and golden ribbons to hold, on a path at sunset. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Three characters (runner, cat, robot), three paths depending on the stars (forest, snow, city), gamepad, accuracy curve at the end of the song."
    },
    "rating": {
     "average": 0,
@@ -827,20 +827,20 @@
    "id": "neodex.cheminee",
    "repo": "NDesumeur/neodex-plugin-cheminee",
    "name": "Cheminée",
-   "description": "Jeu d'escalade : un mineur grimpe une cheminée de volcan en sautant d'une paroi à l'autre. Maintiens pour charger le saut (plus tu maintiens, plus il monte, la trajectoire s'affiche), lâche pour sauter. Évite les crocs plantés dans les parois et les scies qui vont et viennent, ramasse les gemmes, et monte plus vite que la lave. Hauteur, gemmes et record.",
-   "version": "1.0.0",
+   "description": "Jeu d'escalade : un mineur grimpe une cheminée de volcan en sautant d'une paroi à l'autre. Maintiens pour charger le saut (plus tu maintiens, plus il monte, la trajectoire s'affiche), lâche pour sauter. Évite les crocs plantés dans les parois et les scies qui vont et viennent, ramasse les gemmes, et monte plus vite que la lave. Hauteur, gemmes et record. Magasin de gemmes (piolet, bottes, casque), trois paliers de décor (roche, cristaux, sortie du volcan sous les étoiles), manette, plein écran.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 9,
-   "updated": "2026-11-13T23:03:33Z",
+   "updated": "2026-11-16T04:29:04Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Chimney",
-    "description": "Climbing game: a miner climbs a volcano chimney by jumping from one wall to the other. Hold to charge the jump (the longer you hold, the higher it goes, and the path is shown), release to jump. Avoid the fangs stuck in the walls and the saws moving back and forth, pick up gems, and climb faster than the lava. Height, gems and record."
+    "description": "Climbing game: a miner climbs a volcano chimney by jumping from one wall to the other. Hold to charge the jump (the longer you hold, the higher it goes, and the path is shown), release to jump. Avoid the fangs stuck in the walls and the saws moving back and forth, pick up gems, and climb faster than the lava. Height, gems and record. Gem shop (ice axe, boots, helmet), three scenery levels (rock, crystals, the volcano's mouth under the stars), gamepad, fullscreen."
    },
    "rating": {
     "average": 0,
@@ -852,20 +852,20 @@
    "id": "neodex.chronobox",
    "repo": "NDesumeur/neodex-plugin-chronobox",
    "name": "Chronobox",
-   "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps.",
-   "version": "1.0.0",
+   "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps. Chronobox reprend tout Minuteur : les minuteurs se règlent en heures, minutes et secondes (jusqu'à 99 h) et de nouvelles durées toutes prêtes (25 min, 45 min, 2 h).",
+   "version": "1.2.0",
    "category": "Outils",
    "approved": false,
    "stars": 1,
    "installs": 2,
-   "updated": "2026-11-12T06:41:10Z",
+   "updated": "2026-11-16T04:29:16Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Chronobox",
-    "description": "Everything that counts time, in one place: a stopwatch to the hundredth with laps (best and worst in colour), as many timers as you like at once with an alarm, an adjustable Pomodoro (work, short and long breaks) and countdowns to your important dates. Times stay right even if you close NeoDex in between."
+    "description": "Everything that counts time, in one place: a stopwatch to the hundredth with laps (best and worst in colour), as many timers as you like at once with an alarm, an adjustable Pomodoro (work, short and long breaks) and countdowns to your important dates. Times stay right even if you close NeoDex in between. Chronobox takes over everything from Timer: timers are set in hours, minutes and seconds (up to 99 h), with new presets (25 min, 45 min, 2 h)."
    },
    "rating": {
     "average": 0,
@@ -877,20 +877,20 @@
    "id": "neodex.ciel",
    "repo": "NDesumeur/neodex-plugin-ciel",
    "name": "Ciel ce soir",
-   "description": "Les planètes visibles cette nuit depuis ta ville, avec l'heure où elles sont au plus haut et leur direction ; la carte du ciel heure par heure en pixel art (étoiles brillantes, constellations, Lune et sa phase) ; et les prochains passages visibles de la Station spatiale internationale. Calculé sur ton PC, seule l'orbite de l'ISS vient d'Internet (CelesTrak).",
-   "version": "1.0.0",
+   "description": "Les planètes visibles cette nuit depuis ta ville, avec l'heure où elles sont au plus haut et leur direction ; la carte du ciel heure par heure en pixel art (étoiles brillantes, constellations, Lune et sa phase) ; et les prochains passages visibles de la Station spatiale internationale. Calculé sur ton PC, seule l'orbite de l'ISS vient d'Internet (CelesTrak). Clique sur une planète, une étoile ou une constellation pour ouvrir sa fiche ; la colonne de droite est résumée, avec le plus beau à voir ce soir en premier.",
+   "version": "1.1.0",
    "category": "Outils",
    "approved": true,
    "stars": 1,
    "installs": 2,
-   "updated": "2026-11-13T23:17:24Z",
+   "updated": "2026-11-16T04:29:39Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Tonight’s Sky",
-    "description": "The planets visible tonight from your town, with when they are highest and their direction; an hour-by-hour pixel art sky map (bright stars, constellations, the Moon and its phase); and the next visible passes of the International Space Station. Computed on your PC, only the ISS orbit comes from the Internet (CelesTrak)."
+    "description": "The planets visible tonight from your town, with when they are highest and their direction; an hour-by-hour pixel art sky map (bright stars, constellations, the Moon and its phase); and the next visible passes of the International Space Station. Computed on your PC, only the ISS orbit comes from the Internet (CelesTrak). Click a planet, a star or a constellation to open its card; the right column is shorter, with the best thing to see tonight first."
    },
    "rating": {
     "average": 0,
