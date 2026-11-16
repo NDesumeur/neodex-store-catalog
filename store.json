@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-16T18:25:47.642Z",
+ "updated": "2026-11-16T19:22:36.138Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -53,7 +53,7 @@
    "category": "Système",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-16T16:40:16Z",
    "langs": [
     "fr",
@@ -382,7 +382,7 @@
    "category": "Création",
    "approved": true,
    "stars": 1,
-   "installs": 460,
+   "installs": 464,
    "updated": "2026-11-16T16:41:04Z",
    "langs": [
     "fr",
@@ -2378,12 +2378,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.2.0",
+   "version": "2.2.1",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 516,
-   "updated": "2026-11-16T16:46:03Z",
+   "installs": 518,
+   "updated": "2026-11-16T18:43:37Z",
    "langs": [
     "fr",
     "en"
@@ -2453,12 +2453,12 @@
    "repo": "NDesumeur/neodex-plugin-neome",
    "name": "NeoMe",
    "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 15 chapeaux se débloquent en montant de niveau.",
-   "version": "1.4.0",
+   "version": "1.4.1",
    "category": "Compagnon",
    "approved": true,
    "stars": 1,
-   "installs": 48,
-   "updated": "2026-11-16T16:46:15Z",
+   "installs": 50,
+   "updated": "2026-11-16T18:43:42Z",
    "langs": [
     "fr",
     "en"
