@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-16T13:44:07.223Z",
+ "updated": "2026-11-16T14:41:23.541Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -782,7 +782,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 13,
+   "installs": 14,
    "updated": "2026-11-16T04:28:51Z",
    "langs": [
     "fr",
@@ -2282,7 +2282,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 263,
+   "installs": 264,
    "updated": "2026-11-16T04:54:47Z",
    "langs": [
     "fr",
@@ -2982,7 +2982,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 24,
    "updated": "2026-11-16T05:17:04Z",
    "langs": [
     "fr",
