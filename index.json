@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-16T18:43:45Z",
+  "updated": "2026-11-16T21:10:26Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -274,7 +274,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -1292,7 +1292,7 @@
       "id": "neodex.neome",
       "name": "NeoMe",
       "repo": "NDesumeur/neodex-plugin-neome",
-      "version": "1.4.1",
+      "version": "1.4.2",
       "category": "Compagnon",
       "system": true,
       "type": "app",
@@ -1301,7 +1301,7 @@
       "permissions": [
         "full"
       ],
-      "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 15 chapeaux se débloquent en montant de niveau.",
+      "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 17 auras (certaines changent de couleur ou respirent) se débloquent en montant de niveau.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-neome/main/screenshots/1.png"
       ],
@@ -3831,6 +3831,24 @@
       "syncMode": "fusion",
       "syncInfo": "Le chronomètre, les minuteurs, le Pomodoro et les comptes à rebours.",
       "gamepad": false
+    },
+    {
+      "id": "neodex.themeado",
+      "name": "Thème Ado",
+      "repo": "NDesumeur/neodex-plugin-theme-ado",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») qui se promène derrière les cadres et dépasse de chacun, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
+      "neodex": ">=3.2.2"
     }
   ],
   "revoked": [
