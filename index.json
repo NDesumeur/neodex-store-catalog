@@ -4,31 +4,6 @@
   "topic": "neodex-plugin",
   "plugins": [
     {
-      "id": "neodex.minuteur",
-      "name": "Minuteur",
-      "repo": "NDesumeur/neodex-plugin-minuteur",
-      "version": "1.2.0",
-      "category": "Utilitaires",
-      "system": false,
-      "type": "app",
-      "mobile": true,
-      "approved": true,
-      "permissions": [
-        "storage"
-      ],
-      "description": "Plusieurs minuteurs en même temps : saisis une durée jusqu'à 99 heures ou choisis-en une toute prête (1 min à 1 h), donne un nom si tu veux, et chaque minuteur a sa carte avec un anneau qui se vide, pause, reprise, remise à zéro et suppression. À la fin : trois bips, une notification et la carte qui clignote. Le décompte continue même onglet fermé. Dernière version : Minuteur rejoint Chronobox (minuteurs jusqu'à 99 h, chronomètre, Pomodoro, comptes à rebours). Un bandeau le dit ; tes minuteurs continuent de marcher.",
-      "screenshots": [
-        "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-minuteur/main/screenshots/1.jpg"
-      ],
-      "syncMode": "fusion",
-      "syncInfo": "Tes minuteurs enregistrés.",
-      "compatibility": [
-        "windows",
-        "android",
-        "linux"
-      ]
-    },
-    {
       "id": "neodex.calculatrice",
       "name": "Calculatrice",
       "repo": "NDesumeur/neodex-plugin-calculatrice",
