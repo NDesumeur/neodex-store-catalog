@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-16T16:51:10Z",
+  "updated": "2026-11-16T17:32:26Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3785,6 +3785,29 @@
       "syncInfo": "Rien n'est synchronisé : Tor et WARP sont installés sur chaque PC.",
       "gamepad": false,
       "neodex": ">=3.1.16"
+    },
+    {
+      "id": "neodex.adblock",
+      "name": "Bloqueur de pubs",
+      "repo": "NDesumeur/neodex-plugin-adblock",
+      "version": "1.0.0",
+      "category": "Système",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "full"
+      ],
+      "description": "Le bloqueur de pubs et de traqueurs des sites ouverts dans NeoDex : toutes les listes d'uBlock Origin (pubs, pistage, nuisances, bandeaux de cookies) et EasyList, par le moteur de Ghostery, rafraîchies chaque semaine. YouTube a ses propres règles, reprises d'uBlock Origin toutes les 12 heures (vidéos sans pubs, « Passer » cliqué pour toi). Le bouton ADBLOCK de la barre d'adresse le coupe sur un site ; son clic droit, « une pub est passée ? », bloque ce que tu coches. Avant NeoDex 3.2, il était dans NeoDex : tes sites exclus sont repris.",
+      "syncMode": "aucune",
+      "syncInfo": "Rien n'est synchronisé : chaque PC a ses listes et ses sites exclus.",
+      "gamepad": false,
+      "neodex": ">=3.2.0"
     },
     {
       "id": "neodex.chronobox",
