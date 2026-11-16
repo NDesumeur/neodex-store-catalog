@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-16T20:22:39.312Z",
+ "updated": "2026-11-16T21:22:26.500Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -2378,12 +2378,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.2.1",
+   "version": "2.2.2",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 519,
-   "updated": "2026-11-16T18:43:37Z",
+   "updated": "2026-11-16T21:10:12Z",
    "langs": [
     "fr",
     "en"
@@ -2452,20 +2452,20 @@
    "id": "neodex.neome",
    "repo": "NDesumeur/neodex-plugin-neome",
    "name": "NeoMe",
-   "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 15 chapeaux se débloquent en montant de niveau.",
-   "version": "1.4.1",
+   "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 17 auras (certaines changent de couleur ou respirent) se débloquent en montant de niveau.",
+   "version": "1.4.2",
    "category": "Compagnon",
    "approved": true,
    "stars": 1,
    "installs": 51,
-   "updated": "2026-11-16T18:43:42Z",
+   "updated": "2026-11-16T21:10:18Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoMe",
-    "description": "Your companion: it lives on the home page and walks along the taskbar. Cuddles on click, tickles on double-click, a right-click menu to feed it, play ball (combo and record), put it to bed or rename it. Belly, joy and energy drop over time; it sleeps at night, dances to your music and levels up with every bit of attention. Fits the screen size: the big NeoMe grows with the window without going past its height; the empty wardrobe no longer shows. Three games of the day, one round each per day for a little XP: No Shadow (push crates and lanterns to stay in the shadows), Midnight Waves (mirrors to wake the creatures in order) and Hatching (roll the shell through a night garden). His 15 hats unlock as he levels up."
+    "description": "Your companion: it lives on the home page and walks along the taskbar. Cuddles on click, tickles on double-click, a right-click menu to feed it, play ball (combo and record), put it to bed or rename it. Belly, joy and energy drop over time; it sleeps at night, dances to your music and levels up with every bit of attention. Fits the screen size: the big NeoMe grows with the window without going past its height; the empty wardrobe no longer shows. Three games of the day, one round each per day for a little XP: No Shadow (push crates and lanterns to stay in the shadows), Midnight Waves (mirrors to wake the creatures in order) and Hatching (roll the shell through a night garden). Its 17 auras (some shift colour or breathe) unlock as it levels up."
    },
    "rating": {
     "average": 0,
@@ -3791,6 +3791,31 @@
    "en": {
     "name": "Terminal",
     "description": "A PowerShell, Command Prompt or Git Bash console in a NeoDex tab: one command per line, a prompt that follows the current folder, errors in red, the last 100 commands with the arrow keys, and a Restart button that also stops a stuck command. Full-screen programs such as vim do not work here; nothing is stored. Shell picker in the bar: PowerShell, Command Prompt or Git Bash (if installed), kept from one time to the next; Tab completes the command, path or parameter and shows the list when there are several choices; text and margins follow the screen size. The shell picker needs NeoDex 3.1.17 (before, PowerShell only)."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeado",
+   "repo": "NDesumeur/neodex-plugin-theme-ado",
+   "name": "Thème Ado",
+   "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») qui se promène derrière les cadres et dépasse de chacun, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
+   "version": "1.0.0",
+   "category": "",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-16T21:10:23Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Ado theme",
+    "description": "A blue and black theme in tribute to Ado: her artwork in the background, blue roses in the corners with sparkling gyaru stickers, Abo (the plush from the \"I am Ado\" meme) strolling behind the panels and peeking out of each one, a scrolling list of her songs at the bottom and a bold, readable NeoDex title, also on the taskbar. A fan theme, not officially linked to the artist."
    },
    "rating": {
     "average": 0,
