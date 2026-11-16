@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-16T08:40:21.480Z",
+ "updated": "2026-11-16T09:32:33.253Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -261,7 +261,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 38,
+   "installs": 39,
    "updated": "2026-11-16T04:20:53Z",
    "langs": [
     "fr",
@@ -582,7 +582,7 @@
    "category": "Finance",
    "approved": true,
    "stars": 1,
-   "installs": 47,
+   "installs": 48,
    "updated": "2026-11-16T04:25:35Z",
    "langs": [
     "fr",
@@ -657,7 +657,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 53,
+   "installs": 54,
    "updated": "2026-11-16T04:26:28Z",
    "langs": [
     "fr",
@@ -732,7 +732,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 264,
+   "installs": 265,
    "updated": "2026-11-16T04:27:03Z",
    "langs": [
     "fr",
@@ -757,7 +757,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 35,
    "updated": "2026-11-16T04:27:19Z",
    "langs": [
     "fr",
@@ -1132,7 +1132,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 266,
+   "installs": 267,
    "updated": "2026-11-16T04:38:41Z",
    "langs": [
     "fr",
@@ -1182,7 +1182,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 31,
+   "installs": 32,
    "updated": "2026-11-16T04:41:14Z",
    "langs": [
     "fr",
@@ -1507,7 +1507,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 277,
+   "installs": 278,
    "updated": "2026-11-16T04:46:53Z",
    "langs": [
     "fr",
@@ -1557,7 +1557,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 35,
    "updated": "2026-11-16T04:47:18Z",
    "langs": [
     "fr",
@@ -1782,7 +1782,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 323,
+   "installs": 324,
    "updated": "2026-11-16T04:49:22Z",
    "langs": [
     "fr",
@@ -1807,7 +1807,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 47,
+   "installs": 48,
    "updated": "2026-11-16T04:49:32Z",
    "langs": [
     "fr",
@@ -2032,7 +2032,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 31,
+   "installs": 32,
    "updated": "2026-11-16T04:51:56Z",
    "langs": [
     "fr",
@@ -2082,7 +2082,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 275,
+   "installs": 276,
    "updated": "2026-11-16T04:52:13Z",
    "langs": [
     "fr",
@@ -2282,7 +2282,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 260,
+   "installs": 262,
    "updated": "2026-11-16T04:54:47Z",
    "langs": [
     "fr",
@@ -2332,7 +2332,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 35,
    "updated": "2026-11-16T04:55:11Z",
    "langs": [
     "fr",
@@ -2732,7 +2732,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 34,
+   "installs": 35,
    "updated": "2026-11-16T05:01:41Z",
    "langs": [
     "fr",
@@ -3307,7 +3307,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 338,
+   "installs": 339,
    "updated": "2026-11-16T05:20:11Z",
    "langs": [
     "fr",
@@ -3357,7 +3357,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 279,
+   "installs": 280,
    "updated": "2026-11-16T05:20:36Z",
    "langs": [
     "fr",
@@ -3482,7 +3482,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 35,
+   "installs": 36,
    "updated": "2026-11-16T05:22:10Z",
    "langs": [
     "fr",
@@ -3632,7 +3632,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 31,
+   "installs": 33,
    "updated": "2026-11-16T05:24:35Z",
    "langs": [
     "fr",
@@ -3832,7 +3832,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 44,
+   "installs": 45,
    "updated": "2026-11-16T05:28:25Z",
    "langs": [
     "fr",
@@ -3857,7 +3857,7 @@
    "category": "Voyage",
    "approved": true,
    "stars": 1,
-   "installs": 50,
+   "installs": 51,
    "updated": "2026-11-16T05:28:55Z",
    "langs": [
     "fr",
@@ -3957,7 +3957,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 50,
+   "installs": 51,
    "updated": "2026-11-16T05:30:09Z",
    "langs": [
     "fr",
