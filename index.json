@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-17T21:10:29Z",
+  "updated": "2026-11-17T21:38:56Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3877,6 +3877,32 @@
       "permissions": [],
       "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») qui se promène derrière les cadres et dépasse de chacun, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
       "neodex": ">=3.2.2"
+    },
+    {
+      "id": "neodex.typenova",
+      "name": "TypeNova",
+      "repo": "NDesumeur/neodex-plugin-typenova",
+      "version": "1.0.0",
+      "category": "Jeux",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "files"
+      ],
+      "description": "Le jeu de frappe spatial : des mots traversent l'écran, tape-les avant qu'ils n'atteignent ta fusée. Cinq difficultés, combos, mots dorés et bonus, modificateurs de partie, tutoriel et guide du jeu. Affronte le boss NEXUS-7 dans des duels au clavier, découvre l'histoire, monte de niveau pour débloquer skins de fusée, curseurs, thèmes, sons de frappe et 94 succès. Profil, records et historique de tes parties ; 16 polices et 4 langues (français, anglais, espagnol, allemand).",
+      "screenshots": [
+        "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-typenova/main/screenshots/1.jpg",
+        "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-typenova/main/screenshots/2.jpg"
+      ],
+      "syncMode": "progression",
+      "syncInfo": "Niveau, succès, records, réglages et historique des parties."
     }
   ],
   "revoked": [
