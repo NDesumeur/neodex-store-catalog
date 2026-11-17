@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-16T21:10:26Z",
+  "updated": "2026-11-17T18:43:25Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -26,7 +26,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.unites",
@@ -52,7 +53,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.traducteur",
@@ -78,7 +80,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.horloge",
@@ -104,7 +107,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.hasard",
@@ -129,7 +133,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.frappe",
@@ -178,7 +183,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.nba",
@@ -219,7 +225,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.transports",
@@ -297,7 +304,8 @@
         "android",
         "linux"
       ],
-      "neodex": ">=3.2.0"
+      "neodex": ">=3.2.0",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.sautstellaire",
@@ -1561,7 +1569,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.pressepapiers",
@@ -1859,7 +1868,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.f1",
@@ -1884,7 +1894,8 @@
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.prixjeux",
@@ -2562,7 +2573,8 @@
       ],
       "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse. Masques prêts à l'emploi expliqués et décalage animé.",
       "syncMode": "fusion",
-      "syncInfo": "Les derniers nombres et le texte saisis."
+      "syncInfo": "Les derniers nombres et le texte saisis.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.pattern",
@@ -2584,7 +2596,8 @@
       ],
       "description": "Écris une expression régulière et vois-la trouver ses correspondances en direct dans ton texte : chaque morceau du motif expliqué en français, le détail des groupes, le remplacement avec $1 et $<nom>, les six drapeaux, un aide-mémoire cliquable, des exemples prêts (e-mail, date, téléphone, IP…) et tes motifs gardés. Un motif qui s'emballe est arrêté au bout d'une seconde au lieu de figer NeoDex. Textes plus grands (correspondances, explication, aide-mémoire), colonnes selon la taille de l'écran, et les onglets de droite ne débordent plus.",
       "syncMode": "fusion",
-      "syncInfo": "Le motif en cours et tes motifs gardés."
+      "syncInfo": "Le motif en cours et tes motifs gardés.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.cipher",
@@ -2606,7 +2619,8 @@
       ],
       "description": "Essaie et comprends neuf méthodes de chiffrement, des plus anciennes aux vraies d'aujourd'hui : César, Vigenère, Atbash, substitution, clôture, Morse, XOR, AES-256 et SHA-256. Pour chacune : chiffrer et déchiffrer, ce qui arrive à chaque lettre, les fréquences comparées au français, son histoire et comment on la casse, avec le cassage automatique de César et de Vigenère. Textes plus grands (entrée, résultat, explications, fréquences) et pleine largeur.",
       "syncMode": "fusion",
-      "syncInfo": "La méthode choisie, le texte et les clés (jamais le mot de passe AES)."
+      "syncInfo": "La méthode choisie, le texte et les clés (jamais le mot de passe AES).",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.graphix",
@@ -2628,7 +2642,8 @@
       ],
       "description": "Trace jusqu'à 6 fonctions et change leurs paramètres en direct : curseurs a, b et c, temps t qui s'anime, écriture naturelle (2x, x², |x|, sin x, 2,5). Déplace-toi à la souris, zoome à la molette, lis les valeurs au survol, affiche les dérivées, et trouve les zéros, minimums, maximums et intersections dans la zone visible. Table de valeurs et export en PNG. Suites (avec n, ou par récurrence « u0 ; formule »), nuages de points avec leur droite de tendance, aire sous la courbe coloriée avec l'intégrale, et surfaces z = f(x, y) en 3D qu'on fait tourner à la souris. L'affichage suit la taille de l'écran.",
       "syncMode": "fusion",
-      "syncInfo": "Tes fonctions, les curseurs et la vue."
+      "syncInfo": "Tes fonctions, les curseurs et la vue.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.vie",
@@ -2650,7 +2665,8 @@
       ],
       "description": "Le jeu de la vie de Conway et ses cousins : dessine des cellules à la souris, lance la simulation à la vitesse voulue, pose 12 motifs célèbres (planeur, pulsar, canon à planeurs de Gosper, gland…) et tourne-les, change la règle (HighLife, Seeds, Jour et nuit, Labyrinthe ou la tienne en B/S), suis la population sur un graphique et l'âge des cellules en couleurs, et échange tes créations au format RLE. Grille infinie qu'on fait glisser (clic molette, Maj + glisser ou « Déplacer ») et qu'on zoome à la molette, bouton « Recentrer », 25 motifs rangés par famille (vaisseaux, oscillateurs, natures mortes, mathusalems, canons), textes et boutons plus grands. Échap et Espace remarchent.",
       "syncMode": "fusion",
-      "syncInfo": "La grille, la règle et la vitesse."
+      "syncInfo": "La grille, la règle et la vitesse.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.algoflow",
@@ -2672,7 +2688,8 @@
       ],
       "description": "Regarde les algorithmes travailler, étape par étape : 8 tris (bulles, insertion, sélection, fusion, rapide, tas, Shell, comptage), 2 recherches (linéaire, dichotomique) et 4 parcours de graphe sur une grille que tu dessines (largeur, profondeur, Dijkstra, A*) avec murs, boue et labyrinthes. Le pseudo-code s'allume ligne par ligne, les comparaisons et écritures sont comptées, et tu avances, recules ou changes la vitesse à volonté. Nouveau : la course entre deux tris sur le même tableau.",
       "syncMode": "fusion",
-      "syncInfo": "L'algorithme choisi, la vitesse et la grille dessinée."
+      "syncInfo": "L'algorithme choisi, la vitesse et la grille dessinée.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.gateworks",
@@ -2694,7 +2711,8 @@
       ],
       "description": "Construis des circuits logiques à la souris : interrupteurs, lampes, horloge et 7 portes (ET, OU, NON, OU exclusif, NON-ET, NON-OU, NON-OU exclusif), reliés par des fils qui s'allument quand le courant passe. La table de vérité se calcule toute seule, les bascules gardent leur mémoire, et 5 exemples montrent un demi-additionneur, un additionneur complet, une bascule RS, un multiplexeur et un clignotant. S'adapte à la taille de l'écran : le circuit prend la hauteur de la fenêtre et reste net, étiquettes et table de vérité plus grandes.",
       "syncMode": "fusion",
-      "syncInfo": "Le circuit dessiné et la vitesse de l'horloge."
+      "syncInfo": "Le circuit dessiné et la vitesse de l'horloge.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.motion",
@@ -2716,7 +2734,8 @@
       ],
       "description": "L'animateur : formes, textes et images animés par images clés sur une timeline (position, échelle, rotation, opacité, flou, couleur), 12 effets tout prêts, accélérations réglables, export en vidéo WebM, en HTML/CSS ou en PNG. Et l'éditeur de courbes : Bézier ou ressort, comparées côte à côte, CSS prêt à copier. Timeline plus grande (rangées, règle, noms et images clés plus faciles à viser), textes plus grands, et la scène grandit avec l'écran tout en laissant voir la timeline.",
       "syncMode": "fusion",
-      "syncInfo": "Les 3 courbes, la durée et tes préréglages gardés."
+      "syncInfo": "Les 3 courbes, la durée et tes préréglages gardés.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.qraft",
@@ -2738,7 +2757,8 @@
       ],
       "description": "Fabrique des QR codes : texte, lien, Wi-Fi (le mot de passe n'est jamais enregistré), contact, e-mail, SMS ou position. Choisis le niveau de correction (L, M, Q, H), l'encre, le fond, la marge et la taille, vois la version et la place utilisée, et exporte en PNG ou SVG, ou copie l'image. Un avertissement prévient quand le contraste ou la marge rendent le code difficile à lire.",
       "syncMode": "fusion",
-      "syncInfo": "Le contenu (sans mot de passe Wi-Fi), les réglages et les codes gardés."
+      "syncInfo": "Le contenu (sans mot de passe Wi-Fi), les réglages et les codes gardés.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.pixelfont",
@@ -2760,7 +2780,8 @@
       ],
       "description": "Dessine ta police pixel art lettre par lettre (125 caractères, accents français et € compris) sur une grille jusqu'à 16 × 16, avec largeur propre à chaque lettre, ligne de base, miroir, décalage, copier-coller et annuler. Pars d'une police du système ou d'une page blanche, regarde l'aperçu en direct, et exporte une vraie police TrueType (.ttf) à installer dans Windows, ou une planche PNG + JSON pour tes jeux. Sur grand écran, l'interface grandit : colonnes plus larges, éditeur de lettre plus grand (selon la hauteur de l'écran), cases des caractères et textes plus grands.",
       "syncMode": "fusion",
-      "syncInfo": "Toutes les lettres dessinées, les réglages et le texte d'aperçu."
+      "syncInfo": "Toutes les lettres dessinées, les réglages et le texte d'aperçu.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.pixelstudio",
@@ -2782,7 +2803,8 @@
       ],
       "description": "Dessine et anime tes sprites pixel art, de 8 × 8 à 64 × 64 : crayon, gomme, pot de peinture, ligne, rectangles, pipette, déplacement et symétrie, palette de 32 couleurs modifiable, annuler et refaire. Ajoute des images d'animation avec la pelure d'oignon, regarde-les tourner à la vitesse voulue, et exporte en PNG, en planche de sprites ou en GIF animé transparent. Textes plus grands (outils, numéros des images, infos), colonnes et zone de dessin selon la taille de l'écran.",
       "syncMode": "fusion",
-      "syncInfo": "Le dessin, toutes ses images, la palette et la vitesse."
+      "syncInfo": "Le dessin, toutes ses images, la palette et la vitesse.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.bittune",
@@ -2804,7 +2826,8 @@
       ],
       "description": "Compose de la musique chiptune : 5 voies (deux carrées, triangle, bruit à 6 percussions, dent de scie), 8 motifs de 32 pas sur 3 octaves, effets par note (vibrato, arpèges, glissés, piqué, volume), panoramique, écho, swing, gammes, muet et solo. Lecture avec oscilloscope, export WAV et MIDI, morceaux à enregistrer et 3 exemples.",
       "syncMode": "fusion",
-      "syncInfo": "Les 4 motifs, l'ordre, le tempo et les réglages des voies."
+      "syncInfo": "Les 4 motifs, l'ordre, le tempo et les réglages des voies.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.dataforge",
@@ -2826,7 +2849,8 @@
       ],
       "description": "Ouvre et transforme tes données en tableau : CSV (séparateur deviné, guillemets, nombres à la française), TSV copié d'un tableur, JSON ou Excel (.xlsx). Joins deux fichiers par une colonne commune. Trie, filtre, regarde les statistiques et le graphique de chaque colonne, ajoute des colonnes calculées par formule, renomme, nettoie, enlève les doublons, annule, puis exporte en Excel, CSV, TSV, JSON, Markdown ou SQL. Joindre deux fichiers par une colonne commune, ouvrir et enregistrer en Excel (.xlsx), textes plus grands.",
       "syncMode": "fusion",
-      "syncInfo": "Le dernier tableau ouvert (s'il n'est pas trop gros)."
+      "syncInfo": "Le dernier tableau ouvert (s'il n'est pas trop gros).",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.sounddeck",
@@ -2848,7 +2872,8 @@
       ],
       "description": "Fabrique des bruitages rétro pour tes jeux : 16 familles à tirer au hasard (pièce, saut, laser, explosion, tir, magie, moteur…), 6 formes d'onde et 23 réglages verrouillables (filtre résonant, écho, distorsion, trémolo…), historique, mélange de plusieurs sons et 5 jingles, 12 pads, clavier, export WAV 44/22/11 kHz en 16 ou 8 bits.",
       "syncMode": "fusion",
-      "syncInfo": "Le son en cours et les 12 pads."
+      "syncInfo": "Le son en cours et les 12 pads.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.networld",
@@ -2870,7 +2895,8 @@
       ],
       "description": "La boîte à outils réseau, sans rien envoyer sur le réseau : calculateur de sous-réseaux IPv4 (réseau, masque, diffusion, plage de machines, binaire, type d'adresse), découpage d'un réseau selon le nombre de machines de chaque service (VLSM), IPv6 développée, compressée et son réseau, décomposition d'une adresse web, et un aide-mémoire des ports et des codes HTTP avec recherche. Textes, tableaux et boutons plus grands, et la liste des ports s'allonge sur un grand écran.",
       "syncMode": "fusion",
-      "syncInfo": "Les dernières adresses et le découpage saisis."
+      "syncInfo": "Les dernières adresses et le découpage saisis.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.clipforge",
@@ -2892,7 +2918,8 @@
       ],
       "description": "Le monteur vidéo façon CapCut : timeline à 8 pistes (textes, effets, incrustation, vidéo, sons, musique) avec pellicule et formes d'onde, 13 transitions, mouvements, 14 filtres, 16 effets (VHS, glitch, grain, confettis…), textes stylés et animés, autocollants, fond flou, image figée, son détaché, vitesse ×0,1 à ×8. Export WebM ou MP4 jusqu'en 1080p et 60 images/s, en 16:9, 9:16, 1:1, 4:5, 4:3 ou 21:9. S'adapte à la taille de l'écran : colonnes et aperçu qui suivent la fenêtre, pleine largeur sur grand écran, textes plus grands.",
       "syncMode": "fusion",
-      "syncInfo": "Le montage (clips, réglages) et les médias de 15 Mo au plus."
+      "syncInfo": "Le montage (clips, réglages) et les médias de 15 Mo au plus.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.beffroi",
@@ -3830,7 +3857,8 @@
       "description": "Tout ce qui compte le temps, au même endroit : un chronomètre au centième avec tours (meilleur et pire en couleur), autant de minuteurs que tu veux en même temps avec sonnerie, un Pomodoro réglable (travail, petites et grandes pauses) et des comptes à rebours jusqu'à tes dates importantes. Les temps restent justes même si tu fermes NeoDex entre-temps. Chronobox reprend tout Minuteur : les minuteurs se règlent en heures, minutes et secondes (jusqu'à 99 h) et de nouvelles durées toutes prêtes (25 min, 45 min, 2 h).",
       "syncMode": "fusion",
       "syncInfo": "Le chronomètre, les minuteurs, le Pomodoro et les comptes à rebours.",
-      "gamepad": false
+      "gamepad": false,
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.themeado",
