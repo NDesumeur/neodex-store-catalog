@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-17T18:24:53.644Z",
+ "updated": "2026-11-17T22:22:35.810Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -382,7 +382,7 @@
    "category": "Création",
    "approved": true,
    "stars": 1,
-   "installs": 477,
+   "installs": 481,
    "updated": "2026-11-16T16:41:04Z",
    "langs": [
     "fr",
@@ -3807,7 +3807,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 7,
+   "installs": 11,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
@@ -3991,6 +3991,31 @@
    "en": {
     "name": "Pipes",
     "description": "A puzzle game: rotate the pipes with a click to bring water from the water tower, in the centre, to every house. Loop-free networks that can always be solved, grids from 5 × 5 to 8 × 8, up to 3 stars depending on your moves compared with the minimum, and a random networks option; synced progress. Full screen button, the grid fills the whole frame, and bigger grids as you go, up to 12 × 12."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.typenova",
+   "repo": "NDesumeur/neodex-plugin-typenova",
+   "name": "TypeNova",
+   "description": "Le jeu de frappe spatial : des mots traversent l'écran, tape-les avant qu'ils n'atteignent ta fusée. Cinq difficultés, combos, mots dorés et bonus, modificateurs de partie, tutoriel et guide du jeu. Affronte le boss NEXUS-7 dans des duels au clavier, découvre l'histoire, monte de niveau pour débloquer skins de fusée, curseurs, thèmes, sons de frappe et 94 succès. Profil, records et historique de tes parties ; 16 polices et 4 langues (français, anglais, espagnol, allemand).",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 2,
+   "updated": "2026-11-17T21:38:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "TypeNova",
+    "description": "The space typing game: words fly across the screen, type them before they reach your rocket. Five difficulty levels, combos, golden words and power-ups, game modifiers, a tutorial and a game guide. Fight the NEXUS-7 boss in keyboard duels, discover the story, and level up to unlock rocket skins, cursors, themes, typing sounds and 94 achievements. Profile, records and history of your games; 16 fonts and 4 languages (French, English, Spanish, German)."
    },
    "rating": {
     "average": 0,
