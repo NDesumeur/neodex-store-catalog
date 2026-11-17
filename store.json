@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-17T13:22:58.654Z",
+ "updated": "2026-11-17T14:23:12.925Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -4041,6 +4041,31 @@
    "en": {
     "name": "Waltz",
     "description": "One-key rhythm game: the sun and the moon spin around each other on a path of tiles drawn by the music; tap when the spinning one touches the next tile. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Version 1.1.0: gamepad play (any button places the star, Start starts, Select pauses) and an accuracy curve along the song on the end screen."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.veillee",
+   "repo": "NDesumeur/neodex-plugin-veillee",
+   "name": "Veillée",
+   "description": "Jeu de survie en pixel art : seul dans un pré la nuit, lanterne à la main, tu fais face à des vagues de chauves-souris, d'ombres, de citrouilles et de golems. Tes armes tirent toutes seules, tu te déplaces et tu ramasses des cristaux pour monter de niveau et choisir tes améliorations. Tiens 10 minutes jusqu'à l'aube. Le noir autour de la lanterne, les yeux qui brillent, deux grands corbeaux. Version 1.1.0 : bouton plein écran, quatre personnages à débloquer avec leur arme de départ, trois nouvelles cartes (cimetière, forêt, ferme) et les améliorations choisies affichées pendant la partie.",
+   "version": "1.1.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 14,
+   "updated": "2026-11-16T16:50:23Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Nightwatch",
+    "description": "Pixel art survival game: alone in a meadow at night, lantern in hand, you face waves of bats, shades, pumpkins and golems. Your weapons fire by themselves; you move around and pick up crystals to level up and choose your upgrades. Hold out 10 minutes until dawn. The darkness around the lantern, glowing eyes, two great crows. Version 1.1.0: a full screen button, four characters to unlock with their starting weapon, three new maps (graveyard, forest, farm) and the chosen upgrades shown during the game."
    },
    "rating": {
     "average": 0,
