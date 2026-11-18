@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-17T22:22:35.810Z",
+ "updated": "2026-11-18T02:26:34.831Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -382,7 +382,7 @@
    "category": "Création",
    "approved": true,
    "stars": 1,
-   "installs": 481,
+   "installs": 485,
    "updated": "2026-11-16T16:41:04Z",
    "langs": [
     "fr",
@@ -3807,7 +3807,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 11,
+   "installs": 15,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
