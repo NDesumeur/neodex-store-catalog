@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-18T16:22:25.550Z",
+ "updated": "2026-11-18T19:21:55.852Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -2378,12 +2378,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.2.2",
+   "version": "2.2.3",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 534,
-   "updated": "2026-11-16T21:10:12Z",
+   "installs": 535,
+   "updated": "2026-11-18T19:00:40Z",
    "langs": [
     "fr",
     "en"
@@ -4003,12 +4003,12 @@
    "repo": "NDesumeur/neodex-plugin-typenova",
    "name": "TypeNova",
    "description": "Le jeu de frappe spatial : des mots traversent l'écran, tape-les avant qu'ils n'atteignent ta fusée. Cinq difficultés, combos, mots dorés et bonus, modificateurs de partie, tutoriel et guide du jeu. Affronte le boss NEXUS-7 dans des duels au clavier, découvre l'histoire, monte de niveau pour débloquer skins de fusée, curseurs, thèmes, sons de frappe et 94 succès. Profil, records et historique de tes parties ; 16 polices et 4 langues (français, anglais, espagnol, allemand).",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 2,
-   "updated": "2026-11-17T21:38:24Z",
+   "installs": 3,
+   "updated": "2026-11-18T19:00:47Z",
    "langs": [
     "fr",
     "en"
