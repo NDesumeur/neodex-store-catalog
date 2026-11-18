@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-18T19:01:16Z",
+  "updated": "2026-11-18T19:01:37Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -353,7 +353,8 @@
       "compatibility": [
         "windows",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.cascade",
@@ -671,7 +672,8 @@
       "compatibility": [
         "windows",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.taquin",
@@ -695,7 +697,8 @@
       "compatibility": [
         "windows",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.echecs",
@@ -1673,7 +1676,8 @@
       "compatibility": [
         "windows",
         "linux"
-      ]
+      ],
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.plumo",
