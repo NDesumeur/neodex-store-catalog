@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-18T19:01:37Z",
+  "updated": "2026-11-18T19:12:58Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -2762,7 +2762,7 @@
       "description": "Fabrique des QR codes : texte, lien, Wi-Fi (le mot de passe n'est jamais enregistré), contact, e-mail, SMS ou position. Choisis le niveau de correction (L, M, Q, H), l'encre, le fond, la marge et la taille, vois la version et la place utilisée, et exporte en PNG ou SVG, ou copie l'image. Un avertissement prévient quand le contraste ou la marge rendent le code difficile à lire.",
       "syncMode": "fusion",
       "syncInfo": "Le contenu (sans mot de passe Wi-Fi), les réglages et les codes gardés.",
-      "phone": "1.0.0"
+      "phone": "1.1.0"
     },
     {
       "id": "neodex.pixelfont",
