@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-17T23:40:08Z",
+  "updated": "2026-11-18T01:04:06Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -305,7 +305,7 @@
         "linux"
       ],
       "neodex": ">=3.2.0",
-      "phone": "1.0.2"
+      "phone": "1.0.3"
     },
     {
       "id": "neodex.sautstellaire",
