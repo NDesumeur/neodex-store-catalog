@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-18T01:04:06Z",
+  "updated": "2026-11-18T19:01:16Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -281,7 +281,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.2.2",
+      "version": "2.2.3",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -3882,7 +3882,7 @@
       "id": "neodex.typenova",
       "name": "TypeNova",
       "repo": "NDesumeur/neodex-plugin-typenova",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux",
       "system": false,
       "type": "app",
