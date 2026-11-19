@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-19T17:22:15.175Z",
+ "updated": "2026-11-19T18:25:37.610Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -3807,7 +3807,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 24,
+   "installs": 25,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
@@ -3991,31 +3991,6 @@
    "en": {
     "name": "Pipes",
     "description": "A puzzle game: rotate the pipes with a click to bring water from the water tower, in the centre, to every house. Loop-free networks that can always be solved, grids from 5 × 5 to 8 × 8, up to 3 stars depending on your moves compared with the minimum, and a random networks option; synced progress. Full screen button, the grid fills the whole frame, and bigger grids as you go, up to 12 × 12."
-   },
-   "rating": {
-    "average": 0,
-    "count": 0,
-    "list": []
-   }
-  },
-  {
-   "id": "neodex.twitch",
-   "repo": "NDesumeur/neodex-plugin-twitch",
-   "name": "Lives Twitch",
-   "description": "Une notification dès qu'un streamer que tu suis lance un live, sans compte Twitch : ajoute leurs noms (ou les liens de leurs chaînes) et NeoDex vérifie toutes les 3 minutes, même onglet fermé. La liste montre ceux en live d'abord, avec l'aperçu, le titre, le jeu, le nombre de spectateurs et la durée du live ; une cloche par streamer pour couper ses notifications ; un clic ouvre le live dans un onglet. Widget d'accueil avec ceux en live.",
-   "version": "1.0.1",
-   "category": "Internet",
-   "approved": false,
-   "stars": 0,
-   "installs": 1,
-   "updated": "2026-11-19T15:03:07Z",
-   "langs": [
-    "fr",
-    "en"
-   ],
-   "en": {
-    "name": "Twitch Lives",
-    "description": "A notification as soon as a streamer you follow goes live, with no Twitch account: add their names (or their channel links) and NeoDex checks every 3 minutes, even with the tab closed. The list shows those live first, with the preview, title, game, viewer count and stream length; a bell per streamer to mute their notifications; one click opens the stream in a tab. Home widget with those who are live."
    },
    "rating": {
     "average": 0,
