@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-18T19:12:58Z",
+  "updated": "2026-11-19T14:55:45Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -232,7 +232,7 @@
       "id": "neodex.transports",
       "name": "Transports",
       "repo": "NDesumeur/neodex-plugin-transports",
-      "version": "1.3.0",
+      "version": "2.0.0",
       "category": "Voyage",
       "system": false,
       "type": "app",
@@ -241,19 +241,22 @@
       "permissions": [
         "storage",
         "network",
+        "background",
+        "notifications",
         "system:main"
       ],
-      "description": "Les prochains passages des bus Tadao (Lens, Liévin, Hénin-Beaumont, Carvin) sur les 3 prochaines heures : recherche d'arrêt qui tolère les fautes, bus suivis en direct avec le nombre d'arrêts restants et le retard estimé, détail des arrêts de chaque trajet, mise à jour toutes les 30 secondes et arrêts favoris synchronisés. Données ouvertes de transport.data.gouv.fr. Itinéraire d'un arrêt à un autre : quel bus prendre, direct ou avec une correspondance, d'après les horaires ; un clic sur un passage montre le plan de la ligne avec le bus qui avance ; textes plus grands et largeur selon l'écran.",
+      "description": "Les prochains passages de tous les réseaux de France : bus, tram, métro, car et train (TER, Intercités, TGV), choisis dans le catalogue national transport.data.gouv.fr, plusieurs réseaux à la fois (par exemple Tadao, Ilévia et les TER Hauts-de-France). Recherche d'arrêt qui tolère les fautes ; temps réel quand le réseau le donne : retard exact, trajets supprimés, arrêts non desservis, véhicules suivis et alertes du réseau. Une cloche sur un arrêt favori prévient d'une perturbation dans l'heure (suppression, 10 min de retard ou plus, alerte), même onglet fermé. Itinéraire d'un arrêt à un autre, direct ou avec une correspondance ; un clic sur un passage montre le plan de la ligne avec le véhicule qui avance. Arrêts favoris et réseaux synchronisés.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-transports/main/screenshots/1.png"
       ],
       "syncMode": "fusion",
-      "syncInfo": "Arrêts favoris.",
+      "syncInfo": "Réseaux choisis et arrêts favoris.",
       "compatibility": [
         "windows",
         "android",
         "linux"
-      ]
+      ],
+      "phone": "2.0.0"
     },
     {
       "id": "neodex.discord",
@@ -281,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.2.3",
+      "version": "2.2.4",
       "category": "Musique",
       "system": false,
       "type": "app",
