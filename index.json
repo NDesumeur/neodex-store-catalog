@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-19T16:14:10Z",
+  "updated": "2026-11-19T16:15:04Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3912,31 +3912,6 @@
       ],
       "syncMode": "progression",
       "syncInfo": "Niveau, succès, records, réglages et historique des parties."
-    },
-    {
-      "id": "neodex.youtube",
-      "name": "Chaînes YouTube",
-      "repo": "NDesumeur/neodex-plugin-youtube",
-      "version": "1.0.0",
-      "category": "Internet",
-      "system": false,
-      "type": "app",
-      "mobile": false,
-      "compatibility": [
-        "windows",
-        "linux"
-      ],
-      "approved": true,
-      "permissions": [
-        "storage",
-        "background",
-        "notifications",
-        "network:www.youtube.com",
-        "network:i.ytimg.com"
-      ],
-      "description": "Les nouvelles vidéos des chaînes que tu suis, sans compte YouTube et sans suggestions : colle le lien d'une chaîne (ou tout ton export d'abonnements Google Takeout) et ses vidéos arrivent en grille de vignettes, de la plus récente à la plus ancienne. Vu / pas vu, liste « à voir plus tard », Shorts masquables, recherche, filtre par chaîne. Mise à jour toutes les 30 minutes même onglet fermé, avec widget d'accueil et notification des nouvelles vidéos.",
-      "syncMode": "fusion",
-      "syncInfo": "Tes chaînes, les vidéos vues et ta liste « plus tard »."
     }
   ],
   "revoked": [
