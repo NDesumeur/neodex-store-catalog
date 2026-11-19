@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-19T14:55:45Z",
+  "updated": "2026-11-19T14:56:09Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3910,6 +3910,55 @@
       ],
       "syncMode": "progression",
       "syncInfo": "Niveau, succès, records, réglages et historique des parties."
+    },
+    {
+      "id": "neodex.youtube",
+      "name": "Chaînes YouTube",
+      "repo": "NDesumeur/neodex-plugin-youtube",
+      "version": "1.0.0",
+      "category": "Internet",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "background",
+        "notifications",
+        "network:www.youtube.com",
+        "network:i.ytimg.com"
+      ],
+      "description": "Les nouvelles vidéos des chaînes que tu suis, sans compte YouTube et sans suggestions : colle le lien d'une chaîne (ou tout ton export d'abonnements Google Takeout) et ses vidéos arrivent en grille de vignettes, de la plus récente à la plus ancienne. Vu / pas vu, liste « à voir plus tard », Shorts masquables, recherche, filtre par chaîne. Mise à jour toutes les 30 minutes même onglet fermé, avec widget d'accueil et notification des nouvelles vidéos.",
+      "syncMode": "fusion",
+      "syncInfo": "Tes chaînes, les vidéos vues et ta liste « plus tard »."
+    },
+    {
+      "id": "neodex.twitch",
+      "name": "Lives Twitch",
+      "repo": "NDesumeur/neodex-plugin-twitch",
+      "version": "1.0.0",
+      "category": "Internet",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "background",
+        "notifications",
+        "network:gql.twitch.tv"
+      ],
+      "description": "Une notification dès qu'un streamer que tu suis lance un live, sans compte Twitch : ajoute leurs noms (ou les liens de leurs chaînes) et NeoDex vérifie toutes les 3 minutes, même onglet fermé. La liste montre ceux en live d'abord, avec l'aperçu, le titre, le jeu, le nombre de spectateurs et la durée du live ; une cloche par streamer pour couper ses notifications ; un clic ouvre le live dans un onglet. Widget d'accueil avec ceux en live.",
+      "syncMode": "fusion",
+      "syncInfo": "Les streamers que tu suis."
     }
   ],
   "revoked": [
