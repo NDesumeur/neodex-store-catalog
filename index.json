@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-19T15:07:03Z",
+  "updated": "2026-11-19T16:14:10Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -284,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.2.4",
+      "version": "2.2.5",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -1664,16 +1664,17 @@
       "id": "neodex.puissance4",
       "name": "Puissance 4",
       "repo": "NDesumeur/neodex-plugin-puissance4",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
       "mobile": false,
       "approved": true,
       "permissions": [
-        "storage"
+        "storage",
+        "rooms"
       ],
-      "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, ou à deux sur le même écran. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau. Les jetons tombent et rebondissent avec un petit « toc », bouton plein écran et jeu à la taille de l'écran.",
+      "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, à deux sur le même écran, ou à distance avec un ami grâce à un code de partie. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau. Les jetons tombent et rebondissent avec un petit « toc », bouton plein écran et jeu à la taille de l'écran.",
       "syncMode": "progression",
       "syncInfo": "Statistiques.",
       "compatibility": [
@@ -3229,7 +3230,7 @@
       "id": "neodex.bousculade",
       "name": "Bousculade",
       "repo": "NDesumeur/neodex-plugin-bousculade",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Cartes et plateau",
       "system": false,
       "type": "app",
@@ -3240,9 +3241,10 @@
       ],
       "approved": true,
       "permissions": [
-        "storage"
+        "storage",
+        "rooms"
       ],
-      "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC. Avant de pousser, la force s'affiche sur chaque animal de la file ; l'éléphant barrit et le rhinocéros souffle quand ils poussent ; plein écran, et le plateau s'adapte à la taille de la fenêtre.",
+      "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) à deux sur le même PC, ou à distance avec un ami grâce à un code de partie. Avant de pousser, la force s'affiche sur chaque animal de la file ; l'éléphant barrit et le rhinocéros souffle quand ils poussent ; plein écran, et le plateau s'adapte à la taille de la fenêtre.",
       "syncMode": "progression",
       "syncInfo": "Record."
     },
