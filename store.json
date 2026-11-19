@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-19T19:22:51.523Z",
+ "updated": "2026-11-19T20:22:57.856Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -561,12 +561,12 @@
    "repo": "NDesumeur/neodex-plugin-budget",
    "name": "Budget",
    "description": "Suis tes comptes et tes livrets : soldes à recopier depuis ta banque d'un clic, dépenses, rentrées et virements, abonnements prélevés tout seuls à leur date. La prévision d'épargne calcule mois par mois sur 12 mois les intérêts (par an ou par mois) et tes versements, déborde sur l'autre livret quand un plafond est atteint et donne la date de ton objectif. Rien n'est relié à ta banque. S'adapte à la taille de l'écran ; chaque dépense a une catégorie (les anciennes sont devinées d'après leur libellé) et un graphique montre les dépenses du mois par catégorie, mois par mois.",
-   "version": "1.3.1",
+   "version": "1.3.2",
    "category": "Finance",
    "approved": true,
    "stars": 1,
-   "installs": 56,
-   "updated": "2026-11-16T16:41:46Z",
+   "installs": 58,
+   "updated": "2026-11-19T19:55:39Z",
    "langs": [
     "fr",
     "en"
@@ -1836,12 +1836,12 @@
    "repo": "NDesumeur/neodex-plugin-journal",
    "name": "Journal",
    "description": "Un journal intime, une page par jour enregistrée pendant que tu écris, avec ton humeur de 1 à 5. Un calendrier montre les jours écrits de la couleur de ton humeur ; clique un jour pour relire ou compléter sa page. Jours écrits ce mois-ci, total et série de jours d'affilée ; tout reste dans NeoDex et ta synchro. Le journal suit la taille de l'écran : la page remplit la hauteur, le calendrier et ses jours grandissent sur un grand écran, et tout passe en une colonne sur une fenêtre étroite.",
-   "version": "1.1.5",
+   "version": "1.1.6",
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 314,
-   "updated": "2026-11-16T04:50:19Z",
+   "installs": 316,
+   "updated": "2026-11-19T19:55:46Z",
    "langs": [
     "fr",
     "en"
@@ -2336,12 +2336,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.2.5",
+   "version": "2.2.6",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 540,
-   "updated": "2026-11-19T16:13:55Z",
+   "installs": 542,
+   "updated": "2026-11-19T19:55:33Z",
    "langs": [
     "fr",
     "en"
@@ -2961,12 +2961,12 @@
    "repo": "NDesumeur/neodex-plugin-prixjeux",
    "name": "Prix des jeux",
    "description": "Les jeux offerts sur l'Epic Games Store cette semaine et la suivante, et ailleurs (GOG, Steam, Prime Gaming), les promos du moment sur Steam, GOG (en euros) et Humble (en dollars), et ta liste de jeux Steam et GOG à surveiller avec un prix cible, à remplir d'un clic depuis les promos. La liste est vérifiée toutes les 3 heures, même onglet fermé : une notification arrive quand un jeu passe sous ton prix ou qu'un nouveau jeu gratuit sort. Textes plus grands.",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 25,
-   "updated": "2026-11-16T05:17:04Z",
+   "installs": 27,
+   "updated": "2026-11-19T19:55:52Z",
    "langs": [
     "fr",
     "en"
@@ -3765,7 +3765,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
