@@ -1,49 +1,7 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-19T18:25:37.610Z",
+ "updated": "2026-11-19T19:22:51.523Z",
  "plugins": [
-  {
-   "id": "neobase.claudecode",
-   "repo": "NDesumeur/neodex-plugin-claude-code",
-   "name": "Claude Code",
-   "description": "Claude Code installé sur ton PC dans une fenêtre type Claude Desktop : conversations, outils en cartes, dossier de projet.",
-   "version": "1.0.1",
-   "category": "Outils",
-   "approved": false,
-   "stars": 1,
-   "installs": 3,
-   "updated": "2026-10-31T20:13:50Z",
-   "langs": [
-    "fr"
-   ],
-   "en": null,
-   "rating": {
-    "average": 0,
-    "count": 0,
-    "list": []
-   }
-  },
-  {
-   "id": "neobase.obs",
-   "repo": "NDesumeur/neodex-plugin-obs",
-   "name": "OBS",
-   "description": "Pilote OBS Studio (WebSocket) : scènes, audio, aperçu du programme, démarrage du direct.",
-   "version": "1.0.1",
-   "category": "Outils",
-   "approved": false,
-   "stars": 1,
-   "installs": 10,
-   "updated": "2026-10-31T19:29:13Z",
-   "langs": [
-    "fr"
-   ],
-   "en": null,
-   "rating": {
-    "average": 0,
-    "count": 0,
-    "list": []
-   }
-  },
   {
    "id": "neodex.adblock",
    "repo": "NDesumeur/neodex-plugin-adblock",
@@ -4191,31 +4149,6 @@
    "en": {
     "name": "Yams",
     "description": "The dice game, solo: five dice, three rolls per turn keeping the ones you want, and thirteen boxes to fill (numbers, three and four of a kind, full house, straights, Yams, chance). The sheet shows what each box would score, 63 points in the upper section give a 35 bonus, and a box can be sacrificed for 0. Keyboard or mouse; best total and Yams scored are synced."
-   },
-   "rating": {
-    "average": 0,
-    "count": 0,
-    "list": []
-   }
-  },
-  {
-   "id": "neodex.youtube",
-   "repo": "NDesumeur/neodex-plugin-youtube",
-   "name": "Chaînes YouTube",
-   "description": "Les nouvelles vidéos des chaînes que tu suis, sans compte YouTube et sans suggestions : colle le lien d'une chaîne (ou tout ton export d'abonnements Google Takeout) et ses vidéos arrivent en grille de vignettes, de la plus récente à la plus ancienne. Vu / pas vu, liste « à voir plus tard », Shorts masquables, recherche, filtre par chaîne. Mise à jour toutes les 30 minutes même onglet fermé, avec widget d'accueil et notification des nouvelles vidéos.",
-   "version": "1.0.0",
-   "category": "Internet",
-   "approved": false,
-   "stars": 0,
-   "installs": 1,
-   "updated": "2026-11-19T14:55:22Z",
-   "langs": [
-    "fr",
-    "en"
-   ],
-   "en": {
-    "name": "YouTube Channels",
-    "description": "The new videos of the channels you follow, with no YouTube account and no suggestions: paste a channel link (or your whole Google Takeout subscriptions export) and its videos arrive in a grid of thumbnails, newest first. Watched / not watched, a “watch later” list, Shorts you can hide, search, filter by channel. Updated every 30 minutes even with the tab closed, with a home widget and a notification for new videos."
    },
    "rating": {
     "average": 0,
