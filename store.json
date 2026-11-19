@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-18T23:22:11.542Z",
+ "updated": "2026-11-19T14:23:04.856Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -577,20 +577,20 @@
    "id": "neodex.bousculade",
    "repo": "NDesumeur/neodex-plugin-bousculade",
    "name": "Bousculade",
-   "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) ou à deux sur le même PC. Avant de pousser, la force s'affiche sur chaque animal de la file ; l'éléphant barrit et le rhinocéros souffle quand ils poussent ; plein écran, et le plateau s'adapte à la taille de la fenêtre.",
-   "version": "1.1.1",
+   "description": "Jeu de plateau en pixel art : éléphants contre rhinocéros sur un plateau de 5 × 5, à qui poussera le premier un rocher hors du plateau. Entrer, se déplacer, se tourner, sortir ou pousser : la force de chaque poussée dépend du regard des animaux alignés. Contre l'ordinateur (facile, normal, difficile) à deux sur le même PC, ou à distance avec un ami grâce à un code de partie. Avant de pousser, la force s'affiche sur chaque animal de la file ; l'éléphant barrit et le rhinocéros souffle quand ils poussent ; plein écran, et le plateau s'adapte à la taille de la fenêtre.",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 17,
-   "updated": "2026-11-16T16:41:41Z",
+   "updated": "2026-11-19T14:17:52Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Jostle",
-    "description": "Pixel art board game: elephants against rhinos on a 5 × 5 board, racing to be the first to push a rock off the board. Enter, move, turn, leave or push: the strength of each push depends on which way the lined-up animals face. Against the computer (easy, normal, hard) or two players on the same PC. Before pushing, the strength shows on each animal of the line; the elephant trumpets and the rhino snorts when they push; full screen, and the board fits the size of the window."
+    "description": "Pixel art board game: elephants against rhinos on a 5 × 5 board, racing to push a rock off the board first. Enter, move, turn, leave or push: the strength of each push depends on which way the lined-up animals are facing. Against the computer (easy, normal, hard), two players on the same PC, or remotely with a friend using a game code. Before pushing, the strength shows on each animal in the line; the elephant trumpets and the rhino snorts when they push; full screen, and the board fits the window size."
    },
    "rating": {
     "average": 0,
@@ -2378,12 +2378,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.2.3",
+   "version": "2.2.4",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 536,
-   "updated": "2026-11-18T19:00:40Z",
+   "updated": "2026-11-19T14:17:43Z",
    "langs": [
     "fr",
     "en"
@@ -3052,20 +3052,20 @@
    "id": "neodex.puissance4",
    "repo": "NDesumeur/neodex-plugin-puissance4",
    "name": "Puissance 4",
-   "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, ou à deux sur le même écran. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau. Les jetons tombent et rebondissent avec un petit « toc », bouton plein écran et jeu à la taille de l'écran.",
-   "version": "1.1.1",
+   "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, à deux sur le même écran, ou à distance avec un ami grâce à un code de partie. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau. Les jetons tombent et rebondissent avec un petit « toc », bouton plein écran et jeu à la taille de l'écran.",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 27,
-   "updated": "2026-11-16T16:48:00Z",
+   "updated": "2026-11-19T14:17:49Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Power 4",
-    "description": "Line up 4 discs of your colour before the other player on a 7 × 6 grid, horizontally, vertically or diagonally. Against the computer, which looks 2, 4 or 6 moves ahead depending on the level, or two players on the same screen. Click or arrows and Enter, undo the last move, and a record of wins and losses per level. Discs fall and bounce with a little « clack », full screen button and a game that fits the screen."
+    "description": "Line up 4 discs of your colour before the other player on a 7 × 6 grid, horizontally, vertically or diagonally. Against the computer, which looks 2, 4 or 6 moves ahead depending on the level, two players on the same screen, or remotely with a friend using a game code. Click or arrows and Enter, undo the last move, and wins and losses per level. The discs drop and bounce with a little “tock”, full-screen button and a game sized to the screen."
    },
    "rating": {
     "average": 0,
@@ -3902,20 +3902,20 @@
    "id": "neodex.transports",
    "repo": "NDesumeur/neodex-plugin-transports",
    "name": "Transports",
-   "description": "Les prochains passages des bus Tadao (Lens, Liévin, Hénin-Beaumont, Carvin) sur les 3 prochaines heures : recherche d'arrêt qui tolère les fautes, bus suivis en direct avec le nombre d'arrêts restants et le retard estimé, détail des arrêts de chaque trajet, mise à jour toutes les 30 secondes et arrêts favoris synchronisés. Données ouvertes de transport.data.gouv.fr. Itinéraire d'un arrêt à un autre : quel bus prendre, direct ou avec une correspondance, d'après les horaires ; un clic sur un passage montre le plan de la ligne avec le bus qui avance ; textes plus grands et largeur selon l'écran.",
-   "version": "1.3.0",
+   "description": "Les prochains passages de tous les réseaux de France : bus, tram, métro, car et train (TER, Intercités, TGV), choisis dans le catalogue national transport.data.gouv.fr, plusieurs réseaux à la fois (par exemple Tadao, Ilévia et les TER Hauts-de-France). Recherche d'arrêt qui tolère les fautes ; temps réel quand le réseau le donne : retard exact, trajets supprimés, arrêts non desservis, véhicules suivis et alertes du réseau. Une cloche sur un arrêt favori prévient d'une perturbation dans l'heure (suppression, 10 min de retard ou plus, alerte), même onglet fermé. Itinéraire d'un arrêt à un autre, direct ou avec une correspondance ; un clic sur un passage montre le plan de la ligne avec le véhicule qui avance. Arrêts favoris et réseaux synchronisés.",
+   "version": "2.0.0",
    "category": "Voyage",
    "approved": true,
    "stars": 1,
    "installs": 58,
-   "updated": "2026-11-16T05:28:55Z",
+   "updated": "2026-11-19T14:17:45Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Transportation",
-    "description": "The next Tadao buses (Lens, Liévin, Hénin-Beaumont, Carvin) over the next 3 hours: stop search that tolerates typos, buses tracked live with the stops left and the estimated delay, the stops of each trip, updates every 30 seconds and synced favourite stops. Open data from transport.data.gouv.fr. Route from one stop to another: which bus to take, direct or with one change, from the timetables; a click on a departure shows the line map with the bus moving along; bigger text and width that follows the screen."
+    "description": "Next departures for every network in France: bus, tram, metro, coach and train (TER, Intercités, TGV), picked from the national catalogue transport.data.gouv.fr, several networks at once (for example Tadao, Ilévia and the Hauts-de-France TER). Stop search that forgives typos; real time when the network provides it: exact delay, cancelled trips, skipped stops, tracked vehicles and network alerts. A bell on a favourite stop warns you of a disruption within the hour (cancellation, delay of 10 min or more, alert), even with the tab closed. Route from one stop to another, direct or with one change; clicking a departure shows the line map with the vehicle moving along. Favourite stops and networks are synced."
    },
    "rating": {
     "average": 0,
@@ -3991,6 +3991,31 @@
    "en": {
     "name": "Pipes",
     "description": "A puzzle game: rotate the pipes with a click to bring water from the water tower, in the centre, to every house. Loop-free networks that can always be solved, grids from 5 × 5 to 8 × 8, up to 3 stars depending on your moves compared with the minimum, and a random networks option; synced progress. Full screen button, the grid fills the whole frame, and bigger grids as you go, up to 12 × 12."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.twitch",
+   "repo": "NDesumeur/neodex-plugin-twitch",
+   "name": "Lives Twitch",
+   "description": "Une notification dès qu'un streamer que tu suis lance un live, sans compte Twitch : ajoute leurs noms (ou les liens de leurs chaînes) et NeoDex vérifie toutes les 3 minutes, même onglet fermé. La liste montre ceux en live d'abord, avec l'aperçu, le titre, le jeu, le nombre de spectateurs et la durée du live ; une cloche par streamer pour couper ses notifications ; un clic ouvre le live dans un onglet. Widget d'accueil avec ceux en live.",
+   "version": "1.0.0",
+   "category": "Internet",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-19T14:17:33Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Twitch Lives",
+    "description": "A notification as soon as a streamer you follow goes live, with no Twitch account: add their names (or their channel links) and NeoDex checks every 3 minutes, even with the tab closed. The list shows those live first, with the preview, title, game, viewer count and stream length; a bell per streamer to mute their notifications; one click opens the stream in a tab. Home widget with those who are live."
    },
    "rating": {
     "average": 0,
@@ -4191,6 +4216,31 @@
    "en": {
     "name": "Yams",
     "description": "The dice game, solo: five dice, three rolls per turn keeping the ones you want, and thirteen boxes to fill (numbers, three and four of a kind, full house, straights, Yams, chance). The sheet shows what each box would score, 63 points in the upper section give a 35 bonus, and a box can be sacrificed for 0. Keyboard or mouse; best total and Yams scored are synced."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.youtube",
+   "repo": "NDesumeur/neodex-plugin-youtube",
+   "name": "Chaînes YouTube",
+   "description": "Les nouvelles vidéos des chaînes que tu suis, sans compte YouTube et sans suggestions : colle le lien d'une chaîne (ou tout ton export d'abonnements Google Takeout) et ses vidéos arrivent en grille de vignettes, de la plus récente à la plus ancienne. Vu / pas vu, liste « à voir plus tard », Shorts masquables, recherche, filtre par chaîne. Mise à jour toutes les 30 minutes même onglet fermé, avec widget d'accueil et notification des nouvelles vidéos.",
+   "version": "1.0.0",
+   "category": "Internet",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-19T14:17:25Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "YouTube Channels",
+    "description": "The new videos of the channels you follow, with no YouTube account and no suggestions: paste a channel link (or your whole Google Takeout subscriptions export) and its videos arrive in a grid of thumbnails, newest first. Watched / not watched, a “watch later” list, Shorts you can hide, search, filter by channel. Updated every 30 minutes even with the tab closed, with a home widget and a notification for new videos."
    },
    "rating": {
     "average": 0,
