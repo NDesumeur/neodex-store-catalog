@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-19T16:23:56.794Z",
+ "updated": "2026-11-19T17:22:15.175Z",
  "plugins": [
   {
    "id": "neobase.claudecode",
@@ -13,6 +13,27 @@
    "stars": 1,
    "installs": 3,
    "updated": "2026-10-31T20:13:50Z",
+   "langs": [
+    "fr"
+   ],
+   "en": null,
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neobase.obs",
+   "repo": "NDesumeur/neodex-plugin-obs",
+   "name": "OBS",
+   "description": "Pilote OBS Studio (WebSocket) : scènes, audio, aperçu du programme, démarrage du direct.",
+   "version": "1.0.1",
+   "category": "Outils",
+   "approved": false,
+   "stars": 1,
+   "installs": 10,
+   "updated": "2026-10-31T19:29:13Z",
    "langs": [
     "fr"
    ],
@@ -332,6 +353,27 @@
    }
   },
   {
+   "id": "neodex.bestiaire",
+   "repo": "NDesumeur/neodex-plugin-bestiaire",
+   "name": "Bestiaire",
+   "description": "L'encyclopédie pixel des 1050 créatures de NeoDex (folklore japonais, mythes du monde, livres) : recherche, filtres par type et rareté, fiches détaillées, statistiques, capacités, comparateur et habitats.",
+   "version": "1.5.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-06T21:21:10Z",
+   "langs": [
+    "fr"
+   ],
+   "en": null,
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.bestiarystudio",
    "repo": "NDesumeur/neodex-plugin-bestiarystudio",
    "name": "NeoBestiary Studio",
@@ -457,6 +499,31 @@
    }
   },
   {
+   "id": "neodex.bitwise",
+   "repo": "NDesumeur/neodex-plugin-bitwise",
+   "name": "Bitwise",
+   "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse. Masques prêts à l'emploi expliqués et décalage animé.",
+   "version": "1.1.0",
+   "category": "Outils",
+   "approved": true,
+   "stars": 1,
+   "installs": 16,
+   "updated": "2026-11-16T04:24:00Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Bitwise",
+    "description": "Binary from every angle: one number in decimal, hexadecimal, binary, octal and characters at once, on 8 to 64 bits, signed or not, with every bit clickable. Bitwise operations (AND, OR, XOR, shifts, rotations…) laid out in columns and explained, text as UTF-8 bytes and back, the ASCII table, and a floating-point number broken down into sign, exponent and mantissa. Ready-made masks with explanations and an animated shift."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.blackdle",
    "repo": "NDesumeur/neodex-plugin-blackdle",
    "name": "BlackDle",
@@ -515,7 +582,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 17,
+   "installs": 21,
    "updated": "2026-11-19T16:14:06Z",
    "langs": [
     "fr",
@@ -2315,7 +2382,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 538,
+   "installs": 540,
    "updated": "2026-11-19T16:13:55Z",
    "langs": [
     "fr",
@@ -2568,9 +2635,13 @@
    "installs": 40,
    "updated": "2026-11-16T16:46:50Z",
    "langs": [
-    "fr"
+    "fr",
+    "en"
    ],
-   "en": null,
+   "en": {
+    "name": "Paint",
+    "description": "A drawing program: brush, eraser, line, rectangle, ellipse (filled or not), fill, colour picker, text and selection, each with its own key. 40-step undo, zoom, rotation, mirror, crop, resize, 9 filters and a sharp mode without smoothing. Open an image by drag and drop and save as PNG, JPEG or WebP. Layers: add, duplicate, hide, move up or down, merge or delete layers, set their opacity and rename them; every tool draws on the chosen layer. Paste an image from the clipboard as a new picture (Ctrl+V or the Paste button) or into a new layer (Ctrl+Shift+V). New pixel-art style: tools with drawn icons, card panels, a framed picture."
+   },
    "rating": {
     "average": 0,
     "count": 0,
@@ -2986,7 +3057,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
+   "installs": 31,
    "updated": "2026-11-19T16:14:00Z",
    "langs": [
     "fr",
@@ -3014,9 +3085,13 @@
    "installs": 119,
    "updated": "2026-11-16T16:48:06Z",
    "langs": [
-    "fr"
+    "fr",
+    "en"
    ],
-   "en": null,
+   "en": {
+    "name": "Pulsar",
+    "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D. The central star beats with the music and changes colour, end screen with the accuracy curve along the song."
+   },
    "rating": {
     "average": 0,
     "count": 0,
@@ -3124,6 +3199,31 @@
    }
   },
   {
+   "id": "neodex.raquettes",
+   "repo": "NDesumeur/neodex-plugin-raquettes",
+   "name": "Raquettes",
+   "description": "Duel de raquettes contre l'ordinateur sur un terrain de nuit : déplace ta raquette à la souris ou aux flèches et renvoie la balle sans la laisser passer. Le bord de la raquette renvoie en biais, la balle accélère à chaque échange, le premier à 7 points gagne. Trois niveaux d'adversaire qui anticipe les rebonds, victoires et meilleur écart gardés. Le jeu prend toute la place de l'écran, et un bouton le met en plein écran.",
+   "version": "1.1.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 22,
+   "updated": "2026-11-16T16:48:17Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Snowshoes",
+    "description": "A paddle duel against the computer on a night-time court: move your paddle with the mouse or arrows and return the ball without letting it past. The paddle's edge sends it at an angle, the ball speeds up with every exchange, and the first to 7 points wins. Three opponent levels that anticipate bounces, with wins and best margin kept. The game takes up the whole screen, and a button switches it to full screen."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.reseau",
    "repo": "NDesumeur/neodex-plugin-reseau",
    "name": "Réseau",
@@ -3166,6 +3266,31 @@
    "en": {
     "name": "Success",
     "description": "Classic solitaire (Klondike): sort the 52 cards into the four foundations from Ace to King by moving them between seven columns, in descending order and alternating colours. Drag cards or click to send them to the best place, draw one or three cards, undo without limit; automatic finish, time, moves and best time kept. A button switches the game to full screen, and the table grows with the window."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.reversi",
+   "repo": "NDesumeur/neodex-plugin-reversi",
+   "name": "Reversi",
+   "description": "Le jeu de pions à retourner sur un plateau de 8 × 8 : pose un pion pour encadrer ceux de l'ordinateur en ligne, en colonne ou en diagonale, et ils passent à ta couleur. Les cases jouables sont marquées, on passe son tour sans coup possible, le plus de pions à la fin gagne. Trois niveaux, jusqu'à un adversaire qui prévoit 4 coups ; bilan par niveau. Un bouton met le jeu en plein écran, et le plateau grandit avec la fenêtre.",
+   "version": "1.1.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 20,
+   "updated": "2026-11-16T16:48:28Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Reversi",
+    "description": "The disc-flipping game on an 8 × 8 board: place a disc to surround the computer's discs in a row, column or diagonal, and they turn to your colour. Playable squares are marked, you pass with no possible move, and the most discs at the end wins. Three levels, up to an opponent that looks 4 moves ahead; record per level. A button switches the game to full screen, and the board grows with the window."
    },
    "rating": {
     "average": 0,
@@ -3366,6 +3491,31 @@
    "en": {
     "name": "NeoSlides",
     "description": "Presentations: slides from templates (title, two columns, quote, key figures…), text, images and shapes placed with the mouse, element alignment and order, ten themes, transitions and speaker notes. A keyboard-driven full-screen presentation mode and PDF export; presentations saved automatically and synced between your PCs. PowerPoint export (.pptx): text, lists, shapes, images, backgrounds and transitions stay editable in PowerPoint. Columns, thumbnails and text sized to the screen."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.snuke",
+   "repo": "NDesumeur/neodex-plugin-snuke",
+   "name": "Snuke",
+   "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques synchronisés. Nouveau style pixel art : serpent dessiné avec sa tête, ses yeux et sa langue, fruits et murs dessinés, panneau des records, bouton plein écran.",
+   "version": "1.3.1",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 1,
+   "installs": 40,
+   "updated": "2026-11-16T16:49:11Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Snuke",
+    "description": "The snake game on a 24 × 24 board, in six modes: classic (the edges kill), no walls, a four-board maze, moult (the tail turns to stone every 5 fruits), a 60-second time attack where nothing kills, and orchards, where ten fruits each set their own speed and points. Bonus stars, a record per mode and synced statistics. New pixel art style: the snake is drawn with its head, eyes and tongue, drawn fruits and walls, a records panel, a full screen button."
    },
    "rating": {
     "average": 0,
@@ -3657,7 +3807,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 22,
+   "installs": 24,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
@@ -3685,9 +3835,13 @@
    "installs": 5,
    "updated": "2026-11-16T05:28:03Z",
    "langs": [
-    "fr"
+    "fr",
+    "en"
    ],
-   "en": null,
+   "en": {
+    "name": "Tilemap",
+    "description": "Draw 16×16 tile maps for your 2D games: 32 pixel art tiles (ground, water, walls, trees, chests, doors…), two layers, pencil, fill, rectangle, eraser, picker and undo. Export to PNG or Tiled format (.tmj and its tileset), readable by Tiled, Godot, Phaser or LDtk. Three new tile sets (cave, town, snow: 26 more tiles) and a palette filter by set; the tool column and the map follow the screen size."
+   },
    "rating": {
     "average": 0,
     "count": 0,
@@ -3753,7 +3907,7 @@
    "category": "Voyage",
    "approved": true,
    "stars": 1,
-   "installs": 61,
+   "installs": 62,
    "updated": "2026-11-19T14:55:37Z",
    "langs": [
     "fr",
