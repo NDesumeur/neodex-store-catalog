@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-19T23:37:05Z",
+  "updated": "2026-11-20T01:53:44Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -284,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.3.0",
+      "version": "2.4.0",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -308,7 +308,7 @@
         "linux"
       ],
       "neodex": ">=3.2.0",
-      "phone": "1.1.0"
+      "phone": "1.2.0"
     },
     {
       "id": "neodex.sautstellaire",
@@ -435,7 +435,7 @@
       "id": "neodex.snuke",
       "name": "Snuke",
       "repo": "NDesumeur/neodex-plugin-snuke",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -444,12 +444,12 @@
       "permissions": [
         "storage"
       ],
-      "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques synchronisés. Nouveau style pixel art : serpent dessiné avec sa tête, ses yeux et sa langue, fruits et murs dessinés, panneau des records, bouton plein écran.",
+      "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques. Nouveau style pixel art : serpent dessiné avec sa tête, ses yeux et sa langue, fruits et murs dessinés, panneau des records, bouton plein écran.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-snuke/main/screenshots/1.jpg"
       ],
-      "syncMode": "progression",
-      "syncInfo": "Records par mode et statistiques.",
+      "syncMode": "aucune",
+      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil.",
       "compatibility": [
         "windows",
         "linux"
@@ -580,7 +580,7 @@
       "id": "neodex.rythme",
       "name": "Rythme",
       "repo": "NDesumeur/neodex-plugin-rythme",
-      "version": "1.7.1",
+      "version": "1.8.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1422,55 +1422,10 @@
       ]
     },
     {
-      "id": "neodex.bestiaire",
-      "name": "Bestiaire",
-      "repo": "NDesumeur/neodex-plugin-bestiaire",
-      "version": "1.4.0",
-      "category": "Jeux · Aventure",
-      "system": false,
-      "type": "app",
-      "mobile": false,
-      "approved": true,
-      "permissions": [
-        "full"
-      ],
-      "description": "L'encyclopédie pixel des 1050 créatures de NeoDex (folklore japonais, mythes du monde, livres) : recherche, filtres par type et rareté, fiches détaillées, statistiques, capacités, comparateur et habitats."
-    },
-    {
-      "id": "neobase.cartes",
-      "name": "Cartes",
-      "repo": "NDesumeur/neobase-plugin-cartes",
-      "version": "1.4.0",
-      "category": "Jeux · Cartes et plateau",
-      "system": false,
-      "type": "app",
-      "mobile": false,
-      "approved": true,
-      "permissions": [
-        "full"
-      ],
-      "description": "Un jeu de cartes à collectionner : un paquet gratuit par jour, six raretés, doublons à revendre, boutique de paquets, collection et historique d'ouvertures."
-    },
-    {
-      "id": "neobase.catacombes",
-      "name": "Catacombes",
-      "repo": "NDesumeur/neobase-plugin-catacombes",
-      "version": "2.4.0",
-      "category": "Jeux · Aventure",
-      "system": false,
-      "type": "app",
-      "mobile": false,
-      "approved": true,
-      "permissions": [
-        "full"
-      ],
-      "description": "Un jeu d'exploration façon Isaac : 6 à 8 étages dans 12 décors qui changent à chaque partie, ennemis et boss tirés de 1050 créatures, près de 500 objets aux effets cumulables, synergies, manette, sauvegarde et statistiques."
-    },
-    {
       "id": "neodex.neotha",
       "name": "NeoTha",
       "repo": "NDesumeur/neodex-plugin-neotha",
-      "version": "1.5.1",
+      "version": "1.6.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1966,7 +1921,7 @@
       "id": "neodex.pulsar",
       "name": "Pulsar",
       "repo": "NDesumeur/neodex-plugin-pulsar",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2284,7 +2239,7 @@
       "id": "neodex.prisme",
       "name": "Prisme",
       "repo": "NDesumeur/neodex-plugin-prisme",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2307,7 +2262,7 @@
       "id": "neodex.orbe",
       "name": "Orbe",
       "repo": "NDesumeur/neodex-plugin-orbe",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2330,7 +2285,7 @@
       "id": "neodex.sillage",
       "name": "Sillage",
       "repo": "NDesumeur/neodex-plugin-sillage",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2354,7 +2309,7 @@
       "id": "neodex.inondation",
       "name": "Inondation",
       "repo": "NDesumeur/neodex-plugin-inondation",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Réflexion",
       "system": false,
       "type": "app",
@@ -2364,8 +2319,8 @@
         "storage"
       ],
       "description": "Casse-tête de couleurs : ta tache part du coin, prend la couleur choisie et avale ses voisines de même couleur. Couvre les 196 cases de la grille dans le nombre de coups permis, de 30 au niveau 1 jusqu'à 22. Une grille fixe par niveau pour battre ton record, ou des grilles au hasard ; couleurs au clic ou aux touches 1 à 6, avec un motif par couleur et le chiffre de sa touche. Grandes cases, l'eau qui s'écoule depuis le coin à chaque coup, jeu à la taille de l'écran et plein écran.",
-      "syncMode": "progression",
-      "syncInfo": "Niveau atteint, records de coups.",
+      "syncMode": "aucune",
+      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil.",
       "compatibility": [
         "windows",
         "linux"
@@ -2975,7 +2930,7 @@
       "id": "neodex.faisceaux",
       "name": "Faisceaux",
       "repo": "NDesumeur/neodex-plugin-faisceaux",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -2989,8 +2944,8 @@
         "storage"
       ],
       "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, des bonus (bouclier qui encaisse un rayon, ralenti des rayons), de plus en plus de rayons. Plein écran, score, temps et record.",
-      "syncMode": "progression",
-      "syncInfo": "Record."
+      "syncMode": "aucune",
+      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil."
     },
     {
       "id": "neodex.cheminee",
@@ -3059,7 +3014,7 @@
       "id": "neodex.tambour",
       "name": "Tambour",
       "repo": "NDesumeur/neodex-plugin-tambour",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3125,7 +3080,7 @@
       "id": "neodex.culbute",
       "name": "Culbute",
       "repo": "NDesumeur/neodex-plugin-culbute",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -3139,8 +3094,8 @@
         "storage"
       ],
       "description": "Jeu d'adresse : une bouteille d'eau saute de meuble en meuble, du salon à la cuisine, la chambre et le jardin. Maintiens pour charger le saut, lâche pour la lancer, et maintiens en l'air pour la faire tourner plus vite : elle doit retomber debout. Le fantôme de la bouteille montre où et dans quel sens elle va retomber. Trois bouteilles par partie, culbutes parfaites au ralenti qui comptent double, sauts par-dessus un meuble et séries. Manette et plein écran. Score et record.",
-      "syncMode": "progression",
-      "syncInfo": "Record."
+      "syncMode": "aucune",
+      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil."
     },
     {
       "id": "neodex.toboggan",
@@ -3273,7 +3228,7 @@
       "id": "neodex.grimpette",
       "name": "Grimpette",
       "repo": "NDesumeur/neodex-plugin-grimpette",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "category": "Jeux · Arcade",
       "system": false,
       "type": "app",
@@ -3287,8 +3242,8 @@
         "storage"
       ],
       "description": "Jeu de conduite : un véhicule sur des collines sans fin, avec une vraie physique. Au garage, choisis parmi 13 mondes (prairie, désert, neige, lune, forêt, plage, jungle, marais, canyon, volcan, Mars, cristaux, ville la nuit) et 12 véhicules (Jeep, Monster, Bolide, Quad, Moto, Buggy, Tracteur, Van, Camion, Rallye, Rover, Hot-rod), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, lance le nitro, décolle des tremplins et des bosses, fais des saltos et atterris à plat : le vol remplit le nitro et rapporte des pièces. Chaque véhicule a le son de son moteur. Attention au toit. Un record par monde. Scène plus large sur grand écran, plein écran.",
-      "syncMode": "progression",
-      "syncInfo": "Record."
+      "syncMode": "aucune",
+      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil."
     },
     {
       "id": "neodex.veillee",
@@ -3399,7 +3354,7 @@
       "id": "neodex.cavale",
       "name": "Cavale",
       "repo": "NDesumeur/neodex-plugin-cavale",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3422,7 +3377,7 @@
       "id": "neodex.valse",
       "name": "Valse",
       "repo": "NDesumeur/neodex-plugin-valse",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3446,7 +3401,7 @@
       "id": "neodex.ricochet",
       "name": "Ricochet",
       "repo": "NDesumeur/neodex-plugin-ricochet",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3891,7 +3846,7 @@
       "id": "neodex.typenova",
       "name": "TypeNova",
       "repo": "NDesumeur/neodex-plugin-typenova",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Jeux",
       "system": false,
       "type": "app",
