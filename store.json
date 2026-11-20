@@ -311,27 +311,6 @@
    }
   },
   {
-   "id": "neodex.bestiaire",
-   "repo": "NDesumeur/neodex-plugin-bestiaire",
-   "name": "Bestiaire",
-   "description": "L'encyclopédie pixel des 1050 créatures de NeoDex (folklore japonais, mythes du monde, livres) : recherche, filtres par type et rareté, fiches détaillées, statistiques, capacités, comparateur et habitats.",
-   "version": "1.5.0",
-   "category": "Jeux",
-   "approved": true,
-   "stars": 1,
-   "installs": 23,
-   "updated": "2026-11-06T21:21:10Z",
-   "langs": [
-    "fr"
-   ],
-   "en": null,
-   "rating": {
-    "average": 0,
-    "count": 0,
-    "list": []
-   }
-  },
-  {
    "id": "neodex.bestiarystudio",
    "repo": "NDesumeur/neodex-plugin-bestiarystudio",
    "name": "NeoBestiary Studio",
