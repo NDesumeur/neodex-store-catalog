@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-20T00:39:57.744Z",
+ "updated": "2026-11-20T02:26:02.915Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -304,6 +304,27 @@
     "name": "Belfry",
     "description": "A pixel art jumping game: climb the floors of a bell tower by running and jumping. The faster you run and the longer you hold the key, the higher you jump, and the walls send your momentum back. The tower changes as you climb (cellars, timber frame, bell room, clock, stained glass, the top under the stars); bells to bounce on, notes to collect, birds in the way, beams that move, break or slide. From the 5th floor, it scrolls faster and faster. Combos, record, gamepad and fullscreen."
    },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.bestiaire",
+   "repo": "NDesumeur/neodex-plugin-bestiaire",
+   "name": "Bestiaire",
+   "description": "L'encyclopédie pixel des 1050 créatures de NeoDex (folklore japonais, mythes du monde, livres) : recherche, filtres par type et rareté, fiches détaillées, statistiques, capacités, comparateur et habitats.",
+   "version": "1.5.0",
+   "category": "Jeux",
+   "approved": false,
+   "stars": 1,
+   "installs": 23,
+   "updated": "2026-11-06T21:21:10Z",
+   "langs": [
+    "fr"
+   ],
+   "en": null,
    "rating": {
     "average": 0,
     "count": 0,
@@ -765,12 +786,12 @@
    "repo": "NDesumeur/neodex-plugin-cavale",
    "name": "Cavale",
    "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
-   "updated": "2026-11-16T16:42:24Z",
+   "installs": 22,
+   "updated": "2026-11-20T01:52:57Z",
    "langs": [
     "fr",
     "en"
@@ -1015,12 +1036,12 @@
    "repo": "NDesumeur/neodex-plugin-culbute",
    "name": "Culbute",
    "description": "Jeu d'adresse : une bouteille d'eau saute de meuble en meuble, du salon à la cuisine, la chambre et le jardin. Maintiens pour charger le saut, lâche pour la lancer, et maintiens en l'air pour la faire tourner plus vite : elle doit retomber debout. Le fantôme de la bouteille montre où et dans quel sens elle va retomber. Trois bouteilles par partie, culbutes parfaites au ralenti qui comptent double, sauts par-dessus un meuble et séries. Manette et plein écran. Score et record.",
-   "version": "1.1.1",
+   "version": "1.1.2",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 16,
-   "updated": "2026-11-16T16:42:49Z",
+   "installs": 18,
+   "updated": "2026-11-20T01:52:04Z",
    "langs": [
     "fr",
     "en"
@@ -1365,12 +1386,12 @@
    "repo": "NDesumeur/neodex-plugin-faisceaux",
    "name": "Faisceaux",
    "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, des bonus (bouclier qui encaisse un rayon, ralenti des rayons), de plus en plus de rayons. Plein écran, score, temps et record.",
-   "version": "1.1.1",
+   "version": "1.1.2",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 16,
-   "updated": "2026-11-16T16:43:55Z",
+   "installs": 18,
+   "updated": "2026-11-20T01:52:14Z",
    "langs": [
     "fr",
     "en"
@@ -1715,12 +1736,12 @@
    "repo": "NDesumeur/neodex-plugin-grimpette",
    "name": "Grimpette",
    "description": "Jeu de conduite : un véhicule sur des collines sans fin, avec une vraie physique. Au garage, choisis parmi 13 mondes (prairie, désert, neige, lune, forêt, plage, jungle, marais, canyon, volcan, Mars, cristaux, ville la nuit) et 12 véhicules (Jeep, Monster, Bolide, Quad, Moto, Buggy, Tracteur, Van, Camion, Rallye, Rover, Hot-rod), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, lance le nitro, décolle des tremplins et des bosses, fais des saltos et atterris à plat : le vol remplit le nitro et rapporte des pièces. Chaque véhicule a le son de son moteur. Attention au toit. Un record par monde. Scène plus large sur grand écran, plein écran.",
-   "version": "1.2.1",
+   "version": "1.2.2",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
-   "updated": "2026-11-16T16:44:34Z",
+   "installs": 21,
+   "updated": "2026-11-20T01:52:09Z",
    "langs": [
     "fr",
     "en"
@@ -1790,12 +1811,12 @@
    "repo": "NDesumeur/neodex-plugin-inondation",
    "name": "Inondation",
    "description": "Casse-tête de couleurs : ta tache part du coin, prend la couleur choisie et avale ses voisines de même couleur. Couvre les 196 cases de la grille dans le nombre de coups permis, de 30 au niveau 1 jusqu'à 22. Une grille fixe par niveau pour battre ton record, ou des grilles au hasard ; couleurs au clic ou aux touches 1 à 6, avec un motif par couleur et le chiffre de sa touche. Grandes cases, l'eau qui s'écoule depuis le coin à chaque coup, jeu à la taille de l'écran et plein écran.",
-   "version": "1.1.1",
+   "version": "1.1.2",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 22,
-   "updated": "2026-11-16T16:44:46Z",
+   "installs": 24,
+   "updated": "2026-11-20T01:52:19Z",
    "langs": [
     "fr",
     "en"
@@ -2315,12 +2336,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.3.0",
+   "version": "2.4.0",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 544,
-   "updated": "2026-11-19T23:36:17Z",
+   "installs": 547,
+   "updated": "2026-11-20T01:52:29Z",
    "langs": [
     "fr",
     "en"
@@ -2440,12 +2461,12 @@
    "repo": "NDesumeur/neodex-plugin-neotha",
    "name": "NeoTha",
    "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables. Chaque morceau a son tunnel (forme et couleurs), et l'écran de fin montre la courbe de précision.",
-   "version": "1.5.1",
+   "version": "1.6.0",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 323,
-   "updated": "2026-11-16T16:46:27Z",
+   "installs": 326,
+   "updated": "2026-11-20T01:52:52Z",
    "langs": [
     "fr",
     "en"
@@ -2490,12 +2511,12 @@
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
    "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Six thèmes de terrain selon le morceau, et la courbe de ta précision le long du morceau sur l'écran de fin.",
-   "version": "1.2.1",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 29,
-   "updated": "2026-11-16T16:46:33Z",
+   "installs": 32,
+   "updated": "2026-11-20T01:52:47Z",
    "langs": [
     "fr",
     "en"
@@ -2915,12 +2936,12 @@
    "repo": "NDesumeur/neodex-plugin-prisme",
    "name": "Prisme",
    "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 120,
-   "updated": "2026-11-16T16:47:50Z",
+   "installs": 122,
+   "updated": "2026-11-20T01:53:02Z",
    "langs": [
     "fr",
     "en"
@@ -3015,12 +3036,12 @@
    "repo": "NDesumeur/neodex-plugin-pulsar",
    "name": "Pulsar",
    "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 119,
-   "updated": "2026-11-16T16:48:06Z",
+   "installs": 121,
+   "updated": "2026-11-20T01:53:08Z",
    "langs": [
     "fr",
     "en"
@@ -3240,12 +3261,12 @@
    "repo": "NDesumeur/neodex-plugin-ricochet",
    "name": "Ricochet",
    "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
-   "updated": "2026-11-16T16:48:33Z",
+   "installs": 21,
+   "updated": "2026-11-20T01:53:13Z",
    "langs": [
     "fr",
     "en"
@@ -3265,12 +3286,12 @@
    "repo": "NDesumeur/neodex-plugin-rythme",
    "name": "Rythme",
    "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 1200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. L'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.7.1",
+   "version": "1.8.0",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 343,
-   "updated": "2026-11-16T16:48:38Z",
+   "installs": 345,
+   "updated": "2026-11-20T01:53:19Z",
    "langs": [
     "fr",
     "en"
@@ -3390,12 +3411,12 @@
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
    "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 122,
-   "updated": "2026-11-16T16:49:00Z",
+   "installs": 124,
+   "updated": "2026-11-20T01:53:24Z",
    "langs": [
     "fr",
     "en"
@@ -3439,20 +3460,20 @@
    "id": "neodex.snuke",
    "repo": "NDesumeur/neodex-plugin-snuke",
    "name": "Snuke",
-   "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques synchronisés. Nouveau style pixel art : serpent dessiné avec sa tête, ses yeux et sa langue, fruits et murs dessinés, panneau des records, bouton plein écran.",
-   "version": "1.3.1",
+   "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques. Nouveau style pixel art : serpent dessiné avec sa tête, ses yeux et sa langue, fruits et murs dessinés, panneau des records, bouton plein écran.",
+   "version": "1.3.2",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 40,
-   "updated": "2026-11-16T16:49:11Z",
+   "installs": 42,
+   "updated": "2026-11-20T01:52:24Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Snuke",
-    "description": "The snake game on a 24 × 24 board, in six modes: classic (the edges kill), no walls, a four-board maze, moult (the tail turns to stone every 5 fruits), a 60-second time attack where nothing kills, and orchards, where ten fruits each set their own speed and points. Bonus stars, a record per mode and synced statistics. New pixel art style: the snake is drawn with its head, eyes and tongue, drawn fruits and walls, a records panel, a full screen button."
+    "description": "The snake game on a 24 × 24 board, in six modes: classic (the edges kill), no walls, a four-board maze, moult (the tail turns to stone every 5 fruits), a 60-second time attack where nothing kills, and orchards, where ten fruits each set their own speed and points. Bonus stars, a record per mode and statistics. New pixel art style: the snake is drawn with its head, eyes and tongue, drawn fruits and walls, a records panel, a full screen button."
    },
    "rating": {
     "average": 0,
@@ -3640,12 +3661,12 @@
    "repo": "NDesumeur/neodex-plugin-tambour",
    "name": "Tambour",
    "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
-   "updated": "2026-11-16T16:49:38Z",
+   "installs": 20,
+   "updated": "2026-11-20T01:53:30Z",
    "langs": [
     "fr",
     "en"
@@ -3744,7 +3765,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 29,
+   "installs": 30,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
@@ -3940,12 +3961,12 @@
    "repo": "NDesumeur/neodex-plugin-typenova",
    "name": "TypeNova",
    "description": "Le jeu de frappe spatial : des mots traversent l'écran, tape-les avant qu'ils n'atteignent ta fusée. Cinq difficultés, combos, mots dorés et bonus, modificateurs de partie, tutoriel et guide du jeu. Affronte le boss NEXUS-7 dans des duels au clavier, découvre l'histoire, monte de niveau pour débloquer skins de fusée, curseurs, thèmes, sons de frappe et 94 succès. Profil, records et historique de tes parties ; 16 polices et 4 langues (français, anglais, espagnol, allemand).",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 4,
-   "updated": "2026-11-18T19:00:47Z",
+   "installs": 6,
+   "updated": "2026-11-20T01:52:40Z",
    "langs": [
     "fr",
     "en"
@@ -3990,12 +4011,12 @@
    "repo": "NDesumeur/neodex-plugin-valse",
    "name": "Valse",
    "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin.",
-   "version": "1.1.1",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 17,
-   "updated": "2026-11-16T16:50:17Z",
+   "installs": 19,
+   "updated": "2026-11-20T01:53:35Z",
    "langs": [
     "fr",
     "en"
