@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-20T13:22:26.371Z",
+ "updated": "2026-11-20T14:22:37.588Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -36,7 +36,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 4,
    "updated": "2026-11-20T13:10:04Z",
    "langs": [
     "fr",
@@ -1015,7 +1015,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 4,
    "updated": "2026-11-20T13:09:52Z",
    "langs": [
     "fr",
@@ -1540,7 +1540,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 4,
    "updated": "2026-11-20T13:09:58Z",
    "langs": [
     "fr",
@@ -2415,7 +2415,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 548,
+   "installs": 550,
    "updated": "2026-11-20T13:09:36Z",
    "langs": [
     "fr",
@@ -2590,7 +2590,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 35,
+   "installs": 37,
    "updated": "2026-11-20T13:09:47Z",
    "langs": [
     "fr",
@@ -3840,7 +3840,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 31,
+   "installs": 33,
    "updated": "2026-11-16T21:10:23Z",
    "langs": [
     "fr",
