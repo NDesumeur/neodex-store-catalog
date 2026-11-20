@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-20T03:13:58Z",
+  "updated": "2026-11-20T13:10:08Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -284,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.4.0",
+      "version": "2.4.1",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -308,7 +308,7 @@
         "linux"
       ],
       "neodex": ">=3.2.0",
-      "phone": "1.2.0"
+      "phone": "1.2.1"
     },
     {
       "id": "neodex.sautstellaire",
@@ -2262,7 +2262,7 @@
       "id": "neodex.orbe",
       "name": "Orbe",
       "repo": "NDesumeur/neodex-plugin-orbe",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3872,7 +3872,7 @@
       "id": "neodex.forge",
       "name": "Forge",
       "repo": "NDesumeur/neodex-plugin-forge",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3887,16 +3887,16 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme à la forge : les lingots arrivent sur le rail, frappe quand ils touchent le marteau (une touche ou un clic), et garde la touche sur les barres longues pour un coup appuyé. Chaque coup réussi façonne la lame ; à la fin, l'arme forgée (dague, épée, sabre, hache, lance ou marteau) rejoint ton armurerie, de cabossée à légendaire selon ta note. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
+      "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
     },
     {
       "id": "neodex.constellation",
-      "name": "Constellation",
+      "name": "Orbites",
       "repo": "NDesumeur/neodex-plugin-constellation",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3911,16 +3911,16 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme à la souris dans le ciel de nuit : les étoiles s'allument sur les temps de la musique et une comète file de l'une à l'autre, à la bonne vitesse. Suis-la et arrive sur chaque étoile quand son cercle se referme : ni en retard, ni trop tôt. Chaque groupe d'étoiles touchées trace une constellation qui reste dans le ciel. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+      "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
-      "gamepad": false
+      "gamepad": true
     },
     {
       "id": "neodex.aiguillage",
       "name": "Aiguillage",
       "repo": "NDesumeur/neodex-plugin-aiguillage",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
