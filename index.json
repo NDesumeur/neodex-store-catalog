@@ -3867,6 +3867,78 @@
       ],
       "syncMode": "progression",
       "syncInfo": "Niveau, succès, records, réglages et historique des parties."
+    },
+    {
+      "id": "neodex.forge",
+      "name": "Forge",
+      "repo": "NDesumeur/neodex-plugin-forge",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme à la forge : les lingots arrivent sur le rail, frappe quand ils touchent le marteau (une touche ou un clic), et garde la touche sur les barres longues pour un coup appuyé. Chaque coup réussi façonne la lame ; à la fin, l'arme forgée (dague, épée, sabre, hache, lance ou marteau) rejoint ton armurerie, de cabossée à légendaire selon ta note. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages.",
+      "gamepad": true
+    },
+    {
+      "id": "neodex.constellation",
+      "name": "Constellation",
+      "repo": "NDesumeur/neodex-plugin-constellation",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme à la souris dans le ciel de nuit : les étoiles s'allument sur les temps de la musique et une comète file de l'une à l'autre, à la bonne vitesse. Suis-la et arrive sur chaque étoile quand son cercle se referme : ni en retard, ni trop tôt. Chaque groupe d'étoiles touchées trace une constellation qui reste dans le ciel. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages.",
+      "gamepad": false
+    },
+    {
+      "id": "neodex.aiguillage",
+      "name": "Aiguillage",
+      "repo": "NDesumeur/neodex-plugin-aiguillage",
+      "version": "1.0.0",
+      "category": "Jeux · Rythme",
+      "system": false,
+      "type": "app",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [
+        "storage",
+        "documents",
+        "music"
+      ],
+      "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
+      "syncMode": "progression",
+      "syncInfo": "Scores et notes par niveau, réglages.",
+      "gamepad": true
     }
   ],
   "revoked": [
