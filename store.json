@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-20T02:26:02.915Z",
+ "updated": "2026-11-20T03:25:20.105Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -20,6 +20,31 @@
    "en": {
     "name": "Ad blocker",
     "description": "The ad and tracker blocker for the sites opened in NeoDex: every uBlock Origin list (ads, tracking, annoyances, cookie banners) and EasyList, through Ghostery's engine, refreshed weekly. YouTube has its own rules, taken from uBlock Origin every 12 hours (videos without ads, \"Skip\" clicked for you). The ADBLOCK button in the address bar turns it off on a site; its right click, \"an ad got through?\", blocks what you tick. Before NeoDex 3.2 it was built into NeoDex: your excluded sites are kept."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.aiguillage",
+   "repo": "NDesumeur/neodex-plugin-aiguillage",
+   "name": "Aiguillage",
+   "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-20T03:13:50Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Aiguillage",
+    "description": "Train rhythm game through the countryside: at every switch, one track carries a wagon and the other ends at a buffer stop. Switch to the right side (← or D/F for left, → or J/K for right, or a click on that half of the screen) just as the engine gets there. Every wagon you take makes the train longer, a dead end makes it shorter. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad."
    },
    "rating": {
     "average": 0,
@@ -786,12 +811,12 @@
    "repo": "NDesumeur/neodex-plugin-cavale",
    "name": "Cavale",
    "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 22,
-   "updated": "2026-11-20T01:52:57Z",
+   "installs": 23,
+   "updated": "2026-11-20T03:12:58Z",
    "langs": [
     "fr",
     "en"
@@ -974,6 +999,31 @@
    "en": {
     "name": "Compote",
     "description": "A fruit-merging game: aim with the mouse and drop fruit into the crate; two identical fruits that touch merge into a bigger one, sometimes in a cascade. Eleven fruits from cherry to pumpkin, fruit that rolls and pushes, and two pumpkins that vanish with a big bonus. The game ends when a fruit stays above the red line. Bigger smiling fruits, animated merges, a kitchen around the crate, frozen or rotten fruits now and then, gamepad, fullscreen, fits any screen size."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.constellation",
+   "repo": "NDesumeur/neodex-plugin-constellation",
+   "name": "Constellation",
+   "description": "Jeu de rythme à la souris dans le ciel de nuit : les étoiles s'allument sur les temps de la musique et une comète file de l'une à l'autre, à la bonne vitesse. Suis-la et arrive sur chaque étoile quand son cercle se referme : ni en retard, ni trop tôt. Chaque groupe d'étoiles touchées trace une constellation qui reste dans le ciel. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-20T03:13:45Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Constellation",
+    "description": "Mouse rhythm game in the night sky: stars light up on the beats of the music and a comet flies from one to the next, at the right speed. Follow it and reach every star when its circle closes: neither late nor too early. Every group of stars you touch draws a constellation that stays in the sky. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D."
    },
    "rating": {
     "average": 0,
@@ -1390,7 +1440,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
+   "installs": 19,
    "updated": "2026-11-20T01:52:14Z",
    "langs": [
     "fr",
@@ -1474,6 +1524,31 @@
    "en": {
     "name": "Soccer",
     "description": "Follow your football team: next match, form, latest results and fixtures, European cups included. Today's matches live with automatic refresh, standings with their zones, and match reports with goals, cards, substitutions and statistics. Ten leagues including Ligue 1 and the Champions League; your team's matches can go into your schedule. ESPN data. Follow several teams at once (up to eight, with a button to switch between them), both line-ups in pixel art on a pitch in the match sheet, larger match cards and text sized to the screen."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.forge",
+   "repo": "NDesumeur/neodex-plugin-forge",
+   "name": "Forge",
+   "description": "Jeu de rythme à la forge : les lingots arrivent sur le rail, frappe quand ils touchent le marteau (une touche ou un clic), et garde la touche sur les barres longues pour un coup appuyé. Chaque coup réussi façonne la lame ; à la fin, l'arme forgée (dague, épée, sabre, hache, lance ou marteau) rejoint ton armurerie, de cabossée à légendaire selon ta note. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
+   "version": "1.0.0",
+   "category": "Jeux",
+   "approved": true,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-20T03:13:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Forge",
+    "description": "Rhythm game at the forge: ingots slide along the rail, strike when they reach the hammer (a key or a click), and hold the key on long bars for a held strike. Every good strike shapes the blade; at the end, the forged weapon (dagger, sword, sabre, axe, spear or hammer) joins your armoury, from dented to legendary depending on your grade. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad."
    },
    "rating": {
     "average": 0,
@@ -1815,7 +1890,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 24,
+   "installs": 25,
    "updated": "2026-11-20T01:52:19Z",
    "langs": [
     "fr",
@@ -2340,7 +2415,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 547,
+   "installs": 548,
    "updated": "2026-11-20T01:52:29Z",
    "langs": [
     "fr",
@@ -2461,12 +2536,12 @@
    "repo": "NDesumeur/neodex-plugin-neotha",
    "name": "NeoTha",
    "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables. Chaque morceau a son tunnel (forme et couleurs), et l'écran de fin montre la courbe de précision.",
-   "version": "1.6.0",
+   "version": "1.6.1",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 326,
-   "updated": "2026-11-20T01:52:52Z",
+   "updated": "2026-11-20T03:12:53Z",
    "langs": [
     "fr",
     "en"
@@ -2511,12 +2586,12 @@
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
    "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Six thèmes de terrain selon le morceau, et la courbe de ta précision le long du morceau sur l'écran de fin.",
-   "version": "1.3.0",
+   "version": "1.3.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 32,
-   "updated": "2026-11-20T01:52:47Z",
+   "installs": 33,
+   "updated": "2026-11-20T03:12:48Z",
    "langs": [
     "fr",
     "en"
@@ -2936,12 +3011,12 @@
    "repo": "NDesumeur/neodex-plugin-prisme",
    "name": "Prisme",
    "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 122,
-   "updated": "2026-11-20T01:53:02Z",
+   "installs": 123,
+   "updated": "2026-11-20T03:13:04Z",
    "langs": [
     "fr",
     "en"
@@ -3036,12 +3111,12 @@
    "repo": "NDesumeur/neodex-plugin-pulsar",
    "name": "Pulsar",
    "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 121,
-   "updated": "2026-11-20T01:53:08Z",
+   "installs": 122,
+   "updated": "2026-11-20T03:13:09Z",
    "langs": [
     "fr",
     "en"
@@ -3261,12 +3336,12 @@
    "repo": "NDesumeur/neodex-plugin-ricochet",
    "name": "Ricochet",
    "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
-   "updated": "2026-11-20T01:53:13Z",
+   "installs": 22,
+   "updated": "2026-11-20T03:13:14Z",
    "langs": [
     "fr",
     "en"
@@ -3286,12 +3361,12 @@
    "repo": "NDesumeur/neodex-plugin-rythme",
    "name": "Rythme",
    "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 1200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. L'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.8.0",
+   "version": "1.8.1",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 345,
-   "updated": "2026-11-20T01:53:19Z",
+   "updated": "2026-11-20T03:13:19Z",
    "langs": [
     "fr",
     "en"
@@ -3411,12 +3486,12 @@
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
    "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 124,
-   "updated": "2026-11-20T01:53:24Z",
+   "installs": 125,
+   "updated": "2026-11-20T03:13:24Z",
    "langs": [
     "fr",
     "en"
@@ -3465,7 +3540,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 42,
+   "installs": 43,
    "updated": "2026-11-20T01:52:24Z",
    "langs": [
     "fr",
@@ -3661,12 +3736,12 @@
    "repo": "NDesumeur/neodex-plugin-tambour",
    "name": "Tambour",
    "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
-   "updated": "2026-11-20T01:53:30Z",
+   "installs": 21,
+   "updated": "2026-11-20T03:13:29Z",
    "langs": [
     "fr",
     "en"
@@ -3965,7 +4040,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 6,
+   "installs": 7,
    "updated": "2026-11-20T01:52:40Z",
    "langs": [
     "fr",
@@ -4011,12 +4086,12 @@
    "repo": "NDesumeur/neodex-plugin-valse",
    "name": "Valse",
    "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin.",
-   "version": "1.2.0",
+   "version": "1.2.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
-   "updated": "2026-11-20T01:53:35Z",
+   "installs": 20,
+   "updated": "2026-11-20T03:13:34Z",
    "langs": [
     "fr",
     "en"
