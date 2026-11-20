@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-20T16:22:12.152Z",
+ "updated": "2026-11-20T20:22:15.053Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -31,20 +31,20 @@
    "id": "neodex.aiguillage",
    "repo": "NDesumeur/neodex-plugin-aiguillage",
    "name": "Aiguillage",
-   "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
-   "version": "1.0.1",
+   "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options.",
+   "version": "1.0.2",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 4,
-   "updated": "2026-11-20T13:10:04Z",
+   "installs": 6,
+   "updated": "2026-11-20T19:29:59Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Aiguillage",
-    "description": "Train rhythm game through the countryside: at every switch, one track carries a wagon and the other ends at a buffer stop. Switch to the right side (← or D/F for left, → or J/K for right, or a click on that half of the screen) just as the engine gets there. Every wagon you take makes the train longer, a dead end makes it shorter. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad."
+    "description": "Train rhythm game through the countryside: at every switch, one track carries a wagon and the other ends at a buffer stop. Switch to the right side (← or D/F for left, → or J/K for right, or a click on that half of the screen) just as the engine gets there. Every wagon you take makes the train longer, a dead end makes it shorter. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad. Keys of your choice in the options."
    },
    "rating": {
     "average": 0,
@@ -1010,20 +1010,20 @@
    "id": "neodex.constellation",
    "repo": "NDesumeur/neodex-plugin-constellation",
    "name": "Orbites",
-   "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette.",
-   "version": "1.0.1",
+   "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette. Touches au choix dans les options.",
+   "version": "1.0.2",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 5,
-   "updated": "2026-11-20T13:09:52Z",
+   "installs": 6,
+   "updated": "2026-11-20T19:29:53Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Orbites",
-    "description": "Rhythm game in space: a planet circles its star on three orbits, one lap every two bars. On every note, a shooting star waits on the next orbit and a comet comes along yours: jump right on the beat, outwards (↑ or J/K) or inwards (↓ or F/D), to catch it. The wrong way means the comet. A golden trail: hold the key until its end. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with the keyboard or a gamepad."
+    "description": "Rhythm game in space: a planet circles its star on three orbits, one lap every two bars. On every note, a shooting star waits on the next orbit and a comet comes along yours: jump right on the beat, outwards (↑ or J/K) or inwards (↓ or F/D), to catch it. The wrong way means the comet. A golden trail: hold the key until its end. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with the keyboard or a gamepad. Keys of your choice in the options."
    },
    "rating": {
     "average": 0,
@@ -1535,20 +1535,20 @@
    "id": "neodex.forge",
    "repo": "NDesumeur/neodex-plugin-forge",
    "name": "Forge",
-   "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette.",
-   "version": "1.0.1",
+   "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options.",
+   "version": "1.0.2",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 4,
-   "updated": "2026-11-20T13:09:58Z",
+   "installs": 6,
+   "updated": "2026-11-20T19:29:47Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Forge",
-    "description": "Rhythm game at the forge, in three acts: the blade (hammer the ingots reaching the anvil, hold the bars to stretch it), the guard (pieces come from both sides: strike on the right one, ← or D/F, → or J/K), then the pommel (set the falling gems, doubles with both hands). The accuracy of each act picks the metal of its piece: iron, bronze, steel, damascus, mithril or star. Six weapon shapes (dagger, sword, sabre, axe, spear, hammer): 36 blades to collect, the latest ones on the rack. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad."
+    "description": "Rhythm game at the forge, in three acts: the blade (hammer the ingots reaching the anvil, hold the bars to stretch it), the guard (pieces come from both sides: strike on the right one, ← or D/F, → or J/K), then the pommel (set the falling gems, doubles with both hands). The accuracy of each act picks the metal of its piece: iron, bronze, steel, damascus, mithril or star. Six weapon shapes (dagger, sword, sabre, axe, spear, hammer): 36 blades to collect, the latest ones on the rack. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad. Keys of your choice in the options."
    },
    "rating": {
     "average": 0,
@@ -2411,12 +2411,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.4.1",
+   "version": "2.4.2",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 550,
-   "updated": "2026-11-20T13:09:36Z",
+   "installs": 552,
+   "updated": "2026-11-20T19:30:11Z",
    "langs": [
     "fr",
     "en"
@@ -2585,20 +2585,20 @@
    "id": "neodex.orbe",
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
-   "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Plein écran, compte à rebours, Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Six thèmes de terrain selon le morceau, et la courbe de ta précision le long du morceau sur l'écran de fin.",
-   "version": "1.3.2",
+   "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Les sensations d'osu! : 300, 100 et 50, barre de vie, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, barre d'erreur, glissières avec tics et retours, notes de SS à D, pp et classement de chaque niveau. Des maps variées inspirées d'osu!, avec d'autres variantes au choix, et un onglet de statistiques. Plein écran, compte à rebours et décalage réglé tout seul. Un menu façon osu! : carrousel des chansons à la molette et au clavier, ta meilleure note, recherche, filtres, au hasard, refrain en aperçu, rang, médailles bronze, argent et or, carte de joueur, ta visée et l'écart avec ton record en partie, trois volumes, écran de fin animé. Dix thèmes de terrain selon le morceau.",
+   "version": "1.3.3",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 38,
-   "updated": "2026-11-20T13:09:47Z",
+   "installs": 40,
+   "updated": "2026-11-20T19:30:05Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Orbe",
-    "description": "Mouse rhythm game: numbered orbs appear on the field and a circle closes in on each one; aim and click (or W / X) when it touches, follow the sliders with the button held and spin the spinners. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music or NeoMusic. Full screen, countdown, Perfect, Good or OK, combo, grade from S to D and an offset that adjusts itself. Six playfield themes depending on the song, and the curve of your accuracy along the song on the end screen."
+    "description": "A mouse rhythm game: numbered orbs appear on the field, a circle closes in on each one; aim and click (or W / X) when it touches, follow the sliders with the button held and spin the spinners. The 1200 Rythme tracks rated 1 to 10 stars, or levels made from your music or NeoMusic. The feel of osu!: 300, 100 and 50, health bar, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, hit error bar, sliders with ticks and repeats, grades from SS to D, pp and a leaderboard for each level. Varied maps inspired by osu!, with other variants to pick from, and a statistics tab. Full screen, countdown and self-adjusting offset. An osu!-style menu: song carousel with the wheel and keyboard, your best grade, search, filters, random, chorus preview, rank, bronze, silver and gold medals, a player card, your aim and the gap to your best while playing, three volumes, an animated end screen. Ten playfield themes depending on the song."
    },
    "rating": {
     "average": 0,
