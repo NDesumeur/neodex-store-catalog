@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-20T22:40:08Z",
+  "updated": "2026-11-21T00:14:10Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -284,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.4.4",
+      "version": "2.4.5",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -308,7 +308,7 @@
         "linux"
       ],
       "neodex": ">=3.2.0",
-      "phone": "1.2.1"
+      "phone": "1.2.2"
     },
     {
       "id": "neodex.sautstellaire",
@@ -2262,7 +2262,7 @@
       "id": "neodex.orbe",
       "name": "Orbe",
       "repo": "NDesumeur/neodex-plugin-orbe",
-      "version": "1.3.5",
+      "version": "1.3.6",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2271,7 +2271,10 @@
       "permissions": [
         "storage",
         "documents",
-        "music"
+        "music",
+        "network:catboy.best",
+        "network:osu.direct",
+        "network:*.osu.direct"
       ],
       "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Les sensations d'osu! : 300, 100 et 50, barre de vie, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, barre d'erreur, glissières avec tics et retours, notes de SS à D, pp et classement de chaque niveau. Des maps variées inspirées d'osu!, avec d'autres variantes au choix, et un onglet de statistiques. Plein écran, compte à rebours et décalage réglé tout seul. Un menu façon osu! : carrousel des chansons à la molette et au clavier, ta meilleure note, recherche, filtres, au hasard, refrain en aperçu, rang, médailles bronze, argent et or, carte de joueur, ta visée et l'écart avec ton record en partie, trois volumes, écran de fin animé. Dix thèmes de terrain selon le morceau.",
       "syncMode": "progression",
