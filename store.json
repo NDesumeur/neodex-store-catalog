@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-21T17:22:00.853Z",
+ "updated": "2026-11-21T18:23:23.797Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -2585,20 +2585,20 @@
    "id": "neodex.orbe",
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
-   "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Les sensations d'osu! : 300, 100 et 50, barre de vie, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, barre d'erreur, glissières avec tics et retours, notes de SS à D, pp et classement de chaque niveau. Des maps variées inspirées d'osu!, avec d'autres variantes au choix, et un onglet de statistiques. Plein écran, compte à rebours et décalage réglé tout seul. Un menu façon osu! : carrousel des chansons à la molette et au clavier, ta meilleure note, recherche, filtres, au hasard, refrain en aperçu, rang, médailles bronze, argent et or, carte de joueur, ta visée et l'écart avec ton record en partie, trois volumes, écran de fin animé. Dix thèmes de terrain selon le morceau.",
-   "version": "1.3.9",
+   "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Les sensations d'osu! : 300, 100 et 50, barre de vie, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, barre d'erreur, glissières avec tics et retours, notes de SS à D, pp et classement de chaque niveau. Des maps variées inspirées d'osu!, avec d'autres variantes au choix, et un onglet de statistiques. Plein écran, compte à rebours et décalage réglé tout seul. Un menu façon osu! : carrousel des chansons à la molette et au clavier, ta meilleure note, recherche, filtres, au hasard, refrain en aperçu, rang, médailles bronze, argent et or, carte de joueur, ta visée et l'écart avec ton record en partie, trois volumes, écran de fin animé. Dix thèmes de terrain selon le morceau. Replays (revoir, ralenti, export .osr), carte des erreurs, boucle sur un passage raté, exercices d'entraînement, paliers de pp, amis, navigateur de maps osu!, mods NC et DC, sons de chaque note et storyboard des maps osu!.",
+   "version": "1.4.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 54,
-   "updated": "2026-11-21T15:04:55Z",
+   "installs": 57,
+   "updated": "2026-11-21T18:20:39Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Orbe",
-    "description": "A mouse rhythm game: numbered orbs appear on the field, a circle closes in on each one; aim and click (or W / X) when it touches, follow the sliders with the button held and spin the spinners. The 1200 Rythme tracks rated 1 to 10 stars, or levels made from your music or NeoMusic. The feel of osu!: 300, 100 and 50, health bar, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, hit error bar, sliders with ticks and repeats, grades from SS to D, pp and a leaderboard for each level. Varied maps inspired by osu!, with other variants to pick from, and a statistics tab. Full screen, countdown and self-adjusting offset. An osu!-style menu: song carousel with the wheel and keyboard, your best grade, search, filters, random, chorus preview, rank, bronze, silver and gold medals, a player card, your aim and the gap to your best while playing, three volumes, an animated end screen. Ten playfield themes depending on the song."
+    "description": "A mouse rhythm game: numbered orbs appear on the field, a circle closes in on each one; aim and click (or W / X) when it touches, follow the sliders with the button held and spin the spinners. The 1200 Rythme tracks rated 1 to 10 stars, or levels made from your music or NeoMusic. The feel of osu!: 300, 100 and 50, health bar, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, hit error bar, sliders with ticks and repeats, grades from SS to D, pp and a leaderboard for each level. Varied maps inspired by osu!, with other variants to pick from, and a statistics tab. Full screen, countdown and self-adjusting offset. An osu!-style menu: song carousel with the wheel and keyboard, your best grade, search, filters, random, chorus preview, rank, bronze, silver and gold medals, a player card, your aim and the gap to your best while playing, three volumes, an animated end screen. Ten playfield themes depending on the song. Replays (watch, slow motion, .osr export), error map, loop on a missed section, training exercises, pp milestones, friends, osu! map browser, NC and DC mods, per-note sounds and storyboard of osu! maps."
    },
    "rating": {
     "average": 0,
@@ -3360,20 +3360,20 @@
    "id": "neodex.rythme",
    "repo": "NDesumeur/neodex-plugin-rythme",
    "name": "Rythme",
-   "description": "Jeu de rythme sur 4 voies : appuie sur D, F, J, K (ou les flèches) quand les notes touchent la ligne, et maintiens les notes longues. 1200 morceaux composés et joués par le jeu, chacun en Facile, Normal, Difficile et Expert, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. L'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.8.1",
+   "description": "Jeu de rythme de 4 à 7 voies : appuie sur la bonne touche quand les notes touchent la ligne, et maintiens les notes longues. 1200 morceaux composés et joués par le jeu, des niveaux créés depuis ta musique, et l'import de maps osu!mania, StepMania et Quaver. Taux de lecture sans changer la hauteur, sévérité réglable, mines, exercices par compétence, boucle sur un passage raté, défi du jour, ceintures et parcours de dans. Après chaque partie : l'analyse de tes frappes, colonne par colonne.",
+   "version": "1.9.0",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 347,
-   "updated": "2026-11-20T03:13:19Z",
+   "installs": 350,
+   "updated": "2026-11-21T17:49:05Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Pace",
-    "description": "A 4-lane rhythm game: press D, F, J, K (or the arrows) when notes touch the line, and hold long notes. 1200 tracks composed and played by the game, each in Easy, Normal, Hard and Expert, or levels created from an audio file or your NeoMusic library. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset. The end screen shows the accuracy curve across the song."
+    "description": "A 4 to 7 lane rhythm game: press the right key when notes touch the line, and hold long notes. 1200 tracks composed and played by the game, levels created from your music, and osu!mania, StepMania and Quaver map import. Playback rate without pitch change, adjustable strictness, mines, skill exercises, a loop on a missed section, a daily challenge, belts and dan courses. After each game: an analysis of your hits, column by column."
    },
    "rating": {
     "average": 0,
