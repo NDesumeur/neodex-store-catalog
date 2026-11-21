@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-21T19:21:56.454Z",
+ "updated": "2026-11-21T20:22:05.894Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -2415,7 +2415,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 568,
+   "installs": 570,
    "updated": "2026-11-21T01:15:56Z",
    "langs": [
     "fr",
@@ -2586,12 +2586,12 @@
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
    "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Les sensations d'osu! : 300, 100 et 50, barre de vie, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, barre d'erreur, glissières avec tics et retours, notes de SS à D, pp et classement de chaque niveau. Des maps variées inspirées d'osu!, avec d'autres variantes au choix, et un onglet de statistiques. Plein écran, compte à rebours et décalage réglé tout seul. Un menu façon osu! : carrousel des chansons à la molette et au clavier, ta meilleure note, recherche, filtres, au hasard, refrain en aperçu, rang, médailles bronze, argent et or, carte de joueur, ta visée et l'écart avec ton record en partie, trois volumes, écran de fin animé. Dix thèmes de terrain selon le morceau. Replays (revoir, ralenti, export .osr), carte des erreurs, boucle sur un passage raté, exercices d'entraînement, paliers de pp, amis, navigateur de maps osu!, mods NC et DC, sons de chaque note et storyboard des maps osu!.",
-   "version": "1.4.1",
+   "version": "1.4.2",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 60,
-   "updated": "2026-11-21T18:20:39Z",
+   "installs": 62,
+   "updated": "2026-11-21T19:45:30Z",
    "langs": [
     "fr",
     "en"
