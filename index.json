@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-21T19:45:32Z",
+  "updated": "2026-11-22T19:23:48Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -284,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.4.6",
+      "version": "2.4.7",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -508,7 +508,7 @@
       "id": "neodex.astropole",
       "name": "Astropole",
       "repo": "NDesumeur/neodex-plugin-astropole",
-      "version": "1.4.1",
+      "version": "2.0.0",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -517,7 +517,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu de gestion incrémental en pixel art : bâtis une ville spatiale dont les bâtiments produisent des crédits chaque seconde, même NeoDex fermé. Chaque sorte de bâtiment a son quartier et la ville se remplit, de jour comme de nuit. Recherches, succès qui ajoutent de la production pour toujours, pluies de météores, marchand, et des colonies sur six planètes avec des Mémoires à dépenser en avantages.",
+      "description": "Jeu incrémental en pixel art, refait de zéro : bâtis une ville spatiale qui produit des crédits même NeoDex fermé, zoome sur ses quartiers et leurs habitants, attrape vaisseaux, fêtes, météores et marchand. Quatre couches qui changent les règles : colonies sur six planètes avec doctrines exclusives et défis, singularités et matière noire, puis une galaxie à conquérir.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-astropole/main/screenshots/1.jpg"
       ],
@@ -755,7 +755,7 @@
       "id": "neodex.peche",
       "name": "Pêche",
       "repo": "NDesumeur/neodex-plugin-peche",
-      "version": "1.3.1",
+      "version": "1.4.0",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -764,7 +764,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 153 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; jour, nuit et météo changeante, 5 cannes, 7 appâts, coffres au trésor, collection, trois défis par jour et niveau de pêcheur. Sons (moulinet, plouf, eau, oiseaux) et musique douce, un aquarium où nagent tes prises dans la collection, plein écran et textes d'aide plus grands.",
+      "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 156 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; la pluie, l'orage et le brouillard changent la pêche, et certaines espèces suivent les vraies saisons et la vraie lune. 5 cannes et 3 montages (canne légère pour les petites espèces, moulinet lourd pour les monstres), des appâts à fabriquer avec ce que tu trouves, trois légendes du village à pêcher au terme de leur histoire dans un combat en trois phases, un tournoi chaque semaine contre les pêcheurs du village, coffres au trésor, collection, défis du jour et niveau de pêcheur. Sons, musique douce et plein écran.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-peche/main/screenshots/1.jpg"
       ],
@@ -779,7 +779,7 @@
       "id": "neodex.aquarium",
       "name": "Aquarium",
       "repo": "NDesumeur/neodex-plugin-aquarium",
-      "version": "1.3.1",
+      "version": "1.4.0",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -788,7 +788,7 @@
       "permissions": [
         "storage"
       ],
-      "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau (douce, mer, tropicale, polaire, abysses), nourris-le, nettoie l'eau et décore. Les poissons heureux grandissent, ont des petits (parfois d'une couleur rare) et attirent des visiteurs qui laissent des pourboires. Carnet des espèces, défis et bassins notés jusqu'à 3 étoiles.",
+      "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau, choisis sa forme (arrondi, colonne, panoramique), plante des plantes vivantes qui poussent et nettoient l'eau, et surveille l'écosystème : les grands chasseurs mangent les petits poissons, d'autres grignotent les plantes ou nettoient le fond. Les visiteurs ont leurs goûts (l'enfant veut des poissons colorés, le savant des espèces rares, le photographe des géants, le rêveur des bassins pleins de plantes). Un musée à ouvrir salle par salle en donnant une espèce après l'autre, et ton plus beau bassin peut devenir le fond d'écran de NeoDex avec le thème Aquarium. Carnet des espèces, naissances, défis et bassins notés jusqu'à 3 étoiles.",
       "dependencies": {
         "neodex.peche": ">=1.0.0"
       },
@@ -1306,7 +1306,7 @@
       "id": "neodex.neome",
       "name": "NeoMe",
       "repo": "NDesumeur/neodex-plugin-neome",
-      "version": "1.4.2",
+      "version": "1.5.0",
       "category": "Compagnon",
       "system": true,
       "type": "app",
@@ -1315,7 +1315,7 @@
       "permissions": [
         "full"
       ],
-      "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 17 auras (certaines changent de couleur ou respirent) se débloquent en montant de niveau.",
+      "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 17 auras (certaines changent de couleur ou respirent) se débloquent en montant de niveau. Nouveau : jamais une corvée. Le temps seul ne le rend jamais triste, il réclame doucement à manger, et quand tu reviens après une longue absence, il fait la fête.",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-neome/main/screenshots/1.png"
       ],
@@ -1425,7 +1425,7 @@
       "id": "neodex.neotha",
       "name": "NeoTha",
       "repo": "NDesumeur/neodex-plugin-neotha",
-      "version": "1.6.1",
+      "version": "1.8.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1436,7 +1436,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables. Chaque morceau a son tunnel (forme et couleurs), et l'écran de fin montre la courbe de précision.",
+      "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables. Chaque morceau a son tunnel (forme et couleurs), et l'écran de fin montre la courbe de précision. Import des maps de Sound Space et Rhythia (.sspm), vitesse d'approche et distance réglables, mods Fondu, Fantôme et Miroir, couleurs par figure, défis de grille, carte des ratés et niveau du joueur. Nouveau : la vitesse du morceau (0,75× à 1,5×) et revoir sa partie.",
       "dependencies": {
         "neodex.music": ">=1.3.0"
       },
@@ -1451,7 +1451,7 @@
       "id": "neodex.bestiarystudio",
       "name": "NeoBestiary Studio",
       "repo": "NDesumeur/neodex-plugin-bestiarystudio",
-      "version": "1.9.1",
+      "version": "1.10.0",
       "category": "Création",
       "system": false,
       "type": "app",
@@ -1462,7 +1462,7 @@
         "system:main",
         "notifications"
       ],
-      "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques, des musiques et des mondes entiers (continents, rivières, villes, factions) où vivent tes créatures. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
+      "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques, des musiques et des mondes entiers (continents, rivières, villes, factions) où vivent tes créatures. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement. Nouveau : la file de nuit (écris tes créatures une par ligne, le Studio les invoque l'une après l'autre puis s'arrête) et la palette commune (les couleurs de 1 à 3 créatures de référence, imposées aux autres pour un bestiaire cohérent).",
       "screenshots": [
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-bestiarystudio/main/screenshots/1.jpg",
         "https://raw.githubusercontent.com/NDesumeur/neodex-plugin-bestiarystudio/main/screenshots/2-directions.png",
@@ -1486,7 +1486,7 @@
       "id": "neodex.arene",
       "name": "NeoBestiary Arène",
       "repo": "NDesumeur/neodex-plugin-arene",
-      "version": "1.5.8",
+      "version": "1.6.0",
       "category": "Jeux · Aventure",
       "system": false,
       "type": "app",
@@ -1496,7 +1496,7 @@
         "storage",
         "system:main"
       ],
-      "description": "Combats au tour par tour entre les créatures de NeoBestiary Studio, contre l'ordinateur ou à deux sur le même PC. Chaque créature a 2 à 4 attaques tirées de 204 techniques : statuts (brûlure, poison, gel, sommeil, paralysie…), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, avec une table des types de ×4 à ×¼. Garde, variantes de couleur, palmarès, et NeoMe avec ses attaques signature.",
+      "description": "Combats au tour par tour entre les créatures de NeoBestiary Studio, contre l'ordinateur ou à deux sur le même PC. Chaque créature a 2 à 4 attaques tirées de 204 techniques : statuts (brûlure, poison, gel, sommeil, paralysie…), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, avec une table des types de ×4 à ×¼. Garde, variantes de couleur, palmarès, et NeoMe avec ses attaques signature. Nouveau : les équipes de 3, avec des changements en cours de combat (l'ordinateur sait aussi changer quand il est en danger). Chaque créature a un talent passif (Rage, Carapace, Éclaireur, Régénération…), et le mode Draft fait choisir 3 créatures à tour de rôle parmi 9. Les coups se voient et s'entendent : un son par geste et par élément, la cible recule et blanchit sous le coup, la garde fait s'accroupir, les statuts se voient sur le corps (brûlure, gel, poison, sommeil), et les attaques épiques ou légendaires ont leur mise en scène.",
       "dependencies": {
         "neodex.bestiarystudio": ">=1.0.7"
       },
@@ -1921,7 +1921,7 @@
       "id": "neodex.pulsar",
       "name": "Pulsar",
       "repo": "NDesumeur/neodex-plugin-pulsar",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -1932,13 +1932,14 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau.",
+      "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau. Notes rouges à éviter, spirales à suivre, taille du bouclier réglable, notes cachées, supernova au plein combo, stick de la manette.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "compatibility": [
         "windows",
         "linux"
-      ]
+      ],
+      "gamepad": true
     },
     {
       "id": "neodex.mosaique",
@@ -2239,7 +2240,7 @@
       "id": "neodex.prisme",
       "name": "Prisme",
       "repo": "NDesumeur/neodex-plugin-prisme",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2250,7 +2251,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau.",
+      "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau. Socles qui tournent, trajectoires courbes, notes de réfraction, mode miroir, cristal qui change de forme, collection de facettes.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "compatibility": [
@@ -2288,7 +2289,7 @@
       "id": "neodex.sillage",
       "name": "Sillage",
       "repo": "NDesumeur/neodex-plugin-sillage",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -2299,7 +2300,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
+      "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau. L'altitude suit la mélodie, la ville réagit à la musique, traînée de la couleur des étoiles, dessin du vol à la fin.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "compatibility": [
@@ -3017,7 +3018,7 @@
       "id": "neodex.tambour",
       "name": "Tambour",
       "repo": "NDesumeur/neodex-plugin-tambour",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3032,7 +3033,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
+      "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau. Branches de difficulté qui changent en cours de morceau, ballons et kusudama, épreuves Dan de 4 morceaux, import des morceaux .tja, lanternes qui s'allument avec le combo. NeoMe, la mascotte, danse au bord de la scène en tenue de fête.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
@@ -3357,7 +3358,7 @@
       "id": "neodex.cavale",
       "name": "Cavale",
       "repo": "NDesumeur/neodex-plugin-cavale",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3372,7 +3373,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau.",
+      "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau. Boss sur les passages les plus chargés, pouvoirs et niveaux des personnages, coups selon le jugement, musique de victoire, notes cachées. Trois nouveaux chemins : le désert, le château et le pont d'un bateau.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages."
     },
@@ -3380,7 +3381,7 @@
       "id": "neodex.valse",
       "name": "Valse",
       "repo": "NDesumeur/neodex-plugin-valse",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3395,7 +3396,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin.",
+      "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin. Effets de caméra, entraînement depuis 25, 50 ou 75 % du morceau, record « sans faute », figure du chemin à la fin.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
@@ -3404,7 +3405,7 @@
       "id": "neodex.ricochet",
       "name": "Ricochet",
       "repo": "NDesumeur/neodex-plugin-ricochet",
-      "version": "1.2.1",
+      "version": "1.3.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3419,7 +3420,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau.",
+      "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau. Nouveau : deux étincelles à suivre en même temps, l'orange et la bleue (records à part). Aussi : des cours en hexagone et en triangle, et des murs qui bougent en musique.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
@@ -3875,7 +3876,7 @@
       "id": "neodex.forge",
       "name": "Forge",
       "repo": "NDesumeur/neodex-plugin-forge",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3890,7 +3891,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options.",
+      "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options. Nouveau : la commande du jour (un client choisit l'arme, le métal et ta façon de jouer) et l'armurerie avec toute ta collection. Au choix, un 4e acte : l'enchantement (grave des runes à gauche puis à droite ; ta précision fait briller l'arme de braises, de givre, de foudre ou d'étoiles).",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
@@ -3899,7 +3900,7 @@
       "id": "neodex.constellation",
       "name": "Orbites",
       "repo": "NDesumeur/neodex-plugin-constellation",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3914,7 +3915,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette. Touches au choix dans les options.",
+      "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette. Touches au choix dans les options. Nouveau : chaque morceau dessine sa constellation, gardée dans « Mon ciel ».",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
@@ -3923,7 +3924,7 @@
       "id": "neodex.aiguillage",
       "name": "Aiguillage",
       "repo": "NDesumeur/neodex-plugin-aiguillage",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3938,7 +3939,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options.",
+      "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options. Nouveau : les wagons livrés bâtissent ta ville, partie après partie (12 bâtiments). Aussi : les saisons, des tunnels où l'on joue à l'oreille, des ponts-levis et des trains qui arrivent en face.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
