@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-22T19:24:36Z",
+  "updated": "2026-11-22T21:44:29Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -284,7 +284,7 @@
       "id": "neodex.music",
       "name": "NeoMusic",
       "repo": "NDesumeur/neodex-plugin-music",
-      "version": "2.4.7",
+      "version": "2.4.8",
       "category": "Musique",
       "system": false,
       "type": "app",
@@ -508,7 +508,7 @@
       "id": "neodex.astropole",
       "name": "Astropole",
       "repo": "NDesumeur/neodex-plugin-astropole",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "category": "Jeux · Stratégie et gestion",
       "system": false,
       "type": "app",
@@ -3381,7 +3381,7 @@
       "id": "neodex.valse",
       "name": "Valse",
       "repo": "NDesumeur/neodex-plugin-valse",
-      "version": "1.3.0",
+      "version": "2.0.0",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
@@ -3396,7 +3396,7 @@
         "documents",
         "music"
       ],
-      "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin. Effets de caméra, entraînement depuis 25, 50 ou 75 % du morceau, record « sans faute », figure du chemin à la fin.",
+      "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape pile quand l'astre touche la dalle suivante. Trop tôt ou trop tard, la partie est perdue : on reprend au dernier drapeau (toutes les 32 dalles). Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D, manette, entraînement depuis 25, 50 ou 75 % du morceau.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
@@ -3832,7 +3832,7 @@
       "id": "neodex.themeado",
       "name": "Thème Ado",
       "repo": "NDesumeur/neodex-plugin-theme-ado",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Thèmes",
       "system": false,
       "type": "theme",
@@ -3843,7 +3843,7 @@
       ],
       "approved": true,
       "permissions": [],
-      "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») qui se promène derrière les cadres et dépasse de chacun, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
+      "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») assis au bord de chaque cadre et qui se promène dans la barre des tâches, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
       "neodex": ">=3.2.2"
     },
     {
@@ -3924,7 +3924,7 @@
       "id": "neodex.aiguillage",
       "name": "Aiguillage",
       "repo": "NDesumeur/neodex-plugin-aiguillage",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
