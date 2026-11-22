@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-22T21:22:18.505Z",
+ "updated": "2026-11-22T22:22:15.875Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -32,12 +32,12 @@
    "repo": "NDesumeur/neodex-plugin-aiguillage",
    "name": "Aiguillage",
    "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options. Nouveau : les wagons livrés bâtissent ta ville, partie après partie (12 bâtiments). Aussi : les saisons, des tunnels où l'on joue à l'oreille, des ponts-levis et des trains qui arrivent en face.",
-   "version": "1.1.0",
+   "version": "1.1.1",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 8,
-   "updated": "2026-11-22T19:17:28Z",
+   "installs": 9,
+   "updated": "2026-11-22T21:44:10Z",
    "langs": [
     "fr",
     "en"
@@ -136,7 +136,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 10,
+   "installs": 11,
    "updated": "2026-11-19T23:35:02Z",
    "langs": [
     "fr",
@@ -265,12 +265,12 @@
    "repo": "NDesumeur/neodex-plugin-astropole",
    "name": "Astropole",
    "description": "Jeu incrémental en pixel art, refait de zéro : bâtis une ville spatiale qui produit des crédits même NeoDex fermé, zoome sur ses quartiers et leurs habitants, attrape vaisseaux, fêtes, météores et marchand. Quatre couches qui changent les règles : colonies sur six planètes avec doctrines exclusives et défis, singularités et matière noire, puis une galaxie à conquérir.",
-   "version": "2.0.0",
+   "version": "2.0.1",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 44,
-   "updated": "2026-11-22T19:18:03Z",
+   "installs": 45,
+   "updated": "2026-11-22T21:43:58Z",
    "langs": [
     "fr",
     "en"
@@ -1165,7 +1165,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 3,
+   "installs": 4,
    "updated": "2026-11-22T19:21:22Z",
    "langs": [
     "fr",
@@ -1190,7 +1190,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:08Z",
    "langs": [
     "fr",
@@ -1215,7 +1215,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:23Z",
    "langs": [
     "fr",
@@ -1240,7 +1240,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:33Z",
    "langs": [
     "fr",
@@ -1265,7 +1265,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:53Z",
    "langs": [
     "fr",
@@ -1290,7 +1290,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:58Z",
    "langs": [
     "fr",
@@ -1315,7 +1315,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:40Z",
    "langs": [
     "fr",
@@ -1340,7 +1340,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 3,
+   "installs": 4,
    "updated": "2026-11-22T19:22:43Z",
    "langs": [
     "fr",
@@ -1365,7 +1365,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:02Z",
    "langs": [
     "fr",
@@ -1390,7 +1390,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:58Z",
    "langs": [
     "fr",
@@ -1415,7 +1415,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:42Z",
    "langs": [
     "fr",
@@ -1440,7 +1440,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:23Z",
    "langs": [
     "fr",
@@ -1465,7 +1465,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:46Z",
    "langs": [
     "fr",
@@ -1490,7 +1490,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:33Z",
    "langs": [
     "fr",
@@ -1515,7 +1515,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:19Z",
    "langs": [
     "fr",
@@ -1540,7 +1540,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:37Z",
    "langs": [
     "fr",
@@ -1565,7 +1565,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:18Z",
    "langs": [
     "fr",
@@ -1590,7 +1590,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:38Z",
    "langs": [
     "fr",
@@ -1615,7 +1615,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:09Z",
    "langs": [
     "fr",
@@ -1640,7 +1640,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:03Z",
    "langs": [
     "fr",
@@ -1665,7 +1665,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:57Z",
    "langs": [
     "fr",
@@ -1690,7 +1690,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:52Z",
    "langs": [
     "fr",
@@ -1715,7 +1715,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:28Z",
    "langs": [
     "fr",
@@ -1740,7 +1740,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:27Z",
    "langs": [
     "fr",
@@ -1765,7 +1765,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:03Z",
    "langs": [
     "fr",
@@ -1790,7 +1790,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:08Z",
    "langs": [
     "fr",
@@ -1815,7 +1815,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:48Z",
    "langs": [
     "fr",
@@ -1840,7 +1840,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 5,
+   "installs": 7,
    "updated": "2026-11-22T19:21:32Z",
    "langs": [
     "fr",
@@ -1865,7 +1865,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 3,
+   "installs": 4,
    "updated": "2026-11-22T19:21:13Z",
    "langs": [
     "fr",
@@ -1890,7 +1890,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:13Z",
    "langs": [
     "fr",
@@ -1915,7 +1915,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:52Z",
    "langs": [
     "fr",
@@ -1940,7 +1940,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:35Z",
    "langs": [
     "fr",
@@ -1965,7 +1965,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:22:38Z",
    "langs": [
     "fr",
@@ -1990,7 +1990,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:47Z",
    "langs": [
     "fr",
@@ -2015,7 +2015,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:28Z",
    "langs": [
     "fr",
@@ -2040,7 +2040,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:23:14Z",
    "langs": [
     "fr",
@@ -2065,7 +2065,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:21:17Z",
    "langs": [
     "fr",
@@ -2190,7 +2190,7 @@
    "category": "Bureautique",
    "approved": true,
    "stars": 1,
-   "installs": 43,
+   "installs": 44,
    "updated": "2026-11-16T16:43:16Z",
    "langs": [
     "fr",
@@ -2790,7 +2790,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 56,
+   "installs": 57,
    "updated": "2026-11-16T04:49:32Z",
    "langs": [
     "fr",
@@ -3015,7 +3015,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 38,
+   "installs": 39,
    "updated": "2026-11-19T23:31:50Z",
    "langs": [
     "fr",
@@ -3315,7 +3315,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 41,
+   "installs": 42,
    "updated": "2026-11-19T23:31:24Z",
    "langs": [
     "fr",
@@ -3336,12 +3336,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.4.7",
+   "version": "2.4.8",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 573,
-   "updated": "2026-11-22T19:18:26Z",
+   "installs": 574,
+   "updated": "2026-11-22T21:44:24Z",
    "langs": [
     "fr",
     "en"
@@ -3365,7 +3365,7 @@
    "category": "Sport",
    "approved": true,
    "stars": 1,
-   "installs": 60,
+   "installs": 61,
    "updated": "2026-11-19T23:35:42Z",
    "langs": [
     "fr",
@@ -3515,7 +3515,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 65,
+   "installs": 66,
    "updated": "2026-11-21T19:45:30Z",
    "langs": [
     "fr",
@@ -3865,7 +3865,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 26,
    "updated": "2026-11-19T23:30:36Z",
    "langs": [
     "fr",
@@ -3890,7 +3890,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
+   "installs": 22,
    "updated": "2026-11-19T23:30:31Z",
    "langs": [
     "fr",
@@ -4015,7 +4015,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 37,
+   "installs": 38,
    "updated": "2026-11-19T23:30:21Z",
    "langs": [
     "fr",
@@ -4315,7 +4315,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
+   "installs": 20,
    "updated": "2026-11-19T23:29:42Z",
    "langs": [
     "fr",
@@ -4785,20 +4785,20 @@
    "id": "neodex.themeado",
    "repo": "NDesumeur/neodex-plugin-theme-ado",
    "name": "Thème Ado",
-   "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») qui se promène derrière les cadres et dépasse de chacun, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
-   "version": "1.0.0",
+   "description": "Un thème bleu et noir en hommage à Ado : son illustration en fond, des roses bleues dans les coins avec des autocollants gyaru qui scintillent, Abo (la peluche du mème « I am Ado ») assis au bord de chaque cadre et qui se promène dans la barre des tâches, la liste de ses chansons qui défile en bas et un titre NeoDex gras et lisible, repris sur la barre des tâches. Thème de fan, sans lien officiel avec l'artiste.",
+   "version": "1.0.1",
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 38,
-   "updated": "2026-11-16T21:10:23Z",
+   "installs": 41,
+   "updated": "2026-11-22T21:44:04Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Ado theme",
-    "description": "A blue and black theme in tribute to Ado: her artwork in the background, blue roses in the corners with sparkling gyaru stickers, Abo (the plush from the \"I am Ado\" meme) strolling behind the panels and peeking out of each one, a scrolling list of her songs at the bottom and a bold, readable NeoDex title, also on the taskbar. A fan theme, not officially linked to the artist."
+    "description": "A blue and black theme in tribute to Ado: her artwork in the background, blue roses in the corners with sparkling gyaru stickers, Abo (the plush from the \"I am Ado\" meme) sitting on the edge of each panel and strolling along the taskbar, a scrolling list of her songs at the bottom and a bold, readable NeoDex title, also on the taskbar. A fan theme, not officially linked to the artist."
    },
    "rating": {
     "average": 0,
@@ -4815,7 +4815,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:18:21Z",
    "langs": [
     "fr",
@@ -4915,7 +4915,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:30Z",
    "langs": [
     "fr",
@@ -5040,7 +5040,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-22T19:19:59Z",
    "langs": [
     "fr",
@@ -5065,7 +5065,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:04Z",
    "langs": [
     "fr",
@@ -5090,7 +5090,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 5,
+   "installs": 6,
    "updated": "2026-11-22T19:20:09Z",
    "langs": [
     "fr",
@@ -5165,7 +5165,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:20:14Z",
    "langs": [
     "fr",
@@ -5215,7 +5215,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:18:37Z",
    "langs": [
     "fr",
@@ -5340,7 +5340,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 2,
+   "installs": 3,
    "updated": "2026-11-22T19:18:32Z",
    "langs": [
     "fr",
@@ -5415,7 +5415,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 8,
+   "installs": 9,
    "updated": "2026-11-16T05:28:03Z",
    "langs": [
     "fr",
@@ -5465,7 +5465,7 @@
    "category": "Outils",
    "approved": true,
    "stars": 1,
-   "installs": 55,
+   "installs": 56,
    "updated": "2026-11-16T05:28:25Z",
    "langs": [
     "fr",
@@ -5540,7 +5540,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 30,
+   "installs": 31,
    "updated": "2026-11-19T23:28:39Z",
    "langs": [
     "fr",
@@ -5565,7 +5565,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 26,
    "updated": "2026-11-19T23:28:34Z",
    "langs": [
     "fr",
@@ -5635,20 +5635,20 @@
    "id": "neodex.valse",
    "repo": "NDesumeur/neodex-plugin-valse",
    "name": "Valse",
-   "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin. Effets de caméra, entraînement depuis 25, 50 ou 75 % du morceau, record « sans faute », figure du chemin à la fin.",
-   "version": "1.3.0",
+   "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape pile quand l'astre touche la dalle suivante. Trop tôt ou trop tard, la partie est perdue : on reprend au dernier drapeau (toutes les 32 dalles). Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D, manette, entraînement depuis 25, 50 ou 75 % du morceau.",
+   "version": "2.0.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 24,
-   "updated": "2026-11-22T19:16:58Z",
+   "installs": 25,
+   "updated": "2026-11-22T21:44:17Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Waltz",
-    "description": "One-key rhythm game: the sun and the moon spin around each other on a path of tiles drawn by the music; tap when the spinning one touches the next tile. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Version 1.1.0: gamepad play (any button places the star, Start starts, Select pauses) and an accuracy curve along the song on the end screen. Camera effects, practice from 25, 50 or 75 % of the song, flawless record, the path's figure at the end."
+    "description": "One-key rhythm game: the sun and the moon spin around each other on a path of tiles drawn by the music; tap right when the orb touches the next tile. Too early or too late and the run is lost: you start again from the last flag (every 32 tiles). The 1200 tracks from Rythme rated from 1 to 10 stars, or levels made from your own music; combo, S to D grade, gamepad, practice from 25, 50 or 75 % of the song."
    },
    "rating": {
     "average": 0,
