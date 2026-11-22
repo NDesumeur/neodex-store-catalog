@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-22T01:21:43.217Z",
+ "updated": "2026-11-22T17:21:47.832Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -186,7 +186,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 42,
+   "installs": 43,
    "updated": "2026-11-16T16:40:42Z",
    "langs": [
     "fr",
@@ -2765,7 +2765,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 43,
+   "installs": 44,
    "updated": "2026-11-16T16:47:06Z",
    "langs": [
     "fr",
