@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-21T22:22:26.894Z",
+ "updated": "2026-11-22T01:21:43.217Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -365,7 +365,7 @@
    "category": "Création",
    "approved": true,
    "stars": 1,
-   "installs": 490,
+   "installs": 491,
    "updated": "2026-11-16T16:41:04Z",
    "langs": [
     "fr",
