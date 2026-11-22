@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-22T17:21:47.832Z",
+ "updated": "2026-11-22T19:22:04.905Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -31,20 +31,20 @@
    "id": "neodex.aiguillage",
    "repo": "NDesumeur/neodex-plugin-aiguillage",
    "name": "Aiguillage",
-   "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options.",
-   "version": "1.0.2",
+   "description": "Jeu de rythme en train à travers la campagne : à chaque aiguillage, une voie porte un wagon et l'autre finit sur un butoir. Change l'aiguillage du bon côté (← ou D/F à gauche, → ou J/K à droite, ou un clic sur la moitié de l'écran) pile quand la locomotive y arrive. Chaque wagon pris allonge le train, une impasse le raccourcit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options. Nouveau : les wagons livrés bâtissent ta ville, partie après partie (12 bâtiments). Aussi : les saisons, des tunnels où l'on joue à l'oreille, des ponts-levis et des trains qui arrivent en face.",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
    "installs": 6,
-   "updated": "2026-11-20T19:29:59Z",
+   "updated": "2026-11-22T19:17:28Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Aiguillage",
-    "description": "Train rhythm game through the countryside: at every switch, one track carries a wagon and the other ends at a buffer stop. Switch to the right side (← or D/F for left, → or J/K for right, or a click on that half of the screen) just as the engine gets there. Every wagon you take makes the train longer, a dead end makes it shorter. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad. Keys of your choice in the options."
+    "description": "Train rhythm game through the countryside: at every switch, one track carries a wagon and the other ends at a buffer stop. Switch to the right side (← or D/F for left, → or J/K for right, or a click on that half of the screen) just as the engine gets there. Every wagon you take makes the train longer, a dead end makes it shorter. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad. Keys of your choice in the options. New: the wagons you deliver build your town, game after game (12 buildings). Also: seasons, tunnels where you play by ear, drawbridges and trains coming the other way."
    },
    "rating": {
     "average": 0,
@@ -181,20 +181,20 @@
    "id": "neodex.aquarium",
    "repo": "NDesumeur/neodex-plugin-aquarium",
    "name": "Aquarium",
-   "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau (douce, mer, tropicale, polaire, abysses), nourris-le, nettoie l'eau et décore. Les poissons heureux grandissent, ont des petits (parfois d'une couleur rare) et attirent des visiteurs qui laissent des pourboires. Carnet des espèces, défis et bassins notés jusqu'à 3 étoiles.",
-   "version": "1.3.1",
+   "description": "Jeu de gestion qui prolonge la Pêche : chaque poisson attrapé arrive vivant dans ton vivier. Installe-le dans un bassin de la bonne eau, choisis sa forme (arrondi, colonne, panoramique), plante des plantes vivantes qui poussent et nettoient l'eau, et surveille l'écosystème : les grands chasseurs mangent les petits poissons, d'autres grignotent les plantes ou nettoient le fond. Les visiteurs ont leurs goûts (l'enfant veut des poissons colorés, le savant des espèces rares, le photographe des géants, le rêveur des bassins pleins de plantes). Un musée à ouvrir salle par salle en donnant une espèce après l'autre, et ton plus beau bassin peut devenir le fond d'écran de NeoDex avec le thème Aquarium. Carnet des espèces, naissances, défis et bassins notés jusqu'à 3 étoiles.",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 43,
-   "updated": "2026-11-16T16:40:42Z",
+   "updated": "2026-11-22T19:18:14Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Aquarium",
-    "description": "A management game that extends Fishing: every fish you catch arrives alive in your holding tank. Put it in a tank of the right water (fresh, sea, tropical, polar, abyss), feed it, clean the water and decorate. Happy fish grow, have young (sometimes of a rare colour) and draw visitors who leave tips. A species log, challenges and tanks rated up to 3 stars."
+    "description": "Management game that extends Fishing: every fish you catch arrives alive in your pool. Put it in a tank with the right water, choose its shape (rounded, column, panoramic), plant living plants that grow and clean the water, and watch the ecosystem: big hunters eat small fish, others nibble the plants or clean the bottom. Visitors have their tastes (the child wants colourful fish, the scholar rare species, the photographer giants, the dreamer tanks full of plants). A museum to open hall by hall by giving one species after another, and your finest tank can become the NeoDex wallpaper with the Aquarium theme. Species log, births, challenges and tanks rated up to 3 stars."
    },
    "rating": {
     "average": 0,
@@ -231,20 +231,20 @@
    "id": "neodex.arene",
    "repo": "NDesumeur/neodex-plugin-arene",
    "name": "NeoBestiary Arène",
-   "description": "Combats au tour par tour entre les créatures de NeoBestiary Studio, contre l'ordinateur ou à deux sur le même PC. Chaque créature a 2 à 4 attaques tirées de 204 techniques : statuts (brûlure, poison, gel, sommeil, paralysie…), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, avec une table des types de ×4 à ×¼. Garde, variantes de couleur, palmarès, et NeoMe avec ses attaques signature.",
-   "version": "1.5.8",
+   "description": "Combats au tour par tour entre les créatures de NeoBestiary Studio, contre l'ordinateur ou à deux sur le même PC. Chaque créature a 2 à 4 attaques tirées de 204 techniques : statuts (brûlure, poison, gel, sommeil, paralysie…), crans de statistiques, précision, coups multiples, vol de vie, soins et renforts, avec une table des types de ×4 à ×¼. Garde, variantes de couleur, palmarès, et NeoMe avec ses attaques signature. Nouveau : les équipes de 3, avec des changements en cours de combat (l'ordinateur sait aussi changer quand il est en danger). Chaque créature a un talent passif (Rage, Carapace, Éclaireur, Régénération…), et le mode Draft fait choisir 3 créatures à tour de rôle parmi 9. Les coups se voient et s'entendent : un son par geste et par élément, la cible recule et blanchit sous le coup, la garde fait s'accroupir, les statuts se voient sur le corps (brûlure, gel, poison, sommeil), et les attaques épiques ou légendaires ont leur mise en scène.",
+   "version": "1.6.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 365,
-   "updated": "2026-11-19T23:32:51Z",
+   "updated": "2026-11-22T19:17:45Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoBestiary Arena",
-    "description": "Turn-based fights between NeoBestiary Studio creatures, against the computer or two players on the same PC. Each creature has 2 to 4 moves drawn from 204 techniques: statuses (burn, poison, freeze, sleep, paralysis…), stat stages, accuracy, multi-hit moves, life steal, heals and boosts, with a type chart from ×4 to ×¼. Guard, colour variants, a win record, and NeoMe with its signature moves."
+    "description": "Turn-based fights between NeoBestiary Studio creatures, against the computer or two players on the same PC. Each creature has 2 to 4 moves drawn from 204 techniques: statuses (burn, poison, freeze, sleep, paralysis…), stat stages, accuracy, multi-hit moves, life steal, heals and boosts, with a type chart from ×4 to ×¼. Guard, colour variants, a win record, and NeoMe with its signature moves. New: teams of 3, with switches during the fight (the computer also knows when to switch out of danger). Each creature has a passive talent (Rage, Shell, Scout, Regeneration…), and Draft mode has both sides pick 3 creatures in turn from 9. Hits are seen and heard: a sound for each move type and element, the target recoils and flashes white, guarding makes it crouch, statuses show on the body (burn, freeze, poison, sleep), and epic or legendary moves get their own staging."
    },
    "rating": {
     "average": 5,
@@ -264,20 +264,20 @@
    "id": "neodex.astropole",
    "repo": "NDesumeur/neodex-plugin-astropole",
    "name": "Astropole",
-   "description": "Jeu de gestion incrémental en pixel art : bâtis une ville spatiale dont les bâtiments produisent des crédits chaque seconde, même NeoDex fermé. Chaque sorte de bâtiment a son quartier et la ville se remplit, de jour comme de nuit. Recherches, succès qui ajoutent de la production pour toujours, pluies de météores, marchand, et des colonies sur six planètes avec des Mémoires à dépenser en avantages.",
-   "version": "1.4.1",
+   "description": "Jeu incrémental en pixel art, refait de zéro : bâtis une ville spatiale qui produit des crédits même NeoDex fermé, zoome sur ses quartiers et leurs habitants, attrape vaisseaux, fêtes, météores et marchand. Quatre couches qui changent les règles : colonies sur six planètes avec doctrines exclusives et défis, singularités et matière noire, puis une galaxie à conquérir.",
+   "version": "2.0.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 42,
-   "updated": "2026-11-19T23:35:19Z",
+   "updated": "2026-11-22T19:18:03Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Astropolis",
-    "description": "A pixel art idle game: build a space city whose buildings make credits every second, even with NeoDex closed. Each kind of building has its own district and the city fills up, by day and by night. Research, achievements that add production for good, meteor showers, a merchant, and colonies on six planets with Memories to spend on perks."
+    "description": "A pixel-art incremental game, rebuilt from scratch: build a space city that makes credits even with NeoDex closed, zoom into its districts and their inhabitants, catch ships, parties, meteors and the merchant. Four layers that change the rules: colonies on six planets with exclusive doctrines and challenges, singularities and dark matter, then a galaxy to conquer."
    },
    "rating": {
     "average": 0,
@@ -360,20 +360,20 @@
    "id": "neodex.bestiarystudio",
    "repo": "NDesumeur/neodex-plugin-bestiarystudio",
    "name": "NeoBestiary Studio",
-   "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques, des musiques et des mondes entiers (continents, rivières, villes, factions) où vivent tes créatures. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement.",
-   "version": "1.9.1",
+   "description": "Décris une créature en français : l'IA dessine 3 esquisses, tu choisis, et elle sort en personnage de jeu 64×64 dans les 4 directions avec une marche en 5 images, une fiche de bestiaire (types, rareté, statistiques, 2 à 4 attaques animées) et un portrait de combat. Crée aussi des objets, des attaques, des musiques et des mondes entiers (continents, rivières, villes, factions) où vivent tes créatures. Tout tourne en local sur ton PC (ComfyUI, carte NVIDIA 8 Go), modèles installés automatiquement. Nouveau : la file de nuit (écris tes créatures une par ligne, le Studio les invoque l'une après l'autre puis s'arrête) et la palette commune (les couleurs de 1 à 3 créatures de référence, imposées aux autres pour un bestiaire cohérent).",
+   "version": "1.10.0",
    "category": "Création",
    "approved": true,
    "stars": 1,
    "installs": 491,
-   "updated": "2026-11-16T16:41:04Z",
+   "updated": "2026-11-22T19:17:51Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoBestiary Studio",
-    "description": "Describe a creature in words: the AI draws 3 sketches, you pick one, and it comes out as a 64×64 game character in 4 directions with a 5-frame walk, a bestiary entry (types, rarity, stats, 2 to 4 animated attacks) and a combat portrait. Also create objects, attacks, music and whole worlds (continents, rivers, cities, factions) where your creatures live. Everything runs locally on your PC (ComfyUI, 8 GB NVIDIA card), with models installed automatically."
+    "description": "Describe a creature in words: the AI draws 3 sketches, you pick one, and it comes out as a 64×64 game character in 4 directions with a 5-frame walk, a bestiary entry (types, rarity, stats, 2 to 4 animated attacks) and a combat portrait. Also create objects, attacks, music and whole worlds (continents, rivers, cities, factions) where your creatures live. Everything runs locally on your PC (ComfyUI, 8 GB NVIDIA card), with models installed automatically. New: the night queue (write your creatures one per line, the Studio summons them one after another then stops) and the shared palette (the colours of 1 to 3 reference creatures, applied to the others for a consistent bestiary)."
    },
    "rating": {
     "average": 0,
@@ -810,20 +810,20 @@
    "id": "neodex.cavale",
    "repo": "NDesumeur/neodex-plugin-cavale",
    "name": "Cavale",
-   "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme en course : les chauves-souris arrivent en l'air (J ou K), les gelées au sol (F ou D), deux monstres à la fois et des rubans dorés à tenir, sur un chemin au coucher du soleil. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Trois personnages (coureuse, chat, robot), trois chemins selon les étoiles (forêt, neige, ville), manette, courbe de précision en fin de morceau. Boss sur les passages les plus chargés, pouvoirs et niveaux des personnages, coups selon le jugement, musique de victoire, notes cachées. Trois nouveaux chemins : le désert, le château et le pont d'un bateau.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 25,
-   "updated": "2026-11-20T03:12:58Z",
+   "updated": "2026-11-22T19:17:17Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Gallop",
-    "description": "A running rhythm game: bats come in the air (J or K), slimes on the ground (F or D), two monsters at once and golden ribbons to hold, on a path at sunset. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Three characters (runner, cat, robot), three paths depending on the stars (forest, snow, city), gamepad, accuracy curve at the end of the song."
+    "description": "A running rhythm game: bats come in the air (J or K), slimes on the ground (F or D), two monsters at once and golden ribbons to hold, on a path at sunset. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Three characters (runner, cat, robot), three paths depending on the stars (forest, snow, city), gamepad, accuracy curve at the end of the song. Bosses on the busiest passages, character powers and levels, slashes by judgement, victory tunes, hidden notes. Three new paths: the desert, the castle and a ship's deck."
    },
    "rating": {
     "average": 0,
@@ -1010,20 +1010,20 @@
    "id": "neodex.constellation",
    "repo": "NDesumeur/neodex-plugin-constellation",
    "name": "Orbites",
-   "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette. Touches au choix dans les options.",
-   "version": "1.0.2",
+   "description": "Jeu de rythme dans l'espace : une planète tourne autour de son étoile, sur trois orbites, un tour toutes les deux mesures. Sur chaque note, une étoile filante attend sur l'orbite voisine et une comète arrive sur la tienne : saute pile sur le temps, vers l'extérieur (↑ ou J/K) ou l'intérieur (↓ ou F/D), pour l'attraper. Le mauvais sens, c'est la comète. Une traînée dorée : garde la touche jusqu'à son bout. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue au clavier ou à la manette. Touches au choix dans les options. Nouveau : chaque morceau dessine sa constellation, gardée dans « Mon ciel ».",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
    "installs": 6,
-   "updated": "2026-11-20T19:29:53Z",
+   "updated": "2026-11-22T19:17:22Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Orbites",
-    "description": "Rhythm game in space: a planet circles its star on three orbits, one lap every two bars. On every note, a shooting star waits on the next orbit and a comet comes along yours: jump right on the beat, outwards (↑ or J/K) or inwards (↓ or F/D), to catch it. The wrong way means the comet. A golden trail: hold the key until its end. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with the keyboard or a gamepad. Keys of your choice in the options."
+    "description": "Rhythm game in space: a planet circles its star on three orbits, one lap every two bars. On every note, a shooting star waits on the next orbit and a comet comes along yours: jump right on the beat, outwards (↑ or J/K) or inwards (↓ or F/D), to catch it. The wrong way means the comet. A golden trail: hold the key until its end. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with the keyboard or a gamepad. Keys of your choice in the options. New: each song draws its own constellation, kept in “My sky”."
    },
    "rating": {
     "average": 0,
@@ -1149,6 +1149,931 @@
    "en": {
     "name": "DataForge",
     "description": "Open and transform your data as a table: CSV (separator guessed, quotes, French-style numbers), TSV copied from a spreadsheet, JSON or Excel (.xlsx). Join two files on a common column. Sort, filter, look at the statistics and chart of each column, add columns computed by formula, rename, clean, remove duplicates, undo, then export to Excel, CSV, TSV, JSON, Markdown or SQL. Join two files on a common column, open and save in Excel (.xlsx), bigger text."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorabyss",
+   "repo": "NDesumeur/neodex-plugin-decor-abyss",
+   "name": "Décor Abysses",
+   "description": "Les abysses, au fond de la mer : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:22Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Abyss decor",
+    "description": "The abyss, at the bottom of the sea: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decoraurora",
+   "repo": "NDesumeur/neodex-plugin-decor-aurora",
+   "name": "Décor Aurore boréale",
+   "description": "Une aurore boréale : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:08Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Northern lights decor",
+    "description": "Northern lights: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorautomne",
+   "repo": "NDesumeur/neodex-plugin-decor-automne",
+   "name": "Décor Automne",
+   "description": "L’automne : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:20Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Autumn decor",
+    "description": "Autumn: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorbambou",
+   "repo": "NDesumeur/neodex-plugin-decor-bambou",
+   "name": "Décor Bambouseraie",
+   "description": "Une bambouseraie : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:16:07Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Bamboo grove decor",
+    "description": "A bamboo grove: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorbanquise",
+   "repo": "NDesumeur/neodex-plugin-decor-banquise",
+   "name": "Décor Banquise",
+   "description": "La banquise : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:05Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Ice floe decor",
+    "description": "The pack ice: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorchateau",
+   "repo": "NDesumeur/neodex-plugin-decor-chateau",
+   "name": "Décor Château",
+   "description": "Un château : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Castle decor",
+    "description": "A castle: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorcity",
+   "repo": "NDesumeur/neodex-plugin-decor-city",
+   "name": "Décor Ville néon",
+   "description": "Une ville néon la nuit : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:40Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Neon city decor",
+    "description": "A neon city at night: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorcristaux",
+   "repo": "NDesumeur/neodex-plugin-decor-cristaux",
+   "name": "Décor Cristaux",
+   "description": "Une grotte de cristaux : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:50Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Crystals decor",
+    "description": "A crystal cave: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decordesert",
+   "repo": "NDesumeur/neodex-plugin-decor-desert",
+   "name": "Décor Désert",
+   "description": "Le désert : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:02Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Desert decor",
+    "description": "The desert: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorfireflies",
+   "repo": "NDesumeur/neodex-plugin-decor-fireflies",
+   "name": "Décor Lucioles",
+   "description": "Des lucioles : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:13:42Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Fireflies decor",
+    "description": "Fireflies: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorfloating",
+   "repo": "NDesumeur/neodex-plugin-decor-floating",
+   "name": "Décor Îles flottantes",
+   "description": "Des îles flottantes : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:42Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Floating islands decor",
+    "description": "Floating islands: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorfoire",
+   "repo": "NDesumeur/neodex-plugin-decor-foire",
+   "name": "Décor Fête foraine",
+   "description": "Une fête foraine : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:52Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Funfair decor",
+    "description": "A funfair: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorforest",
+   "repo": "NDesumeur/neodex-plugin-decor-forest",
+   "name": "Décor Forêt",
+   "description": "Une forêt : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:46Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Forest decor",
+    "description": "A forest: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorfuji",
+   "repo": "NDesumeur/neodex-plugin-decor-fuji",
+   "name": "Décor Mont Fuji",
+   "description": "Le mont Fuji : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Mount Fuji decor",
+    "description": "Mount Fuji: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorgalion",
+   "repo": "NDesumeur/neodex-plugin-decor-galion",
+   "name": "Décor Galion",
+   "description": "Un galion : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:44Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Galleon decor",
+    "description": "A galleon: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorjungle",
+   "repo": "NDesumeur/neodex-plugin-decor-jungle",
+   "name": "Décor Cascade",
+   "description": "Une cascade dans la jungle : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:37Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cascade decor",
+    "description": "A waterfall in the jungle: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorlavande",
+   "repo": "NDesumeur/neodex-plugin-decor-lavande",
+   "name": "Décor Champs de lavande",
+   "description": "Des champs de lavande : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Lavender fields decor",
+    "description": "Lavender fields: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorlilas",
+   "repo": "NDesumeur/neodex-plugin-decor-lilas",
+   "name": "Décor Lilas",
+   "description": "Des lilas en fleurs : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:16:14Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Lilacs decor",
+    "description": "Lilacs in bloom: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decormarais",
+   "repo": "NDesumeur/neodex-plugin-decor-marais",
+   "name": "Décor Marais",
+   "description": "Un marais : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:28Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Swamp decor",
+    "description": "A marsh: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decormars",
+   "repo": "NDesumeur/neodex-plugin-decor-mars",
+   "name": "Décor Mars",
+   "description": "La planète Mars : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:21Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Mars decor",
+    "description": "The planet Mars: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decormountains",
+   "repo": "NDesumeur/neodex-plugin-decor-mountains",
+   "name": "Décor Crépuscule",
+   "description": "Des montagnes au crépuscule : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:57Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Dusk decor",
+    "description": "Mountains at dusk: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorocean",
+   "repo": "NDesumeur/neodex-plugin-decor-ocean",
+   "name": "Décor Océan",
+   "description": "L’océan : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:52Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Ocean decor",
+    "description": "The ocean: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decororage",
+   "repo": "NDesumeur/neodex-plugin-decor-orage",
+   "name": "Décor Orage sur la mer",
+   "description": "Un orage sur la mer : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:28Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Storm at sea decor",
+    "description": "A storm at sea: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decororbit",
+   "repo": "NDesumeur/neodex-plugin-decor-orbit",
+   "name": "Décor Station orbitale",
+   "description": "Une station orbitale : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:27Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Orbital station decor",
+    "description": "An orbital station: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorplage",
+   "repo": "NDesumeur/neodex-plugin-decor-plage",
+   "name": "Décor Plage tropicale",
+   "description": "Une plage tropicale : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:13:49Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Tropical beach decor",
+    "description": "A tropical beach: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorpluie",
+   "repo": "NDesumeur/neodex-plugin-decor-pluie",
+   "name": "Décor Pluie sur la ville",
+   "description": "La pluie sur la ville : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:13:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Rain on the city decor",
+    "description": "Rain over the city: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorrecif",
+   "repo": "NDesumeur/neodex-plugin-decor-recif",
+   "name": "Décor Récif de corail",
+   "description": "Un récif de corail : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:57Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Coral reef decor",
+    "description": "A coral reef: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorrooftops",
+   "repo": "NDesumeur/neodex-plugin-decor-rooftops",
+   "name": "Décor Toits la nuit",
+   "description": "Les toits d’une ville la nuit : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:32Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Rooftops at night decor",
+    "description": "The rooftops of a city at night: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorsakura",
+   "repo": "NDesumeur/neodex-plugin-decor-sakura",
+   "name": "Décor Cerisiers",
+   "description": "Des cerisiers en fleurs : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cherry trees decor",
+    "description": "Cherry trees in bloom: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorsavane",
+   "repo": "NDesumeur/neodex-plugin-decor-savane",
+   "name": "Décor Savane",
+   "description": "La savane : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:05Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Savannah decor",
+    "description": "The savanna: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorskylanterns",
+   "repo": "NDesumeur/neodex-plugin-decor-skylanterns",
+   "name": "Décor Lanternes",
+   "description": "Des lanternes qui montent dans le ciel : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:13:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Lanterns decor",
+    "description": "Lanterns rising into the sky: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorspace",
+   "repo": "NDesumeur/neodex-plugin-decor-space",
+   "name": "Décor Espace",
+   "description": "L’espace, ses nébuleuses et ses étoiles filantes : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:35Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Space decor",
+    "description": "Space, its nebulas and shooting stars: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorsynthwave",
+   "repo": "NDesumeur/neodex-plugin-decor-synthwave",
+   "name": "Décor Synthwave",
+   "description": "Un paysage synthwave : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:14:43Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Synthwave decor",
+    "description": "A synthwave landscape: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decortrain",
+   "repo": "NDesumeur/neodex-plugin-decor-train",
+   "name": "Décor Train de nuit",
+   "description": "Un train de nuit : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:47Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Night train decor",
+    "description": "A night train: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decortrounoir",
+   "repo": "NDesumeur/neodex-plugin-decor-trounoir",
+   "name": "Décor Trou noir",
+   "description": "Un trou noir : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:59Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Black hole decor",
+    "description": "A black hole: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorvangogh",
+   "repo": "NDesumeur/neodex-plugin-decor-vangogh",
+   "name": "Décor Nuit étoilée",
+   "description": "Une nuit étoilée, à la manière de Van Gogh : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:15:36Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Starry night decor",
+    "description": "A starry night, in the manner of Van Gogh: a pixel art decor for NeoDex's background, moving gently behind your windows."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.decorvolcano",
+   "repo": "NDesumeur/neodex-plugin-decor-volcano",
+   "name": "Décor Volcan",
+   "description": "Un volcan : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+   "version": "1.0.0",
+   "category": "Décors",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:21:17Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Volcano decor",
+    "description": "A volcano: a pixel art decor for NeoDex's background, moving gently behind your windows."
    },
    "rating": {
     "average": 0,
@@ -1535,20 +2460,20 @@
    "id": "neodex.forge",
    "repo": "NDesumeur/neodex-plugin-forge",
    "name": "Forge",
-   "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options.",
-   "version": "1.0.2",
+   "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options. Nouveau : la commande du jour (un client choisit l'arme, le métal et ta façon de jouer) et l'armurerie avec toute ta collection. Au choix, un 4e acte : l'enchantement (grave des runes à gauche puis à droite ; ta précision fait briller l'arme de braises, de givre, de foudre ou d'étoiles).",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
    "installs": 6,
-   "updated": "2026-11-20T19:29:47Z",
+   "updated": "2026-11-22T19:17:34Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Forge",
-    "description": "Rhythm game at the forge, in three acts: the blade (hammer the ingots reaching the anvil, hold the bars to stretch it), the guard (pieces come from both sides: strike on the right one, ← or D/F, → or J/K), then the pommel (set the falling gems, doubles with both hands). The accuracy of each act picks the metal of its piece: iron, bronze, steel, damascus, mithril or star. Six weapon shapes (dagger, sword, sabre, axe, spear, hammer): 36 blades to collect, the latest ones on the rack. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad. Keys of your choice in the options."
+    "description": "Rhythm game at the forge, in three acts: the blade (hammer the ingots reaching the anvil, hold the bars to stretch it), the guard (pieces come from both sides: strike on the right one, ← or D/F, → or J/K), then the pommel (set the falling gems, doubles with both hands). The accuracy of each act picks the metal of its piece: iron, bronze, steel, damascus, mithril or star. Six weapon shapes (dagger, sword, sabre, axe, spear, hammer): 36 blades to collect, the latest ones on the rack. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grades from S to D. Plays with a gamepad. Keys of your choice in the options. New: the daily order (a customer picks the weapon, the metal and how you play) and the armoury with your whole collection. Optional 4th act: the enchantment (carve runes on the left then the right; your accuracy makes the weapon glow with embers, frost, lightning or stars)."
    },
    "rating": {
     "average": 0,
@@ -2411,12 +3336,12 @@
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
    "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.4.6",
+   "version": "2.4.7",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 570,
-   "updated": "2026-11-21T01:15:56Z",
+   "updated": "2026-11-22T19:18:26Z",
    "langs": [
     "fr",
     "en"
@@ -2485,20 +3410,20 @@
    "id": "neodex.neome",
    "repo": "NDesumeur/neodex-plugin-neome",
    "name": "NeoMe",
-   "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 17 auras (certaines changent de couleur ou respirent) se débloquent en montant de niveau.",
-   "version": "1.4.2",
+   "description": "Ton compagnon : il vit sur l'accueil et se promène dans la barre des tâches. Câlins au clic, chatouilles au double-clic, menu au clic droit pour le nourrir, jouer à la balle (combo et record), le coucher ou le renommer. Ventre, joie et énergie baissent avec le temps ; il dort la nuit, danse sur ta musique et monte de niveau à chaque attention. S'adapte à la taille de l'écran : le grand NeoMe grandit avec la fenêtre sans dépasser sa hauteur ; la garde-robe vide ne s'affiche plus. Trois jeux du jour, une partie chacun par jour pour un peu d'XP : Pas d'ombre (pousse caisses et lanternes pour rester dans l'ombre), Ondes de minuit (des miroirs pour réveiller les créatures dans l'ordre) et Éclosion (fais rouler la coquille dans un jardin de nuit). Ses 17 auras (certaines changent de couleur ou respirent) se débloquent en montant de niveau. Nouveau : jamais une corvée. Le temps seul ne le rend jamais triste, il réclame doucement à manger, et quand tu reviens après une longue absence, il fait la fête.",
+   "version": "1.5.0",
    "category": "Compagnon",
    "approved": true,
    "stars": 1,
    "installs": 54,
-   "updated": "2026-11-16T21:10:18Z",
+   "updated": "2026-11-22T19:17:57Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoMe",
-    "description": "Your companion: it lives on the home page and walks along the taskbar. Cuddles on click, tickles on double-click, a right-click menu to feed it, play ball (combo and record), put it to bed or rename it. Belly, joy and energy drop over time; it sleeps at night, dances to your music and levels up with every bit of attention. Fits the screen size: the big NeoMe grows with the window without going past its height; the empty wardrobe no longer shows. Three games of the day, one round each per day for a little XP: No Shadow (push crates and lanterns to stay in the shadows), Midnight Waves (mirrors to wake the creatures in order) and Hatching (roll the shell through a night garden). Its 17 auras (some shift colour or breathe) unlock as it levels up."
+    "description": "Your companion: it lives on the home page and walks along the taskbar. Cuddles on click, tickles on double-click, a right-click menu to feed it, play ball (combo and record), put it to bed or rename it. Belly, joy and energy drop over time; it sleeps at night, dances to your music and levels up with every bit of attention. Fits the screen size: the big NeoMe grows with the window without going past its height; the empty wardrobe no longer shows. Three games of the day, one round each per day for a little XP: No Shadow (push crates and lanterns to stay in the shadows), Midnight Waves (mirrors to wake the creatures in order) and Hatching (roll the shell through a night garden). Its 17 auras (some shift colour or breathe) unlock as it levels up. New: never a chore. Time alone never makes it sad, it gently asks for food, and when you come back after a long absence, it throws a party."
    },
    "rating": {
     "average": 0,
@@ -2535,20 +3460,20 @@
    "id": "neodex.neotha",
    "repo": "NDesumeur/neodex-plugin-neotha",
    "name": "NeoTha",
-   "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables. Chaque morceau a son tunnel (forme et couleurs), et l'écran de fin montre la courbe de précision.",
-   "version": "1.6.1",
+   "description": "Jeu de rythme à la souris : les notes arrivent du fond d'un tunnel vers une grille de 3 × 3, place ton curseur dessus au moment où elles se posent. Les 1200 morceaux de Rythme en 4 difficultés, ou des niveaux créés depuis un fichier audio ou ta bibliothèque NeoMusic (tempo détecté). Combo jusqu'au double des points, note de S à D, décalage audio et curseur réglables. Chaque morceau a son tunnel (forme et couleurs), et l'écran de fin montre la courbe de précision. Import des maps de Sound Space et Rhythia (.sspm), vitesse d'approche et distance réglables, mods Fondu, Fantôme et Miroir, couleurs par figure, défis de grille, carte des ratés et niveau du joueur. Nouveau : la vitesse du morceau (0,75× à 1,5×) et revoir sa partie.",
+   "version": "1.8.0",
    "category": "Musique",
    "approved": true,
    "stars": 1,
    "installs": 328,
-   "updated": "2026-11-20T03:12:53Z",
+   "updated": "2026-11-22T19:17:40Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoTha",
-    "description": "A mouse rhythm game: notes come from the end of a tunnel towards a 3 × 3 grid; put your cursor on them as they land. The 1200 Rythme tracks in 4 difficulties, or levels created from an audio file or your NeoMusic library (tempo detected). Combo up to double points, grades from S to D, adjustable audio offset and cursor. Each song has its own tunnel (shape and colours), and the end screen shows the accuracy curve."
+    "description": "A mouse rhythm game: notes come from the end of a tunnel towards a 3 × 3 grid; put your cursor on them as they land. The 1200 Rythme tracks in 4 difficulties, or levels created from an audio file or your NeoMusic library (tempo detected). Combo up to double points, grades from S to D, adjustable audio offset and cursor. Each song has its own tunnel (shape and colours), and the end screen shows the accuracy curve. Import of Sound Space and Rhythia maps (.sspm), adjustable approach speed and distance, Fade in, Ghost and Mirror mods, colours by pattern, grid challenges, miss map and player level. New: song speed (0.75× to 1.5×) and watching your game again."
    },
    "rating": {
     "average": 0,
@@ -2760,20 +3685,20 @@
    "id": "neodex.peche",
    "repo": "NDesumeur/neodex-plugin-peche",
    "name": "Pêche",
-   "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 153 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; jour, nuit et météo changeante, 5 cannes, 7 appâts, coffres au trésor, collection, trois défis par jour et niveau de pêcheur. Sons (moulinet, plouf, eau, oiseaux) et musique douce, un aquarium où nagent tes prises dans la collection, plein écran et textes d'aide plus grands.",
-   "version": "1.3.1",
+   "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 156 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; la pluie, l'orage et le brouillard changent la pêche, et certaines espèces suivent les vraies saisons et la vraie lune. 5 cannes et 3 montages (canne légère pour les petites espèces, moulinet lourd pour les monstres), des appâts à fabriquer avec ce que tu trouves, trois légendes du village à pêcher au terme de leur histoire dans un combat en trois phases, un tournoi chaque semaine contre les pêcheurs du village, coffres au trésor, collection, défis du jour et niveau de pêcheur. Sons, musique douce et plein écran.",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 44,
-   "updated": "2026-11-16T16:47:06Z",
+   "updated": "2026-11-22T19:18:09Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Fishing",
-    "description": "A fishing game: set your cast, wait for the real bite, strike fast, then tire the fish by managing the tension and its runs left or right. 153 species across 7 places, each with its own hours, weather and favourite baits; day, night and changing weather, 5 rods, 7 baits, treasure chests, a collection, three daily challenges and an angler level. Sounds (reel, splash, water, birds) and soft music, an aquarium where your catches swim in the collection, full screen and bigger help texts."
+    "description": "Fishing game: set your cast, wait for the real bite, strike fast, then tire the fish by handling the tension and its runs to the left or right. 156 species in 7 places, each with its own hours, weather and favourite baits; rain, storms and fog change the fishing, and some species follow the real seasons and the real moon. 5 rods and 3 setups (a light rod for small species, a heavy reel for monsters), baits to craft from what you find, three village legends to catch at the end of their story in a three-phase fight, a weekly tournament against the village anglers, treasure chests, collection, daily challenges and angler level. Sounds, gentle music and full screen."
    },
    "rating": {
     "average": 0,
@@ -3010,20 +3935,20 @@
    "id": "neodex.prisme",
    "repo": "NDesumeur/neodex-plugin-prisme",
    "name": "Prisme",
-   "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau. Socles qui tournent, trajectoires courbes, notes de réfraction, mode miroir, cristal qui change de forme, collection de facettes.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 126,
-   "updated": "2026-11-20T03:13:04Z",
+   "updated": "2026-11-22T19:16:46Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Prism",
-    "description": "A keyboard rhythm game: notes burst from a central crystal towards four pads; hit the right arrow (or WASD) as they land, with two-key chords and long notes to hold. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset. End screen with the accuracy curve along the song."
+    "description": "A keyboard rhythm game: notes burst from a central crystal towards four pads; hit the right arrow (or WASD) as they land, with two-key chords and long notes to hold. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music. Perfect, Good or OK, combo, grades from S to D and a self-adjusting offset. End screen with the accuracy curve along the song. Rotating pads, curved paths, refraction notes, mirror mode, a crystal that changes shape, facet collection."
    },
    "rating": {
     "average": 0,
@@ -3110,20 +4035,20 @@
    "id": "neodex.pulsar",
    "repo": "NDesumeur/neodex-plugin-pulsar",
    "name": "Pulsar",
-   "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau. Notes rouges à éviter, spirales à suivre, taille du bouclier réglable, notes cachées, supernova au plein combo, stick de la manette.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 124,
-   "updated": "2026-11-20T03:13:09Z",
+   "updated": "2026-11-22T19:16:52Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Pulsar",
-    "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D. The central star beats with the music and changes colour, end screen with the accuracy curve along the song."
+    "description": "A circular rhythm game: notes rush towards a star from eight directions. Turn the shield with the mouse or arrows to catch the blue notes, and hit the pink rings with Space or a click as they land on the circle. The 1200 Rythme tracks rated from 1 to 10 stars, or levels created from your own music; combo and grades from S to D. The central star beats with the music and changes colour, end screen with the accuracy curve along the song. Red notes to dodge, spirals to follow, adjustable shield size, hidden notes, supernova on full combo, gamepad stick."
    },
    "rating": {
     "average": 0,
@@ -3335,20 +4260,20 @@
    "id": "neodex.ricochet",
    "repo": "NDesumeur/neodex-plugin-ricochet",
    "name": "Ricochet",
-   "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau. Nouveau : deux étincelles à suivre en même temps, l'orange et la bleue (records à part). Aussi : des cours en hexagone et en triangle, et des murs qui bougent en musique.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 24,
-   "updated": "2026-11-20T03:13:14Z",
+   "updated": "2026-11-22T19:17:11Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Ricochet",
-    "description": "Bouncing rhythm game: a spark flies between the four walls of a stone courtyard; hit the arrow of the wall it is about to touch when it rings the gong, and hold the key on golden slides. The rhythm is read in its path. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. The court changes with the song (brick yard, temple, Japanese garden, ice), you can also play with a gamepad, and the end screen shows the accuracy curve along the song."
+    "description": "Bouncing rhythm game: a spark flies between the four walls of a stone courtyard; hit the arrow of the wall it is about to touch when it rings the gong, and hold the key on golden slides. The rhythm is read in its path. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. The court changes with the song (brick yard, temple, Japanese garden, ice), you can also play with a gamepad, and the end screen shows the accuracy curve along the song. New: two sparks to follow at once, the orange one and the blue one (separate records). Also: hexagon and triangle courts, and walls that move with the music."
    },
    "rating": {
     "average": 0,
@@ -3485,20 +4410,20 @@
    "id": "neodex.sillage",
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
-   "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau. L'altitude suit la mélodie, la ville réagit à la musique, traînée de la couleur des étoiles, dessin du vol à la fin.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 127,
-   "updated": "2026-11-20T03:13:24Z",
+   "updated": "2026-11-22T19:17:05Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Wake",
-    "description": "A flying rhythm game: your ship speeds along four altitudes above a city at night. Climb and dive to pick up stars at the height of their sound, follow the ribbons of long notes and get through energy gates with a boost. The 1200 Rythme tracks rated from 1 to 10 stars or your own music; combo and grades from S to D. Playable with a gamepad; the end screen shows the accuracy curve along the song."
+    "description": "A flying rhythm game: your ship speeds along four altitudes above a city at night. Climb and dive to pick up stars at the height of their sound, follow the ribbons of long notes and get through energy gates with a boost. The 1200 Rythme tracks rated from 1 to 10 stars or your own music; combo and grades from S to D. Playable with a gamepad; the end screen shows the accuracy curve along the song. Altitude follows the melody, the city reacts to the music, trail in the stars' colour, the flight drawn at the end."
    },
    "rating": {
     "average": 0,
@@ -3735,20 +4660,20 @@
    "id": "neodex.tambour",
    "repo": "NDesumeur/neodex-plugin-tambour",
    "name": "Tambour",
-   "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau. Branches de difficulté qui changent en cours de morceau, ballons et kusudama, épreuves Dan de 4 morceaux, import des morceaux .tja, lanternes qui s'allument avec le combo. NeoMe, la mascotte, danse au bord de la scène en tenue de fête.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 24,
-   "updated": "2026-11-20T03:13:29Z",
+   "updated": "2026-11-22T19:16:39Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Drumbeat",
-    "description": "Drum rhythm game: red notes (center hit, F or J) and blue notes (rim hit, D or K) scroll toward the circle, with big notes to hit with both hands and drumrolls, under the lanterns of a night festival. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Playable with a gamepad; the end screen shows the accuracy curve along the song."
+    "description": "Drum rhythm game: red notes (center hit, F or J) and blue notes (rim hit, D or K) scroll toward the circle, with big notes to hit with both hands and drumrolls, under the lanterns of a night festival. The 1200 Rythme tracks rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Playable with a gamepad; the end screen shows the accuracy curve along the song. Difficulty branches that change during the song, balloons and kusudama, 4-song Dan trials, .tja song import, lanterns that light up with the combo. NeoMe, the mascot, dances at the edge of the stage in festival clothes."
    },
    "rating": {
     "average": 0,
@@ -3832,6 +4757,31 @@
    }
   },
   {
+   "id": "neodex.themeabysses",
+   "repo": "NDesumeur/neodex-plugin-theme-abysses",
+   "name": "Thème Abysses",
+   "description": "Fond marin : bleus profonds, lueurs bioluminescentes, cadres fins. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:13Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Abyss theme",
+    "description": "Sea floor: deep blues, bioluminescent glows, thin frames. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
    "id": "neodex.themeado",
    "repo": "NDesumeur/neodex-plugin-theme-ado",
    "name": "Thème Ado",
@@ -3849,6 +4799,606 @@
    "en": {
     "name": "Ado theme",
     "description": "A blue and black theme in tribute to Ado: her artwork in the background, blue roses in the corners with sparkling gyaru stickers, Abo (the plush from the \"I am Ado\" meme) strolling behind the panels and peeking out of each one, a scrolling list of her songs at the bottom and a bold, readable NeoDex title, also on the taskbar. A fan theme, not officially linked to the artist."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeaquarium",
+   "repo": "NDesumeur/neodex-plugin-theme-aquarium",
+   "name": "Thème Aquarium",
+   "description": "NeoDex sous l'eau : ton bassin préféré de l'appli Aquarium devient le fond d'écran, avec tes poissons qui traversent l'écran et des bulles qui montent derrière les cadres. Des cadres en verre bleu au bord turquoise. Sans l'appli Aquarium (ou avant de l'ouvrir), un bassin tropical d'exemple.",
+   "version": "1.0.0",
+   "category": "",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:21Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Aquarium theme",
+    "description": "NeoDex underwater: your favourite tank from the Aquarium app becomes the wallpaper, with your fish swimming across the screen and bubbles rising behind the panels. Blue glass panels with a turquoise edge. Without the Aquarium app (or before opening it), a sample tropical tank."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themearcade",
+   "repo": "NDesumeur/neodex-plugin-theme-arcade",
+   "name": "Thème Borne d’arcade",
+   "description": "Une salle d’arcade : rouge, jaune et bleu francs, gros contours noirs, chiffres à points. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:29Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Arcade cabinet theme",
+    "description": "An arcade room: bold red, yellow and blue, thick black outlines, dot digits. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeardoise",
+   "repo": "NDesumeur/neodex-plugin-theme-ardoise",
+   "name": "Thème Tableau noir",
+   "description": "Un vrai tableau noir d’école : traits à la craie blanche, rose et bleue, cadre en bois, traces de chiffon. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:34Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Blackboard theme",
+    "description": "A real school blackboard: white, pink and blue chalk lines, wooden frame, eraser marks. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeaurore",
+   "repo": "NDesumeur/neodex-plugin-theme-aurore",
+   "name": "Thème Aurore boréale",
+   "description": "Une nuit polaire : des voiles verts et violets ondulent dans le ciel, les cadres luisent comme la glace. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Northern lights theme",
+    "description": "A polar night: green and violet veils wave in the sky, the frames shine like ice. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themebonbon",
+   "repo": "NDesumeur/neodex-plugin-theme-bonbon",
+   "name": "Thème Bonbons",
+   "description": "Une confiserie : rayures de sucre d’orge, coins tout ronds, couleurs acidulées, tuiles qui rebondissent. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:30Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Sweets theme",
+    "description": "A sweet shop: candy-cane stripes, very round corners, tangy colours, bouncing tiles. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themecyber",
+   "repo": "NDesumeur/neodex-plugin-theme-cyber",
+   "name": "Thème Cyberpunk",
+   "description": "Néon jaune et cyan sur béton nocturne : coins coupés, bandes de danger, texte qui grésille. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:19Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cyberpunk theme",
+    "description": "Yellow and cyan neon on night concrete: cut corners, hazard stripes, crackling text. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeforet",
+   "repo": "NDesumeur/neodex-plugin-theme-foret",
+   "name": "Thème Forêt enchantée",
+   "description": "Mousse et bois : cadres en bois arrondis, lueurs de lucioles, vert profond. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Enchanted forest theme",
+    "description": "Moss and wood: rounded wooden frames, firefly glows, deep green. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themegivre",
+   "repo": "NDesumeur/neodex-plugin-theme-givre",
+   "name": "Thème Givre",
+   "description": "Tout est gelé : panneaux de glace flous, givre dans les coins, éclats de neige. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:49Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Frost theme",
+    "description": "Everything is frozen: blurred ice panels, frost in the corners, snow sparkles. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themegrimoire",
+   "repo": "NDesumeur/neodex-plugin-theme-grimoire",
+   "name": "Thème Grimoire",
+   "description": "Les boîtes de dialogue d’un jeu de rôle : double cadre doré sur parchemin sombre. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:48Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Grimoire theme",
+    "description": "The dialog boxes of a role-playing game: a double golden frame on dark parchment. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeholo",
+   "repo": "NDesumeur/neodex-plugin-theme-holo",
+   "name": "Thème Hologramme",
+   "description": "Des reflets irisés qui changent de couleur : cadres arc-en-ciel, titre holographique qui ondule. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:59Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Hologram theme",
+    "description": "Iridescent reflections that change colour: rainbow frames, a holographic title that waves. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themehud",
+   "repo": "NDesumeur/neodex-plugin-theme-hud",
+   "name": "Thème Cockpit",
+   "description": "L’affichage tête haute d’un vaisseau : coins de visée au lieu des cadres, lignes fines cyan, alertes orange. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:04Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Cockpit theme",
+    "description": "A spaceship’s head-up display: aiming corners instead of frames, thin cyan lines, orange alerts. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themejardin",
+   "repo": "NDesumeur/neodex-plugin-theme-jardin",
+   "name": "Thème Jardin fleuri",
+   "description": "Plantes et petites fleurs : une prairie au bas de l’écran, des lianes le long des barres, des fleurs aux coins des panneaux. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:09Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Flower garden theme",
+    "description": "Plants and little flowers: a meadow at the bottom of the screen, vines along the bars, flowers in the panel corners. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themelave",
+   "repo": "NDesumeur/neodex-plugin-theme-lave",
+   "name": "Thème Volcan",
+   "description": "Obsidienne et lave : cadres qui rougeoient, titre en fusion, chaleur qui monte du bas de l’écran. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:44Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Volcano theme",
+    "description": "Obsidian and lava: glowing frames, molten title, heat rising from the bottom of the screen. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.thememanga",
+   "repo": "NDesumeur/neodex-plugin-theme-manga",
+   "name": "Thème Manga",
+   "description": "Noir et blanc, traits épais, ombres portées franches et trame de points. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:03Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Manga theme",
+    "description": "Black and white, thick lines, hard drop shadows and a dot screen. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeneige",
+   "repo": "NDesumeur/neodex-plugin-theme-neige",
+   "name": "Thème Neige",
+   "description": "Un soir d’hiver bien au chaud : la neige tombe doucement, et elle s’entasse sur les panneaux et les barres. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:14Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Snow theme",
+    "description": "A cosy winter evening: snow falls gently and piles up on the panels and bars. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeplan",
+   "repo": "NDesumeur/neodex-plugin-theme-plan",
+   "name": "Thème Plan d’architecte",
+   "description": "Papier bleu quadrillé, traits fins en pointillés, tout en capitales. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:58Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Blueprint theme",
+    "description": "Squared blue paper, thin dotted lines, all in capitals. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themepoche",
+   "repo": "NDesumeur/neodex-plugin-theme-poche",
+   "name": "Thème Console de poche",
+   "description": "Les verts d’un écran LCD de console portable, de gros pixels et une trame de points. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:37Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Handheld console theme",
+    "description": "The greens of a handheld console’s LCD screen, big pixels and a dot grid. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themesakura",
+   "repo": "NDesumeur/neodex-plugin-theme-sakura",
+   "name": "Thème Sakura",
+   "description": "Pastel doux, rose et vert tendre, coins ronds, sans balayage. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:08Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Sakura theme",
+    "description": "Soft pastel, pink and tender green, round corners, no scanline. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themesepia",
+   "repo": "NDesumeur/neodex-plugin-theme-sepia",
+   "name": "Thème Vieux film",
+   "description": "Une pellicule des années 20 : sépia, rayures et grain qui tremblent, perforations de film autour des barres. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:54Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Old film theme",
+    "description": "A 1920s film reel: sepia, shaking scratches and grain, film perforations around the bars. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themesteampunk",
+   "repo": "NDesumeur/neodex-plugin-theme-steampunk",
+   "name": "Thème Steampunk",
+   "description": "Laiton, cuivre et rivets : des engrenages aux coins des panneaux, des barres en métal riveté. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:20:24Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Steampunk theme",
+    "description": "Brass, copper and rivets: gears in the panel corners, riveted metal bars. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themesynthwave",
+   "repo": "NDesumeur/neodex-plugin-theme-synthwave",
+   "name": "Thème Synthwave",
+   "description": "Coucher de soleil rétro : dégradés rose et orange, titres chromés, grille d’horizon. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:42Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Synthwave theme",
+    "description": "Retro sunset: pink and orange gradients, chrome titles, horizon grid. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeterminal",
+   "repo": "NDesumeur/neodex-plugin-theme-terminal",
+   "name": "Thème Terminal",
+   "description": "Écran à phosphore vert : une seule police de console, du texte qui luit, un balayage marqué. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:32Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Terminal theme",
+    "description": "Green phosphor screen: one console font, glowing text, a strong scanline. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themevapor",
+   "repo": "NDesumeur/neodex-plugin-theme-vapor",
+   "name": "Thème Vaporwave 95",
+   "description": "Un vieux bureau d’ordinateur en pastel : fenêtres en relief, barres de titre dégradées, grille rose à l’horizon. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:19:39Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Vaporwave 95 theme",
+    "description": "An old computer desktop in pastel: raised windows, gradient title bars, pink grid on the horizon. A colour and frame theme for NeoDex."
+   },
+   "rating": {
+    "average": 0,
+    "count": 0,
+    "list": []
+   }
+  },
+  {
+   "id": "neodex.themeverre",
+   "repo": "NDesumeur/neodex-plugin-theme-verre",
+   "name": "Thème Verre dépoli",
+   "description": "Moderne : panneaux translucides et flous, coins arrondis, texte net. Un thème de couleurs et de cadres pour NeoDex.",
+   "version": "1.0.0",
+   "category": "Thèmes",
+   "approved": false,
+   "stars": 0,
+   "installs": 0,
+   "updated": "2026-11-22T19:18:53Z",
+   "langs": [
+    "fr",
+    "en"
+   ],
+   "en": {
+    "name": "Frosted glass theme",
+    "description": "Modern: translucent blurred panels, rounded corners, crisp text. A colour and frame theme for NeoDex."
    },
    "rating": {
     "average": 0,
@@ -4085,20 +5635,20 @@
    "id": "neodex.valse",
    "repo": "NDesumeur/neodex-plugin-valse",
    "name": "Valse",
-   "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin.",
-   "version": "1.2.1",
+   "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape au moment où l'astre touche la dalle suivante. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Version 1.1.0 : jeu à la manette (n'importe quel bouton pose l'astre, Start lance, Select met en pause) et courbe de précision le long du morceau sur l'écran de fin. Effets de caméra, entraînement depuis 25, 50 ou 75 % du morceau, record « sans faute », figure du chemin à la fin.",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
    "installs": 22,
-   "updated": "2026-11-20T03:13:34Z",
+   "updated": "2026-11-22T19:16:58Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "Waltz",
-    "description": "One-key rhythm game: the sun and the moon spin around each other on a path of tiles drawn by the music; tap when the spinning one touches the next tile. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Version 1.1.0: gamepad play (any button places the star, Start starts, Select pauses) and an accuracy curve along the song on the end screen."
+    "description": "One-key rhythm game: the sun and the moon spin around each other on a path of tiles drawn by the music; tap when the spinning one touches the next tile. The 1200 Rhythm songs rated from 1 to 10 stars, or levels made from your own music; combo, grade from S to D. Version 1.1.0: gamepad play (any button places the star, Start starts, Select pauses) and an accuracy curve along the song on the end screen. Camera effects, practice from 25, 50 or 75 % of the song, flawless record, the path's figure at the end."
    },
    "rating": {
     "average": 0,
