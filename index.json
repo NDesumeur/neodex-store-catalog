@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-22T19:23:48Z",
+  "updated": "2026-11-22T19:24:36Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3943,6 +3943,1183 @@
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
       "gamepad": true
+    },
+    {
+      "id": "neodex.themeaquarium",
+      "name": "Thème Aquarium",
+      "repo": "NDesumeur/neodex-plugin-theme-aquarium",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": false,
+      "compatibility": [
+        "windows",
+        "linux"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "NeoDex sous l'eau : ton bassin préféré de l'appli Aquarium devient le fond d'écran, avec tes poissons qui traversent l'écran et des bulles qui montent derrière les cadres. Des cadres en verre bleu au bord turquoise. Sans l'appli Aquarium (ou avant de l'ouvrir), un bassin tropical d'exemple.",
+      "neodex": ">=3.2.2"
+    },
+    {
+      "id": "neodex.themeterminal",
+      "name": "Thème Terminal",
+      "repo": "NDesumeur/neodex-plugin-theme-terminal",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Écran à phosphore vert : une seule police de console, du texte qui luit, un balayage marqué. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themepoche",
+      "name": "Thème Console de poche",
+      "repo": "NDesumeur/neodex-plugin-theme-poche",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Les verts d’un écran LCD de console portable, de gros pixels et une trame de points. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themesynthwave",
+      "name": "Thème Synthwave",
+      "repo": "NDesumeur/neodex-plugin-theme-synthwave",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Coucher de soleil rétro : dégradés rose et orange, titres chromés, grille d’horizon. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themegrimoire",
+      "name": "Thème Grimoire",
+      "repo": "NDesumeur/neodex-plugin-theme-grimoire",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Les boîtes de dialogue d’un jeu de rôle : double cadre doré sur parchemin sombre. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeverre",
+      "name": "Thème Verre dépoli",
+      "repo": "NDesumeur/neodex-plugin-theme-verre",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Moderne : panneaux translucides et flous, coins arrondis, texte net. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeplan",
+      "name": "Thème Plan d’architecte",
+      "repo": "NDesumeur/neodex-plugin-theme-plan",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Papier bleu quadrillé, traits fins en pointillés, tout en capitales. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.thememanga",
+      "name": "Thème Manga",
+      "repo": "NDesumeur/neodex-plugin-theme-manga",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Noir et blanc, traits épais, ombres portées franches et trame de points. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themesakura",
+      "name": "Thème Sakura",
+      "repo": "NDesumeur/neodex-plugin-theme-sakura",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Pastel doux, rose et vert tendre, coins ronds, sans balayage. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeabysses",
+      "name": "Thème Abysses",
+      "repo": "NDesumeur/neodex-plugin-theme-abysses",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Fond marin : bleus profonds, lueurs bioluminescentes, cadres fins. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themecyber",
+      "name": "Thème Cyberpunk",
+      "repo": "NDesumeur/neodex-plugin-theme-cyber",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Néon jaune et cyan sur béton nocturne : coins coupés, bandes de danger, texte qui grésille. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeforet",
+      "name": "Thème Forêt enchantée",
+      "repo": "NDesumeur/neodex-plugin-theme-foret",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Mousse et bois : cadres en bois arrondis, lueurs de lucioles, vert profond. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themearcade",
+      "name": "Thème Borne d’arcade",
+      "repo": "NDesumeur/neodex-plugin-theme-arcade",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une salle d’arcade : rouge, jaune et bleu francs, gros contours noirs, chiffres à points. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeardoise",
+      "name": "Thème Tableau noir",
+      "repo": "NDesumeur/neodex-plugin-theme-ardoise",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un vrai tableau noir d’école : traits à la craie blanche, rose et bleue, cadre en bois, traces de chiffon. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themevapor",
+      "name": "Thème Vaporwave 95",
+      "repo": "NDesumeur/neodex-plugin-theme-vapor",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un vieux bureau d’ordinateur en pastel : fenêtres en relief, barres de titre dégradées, grille rose à l’horizon. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themelave",
+      "name": "Thème Volcan",
+      "repo": "NDesumeur/neodex-plugin-theme-lave",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Obsidienne et lave : cadres qui rougeoient, titre en fusion, chaleur qui monte du bas de l’écran. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themegivre",
+      "name": "Thème Givre",
+      "repo": "NDesumeur/neodex-plugin-theme-givre",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Tout est gelé : panneaux de glace flous, givre dans les coins, éclats de neige. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themesepia",
+      "name": "Thème Vieux film",
+      "repo": "NDesumeur/neodex-plugin-theme-sepia",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une pellicule des années 20 : sépia, rayures et grain qui tremblent, perforations de film autour des barres. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeholo",
+      "name": "Thème Hologramme",
+      "repo": "NDesumeur/neodex-plugin-theme-holo",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des reflets irisés qui changent de couleur : cadres arc-en-ciel, titre holographique qui ondule. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themehud",
+      "name": "Thème Cockpit",
+      "repo": "NDesumeur/neodex-plugin-theme-hud",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "L’affichage tête haute d’un vaisseau : coins de visée au lieu des cadres, lignes fines cyan, alertes orange. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themejardin",
+      "name": "Thème Jardin fleuri",
+      "repo": "NDesumeur/neodex-plugin-theme-jardin",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Plantes et petites fleurs : une prairie au bas de l’écran, des lianes le long des barres, des fleurs aux coins des panneaux. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeneige",
+      "name": "Thème Neige",
+      "repo": "NDesumeur/neodex-plugin-theme-neige",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un soir d’hiver bien au chaud : la neige tombe doucement, et elle s’entasse sur les panneaux et les barres. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themeaurore",
+      "name": "Thème Aurore boréale",
+      "repo": "NDesumeur/neodex-plugin-theme-aurore",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une nuit polaire : des voiles verts et violets ondulent dans le ciel, les cadres luisent comme la glace. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themesteampunk",
+      "name": "Thème Steampunk",
+      "repo": "NDesumeur/neodex-plugin-theme-steampunk",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Laiton, cuivre et rivets : des engrenages aux coins des panneaux, des barres en métal riveté. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.themebonbon",
+      "name": "Thème Bonbons",
+      "repo": "NDesumeur/neodex-plugin-theme-bonbon",
+      "version": "1.0.0",
+      "category": "Thèmes",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une confiserie : rayures de sucre d’orge, coins tout ronds, couleurs acidulées, tuiles qui rebondissent. Un thème de couleurs et de cadres pour NeoDex.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorspace",
+      "name": "Décor Espace",
+      "repo": "NDesumeur/neodex-plugin-decor-space",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "L’espace, ses nébuleuses et ses étoiles filantes : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorcity",
+      "name": "Décor Ville néon",
+      "repo": "NDesumeur/neodex-plugin-decor-city",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une ville néon la nuit : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorforest",
+      "name": "Décor Forêt",
+      "repo": "NDesumeur/neodex-plugin-decor-forest",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une forêt : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorocean",
+      "name": "Décor Océan",
+      "repo": "NDesumeur/neodex-plugin-decor-ocean",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "L’océan : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decormountains",
+      "name": "Décor Crépuscule",
+      "repo": "NDesumeur/neodex-plugin-decor-mountains",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des montagnes au crépuscule : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decordesert",
+      "name": "Décor Désert",
+      "repo": "NDesumeur/neodex-plugin-decor-desert",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Le désert : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decoraurora",
+      "name": "Décor Aurore boréale",
+      "repo": "NDesumeur/neodex-plugin-decor-aurora",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une aurore boréale : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorsakura",
+      "name": "Décor Cerisiers",
+      "repo": "NDesumeur/neodex-plugin-decor-sakura",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des cerisiers en fleurs : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorvolcano",
+      "name": "Décor Volcan",
+      "repo": "NDesumeur/neodex-plugin-decor-volcano",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un volcan : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorabyss",
+      "name": "Décor Abysses",
+      "repo": "NDesumeur/neodex-plugin-decor-abyss",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Les abysses, au fond de la mer : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decororbit",
+      "name": "Décor Station orbitale",
+      "repo": "NDesumeur/neodex-plugin-decor-orbit",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une station orbitale : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorrooftops",
+      "name": "Décor Toits la nuit",
+      "repo": "NDesumeur/neodex-plugin-decor-rooftops",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Les toits d’une ville la nuit : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorjungle",
+      "name": "Décor Cascade",
+      "repo": "NDesumeur/neodex-plugin-decor-jungle",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une cascade dans la jungle : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorfloating",
+      "name": "Décor Îles flottantes",
+      "repo": "NDesumeur/neodex-plugin-decor-floating",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des îles flottantes : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decortrain",
+      "name": "Décor Train de nuit",
+      "repo": "NDesumeur/neodex-plugin-decor-train",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un train de nuit : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorskylanterns",
+      "name": "Décor Lanternes",
+      "repo": "NDesumeur/neodex-plugin-decor-skylanterns",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des lanternes qui montent dans le ciel : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorfireflies",
+      "name": "Décor Lucioles",
+      "repo": "NDesumeur/neodex-plugin-decor-fireflies",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des lucioles : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorplage",
+      "name": "Décor Plage tropicale",
+      "repo": "NDesumeur/neodex-plugin-decor-plage",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une plage tropicale : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorpluie",
+      "name": "Décor Pluie sur la ville",
+      "repo": "NDesumeur/neodex-plugin-decor-pluie",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "La pluie sur la ville : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorsavane",
+      "name": "Décor Savane",
+      "repo": "NDesumeur/neodex-plugin-decor-savane",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "La savane : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorlavande",
+      "name": "Décor Champs de lavande",
+      "repo": "NDesumeur/neodex-plugin-decor-lavande",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des champs de lavande : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorautomne",
+      "name": "Décor Automne",
+      "repo": "NDesumeur/neodex-plugin-decor-automne",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "L’automne : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decororage",
+      "name": "Décor Orage sur la mer",
+      "repo": "NDesumeur/neodex-plugin-decor-orage",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un orage sur la mer : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorfuji",
+      "name": "Décor Mont Fuji",
+      "repo": "NDesumeur/neodex-plugin-decor-fuji",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Le mont Fuji : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorsynthwave",
+      "name": "Décor Synthwave",
+      "repo": "NDesumeur/neodex-plugin-decor-synthwave",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un paysage synthwave : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorcristaux",
+      "name": "Décor Cristaux",
+      "repo": "NDesumeur/neodex-plugin-decor-cristaux",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une grotte de cristaux : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorrecif",
+      "name": "Décor Récif de corail",
+      "repo": "NDesumeur/neodex-plugin-decor-recif",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un récif de corail : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorbanquise",
+      "name": "Décor Banquise",
+      "repo": "NDesumeur/neodex-plugin-decor-banquise",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "La banquise : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorchateau",
+      "name": "Décor Château",
+      "repo": "NDesumeur/neodex-plugin-decor-chateau",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un château : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decormars",
+      "name": "Décor Mars",
+      "repo": "NDesumeur/neodex-plugin-decor-mars",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "La planète Mars : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decormarais",
+      "name": "Décor Marais",
+      "repo": "NDesumeur/neodex-plugin-decor-marais",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un marais : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorvangogh",
+      "name": "Décor Nuit étoilée",
+      "repo": "NDesumeur/neodex-plugin-decor-vangogh",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une nuit étoilée, à la manière de Van Gogh : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorgalion",
+      "name": "Décor Galion",
+      "repo": "NDesumeur/neodex-plugin-decor-galion",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un galion : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorfoire",
+      "name": "Décor Fête foraine",
+      "repo": "NDesumeur/neodex-plugin-decor-foire",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une fête foraine : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decortrounoir",
+      "name": "Décor Trou noir",
+      "repo": "NDesumeur/neodex-plugin-decor-trounoir",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Un trou noir : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorbambou",
+      "name": "Décor Bambouseraie",
+      "repo": "NDesumeur/neodex-plugin-decor-bambou",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Une bambouseraie : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
+    },
+    {
+      "id": "neodex.decorlilas",
+      "name": "Décor Lilas",
+      "repo": "NDesumeur/neodex-plugin-decor-lilas",
+      "version": "1.0.0",
+      "category": "Décors",
+      "system": false,
+      "type": "theme",
+      "mobile": true,
+      "compatibility": [
+        "windows",
+        "linux",
+        "android"
+      ],
+      "approved": true,
+      "permissions": [],
+      "description": "Des lilas en fleurs : un décor en pixel art pour le fond de NeoDex, qui bouge doucement derrière tes fenêtres.",
+      "neodex": ">=3.3.9"
     }
   ],
   "revoked": [
