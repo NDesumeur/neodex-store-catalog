@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-22T21:44:29Z",
+  "updated": "2026-11-23T01:38:15Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -2263,7 +2263,7 @@
       "id": "neodex.orbe",
       "name": "Orbe",
       "repo": "NDesumeur/neodex-plugin-orbe",
-      "version": "1.4.2",
+      "version": "1.4.3",
       "category": "Jeux · Rythme",
       "system": false,
       "type": "app",
