@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-23T11:22:42.701Z",
+ "updated": "2026-11-23T12:29:45.069Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -4940,7 +4940,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 4,
+   "installs": 5,
    "updated": "2026-11-22T19:19:19Z",
    "langs": [
     "fr",
