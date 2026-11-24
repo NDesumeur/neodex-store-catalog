@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "updated": "2026-11-24T16:18:12Z",
+  "updated": "2026-11-24T16:19:02Z",
   "topic": "neodex-plugin",
   "plugins": [
     {
@@ -3201,7 +3201,8 @@
       ],
       "description": "Jeu d'adresse : une balle rebondit sur les plateaux d'une tour en spirale dessinée en pixel art. Tourne la tour pour la faire tomber par les trous, évite les cases rouges, et enchaîne trois plateaux pour arriver lancée et tout casser. Des niveaux de plus en plus serrés, une arrivée dorée au fond. Meilleur niveau et meilleur score. Bouton plein écran, et la tour grandit avec la fenêtre.",
       "syncMode": "aucune",
-      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil."
+      "syncInfo": "Rien n'est synchronisé : tes records restent sur cet appareil.",
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.bousculade",
@@ -3417,7 +3418,8 @@
       "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape pile quand l'astre touche la dalle suivante. Trop tôt ou trop tard, la partie est perdue : on reprend au dernier drapeau (toutes les 32 dalles). Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D, manette, entraînement depuis 25, 50 ou 75 % du morceau.",
       "syncMode": "progression",
       "syncInfo": "Scores et notes par niveau, réglages.",
-      "gamepad": true
+      "gamepad": true,
+      "phone": "1.0.0"
     },
     {
       "id": "neodex.ricochet",
