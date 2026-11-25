@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-25T17:22:26.695Z",
+ "updated": "2026-11-25T18:24:38.629Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -36,7 +36,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 12,
+   "installs": 14,
    "updated": "2026-11-25T17:19:15Z",
    "langs": [
     "fr",
@@ -86,7 +86,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
+   "installs": 28,
    "updated": "2026-11-25T17:19:21Z",
    "langs": [
     "fr",
@@ -111,7 +111,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
+   "installs": 28,
    "updated": "2026-11-25T17:19:29Z",
    "langs": [
     "fr",
@@ -136,7 +136,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 14,
+   "installs": 16,
    "updated": "2026-11-25T17:19:35Z",
    "langs": [
     "fr",
@@ -161,7 +161,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 42,
+   "installs": 44,
    "updated": "2026-11-25T17:19:42Z",
    "langs": [
     "fr",
@@ -186,7 +186,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 47,
+   "installs": 49,
    "updated": "2026-11-25T17:19:48Z",
    "langs": [
     "fr",
@@ -211,7 +211,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 25,
+   "installs": 27,
    "updated": "2026-11-25T17:19:55Z",
    "langs": [
     "fr",
@@ -236,7 +236,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 370,
+   "installs": 372,
    "updated": "2026-11-25T17:20:01Z",
    "langs": [
     "fr",
@@ -269,7 +269,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 47,
+   "installs": 49,
    "updated": "2026-11-25T17:20:07Z",
    "langs": [
     "fr",
@@ -319,7 +319,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
+   "installs": 21,
    "updated": "2026-11-25T17:20:12Z",
    "langs": [
     "fr",
@@ -390,7 +390,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
+   "installs": 29,
    "updated": "2026-11-25T17:20:18Z",
    "langs": [
     "fr",
@@ -415,7 +415,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
+   "installs": 29,
    "updated": "2026-11-25T17:20:24Z",
    "langs": [
     "fr",
@@ -440,7 +440,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
+   "installs": 22,
    "updated": "2026-11-25T17:20:30Z",
    "langs": [
     "fr",
@@ -515,7 +515,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 47,
+   "installs": 49,
    "updated": "2026-11-25T17:20:36Z",
    "langs": [
     "fr",
@@ -540,7 +540,7 @@
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 43,
+   "installs": 45,
    "updated": "2026-11-25T17:20:43Z",
    "langs": [
     "fr",
@@ -565,7 +565,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 23,
+   "installs": 25,
    "updated": "2026-11-25T17:20:50Z",
    "langs": [
     "fr",
@@ -615,7 +615,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 28,
+   "installs": 30,
    "updated": "2026-11-25T17:20:56Z",
    "langs": [
     "fr",
@@ -640,7 +640,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 9,
+   "installs": 11,
    "updated": "2026-11-25T17:21:02Z",
    "langs": [
     "fr",
@@ -715,7 +715,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
+   "installs": 23,
    "updated": "2026-11-25T17:21:08Z",
    "langs": [
     "fr",
@@ -740,7 +740,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 276,
+   "installs": 278,
    "updated": "2026-11-25T17:21:14Z",
    "langs": [
     "fr",
@@ -765,7 +765,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 46,
+   "installs": 48,
    "updated": "2026-11-25T17:21:20Z",
    "langs": [
     "fr",
@@ -790,7 +790,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 24,
+   "installs": 26,
    "updated": "2026-11-25T17:21:27Z",
    "langs": [
     "fr",
@@ -815,7 +815,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 28,
+   "installs": 30,
    "updated": "2026-11-25T17:21:32Z",
    "langs": [
     "fr",
@@ -840,7 +840,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
+   "installs": 19,
    "updated": "2026-11-25T17:21:39Z",
    "langs": [
     "fr",
@@ -965,7 +965,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
+   "installs": 29,
    "updated": "2026-11-25T17:21:44Z",
    "langs": [
     "fr",
@@ -990,7 +990,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 32,
+   "installs": 34,
    "updated": "2026-11-25T17:21:50Z",
    "langs": [
     "fr",
@@ -1015,7 +1015,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 9,
+   "installs": 11,
    "updated": "2026-11-25T17:21:56Z",
    "langs": [
     "fr",
@@ -1090,8 +1090,8 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
-   "updated": "2026-11-24T16:06:33Z",
+   "installs": 22,
+   "updated": "2026-11-25T17:22:03Z",
    "langs": [
     "fr",
     "en"
@@ -1115,8 +1115,8 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 44,
-   "updated": "2026-11-24T16:10:37Z",
+   "installs": 46,
+   "updated": "2026-11-25T17:22:09Z",
    "langs": [
     "fr",
     "en"
@@ -1165,7 +1165,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 437,
+   "installs": 443,
    "updated": "2026-11-22T19:21:22Z",
    "langs": [
     "fr",
@@ -1190,7 +1190,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 460,
+   "installs": 466,
    "updated": "2026-11-22T19:21:08Z",
    "langs": [
     "fr",
@@ -1215,7 +1215,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:22:23Z",
    "langs": [
     "fr",
@@ -1240,7 +1240,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 419,
+   "installs": 425,
    "updated": "2026-11-22T19:23:33Z",
    "langs": [
     "fr",
@@ -1265,7 +1265,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 418,
+   "installs": 424,
    "updated": "2026-11-22T19:22:53Z",
    "langs": [
     "fr",
@@ -1290,7 +1290,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 423,
    "updated": "2026-11-22T19:22:58Z",
    "langs": [
     "fr",
@@ -1315,7 +1315,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 542,
+   "installs": 549,
    "updated": "2026-11-22T19:20:40Z",
    "langs": [
     "fr",
@@ -1340,7 +1340,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 419,
+   "installs": 425,
    "updated": "2026-11-22T19:22:43Z",
    "langs": [
     "fr",
@@ -1365,7 +1365,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 467,
+   "installs": 474,
    "updated": "2026-11-22T19:21:02Z",
    "langs": [
     "fr",
@@ -1390,7 +1390,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 423,
+   "installs": 429,
    "updated": "2026-11-22T19:21:58Z",
    "langs": [
     "fr",
@@ -1415,7 +1415,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 426,
+   "installs": 432,
    "updated": "2026-11-22T19:21:42Z",
    "langs": [
     "fr",
@@ -1440,7 +1440,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 419,
+   "installs": 425,
    "updated": "2026-11-22T19:23:23Z",
    "langs": [
     "fr",
@@ -1465,7 +1465,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 507,
+   "installs": 515,
    "updated": "2026-11-22T19:20:46Z",
    "langs": [
     "fr",
@@ -1490,7 +1490,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:22:33Z",
    "langs": [
     "fr",
@@ -1515,7 +1515,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 418,
+   "installs": 424,
    "updated": "2026-11-22T19:23:19Z",
    "langs": [
     "fr",
@@ -1540,7 +1540,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 429,
+   "installs": 435,
    "updated": "2026-11-22T19:21:37Z",
    "langs": [
     "fr",
@@ -1565,7 +1565,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:22:18Z",
    "langs": [
     "fr",
@@ -1590,7 +1590,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 419,
+   "installs": 425,
    "updated": "2026-11-22T19:23:38Z",
    "langs": [
     "fr",
@@ -1615,7 +1615,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 423,
    "updated": "2026-11-22T19:23:09Z",
    "langs": [
     "fr",
@@ -1640,7 +1640,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 423,
    "updated": "2026-11-22T19:23:03Z",
    "langs": [
     "fr",
@@ -1665,7 +1665,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 478,
+   "installs": 485,
    "updated": "2026-11-22T19:20:57Z",
    "langs": [
     "fr",
@@ -1690,7 +1690,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 484,
+   "installs": 491,
    "updated": "2026-11-22T19:20:52Z",
    "langs": [
     "fr",
@@ -1715,7 +1715,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:22:28Z",
    "langs": [
     "fr",
@@ -1740,7 +1740,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 432,
+   "installs": 438,
    "updated": "2026-11-22T19:21:27Z",
    "langs": [
     "fr",
@@ -1765,7 +1765,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 422,
+   "installs": 428,
    "updated": "2026-11-22T19:22:03Z",
    "langs": [
     "fr",
@@ -1790,7 +1790,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 421,
+   "installs": 427,
    "updated": "2026-11-22T19:22:08Z",
    "langs": [
     "fr",
@@ -1815,7 +1815,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:22:48Z",
    "langs": [
     "fr",
@@ -1840,7 +1840,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 435,
+   "installs": 441,
    "updated": "2026-11-22T19:21:32Z",
    "langs": [
     "fr",
@@ -1865,7 +1865,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 446,
+   "installs": 452,
    "updated": "2026-11-22T19:21:13Z",
    "langs": [
     "fr",
@@ -1890,7 +1890,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 420,
+   "installs": 426,
    "updated": "2026-11-22T19:22:13Z",
    "langs": [
     "fr",
@@ -1915,7 +1915,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 425,
+   "installs": 431,
    "updated": "2026-11-22T19:21:52Z",
    "langs": [
     "fr",
@@ -1940,7 +1940,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 549,
+   "installs": 556,
    "updated": "2026-11-22T19:20:35Z",
    "langs": [
     "fr",
@@ -1965,7 +1965,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:22:38Z",
    "langs": [
     "fr",
@@ -1990,7 +1990,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 424,
+   "installs": 430,
    "updated": "2026-11-22T19:21:47Z",
    "langs": [
     "fr",
@@ -2015,7 +2015,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 419,
+   "installs": 425,
    "updated": "2026-11-22T19:23:28Z",
    "langs": [
     "fr",
@@ -2040,7 +2040,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:23:14Z",
    "langs": [
     "fr",
@@ -2065,7 +2065,7 @@
    "category": "Décors",
    "approved": true,
    "stars": 0,
-   "installs": 441,
+   "installs": 447,
    "updated": "2026-11-22T19:21:17Z",
    "langs": [
     "fr",
@@ -2086,12 +2086,12 @@
    "repo": "NDesumeur/neodex-plugin-defense-spatiale",
    "name": "Défense spatiale",
    "description": "Défense de tourelles : place et améliore 9 tourelles (laser, plasma, givre, tesla, missiles, rail, acide, nova, relais), chacune avec deux spécialisations au choix au niveau 3, le long de la route pour arrêter des vagues d'ennemis qui éclatent, se blindent, se régénèrent ou ignorent le ralentissement, avec un vaisseau-mère toutes les 10 vagues. 30 cartes, 4 difficultés, une médaille à la vague 50, et des cristaux en bonus quand tu appelles la vague en avance. Route lumineuse avec des flèches qui montrent le sens des ennemis, plein écran.",
-   "version": "1.4.0",
+   "version": "1.5.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 277,
-   "updated": "2026-11-24T16:04:51Z",
+   "installs": 279,
+   "updated": "2026-11-25T17:22:15Z",
    "langs": [
     "fr",
     "en"
@@ -2140,8 +2140,8 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 40,
-   "updated": "2026-11-19T23:33:38Z",
+   "installs": 42,
+   "updated": "2026-11-25T17:22:21Z",
    "langs": [
     "fr",
     "en"
@@ -2210,20 +2210,20 @@
    "id": "neodex.durararadle",
    "repo": "NDesumeur/neodex-plugin-durararadle",
    "name": "DurararaDle",
-   "description": "Jeu de devinettes de Durarara!! : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature (humain, dullahan…), nationalité et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji et Image dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée. Version 1.4.0 : bandeau illustré en pixel art (Ikebukuro la nuit, ses immeubles et ses néons, avec les portraits des personnages principaux), textes et zone de saisie plus grands, cases du tableau assez larges pour leur texte.",
-   "version": "1.4.1",
+   "description": "Jeu de devinettes de Durarara!! : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature (humain, dullahan…), nationalité et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji, Image, Ombre et Flou dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée. Version 1.4.0 : bandeau illustré en pixel art (Ikebukuro la nuit, ses immeubles et ses néons, avec les portraits des personnages principaux), textes et zone de saisie plus grands, cases du tableau assez larges pour leur texte.",
+   "version": "1.5.0",
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 44,
-   "updated": "2026-11-16T16:43:21Z",
+   "installs": 46,
+   "updated": "2026-11-25T17:22:26Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "DurararaDle",
-    "description": "A guessing game from Durarara!!: find the mystery character by typing names. In Classic mode, each guess compares gender, nature (human, dullahan…), nationality and more columns (green: same, orange: close); the Hints, Emoji and Image modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept. Version 1.4.0: an illustrated pixel art banner (Ikebukuro at night, its buildings and neon signs, with the portraits of the main characters), bigger texts and input, table cells wide enough for their text."
+    "description": "A guessing game from Durarara!!: find the mystery character by typing names. In Classic mode, each guess compares gender, nature (human, dullahan…), nationality and more columns (green: same, orange: close); the Hints, Emoji, Image, Shadow and Blur modes reveal one more clue after every wrong guess. One challenge a day per mode, the same for everyone, free games and your streak kept. Version 1.4.0: an illustrated pixel art banner (Ikebukuro at night, its buildings and neon signs, with the portraits of the main characters), bigger texts and input, table cells wide enough for their text."
    },
    "rating": {
     "average": 0,
@@ -2236,12 +2236,12 @@
    "repo": "NDesumeur/neodex-plugin-echecs",
    "name": "Échecs",
    "description": "Les échecs contre l'ordinateur, avec toutes les règles : roque, prise en passant, promotion au choix, pat, règle des 50 coups, triple répétition et matériel insuffisant. Sept niveaux du débutant au grand maître, pièces à cliquer ou à glisser, coup annulable, partie notée en notation française, statistiques par niveau, et la partie en cours reprise même sur un autre PC. En pixel art : grandes pièces dessinées à la main, échiquier à la taille de l'écran avec ses coordonnées, à qui le tour en gros, et un panneau des coups lisible où le dernier coup est surligné. Copie et ouvre les parties au format PGN. Mode problèmes : 414 positions de Lichess, avec un classement. À distance contre un ami, par un code.",
-   "version": "1.5.0",
+   "version": "1.6.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 41,
-   "updated": "2026-11-24T16:10:24Z",
+   "installs": 43,
+   "updated": "2026-11-25T17:22:32Z",
    "langs": [
     "fr",
     "en"
@@ -2261,12 +2261,12 @@
    "repo": "NDesumeur/neodex-plugin-echo",
    "name": "Écho",
    "description": "Jeu de mémoire : quatre cristaux s'allument dans un ordre précis, chacun avec sa note, et tu rejoues la suite à la souris, aux touches 1 à 4 ou aux flèches. Chaque tour ajoute un cristal et accélère un peu ; une erreur termine la partie et montre le bon cristal. Trois vitesses de départ et un record de plus longue suite. Chaque cristal qui s'allume gonfle, lance des étincelles et éclaire la grotte de sa couleur. Le jeu prend la taille de l'écran, plein écran compris.",
-   "version": "1.1.2",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
-   "updated": "2026-11-19T23:33:21Z",
+   "installs": 29,
+   "updated": "2026-11-25T17:22:38Z",
    "langs": [
     "fr",
     "en"
@@ -2286,12 +2286,12 @@
    "repo": "NDesumeur/neodex-plugin-enigmes",
    "name": "Valcendre",
    "description": "La grande horloge de Valcendre s'est arrêtée : retrouve ses 192 rouages en résolvant les énigmes illustrées des habitants de neuf quartiers. Allumettes, rivières, vases, tuyaux, labyrinthes, picross, carrés latins, cadenas, menteurs et devinettes ; des bougies pour allumer les indices, un brouillon pour griffonner, une explication après chaque énigme et une histoire jusqu'au redémarrage de l'horloge. Version 1.2.0 : un neuvième quartier, la Gare, avec deux nouveaux genres d'énigmes (bagages à pousser, voies à relier), un carnet pour rejouer les énigmes réussies, des buts écrits en clair et des numéros d'énigme dans chaque quartier.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 293,
-   "updated": "2026-11-24T16:04:33Z",
+   "installs": 295,
+   "updated": "2026-11-25T17:22:44Z",
    "langs": [
     "fr",
     "en"
@@ -2311,12 +2311,12 @@
    "repo": "NDesumeur/neodex-plugin-entrepot",
    "name": "Entrepôt",
    "description": "Casse-tête de caisses : pousse toutes les caisses sur les marques jaunes, une à la fois, sans jamais pouvoir les tirer. 40 entrepôts conçus à la main, rangés du plus simple au plus dur, qui s'ouvrent l'un après l'autre, et des entrepôts au hasard toujours solubles. Caisses qui glissent avec un bruit de bois, flèches, ZQSD, souris ou manette, annulation pas à pas illimitée, plein écran. Pas, poussées et record de pas par niveau. Deuxième collection : 128 niveaux Microban de David W. Skinner.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:10:31Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:22:49Z",
    "langs": [
     "fr",
     "en"
@@ -2361,12 +2361,12 @@
    "repo": "NDesumeur/neodex-plugin-faisceaux",
    "name": "Faisceaux",
    "description": "Jeu d'esquive : un petit robot doit survivre dans une salle d'essai où des émetteurs tirent des rayons. Un trait qui clignote annonce chaque tir : lignes, grilles avec un passage, croix visées sur toi et balayages qui tournent. Un élan pour filer d'un coup, des piles à ramasser, des bonus (bouclier qui encaisse un rayon, ralenti des rayons), de plus en plus de rayons. Plein écran, score, temps et record. Trois boss de salle à tenir 20 secondes : le Projecteur, le Prisme et l'Horloge.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 21,
-   "updated": "2026-11-24T16:06:38Z",
+   "installs": 23,
+   "updated": "2026-11-25T17:22:55Z",
    "langs": [
     "fr",
     "en"
@@ -2386,12 +2386,12 @@
    "repo": "NDesumeur/neodex-plugin-flotte",
    "name": "Flotte",
    "description": "La bataille navale contre l'ordinateur : deux grilles de 10 × 10, cinq navires dessinés de chaque côté (porte-avions, cuirassé, croiseur, sous-marin, torpilleur) que tu places toi-même en les glissant et en les tournant, ou au hasard, sans qu'ils se touchent. Un tir à tour de rôle, avec explosions et gerbes d'eau animées ; qui touche rejoue, et l'eau autour d'un navire coulé est marquée d'office. Amiral facile ou normal, plein écran, victoires et victoire la plus rapide par niveau. À distance contre un ami, par un code.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:10:52Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:23:00Z",
    "langs": [
     "fr",
     "en"
@@ -2461,12 +2461,12 @@
    "repo": "NDesumeur/neodex-plugin-forge",
    "name": "Forge",
    "description": "Jeu de rythme à la forge, en trois actes : la lame (martèle les lingots qui arrivent sur l'enclume, tiens les barres pour l'étirer), la garde (les pièces arrivent des deux côtés : frappe du bon, ← ou D/F, → ou J/K), puis le pommeau (serti les gemmes qui tombent, les doubles avec les deux mains). La précision de chaque acte choisit le métal de sa pièce : fer, bronze, acier, damas, mithril ou étoile. Six formes d'armes (dague, épée, sabre, hache, lance, marteau) : 36 lames à collectionner, les dernières posées sur le râtelier. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette. Touches au choix dans les options. Nouveau : la commande du jour (un client choisit l'arme, le métal et ta façon de jouer) et l'armurerie avec toute ta collection. Au choix, un 4e acte : l'enchantement (grave des runes à gauche puis à droite ; ta précision fait briller l'arme de braises, de givre, de foudre ou d'étoiles).",
-   "version": "1.1.0",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 9,
-   "updated": "2026-11-22T19:17:34Z",
+   "installs": 11,
+   "updated": "2026-11-25T17:23:06Z",
    "langs": [
     "fr",
     "en"
@@ -2486,12 +2486,12 @@
    "repo": "NDesumeur/neodex-plugin-frappe",
    "name": "Test de frappe",
    "description": "Mesure ta vitesse de frappe : tape les mots affichés, le chrono démarre à la première lettre et les fautes s'allument en rouge. Modes au temps (15 s à 2 min) ou aux mots (25 ou 50), option ponctuation et majuscules, résultat en mots par minute avec vitesse brute et précision, record par mode et graphique de tes 20 dernières parties. Nouveau style pixel art, texte à taper bien gros qui suit la taille de la fenêtre, et les touches que tu rates le plus colorées sur le clavier.",
-   "version": "1.4.1",
+   "version": "1.5.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 282,
-   "updated": "2026-11-19T23:29:14Z",
+   "installs": 284,
+   "updated": "2026-11-25T17:23:12Z",
    "langs": [
     "fr",
     "en"
@@ -2511,12 +2511,12 @@
    "repo": "NDesumeur/neodex-plugin-funambule",
    "name": "Funambule",
    "description": "Jeu d'équilibre : un funambule avance tout seul sur un fil tendu au-dessus de quatre villes qui se suivent avec la distance (Paris, Venise, New York la nuit, un canyon), et tu le rattrapes en penchant sa perche avec ← et → ou à la souris. Plus il penche, plus il tombe vite, et ses bras se mettent à mouliner ; le vent forcit avec la distance et des rafales, annoncées par des traits blancs, le bousculent. Plein écran, distance, poteaux franchis et record. Des pigeons et des ballons qui gênent, et huit contrats avec un plateau de verres.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 32,
-   "updated": "2026-11-24T16:06:45Z",
+   "installs": 34,
+   "updated": "2026-11-25T17:23:17Z",
    "langs": [
     "fr",
     "en"
@@ -2536,12 +2536,12 @@
    "repo": "NDesumeur/neodex-plugin-fusion-stellaire",
    "name": "Fusion stellaire",
    "description": "Fais glisser toutes les tuiles d'un côté : deux astres identiques s'attirent et fusionnent en l'astre suivant, de la poussière jusqu'au trou noir, avec un son qui monte avec l'astre. Astres dessinés en pixel art, gros et lumineux ; des débris immobiles coupent les lignes et cassent près d'une fusion ; annulation et trou de ver se rechargent en jouant. Modes Galaxie 5 × 5 et Nébuleuse 4 × 4, 15 défis à étoiles, clavier, souris ou manette, plein écran, partie en cours reprise sur ton autre PC. Quatre formes de grille en plus : Anneau, Croix, Grand espace 6 × 6 et Sablier, avec des cases vides qui coupent les lignes.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 46,
-   "updated": "2026-11-24T16:08:49Z",
+   "installs": 47,
+   "updated": "2026-11-25T17:23:23Z",
    "langs": [
     "fr",
     "en"
@@ -2561,12 +2561,12 @@
    "repo": "NDesumeur/neodex-plugin-gabarit",
    "name": "Gabarit",
    "description": "Jeu de formes : dans une forge, une pièce de métal chaud tombe vers un moule creusé dans le sol. Tourne-la, retourne-la et place-la pour qu'elle le remplisse exactement avant qu'elle ne touche le sol. Des moules de plus en plus grands, des faux moules presque pareils pour te piéger et une chute de plus en plus rapide. Trois ratés permis. Score et record. Plein écran. Six commandes de clients à forger contre la montre, et des pièces en relief.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
-   "updated": "2026-11-24T16:06:52Z",
+   "installs": 20,
+   "updated": "2026-11-25T17:23:29Z",
    "langs": [
     "fr",
     "en"
@@ -2611,12 +2611,12 @@
    "repo": "NDesumeur/neodex-plugin-geo",
    "name": "Géo",
    "description": "Quiz de géographie en pixel art : reconnais les drapeaux, trouve les capitales ou le pays d'une capitale, ou clique le pays demandé sur une carte du monde en pixels. 194 pays, par continent ou le monde entier, séries de 10 questions, les pays ratés reviennent plus souvent et la fin de série montre tes erreurs avec la bonne réponse. Clavier, souris ou manette, plein écran. Drapeaux fournis par flagcdn.com. Quiz de géographie en pixel art : reconnais les drapeaux, trouve les capitales ou le pays d'une capitale, ou clique le pays demandé sur une carte du monde en pixels. 194 pays, par continent ou le monde entier, et les 96 départements français (numéros, préfectures et carte). Séries de 10 questions, les ratés reviennent plus souvent et la fin de série montre tes erreurs. Clavier, souris ou manette, plein écran. Drapeaux fournis par flagcdn.com.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 9,
-   "updated": "2026-11-24T16:11:44Z",
+   "installs": 11,
+   "updated": "2026-11-25T17:23:35Z",
    "langs": [
     "fr",
     "en"
@@ -2661,12 +2661,12 @@
    "repo": "NDesumeur/neodex-plugin-glace",
    "name": "Glace",
    "description": "Glace, un casse-tête en pixel art : sur la glace, le pingouin glisse jusqu'au prochain rocher. Trouve le chemin jusqu'au drapeau en le moins de coups possible. 80 niveaux tous vérifiés faisables, de la neige qui arrête net, puis de la glace fissurée qui casse après ton passage, des tas de neige à pousser et des téléporteurs ; des étoiles pour le plus court chemin, un indice si tu bloques. Clavier, souris ou manette, plein écran. Un niveau du jour et un éditeur pour créer et partager ses niveaux par un code.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 10,
-   "updated": "2026-11-24T16:09:53Z",
+   "installs": 12,
+   "updated": "2026-11-25T17:23:41Z",
    "langs": [
     "fr",
     "en"
@@ -2711,12 +2711,12 @@
    "repo": "NDesumeur/neodex-plugin-grattciel",
    "name": "Gratte-ciel",
    "description": "Jeu de rythme : chaque étage glisse au-dessus de la tour, lâche-le d'un clic ou à Espace pour qu'il tombe pile sur le précédent. Ce qui dépasse est coupé et la tour rétrécit ; un étage pile dessus garde sa largeur, et trois parfaits à la suite l'élargissent. Les étages vont de plus en plus vite et le ciel change jusqu'à l'espace : monte le plus haut possible. Étages dessinés (hall, fenêtres allumées, balcons), une note plus haut à chaque parfait de la série, un toit avec antenne pour la tour finie. Souris, clavier ou manette, plein écran, à la taille de la fenêtre.",
-   "version": "1.1.2",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 30,
-   "updated": "2026-11-19T23:32:28Z",
+   "installs": 32,
+   "updated": "2026-11-25T17:23:47Z",
    "langs": [
     "fr",
     "en"
@@ -2736,12 +2736,12 @@
    "repo": "NDesumeur/neodex-plugin-grimpette",
    "name": "Grimpette",
    "description": "Jeu de conduite : un véhicule sur des collines sans fin, avec une vraie physique. Au garage, choisis parmi 13 mondes (prairie, désert, neige, lune, forêt, plage, jungle, marais, canyon, volcan, Mars, cristaux, ville la nuit) et 12 véhicules (Jeep, Monster, Bolide, Quad, Moto, Buggy, Tracteur, Van, Camion, Rallye, Rover, Hot-rod), et améliore moteur, pneus et réservoir avec tes pièces. En course, accélère, freine, lance le nitro, décolle des tremplins et des bosses, fais des saltos et atterris à plat : le vol remplit le nitro et rapporte des pièces. Chaque véhicule a le son de son moteur. Attention au toit. Un record par monde. Scène plus large sur grand écran, plein écran. Figures : salto avant ou arrière, double, triple, cabré, et combos jusqu'à ×5 quand tu les enchaînes.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 23,
-   "updated": "2026-11-24T16:05:10Z",
+   "installs": 25,
+   "updated": "2026-11-25T17:23:54Z",
    "langs": [
     "fr",
     "en"
@@ -2761,12 +2761,12 @@
    "repo": "NDesumeur/neodex-plugin-hasard",
    "name": "Hasard",
    "description": "Laisse le hasard décider, en pixel art : une roue avec tes propres choix (et un mode qui retire le gagnant pour tirer un ordre de passage), de 1 à 6 dés de 4 à 100 faces qui roulent sur un tapis avec leur total, une pièce lancée qui tourne, un nombre entier tiré entre deux bornes et des équipes formées au hasard. Chaque tirage a son son. Tes choix sont gardés et synchronisés.",
-   "version": "1.4.1",
+   "version": "1.5.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 332,
-   "updated": "2026-11-16T16:44:40Z",
+   "installs": 334,
+   "updated": "2026-11-25T17:24:00Z",
    "langs": [
     "fr",
     "en"
@@ -2811,12 +2811,12 @@
    "repo": "NDesumeur/neodex-plugin-inondation",
    "name": "Inondation",
    "description": "Casse-tête de couleurs : ta tache part du coin, prend la couleur choisie et avale ses voisines de même couleur. Couvre les 196 cases de la grille dans le nombre de coups permis, de 30 au niveau 1 jusqu'à 22. Une grille fixe par niveau pour battre ton record, ou des grilles au hasard ; couleurs au clic ou aux touches 1 à 6, avec un motif par couleur et le chiffre de sa touche. Grandes cases, l'eau qui s'écoule depuis le coin à chaque coup, jeu à la taille de l'écran et plein écran. Un duel contre l’ordi ou à deux, et une grille du jour.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 29,
-   "updated": "2026-11-24T16:09:59Z",
+   "installs": 31,
+   "updated": "2026-11-25T17:24:06Z",
    "langs": [
     "fr",
     "en"
@@ -2861,12 +2861,12 @@
    "repo": "NDesumeur/neodex-plugin-joyaux",
    "name": "Joyaux",
    "description": "Jeu d'alignement : échange deux pierres voisines, au clic ou en glissant, pour en aligner trois ou plus de la même sorte. Elles disparaissent, les autres tombent, et chaque alignement en cascade multiplie les points. 25 coups par partie, un échange inutile ne coûte rien, le plateau se mélange s'il est bloqué, et chaque pierre a sa forme pour se passer des couleurs. Aligne 4 pierres pour une bombe qui explose en 3 × 3, 5 pour une étoile qui efface toute une couleur. Les pierres brillent, le jeu prend la taille de l'écran et passe en plein écran. Nouveau mode Combat : chacun son tour contre six monstres, les pierres rouges frappent, les vertes soignent, les bleues protègent et les autres chargent un sort.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:08:55Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:24:12Z",
    "langs": [
     "fr",
     "en"
@@ -2886,12 +2886,12 @@
    "repo": "NDesumeur/neodex-plugin-labyrinthe",
    "name": "Labyrinthe",
    "description": "Explore un labyrinthe dans le noir à la lueur d'une lanterne : trouve la clé, cachée au plus loin du départ, puis la porte, au plus loin de la clé. Ce que la lanterne a éclairé reste sur le plan. Labyrinthes générés et toujours faisables, plus grands à chaque niveau, plan fixe par niveau ou au hasard, et record de temps par niveau. Pièges dès le niveau 2 : des trappes qui s'ouvrent (tomber renvoie au départ) et des grilles qui se ferment un moment. Jeu à la taille de l'écran et plein écran. Une craie pour marquer son chemin dans le noir.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:10:05Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:24:17Z",
    "langs": [
     "fr",
     "en"
@@ -2911,12 +2911,12 @@
    "repo": "NDesumeur/neodex-plugin-lanterne",
    "name": "Lanterne",
    "description": "Vol sans fin dans une grotte obscure : maintiens Espace ou le clic pour monter, relâche pour descendre. La flamme de la lanterne baisse sans arrêt ; ramasse les fioles d'huile, les cristaux et un feu de camp tous les 1000 m, évite la roche, les stalactites et les chauves-souris, que l'éclat de lumière fait fuir. Une nouvelle zone tous les 500 m, avec sa créature (araignées, poissons qui sautent, feux follets) et sa musique d'ambiance. Quatre lanternes à débloquer avec les cristaux (plus d'huile, éclat plus large). La voyageuse tient sa lanterne au bout du bras ; jeu à la taille de l'écran et plein écran. Des ombres qui fondent dans ta lumière et des braseros à allumer.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 225,
-   "updated": "2026-11-24T16:06:58Z",
+   "installs": 227,
+   "updated": "2026-11-25T17:24:23Z",
    "langs": [
     "fr",
     "en"
@@ -2961,12 +2961,12 @@
    "repo": "NDesumeur/neodex-plugin-lucioles",
    "name": "Lucioles",
    "description": "Casse-tête de lumières : dans un pré de 5 × 5 lucioles, toucher une luciole l'allume ou l'éteint, elle et ses quatre voisines. Allume-les toutes en le moins de coups possible. Des prés toujours faisables, de 3 à 12 coups, qui s'ouvrent l'un après l'autre, et trois étoiles si tu fais aussi bien que le jeu. Grandes lucioles qui décollent de leur tige quand elles s'allument et volettent en battant des ailes ; jeu à la taille de l'écran et plein écran. Pré du jour avec série de jours, et la solution expliquée par l’algèbre (25 équations résolues par élimination).",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:09:34Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:24:29Z",
    "langs": [
     "fr",
     "en"
@@ -2986,12 +2986,12 @@
    "repo": "NDesumeur/neodex-plugin-lynx",
    "name": "Lynx",
    "description": "Jeu des différences en pixel art : deux images presque pareilles, un jardin, une plage, une ville la nuit, une forêt, les fonds marins, l'espace, l'hiver, un château, le désert ou la ferme, et 5 à 7 différences à trouver avant la fin du temps. Chaque niveau dessine une nouvelle scène, des étoiles selon le temps restant, des indices si tu bloques. Plein écran.",
-   "version": "1.2.2",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
-   "updated": "2026-11-19T23:32:06Z",
+   "installs": 21,
+   "updated": "2026-11-25T17:24:34Z",
    "langs": [
     "fr",
     "en"
@@ -3011,12 +3011,12 @@
    "repo": "NDesumeur/neodex-plugin-memoire",
    "name": "Mémoire",
    "description": "Le jeu de mémoire avec les logos de NeoDex : retourne les cartes deux par deux et retrouve toutes les paires en un minimum de coups. De 6 à 24 paires, logos tirés au hasard à chaque partie, chrono, et record de coups pour chaque taille. Pixel art : cartes au dos décoré qui se retournent pour de vrai, plateau à la taille de l'écran, plein écran, clavier et manette.",
-   "version": "1.2.1",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 41,
-   "updated": "2026-11-19T23:31:50Z",
+   "installs": 43,
+   "updated": "2026-11-25T17:24:40Z",
    "langs": [
     "fr",
     "en"
@@ -3061,12 +3061,12 @@
    "repo": "NDesumeur/neodex-plugin-meteores",
    "name": "Météores",
    "description": "Jeu de tir spatial vertical : ton vaisseau tire tout seul, déplace-le au clavier ou à la souris pour détruire des météores qui se divisent, des drones en vagues et un vaisseau amiral toutes les 5 vagues. Seul le cockpit est vulnérable ; bombes, bouclier, aimant, vies et arme jusqu'au niveau 5, multiplicateur jusqu'à ×8, record de score et de vague. Grands textes en pixel art, musique et sons faits en direct, manette, plein écran. Frôler les tirs rapporte des points et remplit la jauge de bombe ; la bombe change les tirs en pièces ; Maj pour la visée lente.",
-   "version": "1.5.0",
+   "version": "1.6.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 286,
-   "updated": "2026-11-24T16:05:03Z",
+   "installs": 288,
+   "updated": "2026-11-25T17:24:46Z",
    "langs": [
     "fr",
     "en"
@@ -3111,12 +3111,12 @@
    "repo": "NDesumeur/neodex-plugin-mineur",
    "name": "Mineur",
    "description": "Jeu de forage : creuse à gauche, à droite ou vers le bas dans une mine de 240 mètres tirée au hasard, à travers cinq couches de terre et de pierre. Ramasse cuivre, fer, argent, or, rubis, saphir, puis émeraude, améthyste, diamant, mithril et étoilite, de plus en plus précieux en profondeur, et remonte les vendre à la surface où le plein se fait tout seul. Améliore réservoir, soute et foret (jusqu'au niveau 5) pour la roche dure et la roche noire ; la lave et la panne sèche coûtent ta soute. Bruit du foret et de la caisse, plein écran. Nouveau : coque et moteur à améliorer, gaz, rochers qui tombent et chutes qui abîment la coque, vente détaillée avec l'amélioration suivante, une ville qui grandit avec les ventes, des paliers tous les 30 m, six reliques à collectionner et une créature tout au fond qui donne un prestige.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 30,
-   "updated": "2026-11-24T16:05:29Z",
+   "installs": 32,
+   "updated": "2026-11-25T17:24:52Z",
    "langs": [
     "fr",
     "en"
@@ -3136,12 +3136,12 @@
    "repo": "NDesumeur/neodex-plugin-minigolf",
    "name": "Minigolf",
    "description": "Minigolf de neuf trous (par 31) : clique, tire en arrière pour viser et doser la force, lâche pour frapper. Le sable freine, l'eau ramène la balle avec un coup de pénalité, les bordures font rebondir. Trois parcours à thème (île aux pirates, banquise, station spatiale) avec des obstacles qui bougent (moulin, pont-levis, tapis roulant), de la glace et des trous noirs, et un parcours au hasard de neuf nouveaux trous à chaque partie ; résultat par trou (birdie, bogey…), meilleur parcours et trous en un ; plein écran et jeu à la taille de l'écran. Jusqu'à quatre joueurs sur le même PC, chacun son tour.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:08:32Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:24:57Z",
    "langs": [
     "fr",
     "en"
@@ -3161,12 +3161,12 @@
    "repo": "NDesumeur/neodex-plugin-miroirs",
    "name": "Miroirs",
    "description": "Miroirs, un casse-tête en pixel art : tourne les miroirs pour guider le laser jusqu'à tous les cristaux. 80 niveaux construits à partir du trajet du laser, donc toujours faisables, avec des murs et des miroirs pièges ; à partir du niveau 41, des filtres de couleur, des cristaux de couleur et un prisme qui sépare le laser en deux. Laser lumineux avec étincelles sur les miroirs. Étoiles pour les niveaux faits en peu de coups, indices si tu bloques. Souris, clavier ou manette, plein écran. Un niveau du jour avec prisme, le même pour tous, et une série de jours.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 9,
-   "updated": "2026-11-24T16:09:46Z",
+   "installs": 11,
+   "updated": "2026-11-25T17:25:03Z",
    "langs": [
     "fr",
     "en"
@@ -3211,12 +3211,12 @@
    "repo": "NDesumeur/neodex-plugin-monodle",
    "name": "MonogatariDle",
    "description": "Jeu de devinettes de la série Monogatari : trouve le personnage mystère en tapant des noms. En mode Classique, chaque essai compare genre, nature, rôle et d'autres colonnes (vert : pareil, orange : proche) ; les modes Indices, Emoji, Image, Ombre et Flou dévoilent un indice de plus à chaque essai raté. Un défi par jour et par mode, le même pour tous, des parties libres et ta série gardée. Version 1.4.0 : bandeau illustré en pixel art (le torii d'un sanctuaire au crépuscule, sous une grande lune, avec les portraits des personnages principaux), textes et zone de saisie plus grands, cases du tableau assez larges pour leur texte.",
-   "version": "1.5.0",
+   "version": "1.6.0",
    "category": "NeoDle",
    "approved": true,
    "stars": 1,
-   "installs": 44,
-   "updated": "2026-11-24T16:11:56Z",
+   "installs": 46,
+   "updated": "2026-11-25T17:25:08Z",
    "langs": [
     "fr",
     "en"
@@ -3236,12 +3236,12 @@
    "repo": "NDesumeur/neodex-plugin-mosaique",
    "name": "Mosaïque",
    "description": "Grilles logiques à noircir, en 5 × 5 pour débuter, 10 × 10, 15 × 15 et 20 × 20 : les nombres de chaque ligne et colonne donnent les blocs de cases noires, à toi de déduire lesquelles noircir. Clic pour noircir, clic droit pour une croix, glisser pour plusieurs cases ; les lignes justes se grisent. 22 grilles qui révèlent une image en couleur, des grilles au hasard sans fin dans chaque taille, chronomètre et temps gardés, plein écran et jeu à la taille de l'écran. Un album garde en couleur chaque image révélée.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:09:14Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:25:14Z",
    "langs": [
     "fr",
     "en"
@@ -3261,12 +3261,12 @@
    "repo": "NDesumeur/neodex-plugin-mot-du-jour",
    "name": "Mot du jour",
    "description": "Trouve un mot français en 6 essais : la première lettre est donnée et la longueur change chaque jour (5 à 8 lettres), le même mot pour tout le monde. Vert : bien placée, jaune : ailleurs dans le mot, gris : absente ; les accents ne comptent pas et le mot doit exister. Partie libre de 5 à 8 lettres, grille de couleurs à partager, séries et statistiques par mode. Grandes cases et gros clavier en pixel art à la taille de l'écran, lettres qui se retournent une par une avec un son, et la définition du mot à la fin (Wiktionnaire). Trouve un mot français en 6 essais : la première lettre est donnée et la longueur change chaque jour (5 à 8 lettres), le même mot pour tout le monde. Vert : bien placée, jaune : ailleurs dans le mot, gris : absente ; les accents ne comptent pas et le mot doit exister. Partie libre de 5 à 8 lettres, grille de couleurs à partager, séries et statistiques par mode. Lettres qui se retournent une par une avec un son, et à la fin le mot expliqué : sa définition et son origine (Wiktionnaire).",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 270,
-   "updated": "2026-11-24T16:11:17Z",
+   "installs": 272,
+   "updated": "2026-11-25T17:25:20Z",
    "langs": [
     "fr",
     "en"
@@ -3311,12 +3311,12 @@
    "repo": "NDesumeur/neodex-plugin-mots-meles",
    "name": "Mots mêlés",
    "description": "Mots mêlés en français : retrouve les mots cachés en glissant de la première à la dernière lettre. 17 thèmes (animaux, pays, villes, métiers, sports, mangas…) ou tous mélangés, grilles de 10 × 10 à 20 × 20 avec 8 à 30 mots, et trois niveaux : 2 sens, avec diagonales, ou 8 sens à l'envers compris. Chronomètre et record par taille et niveau. Grille en pixel art à la taille de l'écran, avec un trait de couleur sur chaque mot trouvé.",
-   "version": "1.2.1",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 45,
-   "updated": "2026-11-19T23:31:24Z",
+   "installs": 47,
+   "updated": "2026-11-25T17:25:26Z",
    "langs": [
     "fr",
     "en"
@@ -3335,20 +3335,20 @@
    "id": "neodex.music",
    "repo": "NDesumeur/neodex-plugin-music",
    "name": "NeoMusic",
-   "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 34 succès, niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
-   "version": "2.5.2",
+   "description": "Lecteur de musique : playlists en streaming ou téléchargées, ajout depuis YouTube, SoundCloud, Deezer ou un fichier CSV, favoris, radar des sorties et découvertes chaque semaine. Égaliseur 10 bandes, limiteur, ReplayGain, mode sommeil, réveil, petit lecteur flottant et raccourcis globaux. Statistiques détaillées, 33 succès (aussi dans la page Trophées de NeoDex), niveaux qui débloquent thèmes, visualiseur et platine vinyle.",
+   "version": "2.6.0",
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 588,
-   "updated": "2026-11-24T18:40:15Z",
+   "installs": 590,
+   "updated": "2026-11-25T17:25:32Z",
    "langs": [
     "fr",
     "en"
    ],
    "en": {
     "name": "NeoMusic",
-    "description": "A music player: streamed or downloaded playlists, adding from YouTube, SoundCloud, Deezer or a CSV file, favourites, a release radar and weekly discoveries. 10-band equaliser, limiter, ReplayGain, sleep mode, alarm, a floating mini player and global shortcuts. Detailed statistics, 34 achievements, levels that unlock themes, a visualiser and a vinyl turntable."
+    "description": "A music player: streamed or downloaded playlists, adding from YouTube, SoundCloud, Deezer or a CSV file, favourites, a release radar and weekly discoveries. 10-band equaliser, limiter, ReplayGain, sleep mode, alarm, a floating mini player and global shortcuts. Detailed statistics, 33 achievements (also in the NeoDex Trophies page), levels that unlock themes, a visualiser and a vinyl turntable."
    },
    "rating": {
     "average": 0,
@@ -3386,12 +3386,12 @@
    "repo": "NDesumeur/neodex-plugin-neoman",
    "name": "Neo-Man",
    "description": "Jeu de labyrinthe en pixel art : NeoMe mange toutes les notes de musique pendant que quatre petits fantômes la poursuivent, chacun à sa façon (Prune la traque, Menthe lui coupe la route, Miel la prend à revers, Groseille rôde). Les disques les font fuir : c'est le moment de les attraper. Objets bonus du Studio, niveaux de plus en plus rapides, une vie de plus à 10 000 points. NeoMe a ses vrais sprites de NeoBestiary Studio. Quatre labyrinthes (Disco, Cristal, Jardin, Braise) qui changent tous les 3 niveaux ; plein écran et jeu à la taille de l'écran. Un mode Championnat de 5 minutes avec des fantômes endormis qui s'accrochent en file, et sept labyrinthes.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
-   "updated": "2026-11-24T16:07:12Z",
+   "installs": 22,
+   "updated": "2026-11-25T17:25:38Z",
    "langs": [
     "fr",
     "en"
@@ -3436,12 +3436,12 @@
    "repo": "NDesumeur/neodex-plugin-neonrush",
    "name": "Néon Rush",
    "description": "Course sans fin sur une autoroute synthwave à trois voies, sous un grand soleil rayé : saute les lasers, glisse sous les barres, change de voie devant les camions (certains foncent vers toi). Les obstacles arrivent sur le temps de la musique synthwave. Trois missions à la fois qui font monter ton multiplicateur de score ; bonus aimant, jetpack et pièces ×2 ; une chasse aux lettres chaque jour ; cinq personnages et quatre planches, chacun avec son pouvoir, à acheter avec tes pièces ; clavier, souris ou glissé au doigt ; plein écran.",
-   "version": "2.0.0",
+   "version": "2.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 74,
-   "updated": "2026-11-24T16:07:06Z",
+   "installs": 76,
+   "updated": "2026-11-25T17:25:44Z",
    "langs": [
     "fr",
     "en"
@@ -3511,12 +3511,12 @@
    "repo": "NDesumeur/neodex-plugin-orbe",
    "name": "Orbe",
    "description": "Jeu de rythme à la souris : des orbes numérotés apparaissent sur le terrain, un cercle se resserre sur chacun ; vise et clique (ou W / X) quand il le touche, suis les glissières bouton enfoncé et fais tourner les toupies. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ou NeoMusic. Les sensations d'osu! : 300, 100 et 50, barre de vie, mods (EZ, NF, HT, HR, DT, HD, FL, SD, PF, RX, AP, Auto), hitsounds, barre d'erreur, glissières avec tics et retours, notes de SS à D, pp et classement de chaque niveau. Des maps variées inspirées d'osu!, avec d'autres variantes au choix, et un onglet de statistiques. Plein écran, compte à rebours et décalage réglé tout seul. Un menu façon osu! : carrousel des chansons à la molette et au clavier, ta meilleure note, recherche, filtres, au hasard, refrain en aperçu, rang, médailles bronze, argent et or, carte de joueur, ta visée et l'écart avec ton record en partie, trois volumes, écran de fin animé. Dix thèmes de terrain selon le morceau. Replays (revoir, ralenti, export .osr), carte des erreurs, boucle sur un passage raté, exercices d'entraînement, paliers de pp, amis, navigateur de maps osu!, mods NC et DC, sons de chaque note et storyboard des maps osu!.",
-   "version": "1.4.3",
+   "version": "1.5.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 71,
-   "updated": "2026-11-23T01:38:13Z",
+   "installs": 73,
+   "updated": "2026-11-25T17:25:52Z",
    "langs": [
     "fr",
     "en"
@@ -3536,12 +3536,12 @@
    "repo": "NDesumeur/neodex-plugin-orbite",
    "name": "Orbite",
    "description": "Jeu d'adresse à une touche : ton vaisseau tourne seul autour d'un soleil sur trois orbites, tu choisis seulement laquelle. Évite les astéroïdes qui traversent l'écran, quitte l'orbite intérieure quand le soleil clignote avant l'éruption, ramasse les cristaux à la suite pour un multiplicateur jusqu'à ×5. La vitesse monte, record et statistiques gardés. Plein écran et jeu à la taille de l'écran. Des systèmes stellaires aux orbites en ellipse, un turbo, un frein, un canon et quatre bonus.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 31,
-   "updated": "2026-11-24T16:07:17Z",
+   "installs": 33,
+   "updated": "2026-11-25T17:25:58Z",
    "langs": [
     "fr",
     "en"
@@ -3611,12 +3611,12 @@
    "repo": "NDesumeur/neodex-plugin-panier",
    "name": "Panier",
    "description": "Jeu d'adresse : du basket en 60 secondes dans un gymnase en pixel art. Tire en arrière pour viser, le ballon rebondit vraiment sur le cercle et la planche. Paniers à 2 et 3 points, bonus sans toucher le cercle, séries EN FEU qui comptent double et un panier qui se met à bouger. Meilleur score et plus longue série. Un public qui se lève après tes paniers et applaudit quand tu es EN FEU, un ballon doré qui vaut 3 fois plus, plein écran et jeu à la taille de l'écran. Six ballons à débloquer, chacun avec sa physique.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
-   "updated": "2026-11-24T16:07:23Z",
+   "installs": 20,
+   "updated": "2026-11-25T17:26:04Z",
    "langs": [
     "fr",
     "en"
@@ -3686,12 +3686,12 @@
    "repo": "NDesumeur/neodex-plugin-peche",
    "name": "Pêche",
    "description": "Jeu de pêche : dose ton lancer, attends la vraie touche, ferre vite puis fatigue le poisson en gérant la tension et ses départs à gauche ou à droite. 156 espèces sur 7 lieux, chacune avec ses heures, sa météo et ses appâts préférés ; la pluie, l'orage et le brouillard changent la pêche, et certaines espèces suivent les vraies saisons et la vraie lune. 5 cannes et 3 montages (canne légère pour les petites espèces, moulinet lourd pour les monstres), des appâts à fabriquer avec ce que tu trouves, trois légendes du village à pêcher au terme de leur histoire dans un combat en trois phases, un tournoi chaque semaine contre les pêcheurs du village, coffres au trésor, collection, défis du jour et niveau de pêcheur. Sons, musique douce et plein écran.",
-   "version": "1.4.0",
+   "version": "1.5.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 50,
-   "updated": "2026-11-22T19:18:09Z",
+   "installs": 52,
+   "updated": "2026-11-25T17:26:10Z",
    "langs": [
     "fr",
     "en"
@@ -3711,12 +3711,12 @@
    "repo": "NDesumeur/neodex-plugin-pendu",
    "name": "Pendu",
    "description": "Le jeu du pendu avec des mots français : 17 thèmes ou tous mélangés, lettres au clic ou au clavier, accents ignorés (E trouve aussi É, È, Ê). Quatre niveaux, de 10 erreurs avec la première et la dernière lettre données jusqu'à 4 erreurs sur des mots longs ; indice contre une erreur, mot dévoilé en cas d'échec, séries de victoires gardées. Tout le jeu en pixel art (potence, mot en cases, clavier dessiné), plein écran et jeu à la taille de l'écran.",
-   "version": "1.2.2",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 44,
-   "updated": "2026-11-19T23:30:58Z",
+   "installs": 46,
+   "updated": "2026-11-25T17:26:16Z",
    "langs": [
     "fr",
     "en"
@@ -3811,12 +3811,12 @@
    "repo": "NDesumeur/neodex-plugin-plumo",
    "name": "Plumo",
    "description": "Jeu d'adresse à une touche : un petit oiseau retombe sans cesse, chaque clic ou appui sur Espace le fait remonter d'un battement d'ailes pour passer entre les colonnes. Les ouvertures se resserrent et la vitesse monte, le ciel passe du jour au soir, à la nuit puis à l'aube tous les 25 points. Médailles de bronze à 10 points jusqu'au platine à 100. Quatre oiseaux à débloquer avec les médailles, colonnes qui bougent et rafales de vent après 50 points, jeu à la manette, plein écran et zone de jeu à la taille de l'écran. Quatre mondes (prairie, forêt, ville, neige), un vol différent par oiseau, une médaille à chaque palier.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 32,
-   "updated": "2026-11-24T16:07:30Z",
+   "installs": 34,
+   "updated": "2026-11-25T17:26:22Z",
    "langs": [
     "fr",
     "en"
@@ -3836,12 +3836,12 @@
    "repo": "NDesumeur/neodex-plugin-plusmoins",
    "name": "Plus ou Moins",
    "description": "Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Quatorze catégories de vrais chiffres arrondis : population et superficie des pays, altitude des montagnes, longueur des fleuves, poids, vitesse et longévité des animaux, hauteur des monuments, taille des astres, année des inventions, habitants des villes de France, calories des aliments, naissance de personnages célèbres et sortie des jeux vidéo. Ou tout mélangé. Meilleure série par catégorie. Une petite image en pixel art sur chaque carte (drapeaux, montagnes, fleuves, animaux, monuments, astres), écran de fin dans un bandeau sous les cartes, plein écran et jeu à la taille de l'écran. Jeu de culture : la carte de gauche montre son chiffre, devine si celle de droite est plus haute ou plus basse. Vingt catégories de vrais chiffres et le score à partager.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 22,
-   "updated": "2026-11-24T16:11:50Z",
+   "installs": 24,
+   "updated": "2026-11-25T17:26:28Z",
    "langs": [
     "fr",
     "en"
@@ -3861,12 +3861,12 @@
    "repo": "NDesumeur/neodex-plugin-ponts",
    "name": "Ponts",
    "description": "Casse-tête logique : relie toutes les îles par des ponts droits, un ou deux entre deux îles voisines, sans croisement, pour former un seul archipel. Le chiffre de chaque île dit combien de ponts en partent ; elle devient verte quand c'est juste. Glisser pour poser un pont, retour arrière pour annuler, archipels au hasard de 7 × 7 ou 9 × 9 et record de temps. Archipels de 7 × 7 à 13 × 13, plein écran et jeu à la taille de l'écran. Archipel du jour avec série de jours, et un indice qui explique le pont forcé.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 31,
-   "updated": "2026-11-24T16:09:28Z",
+   "installs": 33,
+   "updated": "2026-11-25T17:26:35Z",
    "langs": [
     "fr",
     "en"
@@ -3886,12 +3886,12 @@
    "repo": "NDesumeur/neodex-plugin-potager",
    "name": "Potager",
    "description": "Jeu de défense en pixel art : sur 5 rangées de potager, plante trèfles, radis, choux, orties et piments pour arrêter limaces, escargots, corbeaux, taupes et sangliers avant qu'ils atteignent la maison. Des graines à ramasser, une grande vague à chaque niveau, un chat par rangée en dernier recours, 20 niveaux de plus en plus durs : l'été, puis l'automne et l'hiver. Tournesol et citrouille en plus, jardin fleuri, plein écran et jeu à la taille de l'écran. Trois mini-jeux aux règles différentes : bowling de choux, tapis de graines, potager la nuit.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
-   "updated": "2026-11-24T16:05:23Z",
+   "installs": 29,
+   "updated": "2026-11-25T17:26:41Z",
    "langs": [
     "fr",
     "en"
@@ -3936,12 +3936,12 @@
    "repo": "NDesumeur/neodex-plugin-prisme",
    "name": "Prisme",
    "description": "Jeu de rythme au clavier : les notes jaillissent d'un cristal central vers quatre socles, frappe la bonne flèche (ou ZQSD) quand elles s'y posent, avec accords à deux touches et notes longues à tenir. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique. Parfait, Bien ou OK, combo, note de S à D et décalage réglé tout seul. Écran de fin avec la courbe de précision le long du morceau. Socles qui tournent, trajectoires courbes, notes de réfraction, mode miroir, cristal qui change de forme, collection de facettes.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 131,
-   "updated": "2026-11-22T19:16:46Z",
+   "installs": 133,
+   "updated": "2026-11-25T17:26:48Z",
    "langs": [
     "fr",
     "en"
@@ -4011,12 +4011,12 @@
    "repo": "NDesumeur/neodex-plugin-puissance4",
    "name": "Puissance 4",
    "description": "Aligne 4 jetons de ta couleur avant l'autre sur une grille de 7 × 6, à l'horizontale, à la verticale ou en diagonale. Contre l'ordinateur, qui prévoit 2, 4 ou 6 coups selon le niveau, à deux sur le même écran, ou à distance avec un ami grâce à un code de partie. Clic ou flèches et Entrée, annulation du dernier coup, et bilan des victoires et défaites par niveau. Les jetons tombent et rebondissent avec un petit « toc », bouton plein écran et jeu à la taille de l'écran.",
-   "version": "1.2.1",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 41,
-   "updated": "2026-11-19T23:30:21Z",
+   "installs": 43,
+   "updated": "2026-11-25T17:26:54Z",
    "langs": [
     "fr",
     "en"
@@ -4036,12 +4036,12 @@
    "repo": "NDesumeur/neodex-plugin-pulsar",
    "name": "Pulsar",
    "description": "Jeu de rythme en cercle : les notes foncent vers une étoile depuis huit directions. Tourne le bouclier à la souris ou aux flèches pour attraper les notes bleues, frappe avec Espace ou un clic les anneaux roses quand ils se posent sur le cercle. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. L'étoile centrale bat avec la musique et change de couleur, écran de fin avec la courbe de précision le long du morceau. Notes rouges à éviter, spirales à suivre, taille du bouclier réglable, notes cachées, supernova au plein combo, stick de la manette.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 127,
-   "updated": "2026-11-22T19:16:52Z",
+   "installs": 129,
+   "updated": "2026-11-25T17:27:00Z",
    "langs": [
     "fr",
     "en"
@@ -4086,12 +4086,12 @@
    "repo": "NDesumeur/neodex-plugin-quatuor",
    "name": "Quatuor",
    "description": "Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Quatre-vingts grilles écrites à la main, avec des pièges : des mots qui semblent aller dans deux groupes. Quatre erreurs permises. Grilles réussies et sans faute. Plein écran et jeu à la taille de l'écran. Jeu de mots : seize mots cachent quatre groupes de quatre. Trouve ce qui les relie, des fruits rouges aux mots qui suivent « coup de » en passant par les pays cachés dans un mot. Quatre-vingts grilles écrites à la main avec des pièges, une grille du jour avec sa série, et des grilles surprises sans fin tirées d'une banque de près de 400 groupes, du jaune (simple) au violet (retors). Quatre erreurs permises. Plein écran et jeu à la taille de l'écran.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
-   "updated": "2026-11-24T16:11:24Z",
+   "installs": 22,
+   "updated": "2026-11-25T17:27:06Z",
    "langs": [
     "fr",
     "en"
@@ -4136,12 +4136,12 @@
    "repo": "NDesumeur/neodex-plugin-ramaltman",
    "name": "Ram Altman",
    "description": "Ram Altman, un jeu d'horreur et de survie : veilleur de nuit chez Brockman & Fils, tu gardes la Barrette, 64 Go de mémoire, de minuit à 6 h, face au robot qui se fait appeler Ram Altman. Caméras, portes, lumières, trappe et un courant qui s'épuise. 6 nuits, une histoire à reconstituer, deux fins, une nuit cachée. Textes en français ou en anglais, voix en anglais, toujours sous-titrées. Dessiné au pinceau, pas en pixels. Une galerie des personnages, 14 succès à débloquer, et le plein écran (touche F).",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 9,
-   "updated": "2026-11-24T16:04:39Z",
+   "installs": 11,
+   "updated": "2026-11-25T17:27:12Z",
    "langs": [
     "fr",
     "en"
@@ -4161,12 +4161,12 @@
    "repo": "NDesumeur/neodex-plugin-raquettes",
    "name": "Raquettes",
    "description": "Duel de raquettes contre l'ordinateur sur un terrain de nuit : déplace ta raquette à la souris ou aux flèches et renvoie la balle sans la laisser passer. Le bord de la raquette renvoie en biais, la balle accélère à chaque échange, le premier à 7 points gagne. Trois niveaux d'adversaire qui anticipe les rebonds, victoires et meilleur écart gardés. Le jeu prend toute la place de l'écran, et un bouton le met en plein écran. Mode à deux sur le même clavier, effets de balle et bonus.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 28,
-   "updated": "2026-11-24T16:07:36Z",
+   "installs": 30,
+   "updated": "2026-11-25T17:27:20Z",
    "langs": [
     "fr",
     "en"
@@ -4211,12 +4211,12 @@
    "repo": "NDesumeur/neodex-plugin-reussite",
    "name": "Réussite",
    "description": "Le solitaire classique (Klondike) : range les 52 cartes dans les quatre familles de l'As au Roi en les déplaçant entre sept colonnes, par ordre décroissant et couleurs alternées. Glisse les cartes ou clique pour les envoyer à la meilleure place, pioche une ou trois cartes, annule sans limite ; fin automatique, temps, coups et meilleur temps gardés. Un bouton met le jeu en plein écran, et la table grandit avec la fenêtre. Aussi FreeCell et Spider (une ou deux couleurs), et les cartes qui rebondissent à la victoire.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 27,
-   "updated": "2026-11-24T16:10:58Z",
+   "installs": 29,
+   "updated": "2026-11-25T17:27:26Z",
    "langs": [
     "fr",
     "en"
@@ -4236,12 +4236,12 @@
    "repo": "NDesumeur/neodex-plugin-reversi",
    "name": "Reversi",
    "description": "Le jeu de pions à retourner sur un plateau de 8 × 8 : pose un pion pour encadrer ceux de l'ordinateur en ligne, en colonne ou en diagonale, et ils passent à ta couleur. Les cases jouables sont marquées, on passe son tour sans coup possible, le plus de pions à la fin gagne. Trois niveaux, jusqu'à un adversaire qui prévoit 4 coups ; bilan par niveau. Un bouton met le jeu en plein écran, et le plateau grandit avec la fenêtre. À deux sur le même PC ou à distance par un code.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:10:46Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:27:32Z",
    "langs": [
     "fr",
     "en"
@@ -4261,12 +4261,12 @@
    "repo": "NDesumeur/neodex-plugin-ricochet",
    "name": "Ricochet",
    "description": "Jeu de rythme en rebonds : une étincelle file entre les quatre murs d'une cour de pierre ; frappe la flèche du mur qu'elle va toucher au moment où elle sonne le gong, et garde la touche sur les glissades dorées. Le rythme se lit dans sa trajectoire. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. La cour change selon le morceau (cour de briques, temple, jardin japonais, glace), on joue aussi à la manette, et l'écran de fin montre la courbe de précision le long du morceau. Nouveau : deux étincelles à suivre en même temps, l'orange et la bleue (records à part). Aussi : des cours en hexagone et en triangle, et des murs qui bougent en musique.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-22T19:17:11Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:27:38Z",
    "langs": [
     "fr",
     "en"
@@ -4311,12 +4311,12 @@
    "repo": "NDesumeur/neodex-plugin-sauterelle",
    "name": "Sauterelle",
    "description": "Jeu de saut en pixel art : une sauterelle bondit de feuille en feuille, toujours plus haut, du jardin au ciel, au crépuscule, à la nuit puis aux étoiles. Feuilles qui glissent, feuilles sèches qui cassent, nuages d'un seul saut, champignons ressorts, ailes de libellule et guêpes à écraser. Un record en mètres. Le décor change en montant (herbes hautes, arbres, gros nuages, puis la lune), les feuilles sont dessinées une à une, une coccinelle amie te porte un moment, et un bouton met le jeu en plein écran. Sept costumes à gagner, une fusée, une bulle protectrice et des araignées.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 23,
-   "updated": "2026-11-24T16:07:49Z",
+   "installs": 25,
+   "updated": "2026-11-25T17:27:50Z",
    "langs": [
     "fr",
     "en"
@@ -4336,12 +4336,12 @@
    "repo": "NDesumeur/neodex-plugin-saut-stellaire",
    "name": "Saut stellaire",
    "description": "Course sans fin redessinée de zéro, à travers cinq biomes qui changent tous les 600 m : désert rouge, forêt de cristal, banquise, volcans, jungle alien. Saute (double saut, maintiens pour monter plus haut), reste au sol sous les météores, attrape les étoiles en série. Le Dévoreur te poursuit : chaque étoile le repousse. Pouvoirs à acheter avec les étoiles (aimant, triple saut, bouclier, seconde chance) et défi du jour.",
-   "version": "2.0.0",
+   "version": "2.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 287,
-   "updated": "2026-11-24T16:07:42Z",
+   "installs": 289,
+   "updated": "2026-11-25T17:27:44Z",
    "langs": [
     "fr",
     "en"
@@ -4361,12 +4361,12 @@
    "repo": "NDesumeur/neodex-plugin-sesame",
    "name": "Sésame",
    "description": "Jeu de logique : invente un mot de passe qui respecte seize règles de plus en plus tordues. Chaque règle respectée en dévoile une nouvelle et les anciennes doivent rester vraies : les chiffres doivent faire 20 alors qu'il faut aussi un calcul et l'heure qu'il est, un fromage mais pas plus de trois E, une capitale, une devinette, une longueur qui est un nombre premier… Meilleur temps. Bouton plein écran : la case et les règles prennent tout l'écran. Des règles tirées au hasard à chaque partie, et une partie du jour.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 19,
-   "updated": "2026-11-24T16:10:18Z",
+   "installs": 21,
+   "updated": "2026-11-25T17:27:56Z",
    "langs": [
     "fr",
     "en"
@@ -4411,12 +4411,12 @@
    "repo": "NDesumeur/neodex-plugin-sillage",
    "name": "Sillage",
    "description": "Jeu de rythme en vol : ton vaisseau file sur quatre altitudes au-dessus d'une ville de nuit. Monte et descends pour cueillir les étoiles à la hauteur de leur son, suis les rubans des notes longues et franchis les portes d'énergie d'un coup de turbo. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles ou ta propre musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau. L'altitude suit la mélodie, la ville réagit à la musique, traînée de la couleur des étoiles, dessin du vol à la fin.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 131,
-   "updated": "2026-11-22T19:17:05Z",
+   "installs": 132,
+   "updated": "2026-11-25T17:28:02Z",
    "langs": [
     "fr",
     "en"
@@ -4461,12 +4461,12 @@
    "repo": "NDesumeur/neodex-plugin-snuke",
    "name": "Snuke",
    "description": "Le jeu du serpent sur 24 × 24 cases, en six modes : classique (les bords tuent), sans bords, labyrinthe à quatre plateaux, mue (la queue se change en pierre tous les 5 fruits), chrono 60 secondes où rien ne tue, et vergers, où dix fruits donnent chacun leur vitesse et leurs points. Étoiles bonus, record par mode et statistiques. Nouveau style pixel art : serpent dessiné avec sa tête, ses yeux et sa langue, fruits et murs dessinés, panneau des records, bouton plein écran. Huit apparences de serpent à gagner en jouant.",
-   "version": "1.4.0",
+   "version": "1.5.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 47,
-   "updated": "2026-11-24T16:07:55Z",
+   "installs": 49,
+   "updated": "2026-11-25T17:28:08Z",
    "langs": [
     "fr",
     "en"
@@ -4561,12 +4561,12 @@
    "repo": "NDesumeur/neodex-plugin-spirale",
    "name": "Spirale",
    "description": "Jeu d'adresse : une balle rebondit sur les plateaux d'une tour en spirale dessinée en pixel art. Tourne la tour pour la faire tomber par les trous, évite les cases rouges, et enchaîne trois plateaux pour arriver lancée et tout casser. Des niveaux de plus en plus serrés, une arrivée dorée au fond. Meilleur niveau et meilleur score. Bouton plein écran, et la tour grandit avec la fenêtre.",
-   "version": "1.1.2",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 17,
-   "updated": "2026-11-19T23:29:30Z",
+   "installs": 19,
+   "updated": "2026-11-25T17:28:14Z",
    "langs": [
     "fr",
     "en"
@@ -4611,12 +4611,12 @@
    "repo": "NDesumeur/neodex-plugin-sudoku",
    "name": "Sudoku",
    "description": "Des grilles générées à la volée et toujours à solution unique, en cinq niveaux, de Facile (40 chiffres donnés) à Diabolique (21). Notes au crayon qui se nettoient toutes seules, surlignage des cases liées, annulation, indices, erreurs à montrer ou non, jeu complet au clavier ; meilleur temps par niveau et partie en cours gardée. Nouveau style pixel art : grille claire et grande qui suit la taille de la fenêtre, du petit portable au grand écran. Les indices expliquent la technique (paire nue, seule place…) avant de poser le chiffre.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 42,
-   "updated": "2026-11-24T16:09:07Z",
+   "installs": 44,
+   "updated": "2026-11-25T17:28:20Z",
    "langs": [
     "fr",
     "en"
@@ -4661,12 +4661,12 @@
    "repo": "NDesumeur/neodex-plugin-tambour",
    "name": "Tambour",
    "description": "Jeu de rythme au tambour : les notes rouges (coup au centre, F ou J) et bleues (coup sur le bord, D ou K) défilent vers le cercle, avec grosses notes à frapper des deux mains et roulements, sous les lanternes d'une fête de nuit. Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D. Se joue à la manette ; l'écran de fin montre la courbe de précision le long du morceau. Branches de difficulté qui changent en cours de morceau, ballons et kusudama, épreuves Dan de 4 morceaux, import des morceaux .tja, lanternes qui s'allument avec le combo. NeoMe, la mascotte, danse au bord de la scène en tenue de fête.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-22T19:16:39Z",
+   "installs": 27,
+   "updated": "2026-11-25T17:28:26Z",
    "langs": [
     "fr",
     "en"
@@ -4686,12 +4686,12 @@
    "repo": "NDesumeur/neodex-plugin-taquin",
    "name": "Taquin",
    "description": "Le jeu de pièces à faire glisser, de 3 × 3 à 8 × 8 : remets dans l'ordre des chiffres, ton fond d'écran NeoDex ou ta propre image, à la souris (une ligne entière glisse d'un clic) ou aux flèches. Grilles toujours solubles, modèle visible en maintenant un bouton, numéros sur l'image en option ; record de coups et de temps pour chaque taille. Nouveau style pixel art, plateau à la taille de la fenêtre et sept images toutes prêtes en pixel art (paysages et animaux). Les moyennes de 5 et de 12 comme en compétition.",
-   "version": "1.3.0",
+   "version": "1.4.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 39,
-   "updated": "2026-11-24T16:10:11Z",
+   "installs": 41,
+   "updated": "2026-11-25T17:28:33Z",
    "langs": [
     "fr",
     "en"
@@ -4711,12 +4711,12 @@
    "repo": "NDesumeur/neodex-plugin-taupiniere",
    "name": "Taupinière",
    "description": "Jeu de réflexe : pendant une minute, des taupes sortent de neuf trous dans un potager. Tape-les avant qu'elles ne rentrent, à la souris, au doigt ou au pavé numérique. Taupes dorées qui rapportent gros, taupes casquées qui demandent deux coups, hérissons à ne pas toucher, et un multiplicateur pour les séries. Score et record. Bouton plein écran ; un jardinier râle quand on rate ; mode survie : une taupe qui s'échappe coûte une vie.",
-   "version": "1.1.2",
+   "version": "1.2.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 17,
-   "updated": "2026-11-19T23:29:08Z",
+   "installs": 19,
+   "updated": "2026-11-25T17:28:39Z",
    "langs": [
     "fr",
     "en"
@@ -4765,7 +4765,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:13Z",
    "langs": [
     "fr",
@@ -4790,7 +4790,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 591,
+   "installs": 599,
    "updated": "2026-11-22T21:44:04Z",
    "langs": [
     "fr",
@@ -4815,7 +4815,7 @@
    "category": "",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:18:21Z",
    "langs": [
     "fr",
@@ -4840,7 +4840,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:29Z",
    "langs": [
     "fr",
@@ -4865,7 +4865,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:34Z",
    "langs": [
     "fr",
@@ -4890,7 +4890,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:20:19Z",
    "langs": [
     "fr",
@@ -4915,7 +4915,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:20:30Z",
    "langs": [
     "fr",
@@ -4940,7 +4940,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 418,
+   "installs": 423,
    "updated": "2026-11-22T19:19:19Z",
    "langs": [
     "fr",
@@ -4965,7 +4965,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:24Z",
    "langs": [
     "fr",
@@ -4990,7 +4990,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:49Z",
    "langs": [
     "fr",
@@ -5015,7 +5015,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:18:48Z",
    "langs": [
     "fr",
@@ -5040,7 +5040,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 422,
+   "installs": 427,
    "updated": "2026-11-22T19:19:59Z",
    "langs": [
     "fr",
@@ -5065,7 +5065,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:20:04Z",
    "langs": [
     "fr",
@@ -5090,7 +5090,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 421,
+   "installs": 426,
    "updated": "2026-11-22T19:20:09Z",
    "langs": [
     "fr",
@@ -5115,7 +5115,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:19:44Z",
    "langs": [
     "fr",
@@ -5140,7 +5140,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:03Z",
    "langs": [
     "fr",
@@ -5165,7 +5165,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:20:14Z",
    "langs": [
     "fr",
@@ -5190,7 +5190,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:18:58Z",
    "langs": [
     "fr",
@@ -5215,7 +5215,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:18:37Z",
    "langs": [
     "fr",
@@ -5240,7 +5240,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:08Z",
    "langs": [
     "fr",
@@ -5265,7 +5265,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:19:54Z",
    "langs": [
     "fr",
@@ -5290,7 +5290,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 418,
+   "installs": 423,
    "updated": "2026-11-22T19:20:24Z",
    "langs": [
     "fr",
@@ -5315,7 +5315,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:18:42Z",
    "langs": [
     "fr",
@@ -5340,7 +5340,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 417,
+   "installs": 422,
    "updated": "2026-11-22T19:18:32Z",
    "langs": [
     "fr",
@@ -5365,7 +5365,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:19:39Z",
    "langs": [
     "fr",
@@ -5390,7 +5390,7 @@
    "category": "Thèmes",
    "approved": true,
    "stars": 0,
-   "installs": 416,
+   "installs": 421,
    "updated": "2026-11-22T19:18:53Z",
    "langs": [
     "fr",
@@ -5436,12 +5436,12 @@
    "repo": "NDesumeur/neodex-plugin-toboggan",
    "name": "Toboggan",
    "description": "Jeu de construction de circuits à billes en pixel art : pose des rampes, des entonnoirs, des trampolines et des aiguillages pour mener les billes jusqu'aux pots, en passant par des tunnels et en évitant les pics. Une vraie physique (roulis, rebonds, chocs entre billes), dix niveaux, et trois étoiles pour qui trouve le circuit le plus court. Bouton plein écran. Trente niveaux, avec trois nouvelles pièces (tapis roulant, ventilateur, aimant) et des billes vertes et jaunes à trier dans les pots de leur couleur. Un bac à sable libre : on pose aussi les distributeurs, les pots, les murs et les pics.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
-   "updated": "2026-11-24T16:08:20Z",
+   "installs": 20,
+   "updated": "2026-11-25T17:28:44Z",
    "langs": [
     "fr",
     "en"
@@ -5511,12 +5511,12 @@
    "repo": "NDesumeur/neodex-plugin-traversee",
    "name": "Traversée",
    "description": "Un poussin avance le plus loin possible sur un chemin sans fin : prairies avec des arbres à contourner, routes pleines de voitures et de camions, rivières à franchir de tronc en tronc. L'écran avance tout seul et la difficulté monte jusqu'à la rangée 160. Au clavier ou à la souris. Le jeu s'adapte à la taille de l'écran, et un bouton le met en plein écran. Trois personnages à débloquer avec ton record (canard, lapin, robot) et de nouveaux terrains plus loin : voie ferrée, glace et lave. Huit personnages, et cinq d'entre eux emmènent dans leur monde (ville du futur, banquise, cimetière, jungle, planète).",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-24T16:08:02Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:28:50Z",
    "langs": [
     "fr",
     "en"
@@ -5536,12 +5536,12 @@
    "repo": "NDesumeur/neodex-plugin-triexpress",
    "name": "Tri express",
    "description": "Un jeu de réflexes au centre de tri : envoie chaque colis du tapis dans le bac de sa couleur avec ← ↓ →, avant qu'il passe la ligne. Les bacs se mélangent tous les 15 colis, les bombes doivent passer sans être triées, le combo multiplie les points jusqu'à ×5 et le tapis accélère. Trois erreurs et la journée est finie. Bouton plein écran et jeu à la taille de l'écran, tapis et colis plus grands, colis fragiles et doubles, et les bombes ne bloquent plus le jeu : elles filent vers le trou, et ↑ les y jette tout de suite. La règle change en route : par couleur, par forme ou par poids, annoncée par le patron.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 35,
-   "updated": "2026-11-24T16:08:07Z",
+   "installs": 38,
+   "updated": "2026-11-25T17:28:55Z",
    "langs": [
     "fr",
     "en"
@@ -5561,12 +5561,12 @@
    "repo": "NDesumeur/neodex-plugin-tuyaux",
    "name": "Tuyaux",
    "description": "Un jeu de réflexion : fais pivoter les tuyaux d'un clic pour amener l'eau du château d'eau, au centre, jusqu'à toutes les maisons. Réseaux sans boucle et toujours solubles, grilles de 5 × 5 à 8 × 8, jusqu'à 3 étoiles selon le nombre de coups comparé au minimum, et une option de réseaux au hasard. Bouton plein écran, la grille remplit tout le cadre, et des grilles plus grandes en avançant, jusqu'à 12 × 12. L’eau coule pour de vrai à la fin ; bords reliés et réseau du jour avec série de jours.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 31,
-   "updated": "2026-11-24T16:09:41Z",
+   "installs": 33,
+   "updated": "2026-11-25T17:29:01Z",
    "langs": [
     "fr",
     "en"
@@ -5586,12 +5586,12 @@
    "repo": "NDesumeur/neodex-plugin-typenova",
    "name": "TypeNova",
    "description": "Le jeu de frappe spatial : des mots traversent l'écran, tape-les avant qu'ils n'atteignent ta fusée. Cinq difficultés, combos, mots dorés et bonus, modificateurs de partie, tutoriel et guide du jeu. Affronte le boss NEXUS-7 dans des duels au clavier, découvre l'histoire, monte de niveau pour débloquer skins de fusée, curseurs, thèmes, sons de frappe et 94 succès. Profil, records et historique de tes parties ; 16 polices et 4 langues (français, anglais, espagnol, allemand).",
-   "version": "1.0.2",
+   "version": "1.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 0,
-   "installs": 7,
-   "updated": "2026-11-20T01:52:40Z",
+   "installs": 9,
+   "updated": "2026-11-25T17:29:08Z",
    "langs": [
     "fr",
     "en"
@@ -5636,12 +5636,12 @@
    "repo": "NDesumeur/neodex-plugin-valse",
    "name": "Valse",
    "description": "Jeu de rythme à une touche : le soleil et la lune tournent l'un autour de l'autre sur un chemin de dalles dessiné par la musique ; tape pile quand l'astre touche la dalle suivante. Trop tôt ou trop tard, la partie est perdue : on reprend au dernier drapeau (toutes les 32 dalles). Les 1200 morceaux de Rythme notés de 1 à 10 étoiles, ou des niveaux créés depuis ta musique ; combo, note de S à D, manette, entraînement depuis 25, 50 ou 75 % du morceau.",
-   "version": "2.0.0",
+   "version": "2.1.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 26,
-   "updated": "2026-11-22T21:44:17Z",
+   "installs": 28,
+   "updated": "2026-11-25T17:29:15Z",
    "langs": [
     "fr",
     "en"
@@ -5661,12 +5661,12 @@
    "repo": "NDesumeur/neodex-plugin-veillee",
    "name": "Veillée",
    "description": "Jeu de survie en pixel art : seul dans un pré la nuit, lanterne à la main, tu fais face à des vagues de chauves-souris, d'ombres, de citrouilles et de golems. Tes armes tirent toutes seules, tu te déplaces et tu ramasses des cristaux pour monter de niveau et choisir tes améliorations. Tiens 10 minutes jusqu'à l'aube. Le noir autour de la lanterne, les yeux qui brillent, deux grands corbeaux. Une arme au niveau 5 avec son objet complice évolue (Phare, Mille lames, Essaim, Orage). Version 1.1.0 : bouton plein écran, quatre personnages à débloquer avec leur arme de départ, trois nouvelles cartes (cimetière, forêt, ferme) et les améliorations choisies affichées pendant la partie.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 18,
-   "updated": "2026-11-24T16:04:57Z",
+   "installs": 20,
+   "updated": "2026-11-25T17:29:20Z",
    "langs": [
     "fr",
     "en"
@@ -5711,12 +5711,12 @@
    "repo": "NDesumeur/neodex-plugin-virage",
    "name": "Virage",
    "description": "Jeu de course en pixel art vu de dessus, contre la montre : six circuits (prairie, épingles, banquise, dunes, turbo, nœud), trois tours, des écarts à chaque point de passage, le fantôme de ton meilleur chrono et des médailles de bronze à auteur. Herbe, sable, glace et flèches turbo. Version 1.1.0 : bouton plein écran, et le jeu grandit avec la fenêtre. Le dérapage remplit une jauge et donne un turbo.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 20,
-   "updated": "2026-11-24T16:08:26Z",
+   "installs": 22,
+   "updated": "2026-11-25T17:29:26Z",
    "langs": [
     "fr",
     "en"
@@ -5761,12 +5761,12 @@
    "repo": "NDesumeur/neodex-plugin-yams",
    "name": "Yams",
    "description": "Le jeu de dés en solo : cinq dés, trois lancers par tour en gardant ceux que tu veux, et treize cases à remplir (chiffres, brelan, carré, full, suites, Yams, chance). La feuille montre ce que rapporterait chaque case, 63 points en haut donnent 35 de bonus, et une case peut être sacrifiée à 0. Au clavier ou à la souris. Le jeu de dés seul, contre l'ordinateur ou jusqu'à 4 sur le même PC (une colonne par joueur) : cinq dés, trois lancers par tour en gardant ceux que tu veux, et treize cases à remplir (chiffres, brelan, carré, full, suites, Yams, chance). La feuille montre ce que rapporterait chaque case, 63 points en haut donnent 35 de bonus, et une case peut être sacrifiée à 0. Au clavier ou à la souris Et à distance par un code, contre un ami sur un autre PC : chacun lance ses dés chez lui, la feuille avance des deux côtés.",
-   "version": "1.2.0",
+   "version": "1.3.0",
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 24,
-   "updated": "2026-11-24T16:11:05Z",
+   "installs": 26,
+   "updated": "2026-11-25T17:29:32Z",
    "langs": [
     "fr",
     "en"
