@@ -1,6 +1,6 @@
 {
  "storeVersion": 1,
- "updated": "2026-11-25T20:22:46.358Z",
+ "updated": "2026-11-25T21:22:55.960Z",
  "plugins": [
   {
    "id": "neodex.adblock",
@@ -2315,7 +2315,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 28,
+   "installs": 29,
    "updated": "2026-11-25T17:22:49Z",
    "langs": [
     "fr",
@@ -3340,7 +3340,7 @@
    "category": "Musique",
    "approved": true,
    "stars": 1,
-   "installs": 590,
+   "installs": 591,
    "updated": "2026-11-25T17:25:32Z",
    "langs": [
     "fr",
@@ -3515,7 +3515,7 @@
    "category": "Jeux",
    "approved": true,
    "stars": 1,
-   "installs": 73,
+   "installs": 74,
    "updated": "2026-11-25T17:25:52Z",
    "langs": [
     "fr",
